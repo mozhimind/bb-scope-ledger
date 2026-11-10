@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.part
+site/public/
+site/public.new/
+site/public.old/
+demo/
+config/secrets.env
