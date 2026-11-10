@@ -261,7 +261,6 @@ arkadiyt-hackerone	free-text	3CX Live chat WordPress plugin
 arkadiyt-hackerone	free-text	3CX Phone System
 arkadiyt-hackerone	free-text	8x8 Communication APIs
 arkadiyt-hackerone	free-text	8x8 Partner Portal
-arkadiyt-hackerone	free-text	9500IQ / 2800IQ Senior Swing Series Operators
 arkadiyt-hackerone	free-text	<Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
 arkadiyt-hackerone	free-text	<Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
 arkadiyt-hackerone	free-text	@privy-io controlled namespace dependencies
@@ -797,7 +796,6 @@ arkadiyt-hackerone	free-text	Atlas Data Federation
 arkadiyt-hackerone	free-text	Atlas IAM
 arkadiyt-hackerone	free-text	Atlas Infinite
 arkadiyt-hackerone	free-text	Atlas Payments/Billing
-arkadiyt-hackerone	free-text	Authentication & ATO
 arkadiyt-hackerone	free-text	Best Buy owned asset
 arkadiyt-hackerone	free-text	Bose Credentials
 arkadiyt-hackerone	free-text	Bose Hardware
@@ -946,6 +944,7 @@ arkadiyt-hackerone	free-text	Interflex Software IF-6040
 arkadiyt-hackerone	free-text	Interflex Software SP-EXPERT
 arkadiyt-hackerone	free-text	Jetbrains IDE Plugin
 arkadiyt-hackerone	free-text	Jira Projects
+arkadiyt-hackerone	free-text	LCN 9500IQ / 2800IQ Senior Swing Series Operators
 arkadiyt-hackerone	free-text	Lakebase-Supported extensions
 arkadiyt-hackerone	free-text	Leaked & Default Credentials
 arkadiyt-hackerone	free-text	Leaked Credentials
@@ -1070,6 +1069,7 @@ arkadiyt-hackerone	free-text	Security vulnerabilities that are identified in dig
 arkadiyt-hackerone	free-text	Security vulnerabilities that are identified in digital properties owned, operated, or controlled by Octopus Energy are considered in scope.
 arkadiyt-hackerone	free-text	Service Quotas
 arkadiyt-hackerone	free-text	Services, Apps, Mobile
+arkadiyt-hackerone	free-text	Shop Minis
 arkadiyt-hackerone	free-text	Shopify Developed Apps
 arkadiyt-hackerone	free-text	Shopify Mobile Applications
 arkadiyt-hackerone	free-text	Shopify Third Party Apps
@@ -1457,6 +1457,7 @@ arkadiyt-hackerone	single-label	Sequoia
 arkadiyt-hackerone	single-label	Servian
 arkadiyt-hackerone	single-label	Services/Mobile/GenAI
 arkadiyt-hackerone	single-label	Sharebase
+arkadiyt-hackerone	single-label	Sidekick
 arkadiyt-hackerone	single-label	Softvision
 arkadiyt-hackerone	single-label	Sonantic
 arkadiyt-hackerone	single-label	Spectrum
@@ -1694,6 +1695,8 @@ arkadiyt-intigriti	free-text	app:Superdrug Android
 arkadiyt-intigriti	free-text	app:Superdrug iOS
 arkadiyt-intigriti	free-text	app:The Perfume Shop Android
 arkadiyt-intigriti	free-text	app:The Perfume Shop iOS
+arkadiyt-intigriti	free-text	app:Uphold: Buy BTC, ETH and 300+
+arkadiyt-intigriti	free-text	app:Uphold: Buy BTC, ETH and 360+
 arkadiyt-intigriti	free-text	app:Watsons Hong Kong Android
 arkadiyt-intigriti	free-text	app:Watsons Hong Kong iOS
 arkadiyt-intigriti	free-text	app:Watsons Indonesia Android
@@ -1733,6 +1736,8 @@ arkadiyt-intigriti	single-label	Services
 arkadiyt-intigriti	single-label	Signicat
 arkadiyt-intigriti	single-label	Sockets
 arkadiyt-intigriti	single-label	Software
+arkadiyt-intigriti	single-label	lightsparkdev/lightspark-crypto-uniffi
+arkadiyt-intigriti	single-label	lightsparkdev/swift-wallet-sdk
 arkadiyt-wildcard	placeholder	*.
 arkadiyt-wildcard	single-label	*.abb
 arkadiyt-wildcard	single-label	*.dhl
@@ -3352,7 +3357,6 @@ hackerone-direct	free-text	1474700 (Steam app id)
 hackerone-direct	free-text	3CX Live chat WordPress plugin
 hackerone-direct	free-text	3CX Phone System
 hackerone-direct	free-text	8x8 Partner Portal
-hackerone-direct	free-text	9500IQ / 2800IQ Senior Swing Series Operators
 hackerone-direct	free-text	<Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
 hackerone-direct	free-text	<Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
 hackerone-direct	free-text	@privy-io controlled namespace dependencies
@@ -3888,7 +3892,6 @@ hackerone-direct	free-text	Atlas Data Federation
 hackerone-direct	free-text	Atlas IAM
 hackerone-direct	free-text	Atlas Infinite
 hackerone-direct	free-text	Atlas Payments/Billing
-hackerone-direct	free-text	Authentication & ATO
 hackerone-direct	free-text	Best Buy owned asset
 hackerone-direct	free-text	Bose Credentials
 hackerone-direct	free-text	Bose Hardware
@@ -4037,6 +4040,7 @@ hackerone-direct	free-text	Interflex Software IF-6040
 hackerone-direct	free-text	Interflex Software SP-EXPERT
 hackerone-direct	free-text	Jetbrains IDE Plugin
 hackerone-direct	free-text	Jira Projects
+hackerone-direct	free-text	LCN 9500IQ / 2800IQ Senior Swing Series Operators
 hackerone-direct	free-text	Lakebase-Supported extensions
 hackerone-direct	free-text	Leaked & Default Credentials
 hackerone-direct	free-text	Leaked Credentials
@@ -4161,6 +4165,7 @@ hackerone-direct	free-text	Security vulnerabilities that are identified in digit
 hackerone-direct	free-text	Security vulnerabilities that are identified in digital properties owned, operated, or controlled by Octopus Energy are considered in scope.
 hackerone-direct	free-text	Service Quotas
 hackerone-direct	free-text	Services, Apps, Mobile
+hackerone-direct	free-text	Shop Minis
 hackerone-direct	free-text	Shopify Developed Apps
 hackerone-direct	free-text	Shopify Mobile Applications
 hackerone-direct	free-text	Shopify Third Party Apps
@@ -4556,6 +4561,7 @@ hackerone-direct	single-label	Sequoia
 hackerone-direct	single-label	Servian
 hackerone-direct	single-label	Services/Mobile/GenAI
 hackerone-direct	single-label	Sharebase
+hackerone-direct	single-label	Sidekick
 hackerone-direct	single-label	Softvision
 hackerone-direct	single-label	Sonantic
 hackerone-direct	single-label	Spectrum
@@ -4861,6 +4867,8 @@ intigriti-direct	single-label	Signicat
 intigriti-direct	single-label	Sockets
 intigriti-direct	single-label	Software
 intigriti-direct	single-label	eTurbo
+intigriti-direct	single-label	lightsparkdev/lightspark-crypto-uniffi
+intigriti-direct	single-label	lightsparkdev/swift-wallet-sdk
 projectdiscovery	public-suffix	gov.sg
 yeswehack-direct	free-text	/blog/ (or translated equivalent) endpoints on our sites
 yeswehack-direct	free-text	API Playground

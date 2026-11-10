@@ -2408,6 +2408,7 @@ https://github.com/sky-ecosystem/arbitrum-token-bridge/blob/master/src/L1TokenGa
 https://github.com/sky-ecosystem/arbitrum-token-bridge/blob/master/src/L2TokenGateway.sol	paying	Sky	
 https://github.com/sky-ecosystem/chief/blob/master/src/Chief.sol	paying	Sky	
 https://github.com/sky-ecosystem/clipper-mom/blob/master/src/ClipperMom.sol	paying	Sky	
+https://github.com/sky-ecosystem/diamond-pau/blob/cbf71b2ac840ca9288eb867d3dd354e08089e1d7/src/PAUFactory.sol	paying	Sky	
 https://github.com/sky-ecosystem/diamond-pau/blob/dev/src/Beacon.sol	paying	Sky	
 https://github.com/sky-ecosystem/diamond-pau/blob/dev/src/PAUFactory.sol	paying	Sky	
 https://github.com/sky-ecosystem/diamond-pau/blob/dev/src/facets/aave/AaveFacet.sol	paying	Sky	
@@ -2599,6 +2600,7 @@ https://github.com/sky-ecosystem/pas/blob/947e71cd5dbaaf9c5b3840dd1b23e8e99d9a56
 https://github.com/sky-ecosystem/pas/blob/947e71cd5dbaaf9c5b3840dd1b23e8e99d9a564d/src/Configurator.sol	paying	Sky	
 https://github.com/sky-ecosystem/pas/blob/947e71cd5dbaaf9c5b3840dd1b23e8e99d9a564d/src/PASMom.sol	paying	Sky	
 https://github.com/sky-ecosystem/pas/blob/947e71cd5dbaaf9c5b3840dd1b23e8e99d9a564d/src/timelock/Timelock.sol	paying	Sky	
+https://github.com/sky-ecosystem/pau-administered-agent/blob/5e6b52f45266913a9bc0611d417aef2c7752ab25/src/AdministeredAgentFactory.sol	paying	Sky	
 https://github.com/sky-ecosystem/pau-administered-agent/blob/master/src/AdministeredAgentFactory.sol	paying	Sky	
 https://github.com/sky-ecosystem/pau-assemblers/blob/dev/src/DefaultPAUAssembler.sol	paying	Sky	
 https://github.com/sky-ecosystem/protego/blob/master/src/EmergencyDropSpell.sol	paying	Sky	
@@ -2642,6 +2644,7 @@ https://github.com/sky-ecosystem/univ3-lp-oracle/blob/master/src/GUniLPOracle.so
 https://github.com/sky-ecosystem/usds/blob/dev/src/DaiUsds.sol	paying	Sky	
 https://github.com/sky-ecosystem/usds/blob/dev/src/Usds.sol	paying	Sky	
 https://github.com/sky-ecosystem/usds/blob/dev/src/UsdsJoin.sol	paying	Sky	
+https://github.com/sky-ecosystem/value-registry/blob/main/src/ValueRegistry.sol	paying	Sky	
 https://github.com/sky-ecosystem/vote-delegate/blob/v3/src/VoteDelegate.sol	paying	Sky	
 https://github.com/sky-ecosystem/vote-delegate/blob/v3/src/VoteDelegateFactory.sol	paying	Sky	
 https://github.com/smartcontractkit/ccip-owner-contracts/tree/main	paying	Chainlink	

@@ -171,6 +171,7 @@
 *.enviso.shop	non-paying	Salto Vulnerability Disclosure	https://app.intigriti.com/programs/saltosystems/saltovulnerabilitydisclosure/detail
 *.estratex.com	non-paying	Toast VDP	https://app.intigriti.com/programs/toast/toastvdp/detail
 *.eurid.eu	paying	EURid	https://app.intigriti.com/programs/eurid/eurid/detail
+*.event.sbb.ch	out-of-scope	SBB - Swiss Federal Railways	https://app.intigriti.com/programs/sbb/sbbglobal/detail
 *.expressmedical.be	out-of-scope	RGF BE - VDP	https://app.intigriti.com/programs/rgfstaffing/rgfbe-vdp/detail
 *.fairlife.com	non-paying	The Coca-Cola Company Vulnerability Disclosure Program	https://app.intigriti.com/programs/tccc/coca-cola/detail
 *.fiscaalgemak.nl	non-paying	Exact Vulnerability Disclosure Program	https://app.intigriti.com/programs/exact/exactvulnerabilitydisclosureprogram/detail
@@ -475,6 +476,7 @@
 *.usz.ch	non-paying	Universitätsspital Zürich VDP	https://app.intigriti.com/programs/universitatsspitalzurich/usz-vdp/detail
 *.uzleuven.*	paying	UZ Leuven	https://app.intigriti.com/programs/uz leuven/uzleuven/detail
 *.vectus.in	out-of-scope	Orbia Responsible Disclosure	https://app.intigriti.com/programs/orbia/orbiavdp/detail
+*.veriff.com	paying	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail
 *.vestolit.com	non-paying	Orbia Responsible Disclosure	https://app.intigriti.com/programs/orbia/orbiavdp/detail
 *.vintia.cloud	non-paying	Salto Vulnerability Disclosure	https://app.intigriti.com/programs/saltosystems/saltovulnerabilitydisclosure/detail
 *.vintia.com	non-paying	Salto Vulnerability Disclosure	https://app.intigriti.com/programs/saltosystems/saltovulnerabilitydisclosure/detail
@@ -805,6 +807,7 @@ adtechnology.axelspringer.com	paying	Axel Springer National Media & Tech	https:/
 aff.capital.com	non-paying	Capital.com	https://app.intigriti.com/programs/capitalcom/capitalcom/detail
 afspraakmaken.gamma.nl	out-of-scope	Intergamma	https://app.intigriti.com/programs/intergamma/intergamma/detail
 ahp.adac.de	out-of-scope	ADAC Vulnerability Disclosure Program	https://app.intigriti.com/programs/adac/adacvulnerabilitydisclosureprogram/detail
+alchemy.veriff.com	paying	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail
 all	non-paying	ADAC Vulnerability Disclosure Program	https://app.intigriti.com/programs/adac/adacvulnerabilitydisclosureprogram/detail
 all	non-paying	Visma Responsible Disclosure	https://app.intigriti.com/programs/visma/VismaResponsibleDisclosure/detail
 amd.digitalocean.com	paying	DigitalOcean	https://app.intigriti.com/programs/digitalocean/digitalocean/detail
@@ -827,6 +830,7 @@ api.digitalocean.com	paying	DigitalOcean	https://app.intigriti.com/programs/digi
 api.drogas.lt	paying	Watsons	https://app.intigriti.com/programs/aswatson/watsons/detail
 api.drogas.lv	paying	Watsons	https://app.intigriti.com/programs/aswatson/watsons/detail
 api.dropbox.com	paying	Dropbox Bug Bounty	https://app.intigriti.com/programs/dropbox/dropbox/detail
+api.flamingo-eu.veriff.com	paying	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail
 api.fortress.com.hk	paying	Watsons	https://app.intigriti.com/programs/aswatson/watsons/detail
 api.iciparisxl.be	paying	ICI PARIS XL	https://app.intigriti.com/programs/aswatson/iciparisxl/detail
 api.iciparisxl.lu	paying	ICI PARIS XL	https://app.intigriti.com/programs/aswatson/iciparisxl/detail
@@ -856,6 +860,8 @@ api.savers.co.uk	paying	Superdrug	https://app.intigriti.com/programs/aswatson/su
 api.superdrug.com	paying	Superdrug	https://app.intigriti.com/programs/aswatson/superdrug/detail
 api.theperfumeshop.com	paying	The Perfume Shop	https://app.intigriti.com/programs/aswatson/theperfumeshop/detail
 api.unleashed.be	paying	Mobile Vikings	https://app.intigriti.com/programs/mv/mobilevikings/detail
+api.us.veriff.me	paying	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail
+api.veriff.me	paying	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail
 api.watsons.co.id	paying	Watsons	https://app.intigriti.com/programs/aswatson/watsons/detail
 api.watsons.co.th	paying	Watsons	https://app.intigriti.com/programs/aswatson/watsons/detail
 api.watsons.com.hk	paying	Watsons	https://app.intigriti.com/programs/aswatson/watsons/detail
@@ -903,6 +909,7 @@ app:1080074001	paying	Dropbox Bug Bounty	https://app.intigriti.com/programs/drop
 app:1126623662	out-of-scope	Dropbox Bug Bounty	https://app.intigriti.com/programs/dropbox/dropbox/detail
 app:1199521324	non-paying	CM.com	https://app.intigriti.com/programs/cmcom/cmcom/detail
 app:1383688497	non-paying	Orbia Responsible Disclosure	https://app.intigriti.com/programs/orbia/orbiavdp/detail
+app:1467907532	paying	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail
 app:1483903423	non-paying	Bitvavo VDP	https://app.intigriti.com/programs/bitvavo/bitvavovdp/detail
 app:1517825382	non-paying	Orbia Responsible Disclosure	https://app.intigriti.com/programs/orbia/orbiavdp/detail
 app:1519034860	paying	BMW Group Automotive	https://app.intigriti.com/programs/bmw/bmwgroup-automotive/detail
@@ -1014,6 +1021,7 @@ app:com.inthepocket.kinepolis	paying	Kinepolis Group	https://app.intigriti.com/p
 app:com.loyaltyworks.wavinapp	out-of-scope	Orbia Responsible Disclosure	https://app.intigriti.com/programs/orbia/orbiavdp/detail
 app:com.ticketflow.ticketscanner	non-paying	CM.com	https://app.intigriti.com/programs/cmcom/cmcom/detail
 app:com.tomorrowland.oneworldradio	paying	Tomorrowland	https://app.intigriti.com/programs/tomorrowland/tomorrowland/detail
+app:com.veriff.demo	paying	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail
 app:com.wavin.sentio	non-paying	Orbia Responsible Disclosure	https://app.intigriti.com/programs/orbia/orbiavdp/detail
 app:cz.skodaauto.myskoda	paying	Skoda Auto Bug Bounty Program	https://app.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail
 app:de.bmw.connected.mobile20.row	paying	BMW Group Automotive	https://app.intigriti.com/programs/bmw/bmwgroup-automotive/detail
@@ -1613,6 +1621,7 @@ dev.kinepolis.com	out-of-scope	Kinepolis Group	https://app.intigriti.com/program
 devdocs.zimpler.com	non-paying	TrueLayer VDP	https://app.intigriti.com/programs/truelayer/truelayervdp/detail
 developer.posti.com	paying	Posti Bug Bounty	https://app.intigriti.com/programs/posti/postibugbounty/detail
 developers.cloudways.com	paying	Cloudways by DigitalOcean	https://app.intigriti.com/programs/digitalocean/cloudways/detail
+developers.veriff.me	paying	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail
 digital.kruidvat.be	non-paying	Kruidvat	https://app.intigriti.com/programs/aswatson/kruidvat/detail
 digital.kruidvat.nl	non-paying	Kruidvat	https://app.intigriti.com/programs/aswatson/kruidvat/detail
 digital.welt.de	paying	Axel Springer National Media & Tech	https://app.intigriti.com/programs/axelspringerse/nmt/detail
@@ -1921,6 +1930,7 @@ https://*.posten.no	non-paying	Posten Bring Responsible Disclosure	https://app.i
 https://*.simplemdm.com/	out-of-scope	PDQ bug bounty program	https://app.intigriti.com/programs/pdq/pdqcomprivate/detail
 https://*.smartdeploy.com/	out-of-scope	PDQ bug bounty program	https://app.intigriti.com/programs/pdq/pdqcomprivate/detail
 https://*.zoofy.nl	out-of-scope	Intergamma	https://app.intigriti.com/programs/intergamma/intergamma/detail
+https://9b10d44d-1499-4a2f-86bc-fda178acdfdc.striga.com/	paying	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail
 https://a.simplemdm.com/	out-of-scope	PDQ bug bounty program	https://app.intigriti.com/programs/pdq/pdqcomprivate/detail
 https://academy.exoscale.com/	out-of-scope	Exoscale Bug Bounty	https://app.intigriti.com/programs/exoscale/excoscalebugbounty/detail
 https://access.ripe.net	paying	RIPE NCC	https://app.intigriti.com/programs/ripencc/ripencc/detail
@@ -1928,10 +1938,13 @@ https://api-*exoscale.com/v2	paying	Exoscale Bug Bounty	https://app.intigriti.co
 https://api-gateway.citymesh.com/	non-paying	Citymesh Responsible Vulnerability Disclosure Program	https://app.intigriti.com/programs/citymesh/responsiblevulnerabilitydisclosureprogram/detail
 https://api.bitvavo.com/v2/*	non-paying	Bitvavo VDP	https://app.intigriti.com/programs/bitvavo/bitvavovdp/detail
 https://api.digi-belgium.be	out-of-scope	DIGI Responsible Disclosure Program	https://app.intigriti.com/programs/digi/digi-vdp/detail
+https://api.lightspark.com	paying	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail
 https://api.proof.com	non-paying	Proof.com VDP	https://app.intigriti.com/programs/proof/proofvdp/detail
 https://app.ivo.ai/*	non-paying	Ivo: AI VDP	https://app.intigriti.com/programs/ivoai/ivovulnerabilitydisclosureprogram/detail
+https://app.lightspark.com	paying	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail
 https://app.pdq.com/	paying	PDQ bug bounty program	https://app.intigriti.com/programs/pdq/pdqcomprivate/detail
 https://app.proof.com	non-paying	Proof.com VDP	https://app.intigriti.com/programs/proof/proofvdp/detail
+https://app.uma.money	paying	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail
 https://apps.apple.com/de/app/adac-pannenhilfe/id406968474	out-of-scope	ADAC Vulnerability Disclosure Program	https://app.intigriti.com/programs/adac/adacvulnerabilitydisclosureprogram/detail
 https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050	paying	Online enrollment for students Bug Bounty Program	https://app.intigriti.com/programs/kuleuven/onlineinschrijvingenbetalingstoepassing/detail
 https://auth.citymesh.com/	non-paying	Citymesh Responsible Vulnerability Disclosure Program	https://app.intigriti.com/programs/citymesh/responsiblevulnerabilitydisclosureprogram/detail
@@ -1981,6 +1994,7 @@ https://github.com/RIPE-NCC/rpki-publication-server	out-of-scope	RIPE NCC	https:
 https://github.com/RIPE-NCC/rpki-ta-0	paying	RIPE NCC	https://app.intigriti.com/programs/ripencc/ripencc/detail
 https://github.com/RIPE-NCC/rsyncit	out-of-scope	RIPE NCC	https://app.intigriti.com/programs/ripencc/ripencc/detail
 https://github.com/RIPE-NCC/whois	paying	RIPE NCC	https://app.intigriti.com/programs/ripencc/ripencc/detail
+https://github.com/buildonspark/spark	paying	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail
 https://github.com/cmdotcom	paying	CM.com	https://app.intigriti.com/programs/cmcom/cmcom/detail
 https://github.com/digipost	non-paying	Posten Bring Responsible Disclosure	https://app.intigriti.com/programs/postenbringas/vdp/detail
 https://github.com/digitalocean/action-doctl	out-of-scope	DigitalOcean	https://app.intigriti.com/programs/digitalocean/digitalocean/detail
@@ -2002,6 +2016,13 @@ https://github.com/grafana/loki	non-paying	Grafana Labs - Vulnerability Disclosu
 https://github.com/grafana/mimir	non-paying	Grafana Labs - Vulnerability Disclosure Program (VDP)	https://app.intigriti.com/programs/grafanalabs/grafanalabsvdp/detail
 https://github.com/grafana/pyroscope	non-paying	Grafana Labs - Vulnerability Disclosure Program (VDP)	https://app.intigriti.com/programs/grafanalabs/grafanalabsvdp/detail
 https://github.com/grafana/tempo	non-paying	Grafana Labs - Vulnerability Disclosure Program (VDP)	https://app.intigriti.com/programs/grafanalabs/grafanalabsvdp/detail
+https://github.com/lightsparkdev/flutter-sdk	non-paying	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail
+https://github.com/lightsparkdev/go-sdk	non-paying	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail
+https://github.com/lightsparkdev/js-sdk	non-paying	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail
+https://github.com/lightsparkdev/kotlin-sdk	non-paying	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail
+https://github.com/lightsparkdev/lightspark-rs	non-paying	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail
+https://github.com/lightsparkdev/python-sdk	non-paying	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail
+https://hooks.striga.com/core/	paying	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail
 https://hotelservice.hrs.com/	out-of-scope	HRS Group VDP	https://app.intigriti.com/programs/hrsgroup/hrsgroupvdp/detail
 https://hstconboarding.peoplecert.org/	non-paying	PeopleCert VDP	https://app.intigriti.com/programs/peoplecert/peoplecert/detail
 https://hug.personio.com	paying	Personio	https://app.intigriti.com/programs/personio/personio/detail
@@ -2014,6 +2035,7 @@ https://justonweb.be/fines/	non-paying	Cross Border Fines	https://app.intigriti.
 https://kontakti.posti.fi	paying	Posti Bug Bounty	https://app.intigriti.com/programs/posti/postibugbounty/detail
 https://labs.ripe.net	out-of-scope	RIPE NCC	https://app.intigriti.com/programs/ripencc/ripencc/detail
 https://library.pdq.com/	paying	PDQ bug bounty program	https://app.intigriti.com/programs/pdq/pdqcomprivate/detail
+https://link.uma.me	paying	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail
 https://lite.tech	non-paying	Zabka Group Vulnerability Disclosure Program	https://app.intigriti.com/programs/zabkapolska/zabkagroup-vdp/detail
 https://livechat.citymesh.com/	non-paying	Citymesh Responsible Vulnerability Disclosure Program	https://app.intigriti.com/programs/citymesh/responsiblevulnerabilitydisclosureprogram/detail
 https://lsagentrelay.lansweeper.com/	out-of-scope	Lansweeper Bug Bounty Program	https://app.intigriti.com/programs/lansweeper/lansweeper1/detail
@@ -2070,6 +2092,9 @@ https://rivian.com/api/gql/gateway/graphql	paying	Rivian Bug Bounty	https://app.
 https://rivian.com/api/gql/orders/graphql	non-paying	Rivian Vulnerability Disclosure Program	https://app.intigriti.com/programs/rivian/rivianvdp/detail
 https://rivian.com/api/gql/orders/graphql	paying	Rivian Bug Bounty	https://app.intigriti.com/programs/rivian/rivianbugbounty/detail
 https://rwdschlatter.ch	non-paying	Arbonia VDP program	https://app.intigriti.com/programs/arbonia/arboniavdpprogram/detail
+https://sandbox.striga.com/api/v0	paying	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail
+https://sandbox.striga.com/api/v1	paying	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail
+https://sandbox.striga.com/backoffice	paying	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail
 https://science.esa.int	non-paying	European Space Agency (ESA) VDP	https://app.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail
 https://sec-test-<intigriti handle>-<nn>.personio.de	paying	Personio	https://app.intigriti.com/programs/personio/personio/detail
 https://shop-acc.kinepolis.be/	paying	Kinepolis Group	https://app.intigriti.com/programs/kinepolis/website/detail
@@ -2077,7 +2102,9 @@ https://shop.posti.fi	paying	Posti Bug Bounty	https://app.intigriti.com/programs
 https://sks-*.exo.io	paying	Exoscale Bug Bounty	https://app.intigriti.com/programs/exoscale/excoscalebugbounty/detail
 https://sos-*.exo.io	paying	Exoscale Bug Bounty	https://app.intigriti.com/programs/exoscale/excoscalebugbounty/detail
 https://spoc.myshopify.com/	out-of-scope	Vlerick Business School	https://app.intigriti.com/programs/vlerickbusinessschool/vlerickbusinessschool/detail
+https://station.veriff.com/config/	out-of-scope	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail
 https://surfenzonderzorgen.safeonweb.be	non-paying	Cyber Security Coalition	https://app.intigriti.com/programs/cybersecuritycoalition/cybersecuritycoalition/detail
+https://tfr-sandbox.striga.com/	paying	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail
 https://tuer.de	non-paying	Arbonia VDP program	https://app.intigriti.com/programs/arbonia/arboniavdpprogram/detail
 https://tuerenhandbuch.garant.de	non-paying	Arbonia VDP program	https://app.intigriti.com/programs/arbonia/arboniavdpprogram/detail
 https://tuleasiakkaaksi.posti.fi	paying	Posti Bug Bounty	https://app.intigriti.com/programs/posti/postibugbounty/detail
@@ -2108,12 +2135,14 @@ https://www.kuleuven.be/sapredir/huisvesting	paying	Housing Application (huisves
 https://www.personio.com/free-trial/	paying	Personio	https://app.intigriti.com/programs/personio/personio/detail
 https://www.personio.de/kostenlos-testen/	paying	Personio	https://app.intigriti.com/programs/personio/personio/detail
 https://www.posti.fi	paying	Posti Bug Bounty	https://app.intigriti.com/programs/posti/postibugbounty/detail
+https://www.sandbox.striga.com/api/v1/	paying	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail
 https://www.simscale.com/api/v1/projects/*	out-of-scope	SimScale	https://app.intigriti.com/programs/simscale/simscale/detail
 https://www.smartposti.ee	paying	Posti Bug Bounty	https://app.intigriti.com/programs/posti/postibugbounty/detail
 https://www.smartposti.lt	paying	Posti Bug Bounty	https://app.intigriti.com/programs/posti/postibugbounty/detail
 https://www.smartposti.lv	paying	Posti Bug Bounty	https://app.intigriti.com/programs/posti/postibugbounty/detail
 https://www.socialdeal.nl/orderlist/5e834ae0bed5c/63d772e2ed277/	paying	Social Deal	https://app.intigriti.com/programs/socialdeal/socialdeal/detail
 https://www.spontaan.nl/	paying	Social Deal	https://app.intigriti.com/programs/socialdeal/socialdeal/detail
+https://www.vault.striga.eu/web/sandbox/	paying	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail
 https://www.webproteus.com/lpro-web/login	paying	Posti Bug Bounty	https://app.intigriti.com/programs/posti/postibugbounty/detail
 https://yrityksennoutopiste.posti.fi	paying	Posti Bug Bounty	https://app.intigriti.com/programs/posti/postibugbounty/detail
 https://zabka.pl	non-paying	Zabka Group Vulnerability Disclosure Program	https://app.intigriti.com/programs/zabkapolska/zabkagroup-vdp/detail
@@ -2190,6 +2219,8 @@ libelle.nl/login	out-of-scope	Libelle	https://app.intigriti.com/programs/dpgm/li
 libelle.nl/registreren	out-of-scope	Libelle	https://app.intigriti.com/programs/dpgm/libelle/detail
 libelle.nl/service	out-of-scope	Libelle	https://app.intigriti.com/programs/dpgm/libelle/detail
 liferay.dev	non-paying	Liferay VDP	https://app.intigriti.com/programs/liferay/liferay-vdp/detail
+lightsparkdev/lightspark-crypto-uniffi	non-paying	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail
+lightsparkdev/swift-wallet-sdk	non-paying	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail
 limonsoda.cl	out-of-scope	The Coca-Cola Company Vulnerability Disclosure Program	https://app.intigriti.com/programs/tccc/coca-cola/detail
 liquidfiles.nexuzhealth.com	paying	Nexuzhealth	https://app.intigriti.com/programs/nexuzhealth/nexuzhealth/detail
 liquidfiles.uzleuven.be	paying	UZ Leuven	https://app.intigriti.com/programs/uz leuven/uzleuven/detail
@@ -2209,6 +2240,7 @@ login.liferay.com	out-of-scope	Liferay VDP	https://app.intigriti.com/programs/li
 login.oyens.com	paying	Delen Private Bank	https://app.intigriti.com/programs/delenprivatebank/privatebankdelen/detail
 login.venly.io	paying	Venly	https://app.intigriti.com/programs/arkane/arkanenetwork/detail
 logout.id.posti.fi	paying	Posti Bug Bounty	https://app.intigriti.com/programs/posti/postibugbounty/detail
+louvre.veriff.me	paying	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail
 lsrunase2.0 and lsencrypt2.0	out-of-scope	Lansweeper Bug Bounty Program	https://app.intigriti.com/programs/lansweeper/lansweeper1/detail
 luxfilmfestfilms.megatix.be	paying	Kinepolis Group	https://app.intigriti.com/programs/kinepolis/website/detail
 luxfilmfestproducts.megatix.be	paying	Kinepolis Group	https://app.intigriti.com/programs/kinepolis/website/detail
@@ -2219,6 +2251,7 @@ maakafspraak.karwei.nl	out-of-scope	Intergamma	https://app.intigriti.com/program
 machine-picture.service.qone.mateco.eu	non-paying	Mateco VDP	https://app.intigriti.com/programs/mateco/matecovdp/detail
 machine.service.qone.mateco.eu	non-paying	Mateco VDP	https://app.intigriti.com/programs/mateco/matecovdp/detail
 magazine.kruidvat.be	non-paying	Kruidvat	https://app.intigriti.com/programs/aswatson/kruidvat/detail
+magic.veriff.me	paying	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail
 mail.gamma.be	out-of-scope	Intergamma	https://app.intigriti.com/programs/intergamma/intergamma/detail
 mail.gamma.nl	out-of-scope	Intergamma	https://app.intigriti.com/programs/intergamma/intergamma/detail
 mail.innogames.com	out-of-scope	InnoGames	https://app.intigriti.com/programs/innogames/innogames/detail
@@ -2426,6 +2459,7 @@ rivian.com	non-paying	Rivian Vulnerability Disclosure Program	https://app.intigr
 rivian.com	paying	Rivian Bug Bounty	https://app.intigriti.com/programs/rivian/rivianbugbounty/detail
 rosetta-acc.esa.int	non-paying	European Space Agency (ESA) VDP	https://app.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail
 rosetta.esa.int	non-paying	European Space Agency (ESA) VDP	https://app.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail
+sandbox.striga.com	paying	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail
 scan-me.eu	non-paying	Mateco VDP	https://app.intigriti.com/programs/mateco/matecovdp/detail
 schluessel.adac.de	out-of-scope	ADAC Vulnerability Disclosure Program	https://app.intigriti.com/programs/adac/adacvulnerabilitydisclosureprogram/detail
 scp.watsons.com.tr	non-paying	Watsons	https://app.intigriti.com/programs/aswatson/watsons/detail
@@ -2485,6 +2519,8 @@ spressforumstg.wpengine.com	non-paying	WP Engine VDP	https://app.intigriti.com/p
 stage.landmarkcinemas.com	paying	Kinepolis Group	https://app.intigriti.com/programs/kinepolis/website/detail
 static.nexuzhealth.com	out-of-scope	Nexuzhealth	https://app.intigriti.com/programs/nexuzhealth/nexuzhealth/detail
 static.nexuzhealth.com	out-of-scope	Nexuzhealth VDP	https://app.intigriti.com/programs/nexuzhealth/nexuzhealthvdp/detail
+station.veriff.com	paying	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail
+stationapi.veriff.com	paying	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail
 status.delen.be	paying	Delen Private Bank	https://app.intigriti.com/programs/delenprivatebank/privatebankdelen/detail
 status.digitalocean.com	out-of-scope	DigitalOcean	https://app.intigriti.com/programs/digitalocean/digitalocean/detail
 status.intigriti.com	out-of-scope	intigriti	https://app.intigriti.com/programs/intigriti/intigriti/detail
@@ -2498,6 +2534,7 @@ sts.uzleuven.be	paying	UZ Leuven	https://app.intigriti.com/programs/uz leuven/uz
 studiopress.blog	non-paying	WP Engine VDP	https://app.intigriti.com/programs/wpengine/wpengine/detail
 suppliers-ivalua.ubisoft.com	out-of-scope	Ubisoft Responsible Disclosure Program	https://app.intigriti.com/programs/ubisoft/ubisoftvdp/detail
 support.liferay.com	non-paying	Liferay VDP	https://app.intigriti.com/programs/liferay/liferay-vdp/detail
+support.lightspark.com	out-of-scope	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail
 support.personio.de	out-of-scope	Personio	https://app.intigriti.com/programs/personio/personio/detail
 swag.intigriti.com	out-of-scope	intigriti	https://app.intigriti.com/programs/intigriti/intigriti/detail
 swish-playground.zimpler.com	non-paying	TrueLayer VDP	https://app.intigriti.com/programs/truelayer/truelayervdp/detail
@@ -2737,6 +2774,7 @@ www.tvh-used-equipment.com	non-paying	Mateco VDP	https://app.intigriti.com/progr
 www.used-equipment-portal.com	non-paying	Mateco VDP	https://app.intigriti.com/programs/mateco/matecovdp/detail
 www.usedequipmentportal.com	non-paying	Mateco VDP	https://app.intigriti.com/programs/mateco/matecovdp/detail
 www.uzleuven.be	paying	UZ Leuven	https://app.intigriti.com/programs/uz leuven/uzleuven/detail
+www.veriff.com	paying	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail
 www.volkskrant.nl	paying	De Volkskrant	https://app.intigriti.com/programs/dpgm/devolkskrant/detail
 www.volkskrant.nl/abonnementen	paying	De Volkskrant	https://app.intigriti.com/programs/dpgm/devolkskrant/detail
 www.vznkul.be	out-of-scope	eHealth Hub VZN KUL	https://app.intigriti.com/programs/uz leuven/ehealthhub&meta-hubvznkul/detail

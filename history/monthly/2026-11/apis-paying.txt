@@ -29,6 +29,7 @@ api-prod.thatconceptstore.com
 api-sandbox.circle.com
 api-sandbox.gocardless.com
 api-sandbox.idex.io
+api-sandbox.uphold.com
 api-secure.sports.yahoo.com
 api-staging.airtable.com
 api-test.nicehash.com
@@ -115,6 +116,7 @@ api.dyson.se
 api.dysoncanada.ca
 api.editeur.preprod.monespacesante.fr
 api.enc.kape.com
+api.enterprise.sandbox.uphold.com
 api.essity.com
 api.ethereum.shapeshift.com
 api.evernote.com
@@ -125,6 +127,7 @@ api.faraday.ai
 api.fi.dyson.com
 api.figma.com
 api.fishbowlapp.com
+api.flamingo-eu.veriff.com
 api.flipster.io
 api.fortress.com.hk
 api.fstr.rocks
@@ -163,6 +166,7 @@ api.lansweeper.com
 api.larksuite.com
 api.leather.io
 api.letsexchange.io
+api.lightspark.com
 api.linen.app
 api.linkedin.com
 api.loanbuilder.com
@@ -212,6 +216,7 @@ api.pluralonline.com
 api.pluralpay.in
 api.pns.hk
 api.poloniex.com
+api.portal.enterprise.uphold.com
 api.portofantwerp.com
 api.portofantwerpbruges.com
 api.posti.fi
@@ -239,6 +244,7 @@ api.robinhood.com
 api.row.pro
 api.rx.originenergy.com.au
 api.ryadom.kz
+api.sandbox.topperpay.com
 api.savers.co.uk
 api.segment.io
 api.segmentapis.com
@@ -283,9 +289,11 @@ api.ua.com
 api.unity.com
 api.unleashed.be
 api.upwork.com
+api.us.veriff.me
 api.us1.fga.dev
 api.usaa.com
 api.vault.chiatest.net
+api.veriff.me
 api.vhx.tv
 api.vimeo.com
 api.vimla.se
@@ -477,6 +485,7 @@ gojekapi.com
 gopayapi.com
 gql.reddit.com
 graphql.acorns.com
+graphql.sandbox.topperpay.com
 graphql.seek.com
 grpc.oasis.dev
 gwapi.tripadvisor.com
@@ -519,11 +528,18 @@ https://api-ch-gva-2.exoscale.com/v2
 https://api-de-fra-1.exoscale.com/v2
 https://api-de-muc-1.exoscale.com/v2
 https://api-hr-zag-1.exoscale.com/v2
+https://api-sandbox.uphold.com/graphql
 https://api.0x.org/gasless
 https://api.0x.org/swap
 https://api.aiven.io/login
 https://api.drogas.lt/api/v2/api-docs
 https://api.drogas.lv/api/v2/api-docs
+https://api.enterprise.sandbox.uphold.com/core
+https://api.enterprise.sandbox.uphold.com/kyc-connector
+https://api.enterprise.sandbox.uphold.com/market-pulse
+https://api.enterprise.sandbox.uphold.com/topper
+https://api.enterprise.sandbox.uphold.com/trading
+https://api.enterprise.sandbox.uphold.com/widgets
 https://api.gx.games/dc
 https://api.gx.games/dev
 https://api.gx.games/gms
@@ -599,6 +615,7 @@ https://fngw-svc-gc-livefn.ol.epicgames.net/api/magpie
 https://gateway.optus.com.au/api/ai-search/search/v1
 https://gatewaydsapprd.marriott.com/v1
 https://gatewaydsapprd.marriott.com/v2
+https://graphql.sandbox.topperpay.com/graphql
 https://id.ton.org/api
 https://id.ton.org/v1
 https://keepersecurity.com/console
@@ -647,6 +664,8 @@ https://production.maf.auth0.com/api/v2
 https://rivian.com/api/gql/content/graphql
 https://rivian.com/api/gql/gateway/graphql
 https://rivian.com/api/gql/orders/graphql
+https://sandbox.striga.com/api/v0
+https://sandbox.striga.com/api/v1
 https://slsa.dev/spec/v0.1/threats
 https://staging.claytonapp.com/api
 https://storage.googleapis.com/kubernetes-release
@@ -674,6 +693,7 @@ https://www.glassdoor.com/member
 https://www.kruidvat.be/api/v2/api-docs
 https://www.kruidvat.nl/api/v2/api-docs
 https://www.priceline.com/pwd/v0/pcln-graphql
+https://www.sandbox.striga.com/api/v1
 https://www.trekpleister.nl/api/v2/api-docs
 https://www.upwork.com/api
 https://www.visa.co.nz/gateway/api
@@ -838,6 +858,7 @@ staging-api.bany.dev
 staging-api.gearset.com
 staging.gearset.com
 staking-api.polygon.technology
+stationapi.veriff.com
 stats-querytoolapi.nba.com
 strapi.reddit.com
 streaming-api.iris.acceptance.forescoutcloud.net

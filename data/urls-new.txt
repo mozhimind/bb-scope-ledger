@@ -1,0 +1,14 @@
+https://api-sandbox.uphold.com/graphql
+https://api.enterprise.sandbox.uphold.com/core
+https://api.enterprise.sandbox.uphold.com/kyc-connector
+https://api.enterprise.sandbox.uphold.com/market-pulse
+https://api.enterprise.sandbox.uphold.com/topper
+https://api.enterprise.sandbox.uphold.com/trading
+https://api.enterprise.sandbox.uphold.com/widgets
+https://graphql.sandbox.topperpay.com/graphql
+https://hooks.striga.com/core
+https://sandbox.striga.com/api/v0
+https://sandbox.striga.com/api/v1
+https://sandbox.striga.com/backoffice
+https://www.sandbox.striga.com/api/v1
+https://www.vault.striga.eu/web/sandbox

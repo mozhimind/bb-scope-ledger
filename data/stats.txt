@@ -1,21 +1,21 @@
-2026-11-10 | first run: no earlier snapshot, no diffs today | failed sources: 0 | warnings: 0
+2026-11-11 | new: 99 (+10 apex, +36 subdomains) | removed: 7 | failed sources: 0 | warnings: 1
 
 =========================================
-===  Bug bounty domains - 2026-11-10  ===
+===  Bug bounty domains - 2026-11-11  ===
 =========================================
 
 ------------------------------------
 filename                     count
 ------------------------------------
-master.txt                   58236
-review-new-paying.txt            0
-review-new.txt                   0
-review-removed.txt               0
+master.txt                   58300
+review-new-paying.txt           90
+review-new.txt                  99
+review-removed.txt               7
 recovered.txt                 2231
-rejected.txt                  4907
-review-by-source.txt         65826
-programs.txt                  3149
-program-out-of-scope.tsv      5212
+rejected.txt                  4915
+review-by-source.txt         65918
+programs.txt                  3150
+program-out-of-scope.tsv      5237
 failed-sources.txt               0
 ------------------------------------
 
@@ -26,50 +26,50 @@ failed-sources.txt               0
 ------------------------------------------------------------------
 source              status               rows  rejected  seconds
 ------------------------------------------------------------------
-arkadiyt-domains    ok                  38402        12      0.4
-arkadiyt-wildcard   ok                   3478         5      0.1
-arkadiyt-hackerone  ok                  45644      1300      0.7
-arkadiyt-bugcrowd   ok                   4002       236      0.3
-arkadiyt-intigriti  ok                   2123       186      0.3
+arkadiyt-domains    ok                  38433        12      0.2
+arkadiyt-wildcard   ok                   3483         5      0.2
+arkadiyt-hackerone  ok                  45644      1301      0.8
+arkadiyt-bugcrowd   ok                   4002       236      0.2
+arkadiyt-intigriti  ok                   2209       190      0.2
 arkadiyt-yeswehack  ok                    892        44      0.1
 projectdiscovery    ok                   4112         1      0.1
-diodb               ok                   1326         0      0.2
-immunefi-direct     ok                   2930         0      2.5
+diodb               ok                   1326         0      0.4
+immunefi-direct     ok                   2933         0      0.5
 self-hosted-manual  skipped                 0         0      0.0   config/self-hosted-programs.tsv has no active line
 self-hosted-pages   skipped                 0         0      0.0   config/self-hosted-pages.tsv has no active line
 self-hosted-text    skipped                 0         0      0.0   config/self-hosted-text has no .txt file
-hackerone-direct    ok                  46529      1315    189.7
+hackerone-direct    ok                  46530      1316    158.9
 hackerone-api       skipped                 0         0      0.0   needs H1_USERNAME and H1_TOKEN (HackerOne -> Settings -> API Token)
-bugcrowd-direct     ok                   9913      1327    116.2   6 of 518 Bugcrowd engagements could not be read today, their hosts from the last good run are kept (no engagement-brief element in https://bugcrowd.com/engagements/fmshrc-vdp; the page layout changed)
-intigriti-direct    ok                   2773       212     19.8
-yeswehack-direct    ok                    892        44     12.6
-hackenproof-direct  ok                   1064       225    208.1
+bugcrowd-direct     ok                   9913      1327     96.1   22 of 518 Bugcrowd engagements could not be read today, their hosts from the last good run are kept (https://bugcrowd.com/engagements/fmshrc-vdp: HTTP 406 Not Acceptable)
+intigriti-direct    ok                   2811       214     19.6
+yeswehack-direct    ok                    892        44     10.5
+hackenproof-direct  ok                   1064       225    160.0
 ------------------------------------------------------------------
 
-===============================================================
-===  Diffs: first run: no earlier snapshot, no diffs today  ===
-===============================================================
+=========================================
+===  Diffs: diffs against 2026-11-10  ===
+=========================================
 
 --------------------------------------------------------
 assets                   count  paying    new  removed
 --------------------------------------------------------
-apex                     19508    3927      -        -
-subdomains               31386    4825      -        -
-wildcards                 4906    1191      -        -
-urls                      1753     982      -        -
-apis                      2391     893      -        -
-ips                        929     267      -        -
-asn                          2       2      -        -
-github                     977     739      -        -
-repos-other                  6       6      -        -
-apps                      2728    2121      -        -
-patterns                   444     191      -        -
-internal-hosts              35      23      -        -
-maybe                      761     443      -        -
+apex                     19513    3937     10        5
+subdomains               31421    4859     36        1
+wildcards                 4911    1195      5        0
+urls                      1767     996     14        0
+apis                      2412     914     21        0
+ips                        929     267      0        0
+asn                          2       2      0        0
+github                     985     742      9        1
+repos-other                  6       6      0        0
+apps                      2730    2123      2        0
+patterns                   444     191      0        0
+internal-hosts              35      23      0        0
+maybe                      763     445      2        0
 ------------------------------------------------------
-total (no duplicates)    58529   13526      -        -
+total (no duplicates)    58595   13591     73        7
 ------------------------------------------------------
-total                    65826   15610      -        -
+total                    65918   15700     99        7
 ------------------------------------------------------
 
 ===================================================
@@ -95,9 +95,9 @@ Recovered (repaired or guessed): 2231
        2  multi-entry;punctuation
        1  double-dot
        1  leading-dot
-Rejected: 4907
-    4122  free-text
-     705  single-label
+Rejected: 4915
+    4124  free-text
+     711  single-label
       24  bad-idn
       11  placeholder
       10  store-host
@@ -107,7 +107,8 @@ Rejected: 4907
        7  bad-label
        1  not-a-project
 Failed sources: 0
-Warnings (optional direct sources that did not work; the run stays green): 0
+Warnings (optional direct sources that did not work; the run stays green): 1
+  - bugcrowd-direct: 22 of 518 Bugcrowd engagements could not be read today, their hosts from the last good run are kept (https://bugcrowd.com/engagements/fmshrc-vdp: HTTP 406 Not Acceptable)
 
 How the numbers are counted
 - count: lines in data/<asset>.txt. paying: lines in data/<asset>-paying.txt (bounty status paying, or unknown while BB_UNKNOWN_PAYING=1).
@@ -115,8 +116,8 @@ How the numbers are counted
 - sources today: status ok = downloaded fine (a note says when the content has been frozen for days); disabled = retired with BB_DISABLE; carried forward = the download failed or shrank below BB_MIN_RATIO % and the last good copy was used; FAILED / unavailable = failed and no earlier copy exists; skipped = not configured (e.g. no API token), not an error. rows = entries the source delivered, rejected = how many of them fit no asset type. Sources ending in -direct are read straight from the platform and only warn when they break.
 - total: the sum of all asset types = one line per (host, kind) in review-by-source.txt.
 - total (no duplicates): total minus the overlay lists (wildcards and apis), because those only repeat values that are also listed under apex, subdomains or urls.
-- master.txt: every distinct host, IP, URL or pattern of every asset type, once. 58236 = 19508 apex + 31386 subdomains + 1753 urls + 929 ips + 2 asn + 977 github + 6 repos-other + 2728 apps + 444 patterns + 35 internal-hosts + 761 maybe - 293 value(s) that appear under two asset types (so master is 293 less than total (no duplicates))
-- apex: registrable domains. 19508 = 17227 listed by a source + 2281 derived from a listed subdomain.
+- master.txt: every distinct host, IP, URL or pattern of every asset type, once. 58300 = 19513 apex + 31421 subdomains + 1767 urls + 929 ips + 2 asn + 985 github + 6 repos-other + 2730 apps + 444 patterns + 35 internal-hosts + 763 maybe - 295 value(s) that appear under two asset types (so master is 295 less than total (no duplicates))
+- apex: registrable domains. 19513 = 17227 listed by a source + 2286 derived from a listed subdomain.
 - subdomains: hosts below an apex, including wildcard bases that are not apexes. A host is never in both apex and subdomains.
 - wildcards: wildcard bases (*.example.com stored as example.com). They are also in apex or subdomains.
 - apis: an overlay: every host / wildcard / url that the platform calls an API (rule declared-api) or whose address says so (api.x.com, yahooapis.com, /api/, /graphql, /v1/). Also listed in subdomains or urls, never counted twice.

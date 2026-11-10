@@ -665,6 +665,7 @@ non-paying	ips	146.168.157.13	arkadiyt-hackerone,hackerone-direct	platform
 non-paying	ips	146.168.175.18	arkadiyt-hackerone,hackerone-direct	platform
 non-paying	apps	1460176225	arkadiyt-hackerone,hackerone-direct	platform
 non-paying	apps	1463549581	arkadiyt-hackerone,hackerone-direct	platform
+paying	apps	1467907532	arkadiyt-intigriti,intigriti-direct	platform
 paying	apps	1475021574	arkadiyt-hackerone,hackerone-direct	platform
 paying	apps	1476615877	arkadiyt-hackerone,hackerone-direct	platform
 paying	apps	1477299281	arkadiyt-hackerone,hackerone-direct	platform
@@ -1971,6 +1972,7 @@ non-paying	subdomains	99restaurantsstore.wgiftcard.com	arkadiyt-domains,arkadiyt
 non-paying	apps	9WZDNCRFJ10M	arkadiyt-hackerone,hackerone-direct	platform
 non-paying	apex	9apps.com	arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct	platform
 non-paying	wildcards	9apps.com	arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct	platform
+paying	subdomains	9b10d44d-1499-4a2f-86bc-fda178acdfdc.striga.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
 non-paying	apex	9jumpin.com.au	bugcrowd-direct	platform
 paying	apex	9lives.be	projectdiscovery	platform
 non-paying	apex	9news.com.au	bugcrowd-direct	platform
@@ -3338,6 +3340,7 @@ non-paying	apex	albertdockwaterfront.com	arkadiyt-domains,arkadiyt-hackerone,hac
 paying	apex	album.link	arkadiyt-bugcrowd,arkadiyt-domains,bugcrowd-direct,projectdiscovery	platform
 paying	wildcards	album.link	bugcrowd-direct	platform
 paying	apex	alchemix.fi	immunefi-direct	unknown
+paying	subdomains	alchemy.veriff.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
 non-paying	subdomains	alcoacommunityfcu-admin.originate.fiservapps.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	alcoacommunityfcu-dc.cert.fec-dc.fiservapps.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	alcoacommunityfcu-dn.financial-net.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
@@ -4508,6 +4511,8 @@ paying	apis	api-sandbox.gocardless.com	arkadiyt-domains,arkadiyt-hackerone,hacke
 paying	subdomains	api-sandbox.gocardless.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 paying	apis	api-sandbox.idex.io	immunefi-direct	unknown
 paying	subdomains	api-sandbox.idex.io	immunefi-direct	unknown
+paying	apis	api-sandbox.uphold.com	arkadiyt-domains,arkadiyt-intigriti	platform
+paying	subdomains	api-sandbox.uphold.com	arkadiyt-domains,arkadiyt-intigriti	platform
 non-paying	apis	api-sb.experience.cbre.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	api-sb.experience.cbre.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	apis	api-seasia.cbrehost.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
@@ -4943,6 +4948,8 @@ non-paying	apis	api.elcacademy.com	arkadiyt-domains,arkadiyt-hackerone,hackerone
 non-paying	subdomains	api.elcacademy.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 paying	apis	api.enc.kape.com	arkadiyt-domains,arkadiyt-yeswehack,yeswehack-direct	platform
 paying	subdomains	api.enc.kape.com	arkadiyt-domains,arkadiyt-yeswehack,yeswehack-direct	platform
+unknown	apis	api.enterprise.sandbox.uphold.com	arkadiyt-domains	unknown
+unknown	subdomains	api.enterprise.sandbox.uphold.com	arkadiyt-domains	unknown
 non-paying	apis	api.epicgames.dev	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	api.epicgames.dev	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 unknown	apis	api.essity.com	arkadiyt-domains	unknown
@@ -4979,6 +4986,8 @@ non-paying	apis	api.finishline.cbre.com	arkadiyt-domains,arkadiyt-hackerone,hack
 non-paying	subdomains	api.finishline.cbre.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 paying	apis	api.fishbowlapp.com	arkadiyt-bugcrowd,arkadiyt-domains,bugcrowd-direct	platform
 paying	subdomains	api.fishbowlapp.com	arkadiyt-bugcrowd,arkadiyt-domains,bugcrowd-direct	platform
+paying	apis	api.flamingo-eu.veriff.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
+paying	subdomains	api.flamingo-eu.veriff.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
 non-paying	apis	api.fleetboard.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	api.fleetboard.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 paying	apis	api.flipster.io	hackenproof-direct	platform
@@ -5102,6 +5111,8 @@ paying	apis	api.leather.io	immunefi-direct	unknown
 paying	subdomains	api.leather.io	immunefi-direct	unknown
 paying	apis	api.letsexchange.io	hackenproof-direct	platform
 paying	subdomains	api.letsexchange.io	hackenproof-direct	platform
+paying	apis	api.lightspark.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
+paying	subdomains	api.lightspark.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
 paying	apis	api.linen.app	hackenproof-direct	platform
 paying	subdomains	api.linen.app	hackenproof-direct	platform
 paying	apis	api.linkedin.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
@@ -5273,6 +5284,8 @@ paying	apis	api.pns.hk	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	plat
 paying	subdomains	api.pns.hk	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
 paying	apis	api.poloniex.com	hackenproof-direct	platform
 paying	subdomains	api.poloniex.com	hackenproof-direct	platform
+paying	apis	api.portal.enterprise.uphold.com	arkadiyt-intigriti	platform
+paying	subdomains	api.portal.enterprise.uphold.com	arkadiyt-intigriti	platform
 paying	apis	api.portofantwerp.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
 paying	subdomains	api.portofantwerp.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
 paying	apis	api.portofantwerpbruges.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
@@ -5373,6 +5386,8 @@ unknown	apis	api.rx.originenergy.com.au	arkadiyt-domains	unknown
 unknown	subdomains	api.rx.originenergy.com.au	arkadiyt-domains	unknown
 paying	apis	api.ryadom.kz	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 paying	subdomains	api.ryadom.kz	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
+paying	apis	api.sandbox.topperpay.com	arkadiyt-domains,arkadiyt-intigriti	platform
+paying	subdomains	api.sandbox.topperpay.com	arkadiyt-domains,arkadiyt-intigriti	platform
 paying	apis	api.savers.co.uk	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
 paying	subdomains	api.savers.co.uk	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
 non-paying	apis	api.sbx.polaris.csg.daimlertruck.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
@@ -5560,6 +5575,8 @@ paying	apis	api.unleashed.be	arkadiyt-domains,arkadiyt-intigriti,intigriti-direc
 paying	subdomains	api.unleashed.be	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
 unknown	apis	api.upwork.com	arkadiyt-domains	unknown
 unknown	subdomains	api.upwork.com	arkadiyt-domains	unknown
+paying	apis	api.us.veriff.me	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
+paying	subdomains	api.us.veriff.me	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
 paying	apis	api.us1.fga.dev	arkadiyt-bugcrowd,arkadiyt-domains,bugcrowd-direct	platform
 paying	subdomains	api.us1.fga.dev	arkadiyt-bugcrowd,arkadiyt-domains,bugcrowd-direct	platform
 paying	apis	api.usaa.com	arkadiyt-bugcrowd,arkadiyt-domains,bugcrowd-direct	platform
@@ -5569,6 +5586,8 @@ paying	subdomains	api.vault.chiatest.net	arkadiyt-domains,arkadiyt-hackerone,hac
 non-paying	apis	api.vectranetworks.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	maybe	api.vectranetworks.com	hackerone-direct	platform
 non-paying	subdomains	api.vectranetworks.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
+paying	apis	api.veriff.me	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
+paying	subdomains	api.veriff.me	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
 paying	maybe	api.verily.com	hackerone-direct	platform
 non-paying	apis	api.vetro.org	bugcrowd-direct	platform
 non-paying	subdomains	api.vetro.org	bugcrowd-direct	platform
@@ -5919,6 +5938,7 @@ paying	subdomains	app.leather.io	immunefi-direct	unknown
 non-paying	subdomains	app.lemcal.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	app.lemlist.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	app.lemwarm.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
+paying	subdomains	app.lightspark.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
 paying	subdomains	app.link.com	hackerone-direct	platform
 paying	subdomains	app.livenation.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	app.liveplan.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
@@ -5981,6 +6001,7 @@ paying	subdomains	app.routerprotocol.com	hackenproof-direct	platform
 non-paying	subdomains	app.s02.callsign.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 paying	subdomains	app.safeswap.io	hackenproof-direct	platform
 paying	subdomains	app.saltlabs.com	arkadiyt-bugcrowd,arkadiyt-domains,bugcrowd-direct	platform
+paying	subdomains	app.sandbox.topperpay.com	arkadiyt-domains,arkadiyt-intigriti	platform
 paying	subdomains	app.savers.co.uk	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
 paying	subdomains	app.scaleft.com	arkadiyt-bugcrowd,arkadiyt-domains,bugcrowd-direct	platform
 non-paying	subdomains	app.securehostedpayments.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
@@ -6028,6 +6049,7 @@ paying	subdomains	app.ticketmaster.com.mx	arkadiyt-domains,arkadiyt-hackerone,ha
 paying	subdomains	app.ticketmaster.eu	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 paying	subdomains	app.ticketmaster.ie	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	app.tweethunter.io	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
+paying	subdomains	app.uma.money	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
 non-paying	subdomains	app.vetro.org	bugcrowd-direct	platform
 paying	subdomains	app.watsons.com.tr	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
 paying	subdomains	app.web.com	arkadiyt-bugcrowd,arkadiyt-domains,bugcrowd-direct	platform
@@ -14249,6 +14271,7 @@ paying	apps	com.urbanclap.urbanclap	arkadiyt-hackerone,hackerone-direct	platform
 paying	apps	com.valmo.valmo	arkadiyt-hackerone,hackerone-direct	platform
 paying	apps	com.valvesoftware.Steam	arkadiyt-hackerone,hackerone-direct	platform
 paying	apps	com.venmo	arkadiyt-hackerone,hackerone-direct	platform
+paying	apps	com.veriff.demo	arkadiyt-intigriti,intigriti-direct	platform
 paying	apps	com.vilcsak.bitcoin2	arkadiyt-hackerone,hackerone-direct	platform
 paying	apps	com.vimeo.android.videoapp	arkadiyt-hackerone,hackerone-direct	platform
 paying	apps	com.vimeocreate.videoeditor.moviemaker	arkadiyt-hackerone,hackerone-direct	platform
@@ -16831,7 +16854,6 @@ paying	apex	datastax.com	projectdiscovery	platform
 non-paying	subdomains	datasulpro.unimil.com.br	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	apex	datatimes.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	datatxt.spaziodati.eu	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
-non-paying	apex	datavenues.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	dataviz3d.cbre.es	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	apex	datavoorgezondheid.nl	projectdiscovery	self-hosted
 non-paying	apex	datawonen.nl	projectdiscovery	self-hosted
@@ -17981,6 +18003,7 @@ paying	subdomains	developers.reddit.com	arkadiyt-domains,arkadiyt-hackerone,hack
 paying	subdomains	developers.retail.lightspeed.app	arkadiyt-bugcrowd,arkadiyt-domains,bugcrowd-direct	platform
 paying	subdomains	developers.tiktok.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 paying	subdomains	developers.tw.coupangcorp.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
+paying	subdomains	developers.veriff.me	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
 paying	apex	developersites.com.au	arkadiyt-bugcrowd,arkadiyt-domains,bugcrowd-direct	platform
 non-paying	subdomains	developerstudio.fiserv.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	development.gallileo-frankfurt.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
@@ -18661,6 +18684,7 @@ non-paying	subdomains	docs.nebius.com	arkadiyt-domains,arkadiyt-hackerone,hacker
 paying	subdomains	docs.newrelic.com	arkadiyt-bugcrowd,arkadiyt-domains,bugcrowd-direct	platform
 non-paying	subdomains	docs.nextcloud.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 paying	subdomains	docs.optimism.io	immunefi-direct	unknown
+non-paying	subdomains	docs.optimuscards.com	arkadiyt-domains,arkadiyt-intigriti	platform
 non-paying	subdomains	docs.passwordless.dev	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 paying	subdomains	docs.redoxengine.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 paying	subdomains	docs.redstone.finance	hackenproof-direct	platform
@@ -18670,8 +18694,10 @@ paying	subdomains	docs.superhuman.com	arkadiyt-domains,arkadiyt-hackerone,hacker
 paying	subdomains	docs.sushi.com	immunefi-direct	unknown
 paying	subdomains	docs.tempus-ex.com	arkadiyt-bugcrowd,arkadiyt-domains,bugcrowd-direct	platform
 non-paying	subdomains	docs.tokenfactory.nebius.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
+paying	subdomains	docs.topperpay.com	arkadiyt-domains,arkadiyt-intigriti	platform
 paying	subdomains	docs.tothemoon.com	hackenproof-direct	platform
 non-paying	subdomains	docs.trammellcrow.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
+paying	subdomains	docs.uphold.com	arkadiyt-domains,arkadiyt-intigriti	platform
 non-paying	subdomains	docs.worldpay.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 paying	apex	docsend.com	arkadiyt-domains,arkadiyt-intigriti,arkadiyt-wildcard,intigriti-direct,projectdiscovery	platform
 paying	wildcards	docsend.com	arkadiyt-intigriti,arkadiyt-wildcard,intigriti-direct	platform
@@ -23221,8 +23247,6 @@ non-paying	apex	fosterandthrive.com	bugcrowd-direct	platform
 non-paying	wildcards	fosterandthrive.com	bugcrowd-direct	platform
 paying	subdomains	foto.kruidvat.be	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
 paying	subdomains	foto.kruidvat.nl	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
-non-paying	apex	fotocasa.es	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
-non-paying	apex	fotocasa.pro	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	apex	fotoforensics.com	diodb	self-hosted
 paying	subdomains	fotoservice.kruidvat.be	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
 paying	subdomains	fotoservice.kruidvat.nl	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
@@ -24864,6 +24888,8 @@ non-paying	subdomains	grantcountystatebank.onlinebank.com	arkadiyt-domains,arkad
 non-paying	apex	grantsolutions.gov	projectdiscovery	self-hosted
 paying	apis	graphql.acorns.com	arkadiyt-bugcrowd,arkadiyt-domains,bugcrowd-direct	platform
 paying	subdomains	graphql.acorns.com	arkadiyt-bugcrowd,arkadiyt-domains,bugcrowd-direct	platform
+unknown	apis	graphql.sandbox.topperpay.com	arkadiyt-domains	unknown
+unknown	subdomains	graphql.sandbox.topperpay.com	arkadiyt-domains	unknown
 paying	apis	graphql.seek.com	arkadiyt-bugcrowd,arkadiyt-domains,bugcrowd-direct	platform
 paying	subdomains	graphql.seek.com	arkadiyt-bugcrowd,arkadiyt-domains,bugcrowd-direct	platform
 non-paying	subdomains	graphsync-cons.services.wirtgen-group.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
@@ -25307,7 +25333,6 @@ paying	subdomains	h5.coinstore.com	hackenproof-direct	platform
 non-paying	subdomains	ha.gallileo-frankfurt.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	apex	haaglandenpolitie.nl	projectdiscovery	self-hosted
 paying	apex	habileoh.com	arkadiyt-domains,arkadiyt-yeswehack,yeswehack-direct	platform
-non-paying	apex	habitaclia.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	apex	habrechin.com.cn	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	apex	hacc.mil	projectdiscovery	platform
 non-paying	subdomains	haccountcat.fdecs.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
@@ -25705,6 +25730,7 @@ non-paying	subdomains	help.seleritycorp.com	arkadiyt-domains,arkadiyt-hackerone,
 non-paying	wildcards	help.seleritycorp.com	arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct	platform
 non-paying	subdomains	help.semtech.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	help.service.motion.abb.com.cn	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
+paying	subdomains	help.shop.app	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	help.sketchfab.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	help.starlingbank.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 paying	subdomains	help.steampowered.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
@@ -26158,6 +26184,7 @@ non-paying	subdomains	honolulu.preview.cbre.com	arkadiyt-domains,arkadiyt-hacker
 non-paying	apex	honorshi.fr	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	apex	hoogspanningsverbinding.nl	projectdiscovery	self-hosted
 non-paying	apex	hoogspanningsverbindingen.nl	projectdiscovery	self-hosted
+unknown	subdomains	hooks.striga.com	arkadiyt-domains	unknown
 paying	subdomains	hoop.nba.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 paying	subdomains	hoopsfortroops.nba.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 paying	apex	hootsuite.com	diodb,projectdiscovery	self-hosted
@@ -26594,6 +26621,8 @@ paying	apis	https://api-hr-zag-1.exoscale.com/v2	intigriti-direct	platform
 paying	urls	https://api-hr-zag-1.exoscale.com/v2	intigriti-direct	platform
 non-paying	apis	https://api-preprod.finnair.com/d	arkadiyt-hackerone,hackerone-direct	platform
 non-paying	urls	https://api-preprod.finnair.com/d	arkadiyt-hackerone,hackerone-direct	platform
+paying	apis	https://api-sandbox.uphold.com/graphql	arkadiyt-intigriti	platform
+paying	urls	https://api-sandbox.uphold.com/graphql	arkadiyt-intigriti	platform
 paying	apis	https://api.0x.org/gasless	immunefi-direct	self-hosted
 paying	urls	https://api.0x.org/gasless	immunefi-direct	self-hosted
 paying	apis	https://api.0x.org/swap	immunefi-direct	self-hosted
@@ -26616,6 +26645,18 @@ paying	apis	https://api.drogas.lt/api/v2/api-docs	intigriti-direct	platform
 paying	urls	https://api.drogas.lt/api/v2/api-docs	intigriti-direct	platform
 paying	apis	https://api.drogas.lv/api/v2/api-docs	intigriti-direct	platform
 paying	urls	https://api.drogas.lv/api/v2/api-docs	intigriti-direct	platform
+paying	apis	https://api.enterprise.sandbox.uphold.com/core	arkadiyt-intigriti	platform
+paying	urls	https://api.enterprise.sandbox.uphold.com/core	arkadiyt-intigriti	platform
+paying	apis	https://api.enterprise.sandbox.uphold.com/kyc-connector	arkadiyt-intigriti	platform
+paying	urls	https://api.enterprise.sandbox.uphold.com/kyc-connector	arkadiyt-intigriti	platform
+paying	apis	https://api.enterprise.sandbox.uphold.com/market-pulse	arkadiyt-intigriti	platform
+paying	urls	https://api.enterprise.sandbox.uphold.com/market-pulse	arkadiyt-intigriti	platform
+paying	apis	https://api.enterprise.sandbox.uphold.com/topper	arkadiyt-intigriti	platform
+paying	urls	https://api.enterprise.sandbox.uphold.com/topper	arkadiyt-intigriti	platform
+paying	apis	https://api.enterprise.sandbox.uphold.com/trading	arkadiyt-intigriti	platform
+paying	urls	https://api.enterprise.sandbox.uphold.com/trading	arkadiyt-intigriti	platform
+paying	apis	https://api.enterprise.sandbox.uphold.com/widgets	arkadiyt-intigriti	platform
+paying	urls	https://api.enterprise.sandbox.uphold.com/widgets	arkadiyt-intigriti	platform
 non-paying	apis	https://api.essity.com/identifi/logger/v1	arkadiyt-hackerone,hackerone-direct	platform
 non-paying	urls	https://api.essity.com/identifi/logger/v1	arkadiyt-hackerone,hackerone-direct	platform
 non-paying	apis	https://api.essity.com/tvd/ble-device-install	arkadiyt-hackerone,hackerone-direct	platform
@@ -28039,7 +28080,6 @@ paying	github	https://github.com/berachain/airdrop-contracts	immunefi-direct	unk
 paying	github	https://github.com/berachain/beacon-kit	immunefi-direct	unknown
 paying	github	https://github.com/berachain/bera-reth	immunefi-direct	unknown
 paying	github	https://github.com/berachain/contracts	immunefi-direct	unknown
-non-paying	github	https://github.com/berriai/litellm	arkadiyt-hackerone,hackerone-direct	platform
 paying	github	https://github.com/better-auth/better-auth	arkadiyt-hackerone,hackerone-direct	platform
 paying	github	https://github.com/bgd-labs/aave-collector-unification	immunefi-direct	unknown
 paying	github	https://github.com/bgd-labs/aave-governance-v3	immunefi-direct	unknown
@@ -28056,6 +28096,7 @@ non-paying	github	https://github.com/bitwarden/sdk-internal	arkadiyt-hackerone,h
 non-paying	github	https://github.com/bitwarden/server	arkadiyt-hackerone,hackerone-direct	platform
 paying	github	https://github.com/brave	arkadiyt-hackerone,hackerone-direct	platform
 paying	github	https://github.com/brave-intl	arkadiyt-hackerone,hackerone-direct	platform
+paying	github	https://github.com/buildonspark/spark	arkadiyt-intigriti,intigriti-direct	platform
 non-paying	github	https://github.com/bwillis/versioncake	arkadiyt-hackerone,hackerone-direct	platform
 paying	github	https://github.com/byteball/city-aa	immunefi-direct	unknown
 paying	github	https://github.com/byteball/coop-aa	immunefi-direct	unknown
@@ -28461,6 +28502,12 @@ paying	github	https://github.com/lidofinance/onchain-mon	immunefi-direct	unknown
 paying	github	https://github.com/lidofinance/oz-merkle-tree	immunefi-direct	unknown
 paying	github	https://github.com/lidofinance/stonks	immunefi-direct	unknown
 paying	github	https://github.com/lidofinance/validator-ejector	immunefi-direct	unknown
+non-paying	github	https://github.com/lightsparkdev/flutter-sdk	arkadiyt-intigriti,intigriti-direct	platform
+non-paying	github	https://github.com/lightsparkdev/go-sdk	arkadiyt-intigriti,intigriti-direct	platform
+non-paying	github	https://github.com/lightsparkdev/js-sdk	arkadiyt-intigriti,intigriti-direct	platform
+non-paying	github	https://github.com/lightsparkdev/kotlin-sdk	arkadiyt-intigriti,intigriti-direct	platform
+non-paying	github	https://github.com/lightsparkdev/lightspark-rs	arkadiyt-intigriti,intigriti-direct	platform
+non-paying	github	https://github.com/lightsparkdev/python-sdk	arkadiyt-intigriti,intigriti-direct	platform
 paying	github	https://github.com/linear-protocol/linear	hackenproof-direct	platform
 paying	github	https://github.com/liquid-bitcoin/bard	immunefi-direct	unknown
 paying	github	https://github.com/logos-messaging/examples.waku.org	hackenproof-direct	platform
@@ -28765,6 +28812,7 @@ paying	github	https://github.com/sky-ecosystem/univ2-lp-oracle	immunefi-direct	u
 paying	github	https://github.com/sky-ecosystem/univ2-pool-migrator	immunefi-direct	unknown
 paying	github	https://github.com/sky-ecosystem/univ3-lp-oracle	immunefi-direct	unknown
 paying	github	https://github.com/sky-ecosystem/usds	immunefi-direct	unknown
+paying	github	https://github.com/sky-ecosystem/value-registry	immunefi-direct	unknown
 paying	github	https://github.com/sky-ecosystem/vote-delegate	immunefi-direct	unknown
 paying	github	https://github.com/slackhq/nebula	arkadiyt-hackerone,hackerone-direct	platform
 paying	github	https://github.com/smartcontractkit/ccip-owner-contracts	immunefi-direct	platform
@@ -28846,6 +28894,7 @@ paying	github	https://github.com/trufin-io/smart-contracts-solana-public	immunef
 paying	github	https://github.com/trustwallet/wallet-core	arkadiyt-bugcrowd,bugcrowd-direct	platform
 paying	github	https://github.com/twilio	arkadiyt-hackerone,hackerone-direct	platform
 paying	github	https://github.com/twilio-labs	arkadiyt-hackerone,hackerone-direct	platform
+paying	github	https://github.com/uphold	arkadiyt-intigriti	platform
 non-paying	github	https://github.com/usnistgov	bugcrowd-direct	platform
 non-paying	github	https://github.com/usstatedept	arkadiyt-hackerone,hackerone-direct	platform
 non-paying	github	https://github.com/valvesoftware	arkadiyt-hackerone,hackerone-direct	platform
@@ -28912,6 +28961,8 @@ paying	repos-other	https://gitlab.com/gitlab-org/gitlab-vscode-extension	arkadiy
 paying	urls	https://gitlab.torproject.org/tpo/applications/tor-browser	hackerone-direct	platform
 non-paying	urls	https://goldenexperience.ferrero-campaigns.com/bg/bg/xp/goldenexperience	arkadiyt-hackerone,hackerone-direct	platform
 non-paying	urls	https://gotit.net.au/dosage-calculations	bugcrowd-direct	platform
+paying	apis	https://graphql.sandbox.topperpay.com/graphql	arkadiyt-intigriti	platform
+paying	urls	https://graphql.sandbox.topperpay.com/graphql	arkadiyt-intigriti	platform
 paying	urls	https://hackerone.com/mcp	arkadiyt-hackerone,hackerone-direct	platform
 non-paying	maybe	https://help.catalytic.com/docs/add-user	hackerone-direct	platform
 non-paying	urls	https://help.formassembly.com/help/formassembly-mobile-app-for-ios	hackerone-direct	platform
@@ -28926,6 +28977,7 @@ paying	urls	https://hln.be/login	arkadiyt-intigriti,intigriti-direct	platform
 paying	urls	https://hln.be/registreren	arkadiyt-intigriti,intigriti-direct	platform
 paying	urls	https://hln.be/service	intigriti-direct	platform
 non-paying	urls	https://holdmail.usps.com/holdmail	arkadiyt-hackerone,hackerone-direct	platform
+paying	urls	https://hooks.striga.com/core	arkadiyt-intigriti,intigriti-direct	platform
 non-paying	maybe	https://hosted.weblate.org/projects/sandbox	hackerone-direct	platform
 paying	urls	https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2	arkadiyt-bugcrowd,bugcrowd-direct	platform
 non-paying	maybe	https://hub.docker.com/r/memsql/node	hackerone-direct	platform
@@ -30502,6 +30554,11 @@ non-paying	urls	https://rsenablers.live.web.corebridgefinancial.com/valic/nonpar
 non-paying	urls	https://safari-extensions.apple.com/details	arkadiyt-hackerone,hackerone-direct	platform
 non-paying	urls	https://saferproducts.gov/efiling	bugcrowd-direct	platform
 paying	apps	https://salesforce.quip.com/blog/desktop	arkadiyt-hackerone,hackerone-direct	platform
+paying	apis	https://sandbox.striga.com/api/v0	arkadiyt-intigriti,intigriti-direct	platform
+paying	urls	https://sandbox.striga.com/api/v0	arkadiyt-intigriti,intigriti-direct	platform
+paying	apis	https://sandbox.striga.com/api/v1	arkadiyt-intigriti,intigriti-direct	platform
+paying	urls	https://sandbox.striga.com/api/v1	arkadiyt-intigriti,intigriti-direct	platform
+paying	urls	https://sandbox.striga.com/backoffice	arkadiyt-intigriti,intigriti-direct	platform
 non-paying	urls	https://scanandwinpromo.theofferclub.in/administrator/auth	arkadiyt-hackerone,hackerone-direct	platform
 paying	urls	https://sdk-h1.unico.io/createprocess	arkadiyt-hackerone,hackerone-direct	platform
 paying	urls	https://sdk-h1.unico.io/docs	hackerone-direct	platform
@@ -31224,6 +31281,8 @@ non-paying	urls	https://www.saba-centroamerica.com/hn	arkadiyt-hackerone,hackero
 non-paying	urls	https://www.saba-centroamerica.com/ni	arkadiyt-hackerone,hackerone-direct	platform
 non-paying	urls	https://www.saba-centroamerica.com/pa	arkadiyt-hackerone,hackerone-direct	platform
 non-paying	urls	https://www.saba-centroamerica.com/sv	arkadiyt-hackerone,hackerone-direct	platform
+paying	apis	https://www.sandbox.striga.com/api/v1	arkadiyt-intigriti,intigriti-direct	platform
+paying	urls	https://www.sandbox.striga.com/api/v1	arkadiyt-intigriti,intigriti-direct	platform
 paying	urls	https://www.sbb.ch/en/help-and-contact/products-services/apps/sbb-mobile-sbb-preview/sbb-mobile-app.html	intigriti-direct	platform
 paying	maybe	https://www.sbb.ch/en/tickets-offers/private-transport/car-parking/park-and-rail.html	intigriti-direct	platform
 paying	maybe	https://www.sbb.ch/en/travel-information/apps/sbb-preview.html	intigriti-direct	platform
@@ -31350,6 +31409,7 @@ paying	urls	https://www.upwork.com/api	arkadiyt-bugcrowd,bugcrowd-direct	platfor
 non-paying	urls	https://www.us.jll.com/en/locations	bugcrowd-direct	platform
 paying	urls	https://www.user.quintoandar.com.br/admin	arkadiyt-bugcrowd,bugcrowd-direct	platform
 non-paying	urls	https://www.usps.com/postalone	arkadiyt-hackerone,hackerone-direct	platform
+paying	urls	https://www.vault.striga.eu/web/sandbox	arkadiyt-intigriti,intigriti-direct	platform
 paying	urls	https://www.vfsglobalcustomerexperience.com/CustomerFeedback/GeneralFeedback/Index	arkadiyt-yeswehack,yeswehack-direct	platform
 non-paying	urls	https://www.victoriassecret.com/us	bugcrowd-direct	platform
 non-paying	urls	https://www.virtru.com/install	bugcrowd-direct	platform
@@ -35637,6 +35697,7 @@ non-paying	apex	liga.nl	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	pla
 non-paying	subdomains	lightbox.cbre.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	lighthouse.spaziodati.eu	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	lightning.icare.abb.com.cn	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
+paying	apex	lightspark.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
 paying	apex	lightspeed.app	arkadiyt-bugcrowd,arkadiyt-domains,bugcrowd-direct	platform
 non-paying	apex	lightspeedhq.com	diodb	self-hosted
 non-paying	apex	lightstep.com	arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct	platform
@@ -35687,11 +35748,11 @@ paying	apex	link.com	hackerone-direct	platform
 non-paying	subdomains	link.pr.cbre.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	link.services.wirtgen-group.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 paying	subdomains	link.tw.coupang.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
+paying	subdomains	link.uma.me	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
 non-paying	subdomains	linkdepagamento.sicredi.com.br	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 paying	apex	linkedin.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	apex	linkisi.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	apex	linkisi.info	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
-paying	apex	linkpop.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	links.baldor.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	links.estee.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 paying	subdomains	links.geneva-staging.chat	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
@@ -36448,6 +36509,7 @@ paying	wildcards	louisvuitton.com	arkadiyt-yeswehack,yeswehack-direct	platform
 unknown	subdomains	lounge.pinelabs.com	arkadiyt-domains	unknown
 non-paying	subdomains	louviers-dc.cert.fec-dc.fiservapps.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	louviers-dn.financial-net.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
+paying	subdomains	louvre.veriff.me	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
 non-paying	apex	lovable.dev	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	apex	lovable.net	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	apex	lovenamepix.com	diodb	self-hosted
@@ -36823,6 +36885,7 @@ non-paying	subdomains	maggianos.wgiftcard.com	arkadiyt-domains,arkadiyt-hackeron
 non-paying	subdomains	maggianosstore.wgiftcard.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	apex	magic-mirror.cn	arkadiyt-domains,arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct	platform
 non-paying	wildcards	magic-mirror.cn	arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct	platform
+paying	subdomains	magic.veriff.me	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
 non-paying	apex	magicalphotos.cn	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 paying	apex	magicestimations.com	arkadiyt-bugcrowd,arkadiyt-domains,bugcrowd-direct	platform
 non-paying	subdomains	magicinfo.ca.abb.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
@@ -43401,6 +43464,8 @@ non-paying	subdomains	optimumbank-admin.originate.fiservapps.com	arkadiyt-domain
 non-paying	subdomains	optimumbank.architect-cert.fiservapps.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	optimumbank.onlinebank.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	optimumbank.originate.fiservapps.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
+paying	apex	optimuscards.com	arkadiyt-domains,arkadiyt-intigriti,arkadiyt-wildcard	platform
+non-paying	wildcards	optimuscards.com	arkadiyt-intigriti,arkadiyt-wildcard	platform
 non-paying	subdomains	optionscreditunion-dc.cert.fec-dc.fiservapps.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	optionscreditunion-dn.financial-net.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	apex	optipat.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
@@ -45777,6 +45842,7 @@ non-paying	subdomains	portal.cbre.fr	arkadiyt-domains,arkadiyt-hackerone,hackero
 non-paying	subdomains	portal.cbreesi.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	portal.cert.fec-frms.fiservapps.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	portal.coldrivertax.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
+paying	subdomains	portal.enterprise.uphold.com	arkadiyt-domains,arkadiyt-intigriti	platform
 paying	subdomains	portal.exoscale.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
 non-paying	subdomains	portal.fiserv.dev	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	portal.gallileo-frankfurt.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
@@ -49766,6 +49832,7 @@ non-paying	subdomains	sandbox.newline53.com	arkadiyt-domains,arkadiyt-hackerone,
 paying	subdomains	sandbox.secure.checkout.visa.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 paying	subdomains	sandbox.securegateway.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	sandbox.spark.ai	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
+paying	subdomains	sandbox.striga.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
 paying	subdomains	sandbox.vintedgo.com	arkadiyt-bugcrowd,arkadiyt-domains,bugcrowd-direct	platform
 non-paying	subdomains	sandbox.zimpler.net	arkadiyt-intigriti,arkadiyt-wildcard,intigriti-direct	platform
 non-paying	wildcards	sandbox.zimpler.net	arkadiyt-intigriti,arkadiyt-wildcard,intigriti-direct	platform
@@ -51030,9 +51097,12 @@ paying	subdomains	shop-acc.kinepolis.be	arkadiyt-domains,arkadiyt-intigriti,inti
 non-paying	subdomains	shop-cert.deere.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 paying	subdomains	shop-id.tokopedia.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 paying	apex	shop.app	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
+paying	maybe	shop.app	hackerone-direct	platform
 non-paying	subdomains	shop.ayoba.me	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	shop.bodyform.co.uk	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	shop.buildingconsultancy.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
+paying	apex	shop.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
+paying	maybe	shop.com	hackerone-direct	platform
 non-paying	subdomains	shop.deere.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 paying	subdomains	shop.dyson.co.za	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 paying	subdomains	shop.dyson.tw	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
@@ -51097,6 +51167,8 @@ paying	apex	shopifyinc.com	arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct
 paying	apex	shopifykloud.com	arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct,projectdiscovery	platform
 paying	maybe	shopifykloud.com	hackerone-direct	platform
 paying	wildcards	shopifykloud.com	arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct	platform
+paying	apex	shopifysvc.com	arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct	platform
+paying	wildcards	shopifysvc.com	arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct	platform
 non-paying	subdomains	shopintheclouds.aegeanair.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	apex	shopisi.biz	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	apex	shopisi.net	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
@@ -53169,6 +53241,9 @@ non-paying	subdomains	static.nebius.com	arkadiyt-domains,arkadiyt-hackerone,hack
 non-paying	subdomains	static.spacespot.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 paying	subdomains	static.usaa.com	arkadiyt-bugcrowd,arkadiyt-domains,bugcrowd-direct	platform
 paying	maybe	static.zara.com	hackerone-direct	platform
+paying	subdomains	station.veriff.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
+paying	apis	stationapi.veriff.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
+paying	subdomains	stationapi.veriff.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
 non-paying	subdomains	stationerycreditunion-admin.originate.fiservapps.com	arkadiyt-domains,arkadiyt-hackerone	platform
 non-paying	apex	stationerycreditunion.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	stationerycreditunion.originate.fiservapps.com	arkadiyt-domains,arkadiyt-hackerone	platform
@@ -53513,6 +53588,8 @@ non-paying	apex	streetscape.com	arkadiyt-hackerone,arkadiyt-wildcard,hackerone-d
 non-paying	wildcards	streetscape.com	arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct	platform
 non-paying	apex	stremio.com	diodb	self-hosted
 non-paying	subdomains	stress5.ipg-online.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
+paying	apex	striga.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
+unknown	apex	striga.eu	arkadiyt-domains	unknown
 paying	apex	stripchat.com	arkadiyt-domains,arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct	platform
 paying	wildcards	stripchat.com	arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct	platform
 paying	apex	stripe.com	arkadiyt-domains,arkadiyt-hackerone,arkadiyt-wildcard,diodb,hackerone-direct,projectdiscovery	both
@@ -55097,6 +55174,7 @@ non-paying	subdomains	tfe.cbre.com	arkadiyt-domains,arkadiyt-hackerone,hackerone
 non-paying	subdomains	tfe.cloudeng.cbre.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	tfffcu-dc.cert.fec-dc.fiservapps.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	tfffcu-dn.financial-net.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
+paying	subdomains	tfr-sandbox.striga.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
 non-paying	subdomains	tfs.cbre.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	apex	tfsagency.nl	projectdiscovery	self-hosted
 non-paying	subdomains	tgifridays.wgiftcard.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
@@ -55832,6 +55910,8 @@ non-paying	apex	topictrek.org	arkadiyt-domains,arkadiyt-hackerone,hackerone-dire
 non-paying	apex	topinkomens.nl	projectdiscovery	self-hosted
 non-paying	apex	topleadershipteams.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	apex	topochico.com	projectdiscovery	platform
+paying	apex	topperpay.com	arkadiyt-domains,arkadiyt-intigriti,arkadiyt-wildcard	platform
+paying	wildcards	topperpay.com	arkadiyt-intigriti,arkadiyt-wildcard	platform
 paying	apex	toppjirayut.com	hackenproof-direct	platform
 non-paying	subdomains	tops-stg.cbre.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	tops-uat.cbre.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
@@ -57211,6 +57291,7 @@ non-paying	subdomains	uatbusinesscashcard.rbs.co.uk	arkadiyt-domains,arkadiyt-ha
 non-paying	subdomains	uatbusinesscashcard.ulsterbank.co.uk	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	uatcadm.locator.cbre.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	uatcbre-spain.uat.cbre.eu	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
+paying	subdomains	uatcms.optimuscards.com	arkadiyt-domains,arkadiyt-intigriti	platform
 non-paying	subdomains	uatcompass.cbre.com.au	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	apis	uatcorelogicapi.nonprodtops.cbre.co.nz	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	uatcorelogicapi.nonprodtops.cbre.co.nz	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
@@ -57730,6 +57811,8 @@ non-paying	subdomains	ultimusuat-new.cbre.com	arkadiyt-domains,arkadiyt-hackeron
 non-paying	subdomains	ultimusuat.cbre.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	ultimusupgrade.cbre.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 paying	apex	ultramobile.com	arkadiyt-bugcrowd,arkadiyt-domains,bugcrowd-direct	platform
+paying	apex	uma.me	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
+paying	apex	uma.money	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
 non-paying	subdomains	umami.hemi.xyz	bugcrowd-direct	platform
 non-paying	subdomains	umatillacfcu-dc.cert.fec-dc.fiservapps.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	umatillacfcu-dn.financial-net.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
@@ -58024,7 +58107,8 @@ non-paying	apex	upgrade.com	projectdiscovery	platform
 non-paying	apex	upgrd.co	bugcrowd-direct	platform
 non-paying	wildcards	upgrd.co	bugcrowd-direct	platform
 non-paying	apex	uphabit.com	projectdiscovery	platform
-paying	apex	uphold.com	projectdiscovery	platform
+paying	apex	uphold.com	arkadiyt-domains,arkadiyt-intigriti,arkadiyt-wildcard,projectdiscovery	platform
+paying	wildcards	uphold.com	arkadiyt-intigriti,arkadiyt-wildcard	platform
 non-paying	subdomains	upi.apac.3ds.firstdata.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	upi.emea.3ds.firstdata.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	upi.lac.3ds.firstdata.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
@@ -58824,7 +58908,9 @@ non-paying	apex	verduurzamingindustrie.nl	projectdiscovery	self-hosted
 non-paying	apex	vergroendezorg.nl	projectdiscovery	self-hosted
 non-paying	apex	verical.com	bugcrowd-direct,projectdiscovery	platform
 non-paying	wildcards	verical.com	bugcrowd-direct	platform
-non-paying	apex	veriff.com	diodb	self-hosted
+paying	apex	veriff.com	arkadiyt-domains,arkadiyt-intigriti,arkadiyt-wildcard,diodb,intigriti-direct	both
+paying	wildcards	veriff.com	arkadiyt-intigriti,arkadiyt-wildcard,intigriti-direct	platform
+paying	apex	veriff.me	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
 non-paying	apex	verification-exchange.com.au	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	apex	verificationexchange.co.uk	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	apex	verificationexchange.com.au	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
@@ -59672,6 +59758,7 @@ paying	wildcards	wali.com	arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct	
 non-paying	apex	walkers.co.uk	arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct	platform
 non-paying	wildcards	walkers.co.uk	arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct	platform
 paying	apex	walla.co.il	projectdiscovery	self-hosted
+paying	subdomains	wallet-sandbox.uphold.com	arkadiyt-domains,arkadiyt-intigriti	platform
 unknown	subdomains	wallet.blofin.com	arkadiyt-domains	unknown
 non-paying	subdomains	wallet.cbre.es	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 paying	subdomains	wallet.cex.io	hackenproof-direct	platform
@@ -62690,7 +62777,6 @@ non-paying	subdomains	www.forrentuniversity.com	bugcrowd-direct	platform
 non-paying	maybe	www.fortress.com.hk	intigriti-direct	platform
 paying	subdomains	www.fortress.com.hk	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
 non-paying	subdomains	www.forumanalytics.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
-non-paying	subdomains	www.fotocasa.es	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	www.fountainbridgesouth.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	www.fountainbridgesouth.net	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	www.fountainbridgesouth.org	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
@@ -63642,6 +63728,7 @@ unknown	subdomains	www.oppo.com	arkadiyt-domains	unknown
 paying	subdomains	www.opposhop.cn	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 paying	subdomains	www.optimism.io	immunefi-direct	unknown
 non-paying	subdomains	www.optimizer.greenqa.cbre.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
+non-paying	subdomains	www.optimuscards.com	arkadiyt-domains,arkadiyt-intigriti	platform
 non-paying	subdomains	www.optus.com.au	arkadiyt-domains,bugcrowd-direct	platform
 non-paying	subdomains	www.oreo.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	www.oreofun.se	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
@@ -63987,6 +64074,7 @@ non-paying	subdomains	www.saferproducts.gov	bugcrowd-direct	platform
 non-paying	subdomains	www.safetyvideos.gov	bugcrowd-direct	platform
 non-paying	subdomains	www.saltinesoffer.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 paying	subdomains	www.samenfittorfs.be	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
+unknown	subdomains	www.sandbox.striga.com	arkadiyt-domains	unknown
 non-paying	subdomains	www.santanderuk.locator.cbre.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	www.santos.com	bugcrowd-direct	platform
 non-paying	subdomains	www.saphotonics.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
@@ -64373,6 +64461,7 @@ paying	subdomains	www.toobit.com	hackenproof-direct	platform
 non-paying	subdomains	www.toofacedcosmetic.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	www.topdesk.cbre.eu	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	www.topechelon.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
+paying	subdomains	www.topperpay.com	arkadiyt-domains,arkadiyt-intigriti	platform
 non-paying	subdomains	www.tops2-lb-prod.cbre.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	www.topsnet.cbre.com.hk	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 paying	subdomains	www.torfs.be	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
@@ -64528,6 +64617,7 @@ non-paying	subdomains	www.unimil.com.br	arkadiyt-domains,arkadiyt-hackerone,hack
 non-paying	subdomains	www.uniongaming.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 paying	subdomains	www.universalorlandovacations.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 paying	subdomains	www.unscreen.com	arkadiyt-bugcrowd,arkadiyt-domains,bugcrowd-direct	platform
+paying	subdomains	www.uphold.com	arkadiyt-domains,arkadiyt-intigriti	platform
 non-paying	subdomains	www.upstay.tech	bugcrowd-direct	platform
 paying	subdomains	www.upwork.com	arkadiyt-bugcrowd,arkadiyt-domains,bugcrowd-direct	platform
 paying	maybe	www.urbanclap.com	hackerone-direct	platform
@@ -64603,11 +64693,13 @@ non-paying	subdomains	www.vasapi-training.cbre.com	arkadiyt-domains,arkadiyt-hac
 non-paying	subdomains	www.vasapi-uat.cbre.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	apis	www.vasapi.cbre.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	www.vasapi.cbre.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
+unknown	subdomains	www.vault.striga.eu	arkadiyt-domains	unknown
 non-paying	subdomains	www.vavmc.com	bugcrowd-direct	platform
 non-paying	subdomains	www.vctx.mainstreamsasp.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	www.vdsext.cbre.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 non-paying	subdomains	www.velvettissues.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	platform
 paying	subdomains	www.venturatvos.com	arkadiyt-bugcrowd,arkadiyt-domains,bugcrowd-direct	platform
+paying	subdomains	www.veriff.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	platform
 paying	subdomains	www.verisign.com	arkadiyt-bugcrowd,arkadiyt-domains,bugcrowd-direct	platform
 non-paying	subdomains	www.veteranscrisisline.net	bugcrowd-direct	platform
 non-paying	subdomains	www.vets.gov	bugcrowd-direct	platform

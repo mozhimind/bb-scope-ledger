@@ -183,6 +183,7 @@ api-sandbox.cbre.com
 api-sandbox.circle.com
 api-sandbox.gocardless.com
 api-sandbox.idex.io
+api-sandbox.uphold.com
 api-sb.experience.cbre.com
 api-seasia.cbrehost.com
 api-secure.sports.yahoo.com
@@ -398,6 +399,7 @@ api.ea.login.cbre.com
 api.editeur.preprod.monespacesante.fr
 api.elcacademy.com
 api.enc.kape.com
+api.enterprise.sandbox.uphold.com
 api.epicgames.dev
 api.essity.com
 api.ethereum.shapeshift.com
@@ -415,6 +417,7 @@ api.figma.com
 api.figment.io
 api.finishline.cbre.com
 api.fishbowlapp.com
+api.flamingo-eu.veriff.com
 api.fleetboard.com
 api.flipster.io
 api.flow.cbre.com
@@ -475,6 +478,7 @@ api.lansweeper.com
 api.larksuite.com
 api.leather.io
 api.letsexchange.io
+api.lightspark.com
 api.linen.app
 api.linkedin.com
 api.loanbuilder.com
@@ -558,6 +562,7 @@ api.pluralonline.com
 api.pluralpay.in
 api.pns.hk
 api.poloniex.com
+api.portal.enterprise.uphold.com
 api.portofantwerp.com
 api.portofantwerpbruges.com
 api.posti.fi
@@ -608,6 +613,7 @@ api.row.pro
 api.rtpapi-stg.nube.53.com
 api.rx.originenergy.com.au
 api.ryadom.kz
+api.sandbox.topperpay.com
 api.savers.co.uk
 api.sbx.polaris.csg.daimlertruck.com
 api.seagate.com
@@ -699,10 +705,12 @@ api.uat.ccid.neustar.biz
 api.unity.com
 api.unleashed.be
 api.upwork.com
+api.us.veriff.me
 api.us1.fga.dev
 api.usaa.com
 api.vault.chiatest.net
 api.vectranetworks.com
+api.veriff.me
 api.vetro.org
 api.vhx.tv
 api.vimeo.com
@@ -1248,6 +1256,7 @@ googleapis.com
 gopayapi.com
 gql.reddit.com
 graphql.acorns.com
+graphql.sandbox.topperpay.com
 graphql.seek.com
 green.api.cbre.com
 greenroomapi.cbre.com
@@ -1314,6 +1323,7 @@ https://api-dev.finnair.com/d
 https://api-graphql-lambda.prod.zoopla.co.uk/graphql
 https://api-hr-zag-1.exoscale.com/v2
 https://api-preprod.finnair.com/d
+https://api-sandbox.uphold.com/graphql
 https://api.0x.org/gasless
 https://api.0x.org/swap
 https://api.6sense.com/docs
@@ -1325,6 +1335,12 @@ https://api.cbre.com:443/t/digitaltech_us_edp/vantageanalytics/gcp/prod/v1/entit
 https://api.cbre.com:443/token
 https://api.drogas.lt/api/v2/api-docs
 https://api.drogas.lv/api/v2/api-docs
+https://api.enterprise.sandbox.uphold.com/core
+https://api.enterprise.sandbox.uphold.com/kyc-connector
+https://api.enterprise.sandbox.uphold.com/market-pulse
+https://api.enterprise.sandbox.uphold.com/topper
+https://api.enterprise.sandbox.uphold.com/trading
+https://api.enterprise.sandbox.uphold.com/widgets
 https://api.essity.com/identifi/logger/v1
 https://api.essity.com/tvd/ble-device-install
 https://api.essity.com/tvd/sales-guide
@@ -1422,6 +1438,7 @@ https://fngw-svc-gc-livefn.ol.epicgames.net/api/magpie
 https://gateway.optus.com.au/api/ai-search/search/v1
 https://gatewaydsapprd.marriott.com/v1
 https://gatewaydsapprd.marriott.com/v2
+https://graphql.sandbox.topperpay.com/graphql
 https://id.ton.org/api
 https://id.ton.org/v1
 https://keepersecurity.com/console
@@ -1477,6 +1494,8 @@ https://rivian.com/api/gql/orders/graphql
 https://rpc.hemi.network/noderpc
 https://rpc.hemi.network/rpc
 https://rpc.hemi.network/wsrpc
+https://sandbox.striga.com/api/v0
+https://sandbox.striga.com/api/v1
 https://slsa.dev/spec/v0.1/threats
 https://smartthings.developer.samsung.com/docs/api-ref/st-api.html
 https://staging.claytonapp.com/api
@@ -1519,6 +1538,7 @@ https://www.glassdoor.com/member
 https://www.kruidvat.be/api/v2/api-docs
 https://www.kruidvat.nl/api/v2/api-docs
 https://www.priceline.com/pwd/v0/pcln-graphql
+https://www.sandbox.striga.com/api/v1
 https://www.trekpleister.nl/api/v2/api-docs
 https://www.upwork.com/api
 https://www.visa.co.nz/gateway/api
@@ -1960,6 +1980,7 @@ stagingapi.flow.cbre.com
 staking-api.polygon.technology
 stand-qa-api.sentera.com
 start-cert.fiservapis.com
+stationapi.veriff.com
 stats-querytoolapi.nba.com
 steckbrief-api-hammag.applications.wirtgen-group.com
 steckbrief-qs-api-hammag.applications.wirtgen-group.com

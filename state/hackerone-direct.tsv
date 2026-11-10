@@ -2386,6 +2386,7 @@
 *.shopifycloud.com	paying	Shopify	https://hackerone.com/shopify
 *.shopifycs.com	paying	Shopify	https://hackerone.com/shopify
 *.shopifykloud.com	paying	Shopify	https://hackerone.com/shopify
+*.shopifysvc.com	paying	Shopify	https://hackerone.com/shopify
 *.shoproyalcanin.com	non-paying	Mars	https://hackerone.com/mars
 *.shuqi.com	non-paying	Alibaba VDP	https://hackerone.com/alibaba_vdp
 *.shuqireader.com	non-paying	Alibaba VDP	https://hackerone.com/alibaba_vdp
@@ -4006,7 +4007,6 @@
 8x8.wavecell.com	out-of-scope	8x8	https://hackerone.com/8x8-bounty
 92.225.175.134	non-paying	DIB-VDP	https://hackerone.com/dib-vdp
 92mountainview.com	non-paying	CBRE	https://hackerone.com/cbre
-9500IQ / 2800IQ Senior Swing Series Operators	non-paying	Allegion	https://hackerone.com/allegion
 96.244.83.24	non-paying	DIB-VDP	https://hackerone.com/dib-vdp
 96.92.148.161	non-paying	DIB-VDP	https://hackerone.com/dib-vdp
 96.92.148.162	non-paying	DIB-VDP	https://hackerone.com/dib-vdp
@@ -4613,7 +4613,6 @@ Atlas Data Federation	paying	MongoDB	https://hackerone.com/mongodb
 Atlas IAM	paying	MongoDB	https://hackerone.com/mongodb
 Atlas Infinite	paying	MongoDB	https://hackerone.com/mongodb
 Atlas Payments/Billing	paying	MongoDB	https://hackerone.com/mongodb
-Authentication & ATO	paying	Shopify	https://hackerone.com/shopify
 Azure AD, Google Drive, Link Sharing Websites	out-of-scope	Whoop Bug Bounty	https://hackerone.com/whoop_bug_bounty
 Babelfish	non-paying	AWS VDP	https://hackerone.com/aws_vdp
 Beeper	paying	Automattic	https://hackerone.com/automattic
@@ -4856,6 +4855,7 @@ KVS Title	out-of-scope	Compass	https://hackerone.com/compass-bbp
 KWS	non-paying	Epic Games VDP	https://hackerone.com/epicgames-vdp
 Kiro	non-paying	AWS VDP	https://hackerone.com/aws_vdp
 Kustom	out-of-scope	Klarna	https://hackerone.com/klarna
+LCN 9500IQ / 2800IQ Senior Swing Series Operators	non-paying	Allegion	https://hackerone.com/allegion
 LEV+	non-paying	Cognizant	https://hackerone.com/cognizant
 Lakebase-Supported extensions	paying	Databricks	https://hackerone.com/databricks
 Leaked & Default Credentials	non-paying	Tesco	https://hackerone.com/tesco
@@ -5059,10 +5059,12 @@ Services, Apps, Mobile	out-of-scope	eero	https://hackerone.com/eero
 Services/Mobile/GenAI	paying	Amazon Vulnerability Research Program	https://hackerone.com/amazonvrp
 Set-top-boxes, smart TVs, streaming sticks Out of Scope	out-of-scope	Netflix	https://hackerone.com/netflix
 Sharebase	non-paying	Hyland Software	https://hackerone.com/hyland_software
+Shop Minis	paying	Shopify	https://hackerone.com/shopify
 Shopify Developed Apps	paying	Shopify	https://hackerone.com/shopify
 Shopify Mobile Applications	paying	Shopify	https://hackerone.com/shopify
 Shopify Third Party Apps	non-paying	Shopify	https://hackerone.com/shopify
 Shopify Third Party Store	non-paying	Shopify	https://hackerone.com/shopify
+Sidekick	paying	Shopify	https://hackerone.com/shopify
 Simple Goals slack app	non-paying	Simple Poll	https://hackerone.com/simple_poll
 Simple Poll Slack app	non-paying	Simple Poll	https://hackerone.com/simple_poll
 Sketchfab Store (paid asset marketplace)	non-paying	Epic Games VDP	https://hackerone.com/epicgames-vdp
@@ -5497,7 +5499,6 @@ academy.aon.de/	non-paying	Aon	https://hackerone.com/aon
 academy.fleetboard.com	non-paying	Daimler Truck	https://hackerone.com/daimler_truck
 academy.gallileo-frankfurt.com	non-paying	CBRE	https://hackerone.com/cbre
 academy.gift.solutions	non-paying	Fiserv	https://hackerone.com/fiserv
-academy.shopify.com	out-of-scope	Shopify	https://hackerone.com/shopify
 academy.wgiftcard.com	non-paying	Fiserv	https://hackerone.com/fiserv
 acc.fdecs.com	non-paying	Fiserv	https://hackerone.com/fiserv
 acc.gallileo-frankfurt.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -13802,7 +13803,6 @@ datastatus.spaziodati.eu	non-paying	ION Group	https://hackerone.com/ion
 datasulpro.unimil.com.br	non-paying	John Deere	https://hackerone.com/john-deere
 datatimes.com	non-paying	Clarivate	https://hackerone.com/clarivate
 datatxt.spaziodati.eu	non-paying	ION Group	https://hackerone.com/ion
-datavenues.com	non-paying	Adevinta	https://hackerone.com/adevinta_vdp
 dataviz3d.cbre.es	non-paying	CBRE	https://hackerone.com/cbre
 dateplanner.cbre.nl	non-paying	CBRE	https://hackerone.com/cbre
 dator.cbre.se	non-paying	CBRE	https://hackerone.com/cbre
@@ -18401,7 +18401,6 @@ forums.unrealengine.com	out-of-scope	Epic Games	https://hackerone.com/epicgames
 forwardfcu-dc.cert.fec-dc.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 foryourbenefit-rei.com/	out-of-scope	REI BBP	https://hackerone.com/rei_bbp
 foryourbenefit-rei.com/	out-of-scope	REI VDP	https://hackerone.com/rei_vdp
-fotocasa.pro	non-paying	Adevinta	https://hackerone.com/adevinta_vdp
 foundationip.eu	non-paying	Clarivate	https://hackerone.com/clarivate
 foundationipnews.com	non-paying	Clarivate	https://hackerone.com/clarivate
 foundedbyher.org	non-paying	PepsiCo VDP	https://hackerone.com/pepsico_vdp
@@ -20012,6 +20011,8 @@ guess:selfstoragesoftware.com.au	non-paying	Global Payments	https://hackerone.co
 guess:sentral.com.au	non-paying	Global Payments	https://hackerone.com/global-payments
 guess:share.doppler.com	paying	Doppler	https://hackerone.com/doppler
 guess:share.market	non-paying	PhonePe	https://hackerone.com/phonepe_vdp
+guess:shop.app	paying	Shopify	https://hackerone.com/shopify
+guess:shop.com	paying	Shopify	https://hackerone.com/shopify
 guess:shopify.com	paying	Shopify	https://hackerone.com/shopify
 guess:signup.metronome.com	paying	Stripe	https://hackerone.com/stripe
 guess:slack.com/apps/AU9M045ML-simple-goals	non-paying	Simple Poll	https://hackerone.com/simple_poll
@@ -20303,7 +20304,6 @@ h82e.n1.ips.mtn.co.ug	out-of-scope	MTN Group	https://hackerone.com/mtn_group
 h862.n1.ips.mtn.co.ug	out-of-scope	MTN Group	https://hackerone.com/mtn_group
 h93e.n1.ips.mtn.co.ug	out-of-scope	MTN Group	https://hackerone.com/mtn_group
 ha.gallileo-frankfurt.com	non-paying	CBRE	https://hackerone.com/cbre
-habitaclia.com	non-paying	Adevinta	https://hackerone.com/adevinta_vdp
 habrechin.com.cn	non-paying	CBRE	https://hackerone.com/cbre
 hack.whocoronavirus.org	non-paying	WHO COVID-19 Mobile App	https://hackerone.com/who-covid-19-mobile-app
 hackathon-photos-us-east-2.hackerone-user-content.com	paying	HackerOne	https://hackerone.com/security
@@ -20508,6 +20508,7 @@ help.rubygems.org	out-of-scope	RubyGems	https://hackerone.com/rubygems
 help.seleritycorp.com	non-paying	ION Group	https://hackerone.com/ion
 help.semtech.com	non-paying	Semtech	https://hackerone.com/semtech
 help.service.motion.abb.com.cn	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
+help.shop.app	paying	Shopify	https://hackerone.com/shopify
 help.sketchfab.com	non-paying	Epic Games	https://hackerone.com/epicgames
 help.smartsheet.com	out-of-scope	Smartsheet (VDP)	https://hackerone.com/smartsheet_vdp
 help.starlingbank.com	non-paying	Starling Bank VDP	https://hackerone.com/starling_bank
@@ -26931,7 +26932,6 @@ https://gewinnspiel.mein-ferrero.de/rocher-winterhighlights	non-paying	Ferrero	h
 https://gifts.tatesbakeshop.com	out-of-scope	Mondelēz International	https://hackerone.com/mondelez
 https://giotto.couponinghouse.de/xp/potluck/	non-paying	Ferrero	https://hackerone.com/ferrero
 https://github.com/0xPolygon/heimdall-v2	out-of-scope	Polygon Technology	https://hackerone.com/polygon-technology
-https://github.com/BerriAI/litellm	non-paying	LiteLLM (VDP)	https://hackerone.com/litellm
 https://github.com/Chia-Network/chia-blockchain	paying	Chia Network	https://hackerone.com/chia_network
 https://github.com/Chia-Network/chia-blockchain-gui	paying	Chia Network	https://hackerone.com/chia_network
 https://github.com/Chia-Network/chia_rs	paying	Chia Network	https://hackerone.com/chia_network
@@ -29510,7 +29510,6 @@ investors.palantir.com	out-of-scope	Palantir Public	https://hackerone.com/palant
 investors.pepsico.com	non-paying	PepsiCo VDP	https://hackerone.com/pepsico_vdp
 investors.semrush.com	non-paying	Semrush	https://hackerone.com/semrush
 investors.semtech.com	non-paying	Semtech	https://hackerone.com/semtech
-investors.shopify.com	out-of-scope	Shopify	https://hackerone.com/shopify
 investshop.com.br	non-paying	Itaú Unibanco	https://hackerone.com/itau_unibanco
 investwithpurpose.fidelity.com	out-of-scope	Fidelity	https://hackerone.com/fidelity
 invisionapp.com	non-paying	John Deere	https://hackerone.com/john-deere
@@ -30902,7 +30901,6 @@ link.tw.coupang.com	paying	Coupang Taiwan	https://hackerone.com/coupang_tw
 linkdepagamento.sicredi.com.br	non-paying	Fiserv	https://hackerone.com/fiserv
 linkisi.com	non-paying	Clarivate	https://hackerone.com/clarivate
 linkisi.info	non-paying	Clarivate	https://hackerone.com/clarivate
-linkpop.com	paying	Shopify	https://hackerone.com/shopify
 links.deals.priceline.com	out-of-scope	Priceline	https://hackerone.com/priceline
 links.email.oportun.com	out-of-scope	Oportun	https://hackerone.com/oportun_vdp
 links.estee.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
@@ -38636,6 +38634,7 @@ shop-id.tokopedia.com	paying	TikTok	https://hackerone.com/tiktok
 shop.app	paying	Shopify	https://hackerone.com/shopify
 shop.buildingconsultancy.com	non-paying	CBRE	https://hackerone.com/cbre
 shop.bumble.com	out-of-scope	Bumble	https://hackerone.com/bumble
+shop.com	paying	Shopify	https://hackerone.com/shopify
 shop.deere.com	non-paying	John Deere	https://hackerone.com/john-deere
 shop.dyson.co.kr	out-of-scope	Dyson	https://hackerone.com/dyson
 shop.dyson.co.za	paying	Dyson	https://hackerone.com/dyson
@@ -38671,9 +38670,11 @@ shopadmin.deere.com	non-paying	John Deere	https://hackerone.com/john-deere
 shophouse.wgiftcard.com	non-paying	Fiserv	https://hackerone.com/fiserv
 shophousestore.wgiftcard.com	non-paying	Fiserv	https://hackerone.com/fiserv
 shopify.gallileo-frankfurt.com	non-paying	CBRE	https://hackerone.com/cbre
+shopify.photo	out-of-scope	Shopify	https://hackerone.com/shopify
 shopify.plus	paying	Shopify	https://hackerone.com/shopify
-shopifycompass.com	out-of-scope	Shopify	https://hackerone.com/shopify
+shopifyevents.com	out-of-scope	Shopify	https://hackerone.com/shopify
 shopifyinbox.com	paying	Shopify	https://hackerone.com/shopify
+shopifypartnerships.com	out-of-scope	Shopify	https://hackerone.com/shopify
 shopintheclouds.aegeanair.com	non-paying	Aegean Airlines Vulnerability Disclosure	https://hackerone.com/aegean_airlines_vdp
 shopisi.biz	non-paying	Clarivate	https://hackerone.com/clarivate
 shopisi.net	non-paying	Clarivate	https://hackerone.com/clarivate
@@ -42911,6 +42912,7 @@ vnpc.vnlat.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 vo.unionbank.com	out-of-scope	MUFG VDP	https://hackerone.com/mufg-vdp
 voapi.8x8.com	non-paying	8x8	https://hackerone.com/8x8-bounty
 vocationvtc.fr	non-paying	Clarivate	https://hackerone.com/clarivate
+vod.zebra.com	out-of-scope	Zebra VDP	https://hackerone.com/zebra_vdp
 vodafone.cf.iongroup.com	non-paying	ION Group	https://hackerone.com/ion
 vodafoneasp.iongroup.com	non-paying	ION Group	https://hackerone.com/ion
 vodafoneaspdr.iongroup.com	non-paying	ION Group	https://hackerone.com/ion
@@ -44755,7 +44757,6 @@ www.forescout.com	paying	ForeScout Technologies	https://hackerone.com/forescout_
 www.form.digitalcapture.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 www.formassembly.com	non-paying	FormAssembly	https://hackerone.com/formassembly
 www.forumanalytics.com	non-paying	CBRE	https://hackerone.com/cbre
-www.fotocasa.es	non-paying	Adevinta	https://hackerone.com/adevinta_vdp
 www.fountainbridgesouth.com	non-paying	CBRE	https://hackerone.com/cbre
 www.fountainbridgesouth.net	non-paying	CBRE	https://hackerone.com/cbre
 www.fountainbridgesouth.org	non-paying	CBRE	https://hackerone.com/cbre

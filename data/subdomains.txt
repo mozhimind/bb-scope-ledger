@@ -134,6 +134,7 @@
 99restaurants.gift.solutions
 99restaurants.wgiftcard.com
 99restaurantsstore.wgiftcard.com
+9b10d44d-1499-4a2f-86bc-fda178acdfdc.striga.com
 _31266a5c69850f5586e1ab425437109f.benninghoven.com
 _acme-challenge.gm01.benninghoven-gm.com
 _dmarc.benninghoven-gm.com
@@ -894,6 +895,7 @@ albank.onlinebank.com
 albank.originate.fiservapps.com
 albanybank-p2.onlinebank.com
 albanybank.onlinebank.com
+alchemy.veriff.com
 alcoacommunityfcu-admin.originate.fiservapps.com
 alcoacommunityfcu-dc.cert.fec-dc.fiservapps.com
 alcoacommunityfcu-dn.financial-net.com
@@ -1398,6 +1400,7 @@ api-sandbox.cbre.com
 api-sandbox.circle.com
 api-sandbox.gocardless.com
 api-sandbox.idex.io
+api-sandbox.uphold.com
 api-sb.experience.cbre.com
 api-seasia.cbrehost.com
 api-secure.sports.yahoo.com
@@ -1613,6 +1616,7 @@ api.ea.login.cbre.com
 api.editeur.preprod.monespacesante.fr
 api.elcacademy.com
 api.enc.kape.com
+api.enterprise.sandbox.uphold.com
 api.epicgames.dev
 api.essity.com
 api.ethereum.shapeshift.com
@@ -1630,6 +1634,7 @@ api.figma.com
 api.figment.io
 api.finishline.cbre.com
 api.fishbowlapp.com
+api.flamingo-eu.veriff.com
 api.fleetboard.com
 api.flipster.io
 api.flow.cbre.com
@@ -1690,6 +1695,7 @@ api.lansweeper.com
 api.larksuite.com
 api.leather.io
 api.letsexchange.io
+api.lightspark.com
 api.linen.app
 api.linkedin.com
 api.loanbuilder.com
@@ -1773,6 +1779,7 @@ api.pluralonline.com
 api.pluralpay.in
 api.pns.hk
 api.poloniex.com
+api.portal.enterprise.uphold.com
 api.portofantwerp.com
 api.portofantwerpbruges.com
 api.posti.fi
@@ -1823,6 +1830,7 @@ api.row.pro
 api.rtpapi-stg.nube.53.com
 api.rx.originenergy.com.au
 api.ryadom.kz
+api.sandbox.topperpay.com
 api.savers.co.uk
 api.sbx.polaris.csg.daimlertruck.com
 api.seagate.com
@@ -1914,10 +1922,12 @@ api.uat.ccid.neustar.biz
 api.unity.com
 api.unleashed.be
 api.upwork.com
+api.us.veriff.me
 api.us1.fga.dev
 api.usaa.com
 api.vault.chiatest.net
 api.vectranetworks.com
+api.veriff.me
 api.vetro.org
 api.vhx.tv
 api.vimeo.com
@@ -2186,6 +2196,7 @@ app.leather.io
 app.lemcal.com
 app.lemlist.com
 app.lemwarm.com
+app.lightspark.com
 app.link.com
 app.livenation.com
 app.liveplan.com
@@ -2243,6 +2254,7 @@ app.routerprotocol.com
 app.s02.callsign.com
 app.safeswap.io
 app.saltlabs.com
+app.sandbox.topperpay.com
 app.savers.co.uk
 app.scaleft.com
 app.securehostedpayments.com
@@ -2288,6 +2300,7 @@ app.ticketmaster.com.mx
 app.ticketmaster.eu
 app.ticketmaster.ie
 app.tweethunter.io
+app.uma.money
 app.vetro.org
 app.watsons.com.tr
 app.web.com
@@ -8100,6 +8113,7 @@ developers.reddit.com
 developers.retail.lightspeed.app
 developers.tiktok.com
 developers.tw.coupangcorp.com
+developers.veriff.me
 developerstudio.fiserv.com
 development.gallileo-frankfurt.com
 development.pixel-patch.sentera.com
@@ -8491,6 +8505,7 @@ docs.nebius.com
 docs.newrelic.com
 docs.nextcloud.com
 docs.optimism.io
+docs.optimuscards.com
 docs.passwordless.dev
 docs.redoxengine.com
 docs.redstone.finance
@@ -8500,8 +8515,10 @@ docs.superhuman.com
 docs.sushi.com
 docs.tempus-ex.com
 docs.tokenfactory.nebius.com
+docs.topperpay.com
 docs.tothemoon.com
 docs.trammellcrow.com
+docs.uphold.com
 docs.worldpay.com
 docsite.vistarmedia.com
 docstest-ags.cbreglobalinvestors.com
@@ -11792,6 +11809,7 @@ grantcountystatebank-p2.onlinebank.com
 grantcountystatebank.architect-cert.fiservapps.com
 grantcountystatebank.onlinebank.com
 graphql.acorns.com
+graphql.sandbox.topperpay.com
 graphql.seek.com
 graphsync-cons.services.wirtgen-group.com
 graphsync.services.wirtgen-group.com
@@ -12258,6 +12276,7 @@ help.redoxengine.com
 help.seleritycorp.com
 help.semtech.com
 help.service.motion.abb.com.cn
+help.shop.app
 help.sketchfab.com
 help.starlingbank.com
 help.steampowered.com
@@ -12454,6 +12473,7 @@ honeywellfcu-dn.financial-net.com
 honeywellfcu.vbwebservices.com
 hongkongcms.cbre.com
 honolulu.preview.cbre.com
+hooks.striga.com
 hoop.nba.com
 hoopsfortroops.nba.com
 hopechemfcu.vbwebservices.com
@@ -14419,6 +14439,7 @@ link.checkfreepay.com
 link.pr.cbre.com
 link.services.wirtgen-group.com
 link.tw.coupang.com
+link.uma.me
 linkdepagamento.sicredi.com.br
 links.baldor.com
 links.estee.com
@@ -14900,6 +14921,7 @@ louisianausa.originate.fiservapps.com
 lounge.pinelabs.com
 louviers-dc.cert.fec-dc.fiservapps.com
 louviers-dn.financial-net.com
+louvre.veriff.me
 lovpligtig.intego.dk
 low-voltage-application.configurator.abb.com
 lowellmefcu-dc.cert.fec-dc.fiservapps.com
@@ -15131,6 +15153,7 @@ mage01.mydevices.cbre.com
 magento.gallileo-frankfurt.com
 maggianos.wgiftcard.com
 maggianosstore.wgiftcard.com
+magic.veriff.me
 magicinfo.ca.abb.com
 magnolia.ca.essd.northgrum.com
 magnolia.jetblue.com
@@ -19696,6 +19719,7 @@ portal.cbre.fr
 portal.cbreesi.com
 portal.cert.fec-frms.fiservapps.com
 portal.coldrivertax.com
+portal.enterprise.uphold.com
 portal.exoscale.com
 portal.fiserv.dev
 portal.gallileo-frankfurt.com
@@ -21782,6 +21806,7 @@ sandbox.newline53.com
 sandbox.secure.checkout.visa.com
 sandbox.securegateway.com
 sandbox.spark.ai
+sandbox.striga.com
 sandbox.vintedgo.com
 sandbox.zimpler.net
 sandboxapi.deere.com
@@ -23681,6 +23706,8 @@ static.mgm.mo
 static.nebius.com
 static.spacespot.com
 static.usaa.com
+station.veriff.com
+stationapi.veriff.com
 stationerycreditunion-admin.originate.fiservapps.com
 stationerycreditunion.originate.fiservapps.com
 stationerycreditunion.vbwebservices.com
@@ -24771,6 +24798,7 @@ tfe.cbre.com
 tfe.cloudeng.cbre.com
 tfffcu-dc.cert.fec-dc.fiservapps.com
 tfffcu-dn.financial-net.com
+tfr-sandbox.striga.com
 tfs.cbre.com
 tgifridays.wgiftcard.com
 tgifridaysstore.wgiftcard.com
@@ -25724,6 +25752,7 @@ uatbusinesscashcard.rbs.co.uk
 uatbusinesscashcard.ulsterbank.co.uk
 uatcadm.locator.cbre.com
 uatcbre-spain.uat.cbre.eu
+uatcms.optimuscards.com
 uatcompass.cbre.com.au
 uatcorelogicapi.nonprodtops.cbre.co.nz
 uatcorelogicapi.nonprodtops.cbre.com.au
@@ -26897,6 +26926,7 @@ wailukufcu-dn.financial-net.com
 wailukufcu.originate.fiservapps.com
 wakarusavlycu-dc.cert.fec-dc.fiservapps.com
 wakarusavlycu-dn.financial-net.com
+wallet-sandbox.uphold.com
 wallet.blofin.com
 wallet.cbre.es
 wallet.cex.io
@@ -28938,7 +28968,6 @@ www.forrent.com
 www.forrentuniversity.com
 www.fortress.com.hk
 www.forumanalytics.com
-www.fotocasa.es
 www.fountainbridgesouth.com
 www.fountainbridgesouth.net
 www.fountainbridgesouth.org
@@ -29850,6 +29879,7 @@ www.oppo.com
 www.opposhop.cn
 www.optimism.io
 www.optimizer.greenqa.cbre.com
+www.optimuscards.com
 www.optus.com.au
 www.oreo.com
 www.oreofun.se
@@ -30181,6 +30211,7 @@ www.saferproducts.gov
 www.safetyvideos.gov
 www.saltinesoffer.com
 www.samenfittorfs.be
+www.sandbox.striga.com
 www.santanderuk.locator.cbre.com
 www.santos.com
 www.saphotonics.com
@@ -30543,6 +30574,7 @@ www.toobit.com
 www.toofacedcosmetic.com
 www.topdesk.cbre.eu
 www.topechelon.com
+www.topperpay.com
 www.tops2-lb-prod.cbre.com
 www.topsnet.cbre.com.hk
 www.torfs.be
@@ -30689,6 +30721,7 @@ www.unimil.com.br
 www.uniongaming.com
 www.universalorlandovacations.com
 www.unscreen.com
+www.uphold.com
 www.upstay.tech
 www.upwork.com
 www.urbanclap.com
@@ -30754,11 +30787,13 @@ www.vasapi-stg.cbre.com
 www.vasapi-training.cbre.com
 www.vasapi-uat.cbre.com
 www.vasapi.cbre.com
+www.vault.striga.eu
 www.vavmc.com
 www.vctx.mainstreamsasp.com
 www.vdsext.cbre.com
 www.velvettissues.com
 www.venturatvos.com
+www.veriff.com
 www.verisign.com
 www.veteranscrisisline.net
 www.vets.gov

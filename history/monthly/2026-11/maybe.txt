@@ -587,6 +587,8 @@ sentral.com.au
 services.klaviyo.com
 share.doppler.com
 share.market
+shop.app
+shop.com
 shop.posti.fi
 shopify.com
 shopifykloud.com

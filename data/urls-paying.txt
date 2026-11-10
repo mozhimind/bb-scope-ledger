@@ -71,11 +71,18 @@ https://api-ch-gva-2.exoscale.com/v2
 https://api-de-fra-1.exoscale.com/v2
 https://api-de-muc-1.exoscale.com/v2
 https://api-hr-zag-1.exoscale.com/v2
+https://api-sandbox.uphold.com/graphql
 https://api.0x.org/gasless
 https://api.0x.org/swap
 https://api.aiven.io/login
 https://api.drogas.lt/api/v2/api-docs
 https://api.drogas.lv/api/v2/api-docs
+https://api.enterprise.sandbox.uphold.com/core
+https://api.enterprise.sandbox.uphold.com/kyc-connector
+https://api.enterprise.sandbox.uphold.com/market-pulse
+https://api.enterprise.sandbox.uphold.com/topper
+https://api.enterprise.sandbox.uphold.com/trading
+https://api.enterprise.sandbox.uphold.com/widgets
 https://api.gx.games/dc
 https://api.gx.games/dev
 https://api.gx.games/gms
@@ -494,6 +501,7 @@ https://gateway.optus.com.au/api/ai-search/search/v1
 https://gatewaydsapprd.marriott.com/v1
 https://gatewaydsapprd.marriott.com/v2
 https://gitlab.torproject.org/tpo/applications/tor-browser
+https://graphql.sandbox.topperpay.com/graphql
 https://hackerone.com/mcp
 https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/client.htm
 https://help.okta.com/en/prod/Content/Topics/Adv_Server_Access/docs/sftd-windows.htm
@@ -504,6 +512,7 @@ https://hln.be/inloggen
 https://hln.be/login
 https://hln.be/registreren
 https://hln.be/service
+https://hooks.striga.com/core
 https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2
 https://hub.vroid.com/users/36144806
 https://hub.vznkul.be/services/interhub/InterHubService
@@ -655,6 +664,9 @@ https://refined.site/admin
 https://rivian.com/api/gql/content/graphql
 https://rivian.com/api/gql/gateway/graphql
 https://rivian.com/api/gql/orders/graphql
+https://sandbox.striga.com/api/v0
+https://sandbox.striga.com/api/v1
+https://sandbox.striga.com/backoffice
 https://sdk-h1.unico.io/createprocess
 https://sdk-h1.unico.io/docs
 https://secure-iphone-xml.booking.com/json
@@ -940,6 +952,7 @@ https://www.privateinternetaccess.com/download/mac-vpn
 https://www.privateinternetaccess.com/download/windows-vpn
 https://www.reddit.com/r/1inch
 https://www.rei.com/mobile
+https://www.sandbox.striga.com/api/v1
 https://www.sbb.ch/en/help-and-contact/products-services/apps/sbb-mobile-sbb-preview/sbb-mobile-app.html
 https://www.simscale.com/dashboard
 https://www.simscale.com/dashboard/api_keys
@@ -960,6 +973,7 @@ https://www.trekpleister.nl/api/v2/api-docs
 https://www.trouw.nl/abonnementen
 https://www.upwork.com/api
 https://www.user.quintoandar.com.br/admin
+https://www.vault.striga.eu/web/sandbox
 https://www.vfsglobalcustomerexperience.com/CustomerFeedback/GeneralFeedback/Index
 https://www.visa.co.nz/gateway/api
 https://www.visa.com.az/az_az/account/registration

@@ -3135,6 +3135,7 @@ ophthalmicdirect.ca
 opr.news
 opsgenie.com
 optics1.com
+optimuscards.com
 optus.com.au
 opx.tc
 orbia.com
@@ -3850,6 +3851,7 @@ shopify.io
 shopifycloud.com
 shopifycs.com
 shopifykloud.com
+shopifysvc.com
 shoproyalcanin.com
 shuffle.com
 shuffle.us
@@ -4271,6 +4273,7 @@ tools.thefork.tech
 toolsforhumanity.com
 toolsportal.zebra.com
 topgolf.com.au
+topperpay.com
 torneoaguila.co
 tospotify.com
 tostitos.com
@@ -4468,6 +4471,7 @@ upc.cz
 upc.hu
 updev.net
 upgrd.co
+uphold.com
 upmoney.com.au
 ups-mi.com
 ups-tms.com
@@ -4543,6 +4547,7 @@ vercel.com
 vercel.live
 verdia.com
 verical.com
+veriff.com
 verily.com
 verilyme.com
 verisign-grs.com

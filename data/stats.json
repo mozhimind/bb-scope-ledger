@@ -1,145 +1,145 @@
 {
- "date": "2026-11-10",
- "generated_at": "2026-11-10T14:48:58Z",
+ "date": "2026-11-11",
+ "generated_at": "2026-11-10T22:17:52Z",
  "version": "1.5.0",
  "disk": {
-  "project_mb": 43,
-  "free_mb": 92094
+  "project_mb": 63,
+  "free_mb": 92074
  },
  "parser_version": "2026-11-10-descriptions-apis",
- "diff_note": "first run: no earlier snapshot, no diffs today",
- "have_diffs": false,
- "headline": "2026-11-10 | first run: no earlier snapshot, no diffs today | failed sources: 0 | warnings: 0",
- "master": 58236,
- "overlap": 293,
+ "diff_note": "diffs against 2026-11-10",
+ "have_diffs": true,
+ "headline": "2026-11-11 | new: 99 (+10 apex, +36 subdomains) | removed: 7 | failed sources: 0 | warnings: 1",
+ "master": 58300,
+ "overlap": 295,
  "files": {
-  "review_new_paying": 0,
-  "review_new": 0,
-  "review_removed": 0,
+  "review_new_paying": 90,
+  "review_new": 99,
+  "review_removed": 7,
   "recovered": 2231,
-  "rejected": 4907,
-  "review_by_source": 65826,
-  "programs": 3149,
-  "program_scope": 66183,
-  "program_out_of_scope": 5212,
+  "rejected": 4915,
+  "review_by_source": 65918,
+  "programs": 3150,
+  "program_scope": 66268,
+  "program_out_of_scope": 5237,
   "failed_sources": 0
  },
  "assets": [
   {
    "asset": "apex",
-   "count": 19508,
-   "paying": 3927,
-   "new": null,
-   "removed": null
+   "count": 19513,
+   "paying": 3937,
+   "new": 10,
+   "removed": 5
   },
   {
    "asset": "subdomains",
-   "count": 31386,
-   "paying": 4825,
-   "new": null,
-   "removed": null
+   "count": 31421,
+   "paying": 4859,
+   "new": 36,
+   "removed": 1
   },
   {
    "asset": "wildcards",
-   "count": 4906,
-   "paying": 1191,
-   "new": null,
-   "removed": null
+   "count": 4911,
+   "paying": 1195,
+   "new": 5,
+   "removed": 0
   },
   {
    "asset": "urls",
-   "count": 1753,
-   "paying": 982,
-   "new": null,
-   "removed": null
+   "count": 1767,
+   "paying": 996,
+   "new": 14,
+   "removed": 0
   },
   {
    "asset": "apis",
-   "count": 2391,
-   "paying": 893,
-   "new": null,
-   "removed": null
+   "count": 2412,
+   "paying": 914,
+   "new": 21,
+   "removed": 0
   },
   {
    "asset": "ips",
    "count": 929,
    "paying": 267,
-   "new": null,
-   "removed": null
+   "new": 0,
+   "removed": 0
   },
   {
    "asset": "asn",
    "count": 2,
    "paying": 2,
-   "new": null,
-   "removed": null
+   "new": 0,
+   "removed": 0
   },
   {
    "asset": "github",
-   "count": 977,
-   "paying": 739,
-   "new": null,
-   "removed": null
+   "count": 985,
+   "paying": 742,
+   "new": 9,
+   "removed": 1
   },
   {
    "asset": "repos-other",
    "count": 6,
    "paying": 6,
-   "new": null,
-   "removed": null
+   "new": 0,
+   "removed": 0
   },
   {
    "asset": "apps",
-   "count": 2728,
-   "paying": 2121,
-   "new": null,
-   "removed": null
+   "count": 2730,
+   "paying": 2123,
+   "new": 2,
+   "removed": 0
   },
   {
    "asset": "patterns",
    "count": 444,
    "paying": 191,
-   "new": null,
-   "removed": null
+   "new": 0,
+   "removed": 0
   },
   {
    "asset": "internal-hosts",
    "count": 35,
    "paying": 23,
-   "new": null,
-   "removed": null
+   "new": 0,
+   "removed": 0
   },
   {
    "asset": "maybe",
-   "count": 761,
-   "paying": 443,
-   "new": null,
-   "removed": null
+   "count": 763,
+   "paying": 445,
+   "new": 2,
+   "removed": 0
   }
  ],
  "sources": [
   {
    "name": "arkadiyt-domains",
    "status": "ok",
-   "rows": 38402,
+   "rows": 38433,
    "rejected": 12,
-   "seconds": 0.4,
+   "seconds": 0.2,
    "note": ""
   },
   {
    "name": "arkadiyt-wildcard",
    "status": "ok",
-   "rows": 3478,
+   "rows": 3483,
    "rejected": 5,
-   "seconds": 0.1,
+   "seconds": 0.2,
    "note": ""
   },
   {
    "name": "arkadiyt-hackerone",
    "status": "ok",
    "rows": 45644,
-   "rejected": 1300,
-   "seconds": 0.7,
+   "rejected": 1301,
+   "seconds": 0.8,
    "note": ""
   },
   {
@@ -147,15 +147,15 @@
    "status": "ok",
    "rows": 4002,
    "rejected": 236,
-   "seconds": 0.3,
+   "seconds": 0.2,
    "note": ""
   },
   {
    "name": "arkadiyt-intigriti",
    "status": "ok",
-   "rows": 2123,
-   "rejected": 186,
-   "seconds": 0.3,
+   "rows": 2209,
+   "rejected": 190,
+   "seconds": 0.2,
    "note": ""
   },
   {
@@ -179,15 +179,15 @@
    "status": "ok",
    "rows": 1326,
    "rejected": 0,
-   "seconds": 0.2,
+   "seconds": 0.4,
    "note": ""
   },
   {
    "name": "immunefi-direct",
    "status": "ok",
-   "rows": 2930,
+   "rows": 2933,
    "rejected": 0,
-   "seconds": 2.5,
+   "seconds": 0.5,
    "note": ""
   },
   {
@@ -217,9 +217,9 @@
   {
    "name": "hackerone-direct",
    "status": "ok",
-   "rows": 46529,
-   "rejected": 1315,
-   "seconds": 189.7,
+   "rows": 46530,
+   "rejected": 1316,
+   "seconds": 158.9,
    "note": ""
   },
   {
@@ -235,15 +235,15 @@
    "status": "ok",
    "rows": 9913,
    "rejected": 1327,
-   "seconds": 116.2,
-   "note": "6 of 518 Bugcrowd engagements could not be read today, their hosts from the last good run are kept (no engagement-brief element in https://bugcrowd.com/engagements/fmshrc-vdp; the page layout changed)"
+   "seconds": 96.1,
+   "note": "22 of 518 Bugcrowd engagements could not be read today, their hosts from the last good run are kept (https://bugcrowd.com/engagements/fmshrc-vdp: HTTP 406 Not Acceptable)"
   },
   {
    "name": "intigriti-direct",
    "status": "ok",
-   "rows": 2773,
-   "rejected": 212,
-   "seconds": 19.8,
+   "rows": 2811,
+   "rejected": 214,
+   "seconds": 19.6,
    "note": ""
   },
   {
@@ -251,7 +251,7 @@
    "status": "ok",
    "rows": 892,
    "rejected": 44,
-   "seconds": 12.6,
+   "seconds": 10.5,
    "note": ""
   },
   {
@@ -259,12 +259,14 @@
    "status": "ok",
    "rows": 1064,
    "rejected": 225,
-   "seconds": 208.1,
+   "seconds": 160.0,
    "note": ""
   }
  ],
  "failed": [],
- "warnings": [],
+ "warnings": [
+  "bugcrowd-direct: 22 of 518 Bugcrowd engagements could not be read today, their hosts from the last good run are kept (https://bugcrowd.com/engagements/fmshrc-vdp: HTTP 406 Not Acceptable)"
+ ],
  "recovered": {
   "pattern": 679,
   "text-extract": 601,
@@ -286,8 +288,8 @@
   "leading-dot": 1
  },
  "rejected": {
-  "free-text": 4122,
-  "single-label": 705,
+  "free-text": 4124,
+  "single-label": 711,
   "bad-idn": 24,
   "placeholder": 11,
   "store-host": 10,

@@ -126,6 +126,7 @@ https://api-dev.finnair.com/d
 https://api-graphql-lambda.prod.zoopla.co.uk/graphql
 https://api-hr-zag-1.exoscale.com/v2
 https://api-preprod.finnair.com/d
+https://api-sandbox.uphold.com/graphql
 https://api.0x.org/gasless
 https://api.0x.org/swap
 https://api.6sense.com/docs
@@ -137,6 +138,12 @@ https://api.cbre.com:443/t/digitaltech_us_edp/vantageanalytics/gcp/prod/v1/entit
 https://api.cbre.com:443/token
 https://api.drogas.lt/api/v2/api-docs
 https://api.drogas.lv/api/v2/api-docs
+https://api.enterprise.sandbox.uphold.com/core
+https://api.enterprise.sandbox.uphold.com/kyc-connector
+https://api.enterprise.sandbox.uphold.com/market-pulse
+https://api.enterprise.sandbox.uphold.com/topper
+https://api.enterprise.sandbox.uphold.com/trading
+https://api.enterprise.sandbox.uphold.com/widgets
 https://api.essity.com/identifi/logger/v1
 https://api.essity.com/tvd/ble-device-install
 https://api.essity.com/tvd/sales-guide
@@ -705,6 +712,7 @@ https://gist.github.com/RedBullSecurity/3eb88debcb01759eccf65ec2b799b340
 https://gitlab.torproject.org/tpo/applications/tor-browser
 https://goldenexperience.ferrero-campaigns.com/bg/bg/xp/goldenexperience
 https://gotit.net.au/dosage-calculations
+https://graphql.sandbox.topperpay.com/graphql
 https://hackerone.com/mcp
 https://help.formassembly.com/help/formassembly-mobile-app-for-ios
 https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/client.htm
@@ -717,6 +725,7 @@ https://hln.be/login
 https://hln.be/registreren
 https://hln.be/service
 https://holdmail.usps.com/holdmail
+https://hooks.striga.com/core
 https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2
 https://hub.docker.com/r/rundeck/rundeck
 https://hub.docker.com/r/rundeckpro/enterprise
@@ -1013,6 +1022,9 @@ https://rpc.hemi.network/wsrpc
 https://rsenablers.live.web.corebridgefinancial.com/valic/nonparticipant/auth/public/login
 https://safari-extensions.apple.com/details
 https://saferproducts.gov/efiling
+https://sandbox.striga.com/api/v0
+https://sandbox.striga.com/api/v1
+https://sandbox.striga.com/backoffice
 https://scanandwinpromo.theofferclub.in/administrator/auth
 https://sdk-h1.unico.io/createprocess
 https://sdk-h1.unico.io/docs
@@ -1593,6 +1605,7 @@ https://www.saba-centroamerica.com/hn
 https://www.saba-centroamerica.com/ni
 https://www.saba-centroamerica.com/pa
 https://www.saba-centroamerica.com/sv
+https://www.sandbox.striga.com/api/v1
 https://www.sbb.ch/en/help-and-contact/products-services/apps/sbb-mobile-sbb-preview/sbb-mobile-app.html
 https://www.simscale.com/blog
 https://www.simscale.com/dashboard
@@ -1707,6 +1720,7 @@ https://www.upwork.com/api
 https://www.us.jll.com/en/locations
 https://www.user.quintoandar.com.br/admin
 https://www.usps.com/postalone
+https://www.vault.striga.eu/web/sandbox
 https://www.vfsglobalcustomerexperience.com/CustomerFeedback/GeneralFeedback/Index
 https://www.victoriassecret.com/us
 https://www.virtru.com/install

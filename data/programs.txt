@@ -1180,7 +1180,6 @@ self-hosted	non-paying	Vanthal	https://vanthal.com/seguridad/divulgacion	1	diodb
 self-hosted	non-paying	Vdoo	https://www.vdoo.com/disclosures	1	diodb		4d67905150
 self-hosted	non-paying	Veracode	https://www.veracode.com/legal-privacy/responsible-disclosure-policy	1	diodb		e84cc1226f
 self-hosted	non-paying	verance.com	https://www.verance.com/privacy/	1	diodb		ccf31789d7
-self-hosted	non-paying	Veriff	https://www.veriff.com/responsible-disclosure	1	diodb		17d513e0e1
 self-hosted	non-paying	Viadeo	https://www.viadeo.com/en/securite	1	diodb		d1444073b5
 self-hosted	non-paying	VICE	https://www.vice.com/en_us/page/vice-responsible-disclosure-policy	1	diodb		c257972cbe
 self-hosted	non-paying	Vipps AS	https://www.vipps.no/sikkerhet/responsible-disclosure-policy/	1	diodb		ad7ff458b0
@@ -1429,6 +1428,7 @@ both	non-paying	U.S Social Security Administration	https://www.ssa.gov/vulnerabi
 both	non-paying	U.S. Dept of Health & Human Services (HHS)	https://www.hhs.gov/vulnerability-disclosure-policy/index.html	27	projectdiscovery	Centers for Medicare & Medicaid Services (CMS) - Vulnerability Disclosure Program	c384f9419c
 both	non-paying	United States Department of Agriculture	https://www.usda.gov/vulnerability-disclosure-policy	1	diodb	United States Department of Agriculture: Vulnerability Disclosure Program	274aaddba1
 both	non-paying	United States International Trade Commission	https://www.usitc.gov/vulnerability-disclosure-policy	1	diodb	United States International Trade Commission - Vulnerability Disclosure Program	b3a1cb7994
+both	non-paying	Veriff	https://www.veriff.com/responsible-disclosure	1	diodb	Veriff Bug Bounty	17d513e0e1
 both	non-paying	Virtru	https://www.virtru.com/responsible-disclosure/	1	diodb	Virtru Vulnerability Disclosure Program	3a570e23d4
 both	non-paying	Visa	https://usa.visa.com/about-visa/vulnerability-disclosure.html	1	diodb	Visa	619a8fba93
 both	non-paying	VRT	https://www.vrt.be/en/responsible-disclosure-policy-english-version/	1	diodb	VRT	bdec94efc5
@@ -1935,6 +1935,7 @@ platform	paying	Libelle	https://app.intigriti.com/programs/dpgm/libelle/detail	6
 platform	paying	Liberapay	https://hackerone.com/liberapay	2	projectdiscovery		fd0de83d29
 platform	paying	Lido Finance	https://immunefi.com/bounty/lido/	1	projectdiscovery		a57f3bd695
 platform	paying	LifeOmic	https://hackerone.com/lifeomic	3	projectdiscovery		6aabb4644d
+platform	paying	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail	24	arkadiyt-intigriti,intigriti-direct		93284c70ad
 platform	paying	Lightspeed Hospitality	https://bugcrowd.com/engagements/lightspeed-hospitality	4	arkadiyt-bugcrowd,bugcrowd-direct		2d3dbb32f5
 platform	paying	Lightspeed Retail	https://bugcrowd.com/engagements/lightspeed-retail	8	arkadiyt-bugcrowd,bugcrowd-direct		7f7ce176a9
 platform	paying	Lime	https://bugcrowd.com/engagements/lime	22	arkadiyt-bugcrowd,bugcrowd-direct,projectdiscovery		4b837ca1db
@@ -2186,7 +2187,7 @@ platform	paying	shapeshift	https://hackenproof.com/programs/shapeshift	6	hackenp
 platform	paying	Sheer	https://hackerone.com/sheer_bbp	3	arkadiyt-hackerone,hackerone-direct		9b9fc14b8d
 platform	paying	SHEIN	https://hackerone.com/shein	19	arkadiyt-hackerone,hackerone-direct,projectdiscovery		b2545f7850
 platform	paying	Shinetech Software Inc Marketplace Managed Bug Bounty Engagement	https://bugcrowd.com/engagements/shinetech-software-market	1	arkadiyt-bugcrowd,bugcrowd-direct		4f8f232a12
-platform	paying	Shopify	https://hackerone.com/shopify	24	arkadiyt-hackerone,hackerone-direct,projectdiscovery		24fec504ce
+platform	paying	Shopify	https://hackerone.com/shopify	26	arkadiyt-hackerone,hackerone-direct,projectdiscovery		24fec504ce
 platform	paying	Shoppingcart	https://bugcrowd.com/shoppingcart	1	projectdiscovery		9090ec57f1
 platform	paying	Showmax	https://hackerone.com/showmax	2	projectdiscovery		76fcf67f52
 platform	paying	Sidefx	https://hackerone.com/sidefx	1	projectdiscovery		f8f3b4297c
@@ -2326,7 +2327,7 @@ platform	paying	Unikrn	https://hackerone.com/unikrn	3	projectdiscovery		cbaf1392
 platform	paying	Unisys Managed Bug Bounty Engagement	https://bugcrowd.com/engagements/unisys-mbb-og	2	arkadiyt-bugcrowd,bugcrowd-direct		3cff60bf6a
 platform	paying	United Airlines	https://bugcrowd.com/engagements/united-vdp	2	bugcrowd-direct,projectdiscovery		93cff94257
 platform	paying	Unity Technologies	https://bugcrowd.com/engagements/unity	10	arkadiyt-bugcrowd,bugcrowd-direct		5002183f5f
-platform	paying	Uphold	https://app.intigriti.com/programs/Uphold/upholdcom/detail	1	projectdiscovery		801ef6f86b
+platform	paying	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	25	arkadiyt-intigriti,projectdiscovery		9ac8fc3a6c
 platform	paying	Upserve	https://hackerone.com/upserve	6	projectdiscovery		1814f30f47
 platform	paying	Upwork	https://bugcrowd.com/engagements/upwork	4	arkadiyt-bugcrowd,bugcrowd-direct,projectdiscovery		aec64429df
 platform	paying	Urban Company	https://hackerone.com/urbancompany	9	arkadiyt-hackerone,hackerone-direct,projectdiscovery		b181fcde30
@@ -2341,6 +2342,7 @@ platform	paying	vechainthor	https://hackenproof.com/programs/vechainthor	1	hacke
 platform	paying	Vectors Bug Bounty	https://bugcrowd.com/engagements/vectors-marketplace	8	arkadiyt-bugcrowd,bugcrowd-direct		bf99bbb500
 platform	paying	Venly	https://app.intigriti.com/programs/arkane/arkanenetwork/detail	10	arkadiyt-intigriti,intigriti-direct		5e886f33aa
 platform	paying	Vercel	https://hackerone.com/vercel	28	arkadiyt-hackerone,hackerone-direct,projectdiscovery		81e463f0fa
+platform	paying	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail	14	arkadiyt-intigriti,intigriti-direct		15aafe25d2
 platform	paying	Verily Life Sciences	https://hackerone.com/verily_life_sciences	10	arkadiyt-hackerone,hackerone-direct		9c1c6bac86
 platform	paying	Verisign Bug Bounty	https://bugcrowd.com/engagements/verisign	12	arkadiyt-bugcrowd,bugcrowd-direct		d405dedd44
 platform	paying	Vertex Protocol	https://hackenproof.com/vertex-protocol	1	projectdiscovery		2b3ac7613a
@@ -2421,7 +2423,7 @@ platform	non-paying	Abercrombie & Fitch Management Co.	https://hackerone.com/abe
 platform	non-paying	ABN AMRO Bank VDP	https://hackerone.com/abn_amro_vdp	21	arkadiyt-hackerone,hackerone-direct		11ddd7bb3a
 platform	non-paying	Absolute Software Vulnerability Disclosure Pro Engagement	https://bugcrowd.com/engagements/absolutesoftware-vdp-pro2	13	bugcrowd-direct		26781aee31
 platform	non-paying	ADAC Vulnerability Disclosure Program	https://app.intigriti.com/programs/adac/adacvulnerabilitydisclosureprogram/detail	3	arkadiyt-intigriti,intigriti-direct		f27a45c67c
-platform	non-paying	Adevinta	https://hackerone.com/adevinta_vdp	31	arkadiyt-hackerone,hackerone-direct		4c292d8138
+platform	non-paying	Adevinta	https://hackerone.com/adevinta_vdp	26	arkadiyt-hackerone,hackerone-direct		4c292d8138
 platform	non-paying	Adobe	https://hackerone.com/adobe	16	projectdiscovery		a6037b66f4
 platform	non-paying	Adore Me Vulnerability Disclosure Engagement	https://bugcrowd.com/engagements/adoreme-vdp	4	bugcrowd-direct		8eb677eec2
 platform	non-paying	Aegean Airlines Vulnerability Disclosure	https://hackerone.com/aegean_airlines_vdp	292	arkadiyt-hackerone,hackerone-direct		d1e2b5e4b9
@@ -2666,7 +2668,6 @@ platform	non-paying	LegalZoom VDP	https://bugcrowd.com/engagements/legalzoom-vdp
 platform	non-paying	lemlist	https://hackerone.com/lemlist	10	arkadiyt-hackerone,hackerone-direct,projectdiscovery		fbc79ef7c4
 platform	non-paying	Lenovo Responsible Disclosure	https://bugcrowd.com/engagements/lenovoresponsibledisclosure	6	bugcrowd-direct		777cba411c
 platform	non-paying	Liferay VDP	https://app.intigriti.com/programs/liferay/liferay-vdp/detail	8	arkadiyt-intigriti,intigriti-direct		d828209dbc
-platform	non-paying	LiteLLM (VDP)	https://hackerone.com/litellm	1	arkadiyt-hackerone,hackerone-direct		562962b9d8
 platform	non-paying	Lovable VDP	https://hackerone.com/lovable-vdp	5	arkadiyt-hackerone,hackerone-direct		6033b89212
 platform	non-paying	Lowe's Companies VDP	https://hackerone.com/lowes	13	arkadiyt-hackerone,hackerone-direct		e5de234769
 platform	non-paying	LPL Financial VDP	https://hackerone.com/lpl_financial-vdp	3	arkadiyt-hackerone,hackerone-direct		eaaf1789be
@@ -3120,7 +3121,7 @@ unknown	paying	sBTC		3	immunefi-direct		03db79e652
 unknown	paying	Sei		3	immunefi-direct		64b1a5cc61
 unknown	paying	Serai		2	immunefi-direct		c362b182a8
 unknown	paying	Silo Finance (v2 & v3)		4	immunefi-direct		967d5a6980
-unknown	paying	Sky		57	immunefi-direct		4a3692abfd
+unknown	paying	Sky		58	immunefi-direct		4a3692abfd
 unknown	paying	SP1		4	immunefi-direct		ba09e2bfe2
 unknown	paying	Spark		24	immunefi-direct		827a12df8d
 unknown	paying	SSV Network		1	immunefi-direct		91b7e9f411

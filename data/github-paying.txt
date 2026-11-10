@@ -95,6 +95,7 @@ https://github.com/binary-com
 https://github.com/bitrue/bitrue-official-api-docs
 https://github.com/brave
 https://github.com/brave-intl
+https://github.com/buildonspark/spark
 https://github.com/byteball/city-aa
 https://github.com/byteball/coop-aa
 https://github.com/byteball/counterstake-bridge
@@ -621,6 +622,7 @@ https://github.com/sky-ecosystem/univ2-lp-oracle
 https://github.com/sky-ecosystem/univ2-pool-migrator
 https://github.com/sky-ecosystem/univ3-lp-oracle
 https://github.com/sky-ecosystem/usds
+https://github.com/sky-ecosystem/value-registry
 https://github.com/sky-ecosystem/vote-delegate
 https://github.com/slackhq/nebula
 https://github.com/smartcontractkit/ccip-owner-contracts
@@ -693,6 +695,7 @@ https://github.com/trufin-io/smart-contracts-solana-public
 https://github.com/trustwallet/wallet-core
 https://github.com/twilio
 https://github.com/twilio-labs
+https://github.com/uphold
 https://github.com/vechain/thor
 https://github.com/vercel
 https://github.com/vercel-labs/agent-skills

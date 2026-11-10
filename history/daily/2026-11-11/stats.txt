@@ -1,0 +1,128 @@
+2026-11-11 | new: 99 (+10 apex, +36 subdomains) | removed: 7 | failed sources: 0 | warnings: 1
+
+=========================================
+===  Bug bounty domains - 2026-11-11  ===
+=========================================
+
+------------------------------------
+filename                     count
+------------------------------------
+master.txt                   58300
+review-new-paying.txt           90
+review-new.txt                  99
+review-removed.txt               7
+recovered.txt                 2231
+rejected.txt                  4915
+review-by-source.txt         65918
+programs.txt                  3150
+program-out-of-scope.tsv      5237
+failed-sources.txt               0
+------------------------------------
+
+=======================
+===  Sources today  ===
+=======================
+
+------------------------------------------------------------------
+source              status               rows  rejected  seconds
+------------------------------------------------------------------
+arkadiyt-domains    ok                  38433        12      0.2
+arkadiyt-wildcard   ok                   3483         5      0.2
+arkadiyt-hackerone  ok                  45644      1301      0.8
+arkadiyt-bugcrowd   ok                   4002       236      0.2
+arkadiyt-intigriti  ok                   2209       190      0.2
+arkadiyt-yeswehack  ok                    892        44      0.1
+projectdiscovery    ok                   4112         1      0.1
+diodb               ok                   1326         0      0.4
+immunefi-direct     ok                   2933         0      0.5
+self-hosted-manual  skipped                 0         0      0.0   config/self-hosted-programs.tsv has no active line
+self-hosted-pages   skipped                 0         0      0.0   config/self-hosted-pages.tsv has no active line
+self-hosted-text    skipped                 0         0      0.0   config/self-hosted-text has no .txt file
+hackerone-direct    ok                  46530      1316    158.9
+hackerone-api       skipped                 0         0      0.0   needs H1_USERNAME and H1_TOKEN (HackerOne -> Settings -> API Token)
+bugcrowd-direct     ok                   9913      1327     96.1   22 of 518 Bugcrowd engagements could not be read today, their hosts from the last good run are kept (https://bugcrowd.com/engagements/fmshrc-vdp: HTTP 406 Not Acceptable)
+intigriti-direct    ok                   2811       214     19.6
+yeswehack-direct    ok                    892        44     10.5
+hackenproof-direct  ok                   1064       225    160.0
+------------------------------------------------------------------
+
+=========================================
+===  Diffs: diffs against 2026-11-10  ===
+=========================================
+
+--------------------------------------------------------
+assets                   count  paying    new  removed
+--------------------------------------------------------
+apex                     19513    3937     10        5
+subdomains               31421    4859     36        1
+wildcards                 4911    1195      5        0
+urls                      1767     996     14        0
+apis                      2412     914     21        0
+ips                        929     267      0        0
+asn                          2       2      0        0
+github                     985     742      9        1
+repos-other                  6       6      0        0
+apps                      2730    2123      2        0
+patterns                   444     191      0        0
+internal-hosts              35      23      0        0
+maybe                      763     445      2        0
+------------------------------------------------------
+total (no duplicates)    58595   13591     73        7
+------------------------------------------------------
+total                    65918   15700     99        7
+------------------------------------------------------
+
+===================================================
+===  Explanation / logic for the above results  ===
+===================================================
+
+Recovered (repaired or guessed): 2231
+     679  pattern
+     601  text-extract
+     356  alternatives
+     212  pattern-tail
+     124  multi-entry
+      86  package-id
+      57  comment-stripped
+      39  app-extracted
+      38  alternatives;punctuation
+      18  cidr-normalised
+       6  alternatives;comment-stripped
+       5  text-extract;punctuation
+       2  comment-stripped;pattern-tail
+       2  ellipsis-wildcard
+       2  ip-range
+       2  multi-entry;punctuation
+       1  double-dot
+       1  leading-dot
+Rejected: 4915
+    4124  free-text
+     711  single-label
+      24  bad-idn
+      11  placeholder
+      10  store-host
+      10  bad-chars
+       9  public-suffix
+       8  file-ext
+       7  bad-label
+       1  not-a-project
+Failed sources: 0
+Warnings (optional direct sources that did not work; the run stays green): 1
+  - bugcrowd-direct: 22 of 518 Bugcrowd engagements could not be read today, their hosts from the last good run are kept (https://bugcrowd.com/engagements/fmshrc-vdp: HTTP 406 Not Acceptable)
+
+How the numbers are counted
+- count: lines in data/<asset>.txt. paying: lines in data/<asset>-paying.txt (bounty status paying, or unknown while BB_UNKNOWN_PAYING=1).
+- new / removed: lines in data/<asset>-new.txt and <asset>-removed.txt, compared with the latest earlier folder in history/daily ('-' = no diff today).
+- sources today: status ok = downloaded fine (a note says when the content has been frozen for days); disabled = retired with BB_DISABLE; carried forward = the download failed or shrank below BB_MIN_RATIO % and the last good copy was used; FAILED / unavailable = failed and no earlier copy exists; skipped = not configured (e.g. no API token), not an error. rows = entries the source delivered, rejected = how many of them fit no asset type. Sources ending in -direct are read straight from the platform and only warn when they break.
+- total: the sum of all asset types = one line per (host, kind) in review-by-source.txt.
+- total (no duplicates): total minus the overlay lists (wildcards and apis), because those only repeat values that are also listed under apex, subdomains or urls.
+- master.txt: every distinct host, IP, URL or pattern of every asset type, once. 58300 = 19513 apex + 31421 subdomains + 1767 urls + 929 ips + 2 asn + 985 github + 6 repos-other + 2730 apps + 444 patterns + 35 internal-hosts + 763 maybe - 295 value(s) that appear under two asset types (so master is 295 less than total (no duplicates))
+- apex: registrable domains. 19513 = 17227 listed by a source + 2286 derived from a listed subdomain.
+- subdomains: hosts below an apex, including wildcard bases that are not apexes. A host is never in both apex and subdomains.
+- wildcards: wildcard bases (*.example.com stored as example.com). They are also in apex or subdomains.
+- apis: an overlay: every host / wildcard / url that the platform calls an API (rule declared-api) or whose address says so (api.x.com, yahooapis.com, /api/, /graphql, /v1/). Also listed in subdomains or urls, never counted twice.
+- urls: scope entries that carry a PATH (https://storage.googleapis.com/kubernetes-release): the path is the scope, so the host of such an entry is NOT also added to apex/subdomains. A bare host or 'host/*' stays a host.
+- review-new.txt / review-new-paying.txt / review-removed.txt: one line per new or removed (host, kind) with bounty, sources, programs, program links and the raw entry; the paying file keeps paying and unknown-bounty lines.
+- program-out-of-scope.tsv: what each program EXCLUDES (id, asset type or 'text', value). Never part of any target list; the website uses it to say 'excluded' in the scope check.
+- programs.txt: one line per program page (hosting = platform, self-hosted or both; see README, 'Self-hosted programs'). review-by-source.txt has the same hosting word per host in its last column.
+- recovered: entries repaired or guessed by scopeparse (details in recovered.txt). rejected: entries that fit no kind (details in rejected.txt).

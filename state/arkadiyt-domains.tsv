@@ -263,6 +263,7 @@
 99restaurants.gift.solutions	unknown		
 99restaurants.wgiftcard.com	unknown		
 99restaurantsstore.wgiftcard.com	unknown		
+9b10d44d-1499-4a2f-86bc-fda178acdfdc.striga.com	unknown		
 9sackvillestreet.com	unknown		
 _31266a5c69850f5586e1ab425437109f.benninghoven.com	unknown		
 _acme-challenge.gm01.benninghoven-gm.com	unknown		
@@ -1075,6 +1076,7 @@ albanybank-p2.onlinebank.com	unknown
 albanybank.onlinebank.com	unknown		
 albertdockwaterfront.com	unknown		
 album.link	unknown		
+alchemy.veriff.com	unknown		
 alcoacommunityfcu-admin.originate.fiservapps.com	unknown		
 alcoacommunityfcu-dc.cert.fec-dc.fiservapps.com	unknown		
 alcoacommunityfcu-dn.financial-net.com	unknown		
@@ -1677,6 +1679,7 @@ api-reservaonline.cbre.es	unknown
 api-rest.catalyst.clover.com	unknown		
 api-sandbox.cbre.com	unknown		
 api-sandbox.gocardless.com	unknown		
+api-sandbox.uphold.com	unknown		
 api-sb.experience.cbre.com	unknown		
 api-seasia.cbrehost.com	unknown		
 api-staging.airtable.com	unknown		
@@ -1862,6 +1865,7 @@ api.ea.login.cbre.com	unknown
 api.editeur.preprod.monespacesante.fr	unknown		
 api.elcacademy.com	unknown		
 api.enc.kape.com	unknown		
+api.enterprise.sandbox.uphold.com	unknown		
 api.epicgames.dev	unknown		
 api.essity.com	unknown		
 api.evernote.com	unknown		
@@ -1877,6 +1881,7 @@ api.fi.dyson.com	unknown
 api.figma.com	unknown		
 api.finishline.cbre.com	unknown		
 api.fishbowlapp.com	unknown		
+api.flamingo-eu.veriff.com	unknown		
 api.fleetboard.com	unknown		
 api.flow.cbre.com	unknown		
 api.fmpilot2.com	unknown		
@@ -1924,6 +1929,7 @@ api.kruidvat.be	unknown
 api.kruidvat.nl	unknown		
 api.lansweeper.com	unknown		
 api.larksuite.com	unknown		
+api.lightspark.com	unknown		
 api.linkedin.com	unknown		
 api.loanbuilder.com	unknown		
 api.locator.cbre.com	unknown		
@@ -2041,6 +2047,7 @@ api.robinhood.com	unknown
 api.row.pro	unknown		
 api.rx.originenergy.com.au	unknown		
 api.ryadom.kz	unknown		
+api.sandbox.topperpay.com	unknown		
 api.savers.co.uk	unknown		
 api.sbx.polaris.csg.daimlertruck.com	unknown		
 api.securehostedpayments.com	unknown		
@@ -2113,10 +2120,12 @@ api.uat.ccid.neustar.biz	unknown
 api.unity.com	unknown		
 api.unleashed.be	unknown		
 api.upwork.com	unknown		
+api.us.veriff.me	unknown		
 api.us1.fga.dev	unknown		
 api.usaa.com	unknown		
 api.vault.chiatest.net	unknown		
 api.vectranetworks.com	unknown		
+api.veriff.me	unknown		
 api.vhx.tv	unknown		
 api.vimeo.com	unknown		
 api.vision.torkglobal.com	unknown		
@@ -2333,6 +2342,7 @@ app.launchdarkly.com	unknown
 app.lemcal.com	unknown		
 app.lemlist.com	unknown		
 app.lemwarm.com	unknown		
+app.lightspark.com	unknown		
 app.livenation.com	unknown		
 app.liveplan.com	unknown		
 app.login-connexion.canada.ca	unknown		
@@ -2372,6 +2382,7 @@ app.ripio.com	unknown
 app.riteaid.fmpilot.com	unknown		
 app.s02.callsign.com	unknown		
 app.saltlabs.com	unknown		
+app.sandbox.topperpay.com	unknown		
 app.savers.co.uk	unknown		
 app.scaleft.com	unknown		
 app.securehostedpayments.com	unknown		
@@ -2407,6 +2418,7 @@ app.ticketmaster.com.mx	unknown
 app.ticketmaster.eu	unknown		
 app.ticketmaster.ie	unknown		
 app.tweethunter.io	unknown		
+app.uma.money	unknown		
 app.watsons.com.tr	unknown		
 app.web.com	unknown		
 app.welcomesoftware.com	unknown		
@@ -9471,7 +9483,6 @@ datastatus.spaziodati.eu	unknown
 datasulpro.unimil.com.br	unknown		
 datatimes.com	unknown		
 datatxt.spaziodati.eu	unknown		
-datavenues.com	unknown		
 dataviz3d.cbre.es	unknown		
 dateplanner.cbre.nl	unknown		
 dator.cbre.se	unknown		
@@ -10305,6 +10316,7 @@ developers.reddit.com	unknown
 developers.retail.lightspeed.app	unknown		
 developers.tiktok.com	unknown		
 developers.tw.coupangcorp.com	unknown		
+developers.veriff.me	unknown		
 developerstudio.fiserv.com	unknown		
 development.gallileo-frankfurt.com	unknown		
 development.pixel-patch.sentera.com	unknown		
@@ -10759,13 +10771,16 @@ docs.moneynetwork.com	unknown
 docs.nebius.com	unknown		
 docs.newrelic.com	unknown		
 docs.nextcloud.com	unknown		
+docs.optimuscards.com	unknown		
 docs.passwordless.dev	unknown		
 docs.redoxengine.com	unknown		
 docs.spark.ai	unknown		
 docs.superhuman.com	unknown		
 docs.tempus-ex.com	unknown		
 docs.tokenfactory.nebius.com	unknown		
+docs.topperpay.com	unknown		
 docs.trammellcrow.com	unknown		
+docs.uphold.com	unknown		
 docs.worldpay.com	unknown		
 docsend.com	unknown		
 docsite.vistarmedia.com	unknown		
@@ -13729,7 +13744,6 @@ forwardfinancial-admin.originate.fiservapps.com	unknown
 forwardfinancial.originate.fiservapps.com	unknown		
 foto.kruidvat.be	unknown		
 foto.kruidvat.nl	unknown		
-fotocasa.pro	unknown		
 fotoservice.kruidvat.be	unknown		
 fotoservice.kruidvat.nl	unknown		
 foundationip.eu	unknown		
@@ -14775,6 +14789,7 @@ grantcountystatebank-p2.onlinebank.com	unknown
 grantcountystatebank.architect-cert.fiservapps.com	unknown		
 grantcountystatebank.onlinebank.com	unknown		
 graphql.acorns.com	unknown		
+graphql.sandbox.topperpay.com	unknown		
 graphql.seek.com	unknown		
 graphsync-cons.services.wirtgen-group.com	unknown		
 graphsync.services.wirtgen-group.com	unknown		
@@ -15079,7 +15094,6 @@ h22261.www2.it.hpe.com	unknown
 h2m.se	unknown		
 h2mextras.h2m.se	unknown		
 ha.gallileo-frankfurt.com	unknown		
-habitaclia.com	unknown		
 habrechin.com.cn	unknown		
 haccountcat.fdecs.com	unknown		
 hack.whocoronavirus.org	unknown		
@@ -15330,6 +15344,7 @@ help.redoxengine.com	unknown
 help.seleritycorp.com	unknown		
 help.semtech.com	unknown		
 help.service.motion.abb.com.cn	unknown		
+help.shop.app	unknown		
 help.sketchfab.com	unknown		
 help.starlingbank.com	unknown		
 help.steampowered.com	unknown		
@@ -15597,6 +15612,7 @@ honeywellfcu.vbwebservices.com	unknown
 hongkongcms.cbre.com	unknown		
 honolulu.preview.cbre.com	unknown		
 honorshi.fr	unknown		
+hooks.striga.com	unknown		
 hoop.nba.com	unknown		
 hoopsfortroops.nba.com	unknown		
 hopechemfcu.org	unknown		
@@ -18505,10 +18521,10 @@ link.checkfreepay.com	unknown
 link.pr.cbre.com	unknown		
 link.services.wirtgen-group.com	unknown		
 link.tw.coupang.com	unknown		
+link.uma.me	unknown		
 linkdepagamento.sicredi.com.br	unknown		
 linkisi.com	unknown		
 linkisi.info	unknown		
-linkpop.com	unknown		
 links.baldor.com	unknown		
 links.estee.com	unknown		
 links.geneva-staging.chat	unknown		
@@ -19022,6 +19038,7 @@ louisianausa.originate.fiservapps.com	unknown
 lounge.pinelabs.com	unknown		
 louviers-dc.cert.fec-dc.fiservapps.com	unknown		
 louviers-dn.financial-net.com	unknown		
+louvre.veriff.me	unknown		
 lovable.dev	unknown		
 lovable.net	unknown		
 lovpligtig.intego.dk	unknown		
@@ -19263,6 +19280,7 @@ mage01.mydevices.cbre.com	unknown
 magento.gallileo-frankfurt.com	unknown		
 maggianos.wgiftcard.com	unknown		
 maggianosstore.wgiftcard.com	unknown		
+magic.veriff.me	unknown		
 magicinfo.ca.abb.com	unknown		
 magisto.com	unknown		
 magisto.fr	unknown		
@@ -25047,6 +25065,7 @@ portal.cbre.fr	unknown
 portal.cbreesi.com	unknown		
 portal.cert.fec-frms.fiservapps.com	unknown		
 portal.coldrivertax.com	unknown		
+portal.enterprise.uphold.com	unknown		
 portal.exoscale.com	unknown		
 portal.fiserv.dev	unknown		
 portal.gallileo-frankfurt.com	unknown		
@@ -27708,6 +27727,7 @@ sandbox.newline53.com	unknown
 sandbox.secure.checkout.visa.com	unknown		
 sandbox.securegateway.com	unknown		
 sandbox.spark.ai	unknown		
+sandbox.striga.com	unknown		
 sandbox.vintedgo.com	unknown		
 sandboxapi.deere.com	unknown		
 sandboxdb.drivershistory.com	unknown		
@@ -28567,6 +28587,7 @@ shop.app	unknown
 shop.ayoba.me	unknown		
 shop.bodyform.co.uk	unknown		
 shop.buildingconsultancy.com	unknown		
+shop.com	unknown		
 shop.deere.com	unknown		
 shop.dyson.co.za	unknown		
 shop.dyson.tw	unknown		
@@ -29949,6 +29970,8 @@ static.mgm.mo	unknown
 static.nebius.com	unknown		
 static.spacespot.com	unknown		
 static.usaa.com	unknown		
+station.veriff.com	unknown		
+stationapi.veriff.com	unknown		
 stationerycreditunion-admin.originate.fiservapps.com	unknown		
 stationerycreditunion.com	unknown		
 stationerycreditunion.originate.fiservapps.com	unknown		
@@ -31185,6 +31208,7 @@ tfe.cbre.com	unknown
 tfe.cloudeng.cbre.com	unknown		
 tfffcu-dc.cert.fec-dc.fiservapps.com	unknown		
 tfffcu-dn.financial-net.com	unknown		
+tfr-sandbox.striga.com	unknown		
 tfs.cbre.com	unknown		
 tgifridays.wgiftcard.com	unknown		
 tgifridaysstore.wgiftcard.com	unknown		
@@ -32585,6 +32609,7 @@ uatbusinesscashcard.rbs.co.uk	unknown
 uatbusinesscashcard.ulsterbank.co.uk	unknown		
 uatcadm.locator.cbre.com	unknown		
 uatcbre-spain.uat.cbre.eu	unknown		
+uatcms.optimuscards.com	unknown		
 uatcompass.cbre.com.au	unknown		
 uatcorelogicapi.nonprodtops.cbre.co.nz	unknown		
 uatcorelogicapi.nonprodtops.cbre.com.au	unknown		
@@ -33946,6 +33971,7 @@ wakarusavlycu-dc.cert.fec-dc.fiservapps.com	unknown
 wakarusavlycu-dn.financial-net.com	unknown		
 wakatime.com	unknown		
 waldorfastoriahi.fr	unknown		
+wallet-sandbox.uphold.com	unknown		
 wallet.blofin.com	unknown		
 wallet.cbre.es	unknown		
 wallet.gallileo-frankfurt.com	unknown		
@@ -36113,7 +36139,6 @@ www.formassembly.com	unknown
 www.formulaire-jeu-concours.ferrero.fr	unknown		
 www.fortress.com.hk	unknown		
 www.forumanalytics.com	unknown		
-www.fotocasa.es	unknown		
 www.fountainbridgesouth.com	unknown		
 www.fountainbridgesouth.net	unknown		
 www.fountainbridgesouth.org	unknown		
@@ -36906,6 +36931,7 @@ www.operaneon.com	unknown
 www.oppo.com	unknown		
 www.opposhop.cn	unknown		
 www.optimizer.greenqa.cbre.com	unknown		
+www.optimuscards.com	unknown		
 www.optus.com.au	unknown		
 www.oreo.com	unknown		
 www.oreofun.se	unknown		
@@ -37186,6 +37212,7 @@ www.sa.dyson.com	unknown
 www.saba-centroamerica.com	unknown		
 www.saltinesoffer.com	unknown		
 www.samenfittorfs.be	unknown		
+www.sandbox.striga.com	unknown		
 www.santanderuk.locator.cbre.com	unknown		
 www.saphotonics.com	unknown		
 www.saturn.de	unknown		
@@ -37511,6 +37538,7 @@ www.tomorrowland.com	unknown
 www.toofacedcosmetic.com	unknown		
 www.topdesk.cbre.eu	unknown		
 www.topechelon.com	unknown		
+www.topperpay.com	unknown		
 www.tops2-lb-prod.cbre.com	unknown		
 www.topsnet.cbre.com.hk	unknown		
 www.torfs.be	unknown		
@@ -37639,6 +37667,7 @@ www.unimil.com.br	unknown
 www.uniongaming.com	unknown		
 www.universalorlandovacations.com	unknown		
 www.unscreen.com	unknown		
+www.uphold.com	unknown		
 www.upwork.com	unknown		
 www.urbanclap.com	unknown		
 www.urbancompany.com	unknown		
@@ -37697,10 +37726,12 @@ www.vasapi-stg.cbre.com	unknown
 www.vasapi-training.cbre.com	unknown		
 www.vasapi-uat.cbre.com	unknown		
 www.vasapi.cbre.com	unknown		
+www.vault.striga.eu	unknown		
 www.vctx.mainstreamsasp.com	unknown		
 www.vdsext.cbre.com	unknown		
 www.velvettissues.com	unknown		
 www.venturatvos.com	unknown		
+www.veriff.com	unknown		
 www.verisign.com	unknown		
 www.vfis.com	unknown		
 www.vfisal.com	unknown		

@@ -345,6 +345,8 @@ sand.braintreepayments.com
 sandbox.braintree-api.com
 services.klaviyo.com
 share.doppler.com
+shop.app
+shop.com
 shop.posti.fi
 shopify.com
 shopifykloud.com

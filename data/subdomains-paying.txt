@@ -6,6 +6,7 @@
 4njbets.us.betfair.com
 5254877.app.netsuite.com
 5k8vrbdyje.infomaniak.site
+9b10d44d-1499-4a2f-86bc-fda178acdfdc.striga.com
 a.exodus.io
 a.klaviyo.com
 a.root-servers.net
@@ -123,6 +124,7 @@ ai-builder.hostinger.com
 ai.mongodb.com
 ai.portswigger.net
 ak-static-dev.nba.com
+alchemy.veriff.com
 aldomain1.raffaello.hu
 alfred.syfe.com
 allegro.cz.allegrosandbox.pl
@@ -175,6 +177,7 @@ api-prod.thatconceptstore.com
 api-sandbox.circle.com
 api-sandbox.gocardless.com
 api-sandbox.idex.io
+api-sandbox.uphold.com
 api-secure.sports.yahoo.com
 api-staging.airtable.com
 api-test.nicehash.com
@@ -261,6 +264,7 @@ api.dyson.se
 api.dysoncanada.ca
 api.editeur.preprod.monespacesante.fr
 api.enc.kape.com
+api.enterprise.sandbox.uphold.com
 api.essity.com
 api.ethereum.shapeshift.com
 api.evernote.com
@@ -271,6 +275,7 @@ api.faraday.ai
 api.fi.dyson.com
 api.figma.com
 api.fishbowlapp.com
+api.flamingo-eu.veriff.com
 api.flipster.io
 api.fortress.com.hk
 api.fstr.rocks
@@ -309,6 +314,7 @@ api.lansweeper.com
 api.larksuite.com
 api.leather.io
 api.letsexchange.io
+api.lightspark.com
 api.linen.app
 api.linkedin.com
 api.loanbuilder.com
@@ -358,6 +364,7 @@ api.pluralonline.com
 api.pluralpay.in
 api.pns.hk
 api.poloniex.com
+api.portal.enterprise.uphold.com
 api.portofantwerp.com
 api.portofantwerpbruges.com
 api.posti.fi
@@ -385,6 +392,7 @@ api.robinhood.com
 api.row.pro
 api.rx.originenergy.com.au
 api.ryadom.kz
+api.sandbox.topperpay.com
 api.savers.co.uk
 api.segment.io
 api.segmentapis.com
@@ -429,9 +437,11 @@ api.ua.com
 api.unity.com
 api.unleashed.be
 api.upwork.com
+api.us.veriff.me
 api.us1.fga.dev
 api.usaa.com
 api.vault.chiatest.net
+api.veriff.me
 api.vhx.tv
 api.vimeo.com
 api.vimla.se
@@ -540,6 +550,7 @@ app.larksuite.com
 app.latitudepayapps.com
 app.launchdarkly.com
 app.leather.io
+app.lightspark.com
 app.link.com
 app.livenation.com
 app.magicestimations.com
@@ -584,6 +595,7 @@ app.ripio.com
 app.routerprotocol.com
 app.safeswap.io
 app.saltlabs.com
+app.sandbox.topperpay.com
 app.savers.co.uk
 app.scaleft.com
 app.segment.com
@@ -613,6 +625,7 @@ app.ticketmaster.com.au
 app.ticketmaster.com.mx
 app.ticketmaster.eu
 app.ticketmaster.ie
+app.uma.money
 app.watsons.com.tr
 app.web.com
 app.welcomesoftware.com
@@ -1409,6 +1422,7 @@ developers.reddit.com
 developers.retail.lightspeed.app
 developers.tiktok.com
 developers.tw.coupangcorp.com
+developers.veriff.me
 development.wmaudience.com
 device.marriott.com
 dh-cf.mena.meso1.aws.indriverapp.com
@@ -1456,7 +1470,9 @@ docs.succinct.xyz
 docs.superhuman.com
 docs.sushi.com
 docs.tempus-ex.com
+docs.topperpay.com
 docs.tothemoon.com
+docs.uphold.com
 docsite.vistarmedia.com
 docuflow.stg.inspectorio.com
 download.krisp.ai
@@ -1801,6 +1817,7 @@ grandrapids-dev.gleague.nba.com
 grandrapids-qa.gleague.nba.com
 grandrapids.gleague.nba.com
 graphql.acorns.com
+graphql.sandbox.topperpay.com
 graphql.seek.com
 green.nba.com
 greenchannel.payoneer.com.cn
@@ -1832,6 +1849,7 @@ help.marriott.com
 help.netflix.com
 help.okta.com
 help.redoxengine.com
+help.shop.app
 help.steampowered.com
 help.supplier.viator.com
 help.twilio.com
@@ -1848,6 +1866,7 @@ home.privy.io
 homes-and-villas.marriott.com
 honey.berachain.com
 honeypaper.berachain.com
+hooks.striga.com
 hoop.nba.com
 hoopsfortroops.nba.com
 horizen-testnet.explorer.caldera.xyz
@@ -2103,6 +2122,7 @@ lifeapi.pulsepoint.com
 lineemup-dev.wnba.com
 lineemup.wnba.com
 link.tw.coupang.com
+link.uma.me
 links.geneva-staging.chat
 links.geneva-staging.com
 links.portswigger.net
@@ -2177,6 +2197,7 @@ longisland-qa.gleague.nba.com
 longisland.gleague.nba.com
 lookups.twilio.com
 lounge.pinelabs.com
+louvre.veriff.me
 loyalty.tw.coupang.com
 lp.lime.bike
 lps.dmp.gouv.fr
@@ -2220,6 +2241,7 @@ m.tw.coupang.com
 maf-holding-prod.apigee.net
 maf-properties-prod.apigee.net
 magazine.kruidvat.be
+magic.veriff.me
 mail.hostinger.com
 mail.infomaniak.com
 mail.notion.so
@@ -2819,6 +2841,7 @@ portal.3cx.com
 portal.annuities.corebridgefinancial.com
 portal.anz.kinergysolutions.com
 portal.arkoselabs.com
+portal.enterprise.uphold.com
 portal.exoscale.com
 portal.ifoodpago.com.br
 portal.myconnect.com.au
@@ -3092,6 +3115,7 @@ sandbox.braintreegateway.com
 sandbox.developer.plus.authorize.net
 sandbox.secure.checkout.visa.com
 sandbox.securegateway.com
+sandbox.striga.com
 sandbox.vintedgo.com
 sandiego.gleague.nba.com
 santacruz-dev.gleague.nba.com
@@ -3342,6 +3366,8 @@ static-images.ifood.com.br
 static.bittrex.com
 static.mgm.mo
 static.usaa.com
+station.veriff.com
+stationapi.veriff.com
 stats-dev.gleague.nba.com
 stats-dev.nba.com
 stats-qa.gleague.nba.com
@@ -3512,6 +3538,7 @@ texas-dev.gleague.nba.com
 texas-qa.gleague.nba.com
 texas.gleague.nba.com
 tfb.t-mobile.com
+tfr-sandbox.striga.com
 thisiswhyweplay.nba.com
 tic-tac-two.tictac.com
 ticket.multiplayer.classdojo.com
@@ -3601,6 +3628,7 @@ u.oppomobile.com
 uae.voxcinemas.com
 uat-bugbounty.nonprod.syfe.com
 uat.unico.app
+uatcms.optimuscards.com
 uber.marriott.com
 uc.8x8pilot.com
 ui-assets.cloud.databricks.com
@@ -3707,6 +3735,7 @@ vtxapp9q.underarmour.com
 vtxappd.underarmour.com
 vwcm.visa.com
 w1.uzleuven.be
+wallet-sandbox.uphold.com
 wallet.blofin.com
 wallet.cex.io
 wallet.oasis.io
@@ -4419,6 +4448,7 @@ www.s-pankki.fi
 www.sa.dyson.com
 www.saba-centroamerica.com
 www.samenfittorfs.be
+www.sandbox.striga.com
 www.saturn.de
 www.savers.co.uk
 www.sbb.ch
@@ -4518,6 +4548,7 @@ www.tilalalghaf.com
 www.tink.com
 www.tomorrowland.com
 www.toobit.com
+www.topperpay.com
 www.torfs.be
 www.torfs.nl
 www.tork.co.uk
@@ -4562,6 +4593,7 @@ www.unibet.ro
 www.unibet.se
 www.universalorlandovacations.com
 www.unscreen.com
+www.uphold.com
 www.upwork.com
 www.urbanclap.com
 www.urbancompany.com
@@ -4573,7 +4605,9 @@ www.uzleuven.be
 www.valmo.in
 www.valvesoftware.com
 www.variational.io
+www.vault.striga.eu
 www.venturatvos.com
+www.veriff.com
 www.verisign.com
 www.vfsglobalcustomerexperience.com
 www.vfsvisaonline.com

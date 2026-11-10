@@ -4791,7 +4791,6 @@ datastar.tw
 datastarweb.com
 datastax.com
 datatimes.com
-datavenues.com
 datavoorgezondheid.nl
 datawonen.nl
 datocapital.com
@@ -6949,8 +6948,6 @@ fortress.com.hk
 forumanalytics.com
 forumstandaardisatie.nl
 fosterandthrive.com
-fotocasa.es
-fotocasa.pro
 fotoforensics.com
 found.io
 foundationip.eu
@@ -7605,7 +7602,6 @@ h2m.se
 h2os.com
 haaglandenpolitie.nl
 habileoh.com
-habitaclia.com
 habrechin.com.cn
 hacc.mil
 hackchecks.in
@@ -9974,6 +9970,7 @@ lifetouch.com
 lifewtr.com
 lifree.com
 liga.nl
+lightspark.com
 lightspeed.app
 lightspeedhq.com
 lightstep.com
@@ -9998,7 +9995,6 @@ link.com
 linkedin.com
 linkisi.com
 linkisi.info
-linkpop.com
 linktr.ee
 linktree-extensions.com
 linktree.com
@@ -12747,6 +12743,7 @@ optifyr.com
 optimism.io
 optimizely-edge.com
 optimizely.com
+optimuscards.com
 optipat.com
 optum.com
 optumbank.com
@@ -15454,6 +15451,7 @@ shiseido.me
 shiseidoprofessionaledu.co.kr
 shoop.de
 shop.app
+shop.com
 shopaon.com
 shopbeergear.com
 shopclues.com
@@ -15465,6 +15463,7 @@ shopifycs.com
 shopifyinbox.com
 shopifyinc.com
 shopifykloud.com
+shopifysvc.com
 shopisi.biz
 shopisi.net
 shopjustice.me
@@ -16156,6 +16155,8 @@ streamlabscharity.com
 streamlendvelocity.net
 streetscape.com
 stremio.com
+striga.com
+striga.eu
 stripchat.com
 stripe.com
 stripe.dev
@@ -17023,6 +17024,7 @@ topictrek.org
 topinkomens.nl
 topleadershipteams.com
 topochico.com
+topperpay.com
 toppjirayut.com
 topsectoragrifood.nl
 topsectoren.nl
@@ -17590,6 +17592,8 @@ ultatraining.com
 ultimateears.com
 ultimateearsuniversity.com
 ultramobile.com
+uma.me
+uma.money
 umbian.com
 umblr.com
 umbraco.com
@@ -17995,6 +17999,7 @@ verduurzamingindustrie.nl
 vergroendezorg.nl
 verical.com
 veriff.com
+veriff.me
 verification-exchange.com.au
 verificationexchange.co.uk
 verificationexchange.com.au

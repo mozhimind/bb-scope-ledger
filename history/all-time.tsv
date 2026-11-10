@@ -4792,7 +4792,7 @@ apex	datastar.tw	2026-11-10		non-paying	Clarivate
 apex	datastarweb.com	2026-11-10		non-paying	Clarivate
 apex	datastax.com	2026-11-10		paying	DataStax
 apex	datatimes.com	2026-11-10		non-paying	Clarivate
-apex	datavenues.com	2026-11-10		non-paying	Adevinta
+apex	datavenues.com	2026-11-10	2026-11-11	non-paying	Adevinta
 apex	datavoorgezondheid.nl	2026-11-10		non-paying	Government of Netherlands
 apex	datawonen.nl	2026-11-10		non-paying	Government of Netherlands
 apex	datocapital.com	2026-11-10		non-paying	Dato Capital
@@ -6950,8 +6950,8 @@ apex	fortress.com.hk	2026-11-10		paying	Watsons
 apex	forumanalytics.com	2026-11-10		non-paying	CBRE
 apex	forumstandaardisatie.nl	2026-11-10		non-paying	Government of Netherlands
 apex	fosterandthrive.com	2026-11-10		non-paying	McKesson Vulnerability Disclosure Program (VDP) Engagement
-apex	fotocasa.es	2026-11-10		non-paying	Adevinta
-apex	fotocasa.pro	2026-11-10		non-paying	Adevinta
+apex	fotocasa.es	2026-11-10	2026-11-11	non-paying	Adevinta
+apex	fotocasa.pro	2026-11-10	2026-11-11	non-paying	Adevinta
 apex	fotoforensics.com	2026-11-10		non-paying	fotoforensics.com
 apex	found.io	2026-11-10		paying	Elastic
 apex	foundationip.eu	2026-11-10		non-paying	Clarivate
@@ -7606,7 +7606,7 @@ apex	h2m.se	2026-11-10		non-paying	CBRE
 apex	h2os.com	2026-11-10		paying	OnePlus
 apex	haaglandenpolitie.nl	2026-11-10		non-paying	Government of Netherlands
 apex	habileoh.com	2026-11-10		paying	VINCI SA - Public program
-apex	habitaclia.com	2026-11-10		non-paying	Adevinta
+apex	habitaclia.com	2026-11-10	2026-11-11	non-paying	Adevinta
 apex	habrechin.com.cn	2026-11-10		non-paying	CBRE
 apex	hacc.mil	2026-11-10		non-paying	U.S. Dept Of Defense (DoD)
 apex	hackchecks.in	2026-11-10		non-paying	Hackchecks Infosec Solutions
@@ -9975,6 +9975,7 @@ apex	lifetouch.com	2026-11-10		non-paying	Shutterfly VDP
 apex	lifewtr.com	2026-11-10		non-paying	PepsiCo VDP
 apex	lifree.com	2026-11-10		non-paying	Clarivate
 apex	liga.nl	2026-11-10		non-paying	Mondelēz International
+apex	lightspark.com	2026-11-11		paying	Lightspark Public Bug Bounty
 apex	lightspeed.app	2026-11-10		paying	Lightspeed Hospitality; Lightspeed Retail
 apex	lightspeedhq.com	2026-11-10		non-paying	Light Speed
 apex	lightstep.com	2026-11-10		non-paying	ServiceNow Disclosure
@@ -9999,7 +10000,7 @@ apex	link.com	2026-11-10		paying	Stripe
 apex	linkedin.com	2026-11-10		paying	LinkedIn
 apex	linkisi.com	2026-11-10		non-paying	Clarivate
 apex	linkisi.info	2026-11-10		non-paying	Clarivate
-apex	linkpop.com	2026-11-10		paying	Shopify
+apex	linkpop.com	2026-11-10	2026-11-11	paying	Shopify
 apex	linktr.ee	2026-11-10		paying	Linktree
 apex	linktree-extensions.com	2026-11-10		paying	Linktree
 apex	linktree.com	2026-11-10		paying	Linktree
@@ -12748,6 +12749,7 @@ apex	optifyr.com	2026-11-10		non-paying	Picsart
 apex	optimism.io	2026-11-10		paying	Optimism; Spark
 apex	optimizely-edge.com	2026-11-10		paying	Optimizely
 apex	optimizely.com	2026-11-10		paying	Optimizely
+apex	optimuscards.com	2026-11-11		paying	Uphold
 apex	optipat.com	2026-11-10		non-paying	Clarivate
 apex	optum.com	2026-11-10		non-paying	Optum
 apex	optumbank.com	2026-11-10		non-paying	Fiserv
@@ -15455,6 +15457,7 @@ apex	shiseido.me	2026-11-10		paying	Majid Al Futtaim Lifestyle
 apex	shiseidoprofessionaledu.co.kr	2026-11-10		non-paying	Henkel
 apex	shoop.de	2026-11-10		non-paying	Atolls Vulnerability Disclosure Program (VDP)
 apex	shop.app	2026-11-10		paying	Shopify
+apex	shop.com	2026-11-11		paying	Shopify
 apex	shopaon.com	2026-11-10		non-paying	Aon
 apex	shopbeergear.com	2026-11-10		non-paying	AB InBev Vulnerability Disclosure Program
 apex	shopclues.com	2026-11-10		non-paying	Shopclues
@@ -15466,6 +15469,7 @@ apex	shopifycs.com	2026-11-10		paying	Shopify
 apex	shopifyinbox.com	2026-11-10		paying	Shopify
 apex	shopifyinc.com	2026-11-10		paying	Shopify
 apex	shopifykloud.com	2026-11-10		paying	Shopify
+apex	shopifysvc.com	2026-11-11		paying	Shopify
 apex	shopisi.biz	2026-11-10		non-paying	Clarivate
 apex	shopisi.net	2026-11-10		non-paying	Clarivate
 apex	shopjustice.me	2026-11-10		non-paying	Alshaya
@@ -16157,6 +16161,8 @@ apex	streamlabscharity.com	2026-11-10		non-paying	Logitech
 apex	streamlendvelocity.net	2026-11-10		non-paying	Fiserv
 apex	streetscape.com	2026-11-10		non-paying	Fidelity
 apex	stremio.com	2026-11-10		non-paying	strem.io
+apex	striga.com	2026-11-11		paying	Lightspark Public Bug Bounty
+apex	striga.eu	2026-11-11		unknown	
 apex	stripchat.com	2026-11-10		paying	Stripchat
 apex	stripe.com	2026-11-10		paying	Stripe
 apex	stripe.dev	2026-11-10		paying	Stripe
@@ -17024,6 +17030,7 @@ apex	topictrek.org	2026-11-10		non-paying	Clarivate
 apex	topinkomens.nl	2026-11-10		non-paying	Government of Netherlands
 apex	topleadershipteams.com	2026-11-10		non-paying	Clarivate
 apex	topochico.com	2026-11-10		non-paying	The Coca-Cola Company Vulnerability Disclosure Program
+apex	topperpay.com	2026-11-11		paying	Uphold
 apex	toppjirayut.com	2026-11-10		paying	bitkub-capital-group-holdings
 apex	topsectoragrifood.nl	2026-11-10		non-paying	Government of Netherlands
 apex	topsectoren.nl	2026-11-10		non-paying	Government of Netherlands
@@ -17591,6 +17598,8 @@ apex	ultatraining.com	2026-11-10		non-paying	Ulta Beauty Vulnerability Disclosur
 apex	ultimateears.com	2026-11-10		paying	Logitech
 apex	ultimateearsuniversity.com	2026-11-10		paying	Logitech
 apex	ultramobile.com	2026-11-10		paying	Ultra Mobile Public Bug Bounty Engagement; Ultra Mobile Public ECOMM 2025 Bug Bounty Engagement; Ultra Mobile Retailer Portal Bug Bounty Engagement
+apex	uma.me	2026-11-11		paying	Lightspark Public Bug Bounty
+apex	uma.money	2026-11-11		paying	Lightspark Public Bug Bounty
 apex	umbian.com	2026-11-10		non-paying	ResMed
 apex	umblr.com	2026-11-10		paying	Automattic
 apex	umbraco.com	2026-11-10		non-paying	Umbraco
@@ -17995,7 +18004,8 @@ apex	verdia.com	2026-11-10		non-paying	Henkel
 apex	verduurzamingindustrie.nl	2026-11-10		non-paying	Government of Netherlands
 apex	vergroendezorg.nl	2026-11-10		non-paying	Government of Netherlands
 apex	verical.com	2026-11-10		non-paying	Arrow Electronics VDP
-apex	veriff.com	2026-11-10		non-paying	Veriff
+apex	veriff.com	2026-11-10		paying	Veriff; Veriff Bug Bounty
+apex	veriff.me	2026-11-11		paying	Veriff Bug Bounty
 apex	verification-exchange.com.au	2026-11-10		non-paying	Equifax-vdp
 apex	verificationexchange.co.uk	2026-11-10		non-paying	Equifax-vdp
 apex	verificationexchange.com.au	2026-11-10		non-paying	Equifax-vdp
@@ -19569,6 +19579,7 @@ apps	1457958492	2026-11-10		paying	Meesho
 apps	1459319841	2026-11-10		non-paying	Monarch Money
 apps	1460176225	2026-11-10		non-paying	M&T Bank Vulnerability Disclosure
 apps	1463549581	2026-11-10		non-paying	CBRE
+apps	1467907532	2026-11-11		paying	Veriff Bug Bounty
 apps	1475021574	2026-11-10		paying	Amazon Vulnerability Research Program
 apps	1476615877	2026-11-10		paying	Logitech
 apps	1477299281	2026-11-10		paying	Wolt
@@ -20270,6 +20281,7 @@ apps	com.urbanclap.urbanclap	2026-11-10		paying	Urban Company
 apps	com.valmo.valmo	2026-11-10		paying	Meesho
 apps	com.valvesoftware.Steam	2026-11-10		paying	Valve
 apps	com.venmo	2026-11-10		paying	PayPal
+apps	com.veriff.demo	2026-11-11		paying	Veriff Bug Bounty
 apps	com.vilcsak.bitcoin2	2026-11-10		paying	Coinbase
 apps	com.vimeo.android.videoapp	2026-11-10		paying	Vimeo
 apps	com.vimeocreate.videoeditor.moviemaker	2026-11-10		paying	Vimeo
@@ -22350,7 +22362,7 @@ github	https://github.com/berachain/airdrop-contracts	2026-11-10		paying	Beracha
 github	https://github.com/berachain/beacon-kit	2026-11-10		paying	Berachain
 github	https://github.com/berachain/bera-reth	2026-11-10		paying	Berachain
 github	https://github.com/berachain/contracts	2026-11-10		paying	Berachain
-github	https://github.com/berriai/litellm	2026-11-10		non-paying	LiteLLM (VDP)
+github	https://github.com/berriai/litellm	2026-11-10	2026-11-11	non-paying	LiteLLM (VDP)
 github	https://github.com/better-auth/better-auth	2026-11-10		paying	Vercel
 github	https://github.com/bgd-labs/aave-collector-unification	2026-11-10		paying	AAVE
 github	https://github.com/bgd-labs/aave-governance-v3	2026-11-10		paying	AAVE
@@ -22367,6 +22379,7 @@ github	https://github.com/bitwarden/sdk-internal	2026-11-10		non-paying	Bitwarde
 github	https://github.com/bitwarden/server	2026-11-10		non-paying	Bitwarden
 github	https://github.com/brave	2026-11-10		paying	Brave Software
 github	https://github.com/brave-intl	2026-11-10		paying	Brave Software
+github	https://github.com/buildonspark/spark	2026-11-11		paying	Lightspark Public Bug Bounty
 github	https://github.com/bwillis/versioncake	2026-11-10		non-paying	Version Cake
 github	https://github.com/byteball/city-aa	2026-11-10		paying	Obyte
 github	https://github.com/byteball/coop-aa	2026-11-10		paying	Obyte
@@ -22772,6 +22785,12 @@ github	https://github.com/lidofinance/onchain-mon	2026-11-10		paying	Lido
 github	https://github.com/lidofinance/oz-merkle-tree	2026-11-10		paying	Lido
 github	https://github.com/lidofinance/stonks	2026-11-10		paying	Lido
 github	https://github.com/lidofinance/validator-ejector	2026-11-10		paying	Lido
+github	https://github.com/lightsparkdev/flutter-sdk	2026-11-11		non-paying	Lightspark Public Bug Bounty
+github	https://github.com/lightsparkdev/go-sdk	2026-11-11		non-paying	Lightspark Public Bug Bounty
+github	https://github.com/lightsparkdev/js-sdk	2026-11-11		non-paying	Lightspark Public Bug Bounty
+github	https://github.com/lightsparkdev/kotlin-sdk	2026-11-11		non-paying	Lightspark Public Bug Bounty
+github	https://github.com/lightsparkdev/lightspark-rs	2026-11-11		non-paying	Lightspark Public Bug Bounty
+github	https://github.com/lightsparkdev/python-sdk	2026-11-11		non-paying	Lightspark Public Bug Bounty
 github	https://github.com/linear-protocol/linear	2026-11-10		paying	linear-protocol
 github	https://github.com/liquid-bitcoin/bard	2026-11-10		paying	Lombard Finance
 github	https://github.com/logos-messaging/examples.waku.org	2026-11-10		paying	logos
@@ -23076,6 +23095,7 @@ github	https://github.com/sky-ecosystem/univ2-lp-oracle	2026-11-10		paying	Sky
 github	https://github.com/sky-ecosystem/univ2-pool-migrator	2026-11-10		paying	Sky
 github	https://github.com/sky-ecosystem/univ3-lp-oracle	2026-11-10		paying	Sky
 github	https://github.com/sky-ecosystem/usds	2026-11-10		paying	Sky
+github	https://github.com/sky-ecosystem/value-registry	2026-11-11		paying	Sky
 github	https://github.com/sky-ecosystem/vote-delegate	2026-11-10		paying	Sky
 github	https://github.com/slackhq/nebula	2026-11-10		paying	Slack
 github	https://github.com/smartcontractkit/ccip-owner-contracts	2026-11-10		paying	Chainlink
@@ -23157,6 +23177,7 @@ github	https://github.com/trufin-io/smart-contracts-solana-public	2026-11-10		pa
 github	https://github.com/trustwallet/wallet-core	2026-11-10		paying	Binance
 github	https://github.com/twilio	2026-11-10		paying	Twilio
 github	https://github.com/twilio-labs	2026-11-10		paying	Twilio
+github	https://github.com/uphold	2026-11-11		paying	Uphold
 github	https://github.com/usnistgov	2026-11-10		non-paying	U.S. Department of Commerce - Vulnerability Disclosure Program
 github	https://github.com/usstatedept	2026-11-10		non-paying	U.S. Department of State
 github	https://github.com/valvesoftware	2026-11-10		non-paying	Valve
@@ -24767,6 +24788,8 @@ maybe	sentral.com.au	2026-11-10		non-paying	Global Payments
 maybe	services.klaviyo.com	2026-11-10		paying	Klaviyo Managed Bug Bounty
 maybe	share.doppler.com	2026-11-10		paying	Doppler
 maybe	share.market	2026-11-10		non-paying	PhonePe
+maybe	shop.app	2026-11-11		paying	Shopify
+maybe	shop.com	2026-11-11		paying	Shopify
 maybe	shop.posti.fi	2026-11-10		paying	Posti Bug Bounty
 maybe	shopify.com	2026-11-10		paying	Shopify
 maybe	shopifykloud.com	2026-11-10		paying	Shopify
@@ -25525,6 +25548,7 @@ subdomains	8x8.my.site.com	2026-11-10		non-paying	8x8
 subdomains	99restaurants.gift.solutions	2026-11-10		non-paying	Fiserv
 subdomains	99restaurants.wgiftcard.com	2026-11-10		non-paying	Fiserv
 subdomains	99restaurantsstore.wgiftcard.com	2026-11-10		non-paying	Fiserv
+subdomains	9b10d44d-1499-4a2f-86bc-fda178acdfdc.striga.com	2026-11-11		paying	Lightspark Public Bug Bounty
 subdomains	_31266a5c69850f5586e1ab425437109f.benninghoven.com	2026-11-10		non-paying	John Deere
 subdomains	_acme-challenge.gm01.benninghoven-gm.com	2026-11-10		non-paying	John Deere
 subdomains	_dmarc.benninghoven-gm.com	2026-11-10		non-paying	John Deere
@@ -26285,6 +26309,7 @@ subdomains	albank.onlinebank.com	2026-11-10		non-paying	Fiserv
 subdomains	albank.originate.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	albanybank-p2.onlinebank.com	2026-11-10		non-paying	Fiserv
 subdomains	albanybank.onlinebank.com	2026-11-10		non-paying	Fiserv
+subdomains	alchemy.veriff.com	2026-11-11		paying	Veriff Bug Bounty
 subdomains	alcoacommunityfcu-admin.originate.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	alcoacommunityfcu-dc.cert.fec-dc.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	alcoacommunityfcu-dn.financial-net.com	2026-11-10		non-paying	Fiserv
@@ -26789,6 +26814,7 @@ subdomains	api-sandbox.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	api-sandbox.circle.com	2026-11-10		paying	Circle
 subdomains	api-sandbox.gocardless.com	2026-11-10		paying	GoCardless Bug Bounty Program
 subdomains	api-sandbox.idex.io	2026-11-10		paying	Audit Comp | IDEX
+subdomains	api-sandbox.uphold.com	2026-11-11		paying	Uphold
 subdomains	api-sb.experience.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	api-seasia.cbrehost.com	2026-11-10		non-paying	CBRE
 subdomains	api-secure.sports.yahoo.com	2026-11-10		paying	Yahoo Bug Bounty
@@ -27004,6 +27030,7 @@ subdomains	api.ea.login.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	api.editeur.preprod.monespacesante.fr	2026-11-10		paying	Mon Espace Santé (MES)
 subdomains	api.elcacademy.com	2026-11-10		non-paying	Esteé Lauder
 subdomains	api.enc.kape.com	2026-11-10		paying	ExpressVPN - Bug Bounty Program
+subdomains	api.enterprise.sandbox.uphold.com	2026-11-11		unknown	
 subdomains	api.epicgames.dev	2026-11-10		non-paying	Epic Games VDP
 subdomains	api.essity.com	2026-11-10		unknown	
 subdomains	api.ethereum.shapeshift.com	2026-11-10		paying	shapeshift
@@ -27021,6 +27048,7 @@ subdomains	api.figma.com	2026-11-10		paying	Figma
 subdomains	api.figment.io	2026-11-10		non-paying	Figment Vulnerability Disclosure Program
 subdomains	api.finishline.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	api.fishbowlapp.com	2026-11-10		paying	Glassdoor Managed Bug Bounty Engagement
+subdomains	api.flamingo-eu.veriff.com	2026-11-11		paying	Veriff Bug Bounty
 subdomains	api.fleetboard.com	2026-11-10		non-paying	Daimler Truck
 subdomains	api.flipster.io	2026-11-10		paying	flipster-web-and-mobile
 subdomains	api.flow.cbre.com	2026-11-10		non-paying	CBRE
@@ -27081,6 +27109,7 @@ subdomains	api.lansweeper.com	2026-11-10		paying	Lansweeper Bug Bounty Program
 subdomains	api.larksuite.com	2026-11-10		paying	Lark Technologies
 subdomains	api.leather.io	2026-11-10		paying	Leather
 subdomains	api.letsexchange.io	2026-11-10		paying	letsexchange-web-and-api-and-widget-swap-bridge-dex
+subdomains	api.lightspark.com	2026-11-11		paying	Lightspark Public Bug Bounty
 subdomains	api.linen.app	2026-11-10		paying	linen-api-and-mobile
 subdomains	api.linkedin.com	2026-11-10		paying	LinkedIn
 subdomains	api.loanbuilder.com	2026-11-10		paying	PayPal
@@ -27164,6 +27193,7 @@ subdomains	api.pluralonline.com	2026-11-10		paying	Pine Labs Bug Bounty Program
 subdomains	api.pluralpay.in	2026-11-10		paying	Pine Labs Bug Bounty Program
 subdomains	api.pns.hk	2026-11-10		paying	Watsons
 subdomains	api.poloniex.com	2026-11-10		paying	poloniex-web-and-api
+subdomains	api.portal.enterprise.uphold.com	2026-11-11		paying	Uphold
 subdomains	api.portofantwerp.com	2026-11-10		paying	Port of Antwerp-Bruges
 subdomains	api.portofantwerpbruges.com	2026-11-10		paying	Port of Antwerp-Bruges
 subdomains	api.posti.fi	2026-11-10		paying	Posti Bug Bounty
@@ -27214,6 +27244,7 @@ subdomains	api.row.pro	2026-11-10		paying	Faraday, Inc.
 subdomains	api.rtpapi-stg.nube.53.com	2026-11-10		non-paying	Fifth Third Bank VDP
 subdomains	api.rx.originenergy.com.au	2026-11-10		unknown	
 subdomains	api.ryadom.kz	2026-11-10		paying	inDrive
+subdomains	api.sandbox.topperpay.com	2026-11-11		paying	Uphold
 subdomains	api.savers.co.uk	2026-11-10		paying	Superdrug
 subdomains	api.sbx.polaris.csg.daimlertruck.com	2026-11-10		non-paying	Daimler Truck
 subdomains	api.seagate.com	2026-11-10		non-paying	Seagate VDP
@@ -27305,10 +27336,12 @@ subdomains	api.uat.ccid.neustar.biz	2026-11-10		non-paying	TransUnion LLC
 subdomains	api.unity.com	2026-11-10		paying	Unity Technologies
 subdomains	api.unleashed.be	2026-11-10		paying	Mobile Vikings
 subdomains	api.upwork.com	2026-11-10		unknown	
+subdomains	api.us.veriff.me	2026-11-11		paying	Veriff Bug Bounty
 subdomains	api.us1.fga.dev	2026-11-10		paying	Auth0 by Okta
 subdomains	api.usaa.com	2026-11-10		paying	USAA
 subdomains	api.vault.chiatest.net	2026-11-10		paying	Chia Network
 subdomains	api.vectranetworks.com	2026-11-10		non-paying	Vectra AI, Inc. (Response)
+subdomains	api.veriff.me	2026-11-11		paying	Veriff Bug Bounty
 subdomains	api.vetro.org	2026-11-10		non-paying	Hemi Labs VDP
 subdomains	api.vhx.tv	2026-11-10		paying	Vimeo
 subdomains	api.vimeo.com	2026-11-10		paying	Vimeo
@@ -27577,6 +27610,7 @@ subdomains	app.leather.io	2026-11-10		paying	Leather
 subdomains	app.lemcal.com	2026-11-10		non-paying	lemlist
 subdomains	app.lemlist.com	2026-11-10		non-paying	lemlist
 subdomains	app.lemwarm.com	2026-11-10		non-paying	lemlist
+subdomains	app.lightspark.com	2026-11-11		paying	Lightspark Public Bug Bounty
 subdomains	app.link.com	2026-11-10		paying	Stripe
 subdomains	app.livenation.com	2026-11-10		paying	Live Nation
 subdomains	app.liveplan.com	2026-11-10		non-paying	Palo Alto Software
@@ -27634,6 +27668,7 @@ subdomains	app.routerprotocol.com	2026-11-10		paying	router-web
 subdomains	app.s02.callsign.com	2026-11-10		non-paying	Callsign
 subdomains	app.safeswap.io	2026-11-10		paying	safeswap-app
 subdomains	app.saltlabs.com	2026-11-10		paying	Chime Managed Bug Bounty Engagement
+subdomains	app.sandbox.topperpay.com	2026-11-11		paying	Uphold
 subdomains	app.savers.co.uk	2026-11-10		paying	Superdrug
 subdomains	app.scaleft.com	2026-11-10		paying	Okta
 subdomains	app.securehostedpayments.com	2026-11-10		non-paying	Fiserv
@@ -27679,6 +27714,7 @@ subdomains	app.ticketmaster.com.mx	2026-11-10		paying	Live Nation
 subdomains	app.ticketmaster.eu	2026-11-10		paying	Live Nation
 subdomains	app.ticketmaster.ie	2026-11-10		paying	Live Nation
 subdomains	app.tweethunter.io	2026-11-10		non-paying	lemlist
+subdomains	app.uma.money	2026-11-11		paying	Lightspark Public Bug Bounty
 subdomains	app.vetro.org	2026-11-10		non-paying	Hemi Labs VDP
 subdomains	app.watsons.com.tr	2026-11-10		paying	Watsons
 subdomains	app.web.com	2026-11-10		paying	Web.com Bug Bounty
@@ -33491,6 +33527,7 @@ subdomains	developers.reddit.com	2026-11-10		paying	Reddit
 subdomains	developers.retail.lightspeed.app	2026-11-10		paying	Lightspeed Retail
 subdomains	developers.tiktok.com	2026-11-10		paying	TikTok
 subdomains	developers.tw.coupangcorp.com	2026-11-10		paying	Coupang Taiwan
+subdomains	developers.veriff.me	2026-11-11		paying	Veriff Bug Bounty
 subdomains	developerstudio.fiserv.com	2026-11-10		non-paying	Fiserv
 subdomains	development.gallileo-frankfurt.com	2026-11-10		non-paying	CBRE
 subdomains	development.pixel-patch.sentera.com	2026-11-10		non-paying	John Deere
@@ -33882,6 +33919,7 @@ subdomains	docs.nebius.com	2026-11-10		non-paying	Nebius AI Vulnerability Disclo
 subdomains	docs.newrelic.com	2026-11-10		paying	New Relic Public Bug Bounty Program
 subdomains	docs.nextcloud.com	2026-11-10		non-paying	Nextcloud
 subdomains	docs.optimism.io	2026-11-10		paying	Optimism
+subdomains	docs.optimuscards.com	2026-11-11		non-paying	Uphold
 subdomains	docs.passwordless.dev	2026-11-10		non-paying	Bitwarden
 subdomains	docs.redoxengine.com	2026-11-10		paying	Redox
 subdomains	docs.redstone.finance	2026-11-10		paying	redstone-web
@@ -33891,8 +33929,10 @@ subdomains	docs.superhuman.com	2026-11-10		paying	Superhuman (formerly Grammarly
 subdomains	docs.sushi.com	2026-11-10		paying	SushiSwap
 subdomains	docs.tempus-ex.com	2026-11-10		paying	Infinite Athlete
 subdomains	docs.tokenfactory.nebius.com	2026-11-10		non-paying	Nebius AI Vulnerability Disclosure
+subdomains	docs.topperpay.com	2026-11-11		paying	Uphold
 subdomains	docs.tothemoon.com	2026-11-10		paying	tothemoon-web
 subdomains	docs.trammellcrow.com	2026-11-10		non-paying	CBRE
+subdomains	docs.uphold.com	2026-11-11		paying	Uphold
 subdomains	docs.worldpay.com	2026-11-10		non-paying	Worldpay
 subdomains	docsite.vistarmedia.com	2026-11-10		paying	T-Mobile
 subdomains	docstest-ags.cbreglobalinvestors.com	2026-11-10		non-paying	CBRE
@@ -37183,6 +37223,7 @@ subdomains	grantcountystatebank-p2.onlinebank.com	2026-11-10		non-paying	Fiserv
 subdomains	grantcountystatebank.architect-cert.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	grantcountystatebank.onlinebank.com	2026-11-10		non-paying	Fiserv
 subdomains	graphql.acorns.com	2026-11-10		paying	Acorns Grow, Inc.
+subdomains	graphql.sandbox.topperpay.com	2026-11-11		unknown	
 subdomains	graphql.seek.com	2026-11-10		paying	SEEK
 subdomains	graphsync-cons.services.wirtgen-group.com	2026-11-10		non-paying	John Deere
 subdomains	graphsync.services.wirtgen-group.com	2026-11-10		non-paying	John Deere
@@ -37649,6 +37690,7 @@ subdomains	help.redoxengine.com	2026-11-10		paying	Redox
 subdomains	help.seleritycorp.com	2026-11-10		non-paying	ION Group
 subdomains	help.semtech.com	2026-11-10		non-paying	Semtech
 subdomains	help.service.motion.abb.com.cn	2026-11-10		non-paying	ABB Information Systems Ltd
+subdomains	help.shop.app	2026-11-11		paying	Shopify
 subdomains	help.sketchfab.com	2026-11-10		non-paying	Epic Games
 subdomains	help.starlingbank.com	2026-11-10		non-paying	Starling Bank VDP
 subdomains	help.steampowered.com	2026-11-10		paying	Valve
@@ -37845,6 +37887,7 @@ subdomains	honeywellfcu-dn.financial-net.com	2026-11-10		non-paying	Fiserv
 subdomains	honeywellfcu.vbwebservices.com	2026-11-10		non-paying	Fiserv
 subdomains	hongkongcms.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	honolulu.preview.cbre.com	2026-11-10		non-paying	CBRE
+subdomains	hooks.striga.com	2026-11-11		unknown	
 subdomains	hoop.nba.com	2026-11-10		paying	NBA Public Bug Bounty
 subdomains	hoopsfortroops.nba.com	2026-11-10		paying	NBA Public Bug Bounty
 subdomains	hopechemfcu.vbwebservices.com	2026-11-10		non-paying	Fiserv
@@ -39810,6 +39853,7 @@ subdomains	link.checkfreepay.com	2026-11-10		non-paying	Fiserv
 subdomains	link.pr.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	link.services.wirtgen-group.com	2026-11-10		non-paying	John Deere
 subdomains	link.tw.coupang.com	2026-11-10		paying	Coupang Taiwan
+subdomains	link.uma.me	2026-11-11		paying	Lightspark Public Bug Bounty
 subdomains	linkdepagamento.sicredi.com.br	2026-11-10		non-paying	Fiserv
 subdomains	links.baldor.com	2026-11-10		non-paying	ABB Information Systems Ltd
 subdomains	links.estee.com	2026-11-10		non-paying	Esteé Lauder
@@ -40291,6 +40335,7 @@ subdomains	louisianausa.originate.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	lounge.pinelabs.com	2026-11-10		unknown	
 subdomains	louviers-dc.cert.fec-dc.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	louviers-dn.financial-net.com	2026-11-10		non-paying	Fiserv
+subdomains	louvre.veriff.me	2026-11-11		paying	Veriff Bug Bounty
 subdomains	lovpligtig.intego.dk	2026-11-10		non-paying	CBRE
 subdomains	low-voltage-application.configurator.abb.com	2026-11-10		non-paying	ABB Information Systems Ltd
 subdomains	lowellmefcu-dc.cert.fec-dc.fiservapps.com	2026-11-10		non-paying	Fiserv
@@ -40522,6 +40567,7 @@ subdomains	mage01.mydevices.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	magento.gallileo-frankfurt.com	2026-11-10		non-paying	CBRE
 subdomains	maggianos.wgiftcard.com	2026-11-10		non-paying	Fiserv
 subdomains	maggianosstore.wgiftcard.com	2026-11-10		non-paying	Fiserv
+subdomains	magic.veriff.me	2026-11-11		paying	Veriff Bug Bounty
 subdomains	magicinfo.ca.abb.com	2026-11-10		non-paying	ABB Information Systems Ltd
 subdomains	magnolia.ca.essd.northgrum.com	2026-11-10		non-paying	DIB-VDP
 subdomains	magnolia.jetblue.com	2026-11-10		non-paying	JetBlue
@@ -45087,6 +45133,7 @@ subdomains	portal.cbre.fr	2026-11-10		non-paying	CBRE
 subdomains	portal.cbreesi.com	2026-11-10		non-paying	CBRE
 subdomains	portal.cert.fec-frms.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	portal.coldrivertax.com	2026-11-10		non-paying	CBRE
+subdomains	portal.enterprise.uphold.com	2026-11-11		paying	Uphold
 subdomains	portal.exoscale.com	2026-11-10		paying	Exoscale Bug Bounty
 subdomains	portal.fiserv.dev	2026-11-10		non-paying	Fiserv
 subdomains	portal.gallileo-frankfurt.com	2026-11-10		non-paying	CBRE
@@ -47173,6 +47220,7 @@ subdomains	sandbox.newline53.com	2026-11-10		non-paying	Fifth Third Bank VDP
 subdomains	sandbox.secure.checkout.visa.com	2026-11-10		paying	Visa
 subdomains	sandbox.securegateway.com	2026-11-10		paying	ALSCO
 subdomains	sandbox.spark.ai	2026-11-10		non-paying	John Deere
+subdomains	sandbox.striga.com	2026-11-11		paying	Lightspark Public Bug Bounty
 subdomains	sandbox.vintedgo.com	2026-11-10		paying	Vinted Bug Bounty
 subdomains	sandbox.zimpler.net	2026-11-10		non-paying	TrueLayer VDP
 subdomains	sandboxapi.deere.com	2026-11-10		non-paying	John Deere
@@ -49072,6 +49120,8 @@ subdomains	static.mgm.mo	2026-11-10		paying	MGM China Holdings Limited Managed B
 subdomains	static.nebius.com	2026-11-10		non-paying	Nebius AI Vulnerability Disclosure
 subdomains	static.spacespot.com	2026-11-10		non-paying	CBRE
 subdomains	static.usaa.com	2026-11-10		paying	USAA
+subdomains	station.veriff.com	2026-11-11		paying	Veriff Bug Bounty
+subdomains	stationapi.veriff.com	2026-11-11		paying	Veriff Bug Bounty
 subdomains	stationerycreditunion-admin.originate.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	stationerycreditunion.originate.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	stationerycreditunion.vbwebservices.com	2026-11-10		non-paying	Fiserv
@@ -50162,6 +50212,7 @@ subdomains	tfe.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	tfe.cloudeng.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	tfffcu-dc.cert.fec-dc.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	tfffcu-dn.financial-net.com	2026-11-10		non-paying	Fiserv
+subdomains	tfr-sandbox.striga.com	2026-11-11		paying	Lightspark Public Bug Bounty
 subdomains	tfs.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	tgifridays.wgiftcard.com	2026-11-10		non-paying	Fiserv
 subdomains	tgifridaysstore.wgiftcard.com	2026-11-10		non-paying	Fiserv
@@ -51115,6 +51166,7 @@ subdomains	uatbusinesscashcard.rbs.co.uk	2026-11-10		non-paying	Fiserv
 subdomains	uatbusinesscashcard.ulsterbank.co.uk	2026-11-10		non-paying	Fiserv
 subdomains	uatcadm.locator.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	uatcbre-spain.uat.cbre.eu	2026-11-10		non-paying	CBRE
+subdomains	uatcms.optimuscards.com	2026-11-11		paying	Uphold
 subdomains	uatcompass.cbre.com.au	2026-11-10		non-paying	CBRE
 subdomains	uatcorelogicapi.nonprodtops.cbre.co.nz	2026-11-10		non-paying	CBRE
 subdomains	uatcorelogicapi.nonprodtops.cbre.com.au	2026-11-10		non-paying	CBRE
@@ -52288,6 +52340,7 @@ subdomains	wailukufcu-dn.financial-net.com	2026-11-10		non-paying	Fiserv
 subdomains	wailukufcu.originate.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	wakarusavlycu-dc.cert.fec-dc.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	wakarusavlycu-dn.financial-net.com	2026-11-10		non-paying	Fiserv
+subdomains	wallet-sandbox.uphold.com	2026-11-11		paying	Uphold
 subdomains	wallet.blofin.com	2026-11-10		unknown	
 subdomains	wallet.cbre.es	2026-11-10		non-paying	CBRE
 subdomains	wallet.cex.io	2026-11-10		paying	cex-dot-io-web-and-mobile
@@ -54329,7 +54382,7 @@ subdomains	www.forrent.com	2026-11-10		non-paying	CoStar Vulnerability Disclosur
 subdomains	www.forrentuniversity.com	2026-11-10		non-paying	CoStar Vulnerability Disclosure Engagement
 subdomains	www.fortress.com.hk	2026-11-10		paying	Watsons
 subdomains	www.forumanalytics.com	2026-11-10		non-paying	CBRE
-subdomains	www.fotocasa.es	2026-11-10		non-paying	Adevinta
+subdomains	www.fotocasa.es	2026-11-10	2026-11-11	non-paying	Adevinta
 subdomains	www.fountainbridgesouth.com	2026-11-10		non-paying	CBRE
 subdomains	www.fountainbridgesouth.net	2026-11-10		non-paying	CBRE
 subdomains	www.fountainbridgesouth.org	2026-11-10		non-paying	CBRE
@@ -55241,6 +55294,7 @@ subdomains	www.oppo.com	2026-11-10		unknown
 subdomains	www.opposhop.cn	2026-11-10		paying	OPPO
 subdomains	www.optimism.io	2026-11-10		paying	Optimism
 subdomains	www.optimizer.greenqa.cbre.com	2026-11-10		non-paying	CBRE
+subdomains	www.optimuscards.com	2026-11-11		non-paying	Uphold
 subdomains	www.optus.com.au	2026-11-10		non-paying	Optus Vulnerability Disclosure Program
 subdomains	www.oreo.com	2026-11-10		non-paying	Mondelēz International
 subdomains	www.oreofun.se	2026-11-10		non-paying	Mondelēz International
@@ -55572,6 +55626,7 @@ subdomains	www.saferproducts.gov	2026-11-10		non-paying	Consumer Product Safety 
 subdomains	www.safetyvideos.gov	2026-11-10		non-paying	U.S. Chemical Safety and Hazard Investigation Board - Vulnerability Disclosure Program
 subdomains	www.saltinesoffer.com	2026-11-10		non-paying	Mondelēz International
 subdomains	www.samenfittorfs.be	2026-11-10		paying	Torfs
+subdomains	www.sandbox.striga.com	2026-11-11		unknown	
 subdomains	www.santanderuk.locator.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	www.santos.com	2026-11-10		non-paying	Santos Vulnerability Disclosure Program
 subdomains	www.saphotonics.com	2026-11-10		non-paying	DIB-VDP
@@ -55934,6 +55989,7 @@ subdomains	www.toobit.com	2026-11-10		paying	toobit-web-and-mobile
 subdomains	www.toofacedcosmetic.com	2026-11-10		non-paying	Esteé Lauder
 subdomains	www.topdesk.cbre.eu	2026-11-10		non-paying	CBRE
 subdomains	www.topechelon.com	2026-11-10		non-paying	Top Echelon Software
+subdomains	www.topperpay.com	2026-11-11		paying	Uphold
 subdomains	www.tops2-lb-prod.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	www.topsnet.cbre.com.hk	2026-11-10		non-paying	CBRE
 subdomains	www.torfs.be	2026-11-10		paying	Torfs
@@ -56080,6 +56136,7 @@ subdomains	www.unimil.com.br	2026-11-10		non-paying	John Deere
 subdomains	www.uniongaming.com	2026-11-10		non-paying	CBRE
 subdomains	www.universalorlandovacations.com	2026-11-10		paying	Hyatt Hotels
 subdomains	www.unscreen.com	2026-11-10		paying	Kaleido
+subdomains	www.uphold.com	2026-11-11		paying	Uphold
 subdomains	www.upstay.tech	2026-11-10		non-paying	Plusgrade Vulnerability Disclosure Program
 subdomains	www.upwork.com	2026-11-10		paying	Upwork
 subdomains	www.urbanclap.com	2026-11-10		paying	Urban Company
@@ -56145,11 +56202,13 @@ subdomains	www.vasapi-stg.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	www.vasapi-training.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	www.vasapi-uat.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	www.vasapi.cbre.com	2026-11-10		non-paying	CBRE
+subdomains	www.vault.striga.eu	2026-11-11		unknown	
 subdomains	www.vavmc.com	2026-11-10		non-paying	Department of Veterans Affairs
 subdomains	www.vctx.mainstreamsasp.com	2026-11-10		non-paying	CBRE
 subdomains	www.vdsext.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	www.velvettissues.com	2026-11-10		non-paying	Essity
 subdomains	www.venturatvos.com	2026-11-10		paying	The Trade Desk
+subdomains	www.veriff.com	2026-11-11		paying	Veriff Bug Bounty
 subdomains	www.verisign.com	2026-11-10		paying	Verisign Bug Bounty
 subdomains	www.veteranscrisisline.net	2026-11-10		non-paying	Department of Veterans Affairs
 subdomains	www.vets.gov	2026-11-10		non-paying	Department of Veterans Affairs
@@ -56903,6 +56962,7 @@ urls	https://api-dev.finnair.com/d	2026-11-10		non-paying	Finnair Vulnerability 
 urls	https://api-graphql-lambda.prod.zoopla.co.uk/graphql	2026-11-10		non-paying	Zoopla Vulnerability Disclosure Engagement
 urls	https://api-hr-zag-1.exoscale.com/v2	2026-11-10		paying	Exoscale Bug Bounty
 urls	https://api-preprod.finnair.com/d	2026-11-10		non-paying	Finnair Vulnerability Disclosure
+urls	https://api-sandbox.uphold.com/graphql	2026-11-11		paying	Uphold
 urls	https://api.0x.org/gasless	2026-11-10		paying	0x
 urls	https://api.0x.org/swap	2026-11-10		paying	0x
 urls	https://api.6sense.com/docs	2026-11-10		non-paying	6sense VDP
@@ -56914,6 +56974,12 @@ urls	https://api.cbre.com:443/t/digitaltech_us_edp/vantageanalytics/gcp/prod/v1/
 urls	https://api.cbre.com:443/token	2026-11-10		non-paying	CBRE
 urls	https://api.drogas.lt/api/v2/api-docs	2026-11-10		paying	Watsons
 urls	https://api.drogas.lv/api/v2/api-docs	2026-11-10		paying	Watsons
+urls	https://api.enterprise.sandbox.uphold.com/core	2026-11-11		paying	Uphold
+urls	https://api.enterprise.sandbox.uphold.com/kyc-connector	2026-11-11		paying	Uphold
+urls	https://api.enterprise.sandbox.uphold.com/market-pulse	2026-11-11		paying	Uphold
+urls	https://api.enterprise.sandbox.uphold.com/topper	2026-11-11		paying	Uphold
+urls	https://api.enterprise.sandbox.uphold.com/trading	2026-11-11		paying	Uphold
+urls	https://api.enterprise.sandbox.uphold.com/widgets	2026-11-11		paying	Uphold
 urls	https://api.essity.com/identifi/logger/v1	2026-11-10		non-paying	Essity
 urls	https://api.essity.com/tvd/ble-device-install	2026-11-10		non-paying	Essity
 urls	https://api.essity.com/tvd/sales-guide	2026-11-10		non-paying	Essity
@@ -57482,6 +57548,7 @@ urls	https://gist.github.com/RedBullSecurity/3eb88debcb01759eccf65ec2b799b340	20
 urls	https://gitlab.torproject.org/tpo/applications/tor-browser	2026-11-10		paying	Tor
 urls	https://goldenexperience.ferrero-campaigns.com/bg/bg/xp/goldenexperience	2026-11-10		non-paying	Ferrero
 urls	https://gotit.net.au/dosage-calculations	2026-11-10		non-paying	Cengage VDP
+urls	https://graphql.sandbox.topperpay.com/graphql	2026-11-11		paying	Uphold
 urls	https://hackerone.com/mcp	2026-11-10		paying	HackerOne
 urls	https://help.formassembly.com/help/formassembly-mobile-app-for-ios	2026-11-10		non-paying	FormAssembly
 urls	https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/client.htm	2026-11-10		paying	Okta
@@ -57494,6 +57561,7 @@ urls	https://hln.be/login	2026-11-10		paying	Het Laatste Nieuws
 urls	https://hln.be/registreren	2026-11-10		paying	Het Laatste Nieuws
 urls	https://hln.be/service	2026-11-10		paying	Het Laatste Nieuws
 urls	https://holdmail.usps.com/holdmail	2026-11-10		non-paying	USPS - United States Postal Service
+urls	https://hooks.striga.com/core	2026-11-11		paying	Lightspark Public Bug Bounty
 urls	https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2	2026-11-10		paying	Lightspeed Hospitality
 urls	https://hub.docker.com/r/rundeck/rundeck	2026-11-10		non-paying	PagerDuty
 urls	https://hub.docker.com/r/rundeckpro/enterprise	2026-11-10		non-paying	PagerDuty
@@ -57790,6 +57858,9 @@ urls	https://rpc.hemi.network/wsrpc	2026-11-10		non-paying	Hemi Labs VDP
 urls	https://rsenablers.live.web.corebridgefinancial.com/valic/nonparticipant/auth/public/login	2026-11-10		non-paying	Corebridge Financial
 urls	https://safari-extensions.apple.com/details	2026-11-10		non-paying	Bitwarden
 urls	https://saferproducts.gov/efiling	2026-11-10		non-paying	Consumer Product Safety Commission (CPSC) Vulnerability Disclosure Program
+urls	https://sandbox.striga.com/api/v0	2026-11-11		paying	Lightspark Public Bug Bounty
+urls	https://sandbox.striga.com/api/v1	2026-11-11		paying	Lightspark Public Bug Bounty
+urls	https://sandbox.striga.com/backoffice	2026-11-11		paying	Lightspark Public Bug Bounty
 urls	https://scanandwinpromo.theofferclub.in/administrator/auth	2026-11-10		non-paying	Ferrero
 urls	https://sdk-h1.unico.io/createprocess	2026-11-10		paying	Unico IDtech
 urls	https://sdk-h1.unico.io/docs	2026-11-10		paying	Unico IDtech
@@ -58370,6 +58441,7 @@ urls	https://www.saba-centroamerica.com/hn	2026-11-10		non-paying	Essity
 urls	https://www.saba-centroamerica.com/ni	2026-11-10		non-paying	Essity
 urls	https://www.saba-centroamerica.com/pa	2026-11-10		non-paying	Essity
 urls	https://www.saba-centroamerica.com/sv	2026-11-10		non-paying	Essity
+urls	https://www.sandbox.striga.com/api/v1	2026-11-11		paying	Lightspark Public Bug Bounty
 urls	https://www.sbb.ch/en/help-and-contact/products-services/apps/sbb-mobile-sbb-preview/sbb-mobile-app.html	2026-11-10		paying	SBB - Swiss Federal Railways
 urls	https://www.simscale.com/blog	2026-11-10		non-paying	SimScale
 urls	https://www.simscale.com/dashboard	2026-11-10		paying	SimScale
@@ -58484,6 +58556,7 @@ urls	https://www.upwork.com/api	2026-11-10		paying	Upwork
 urls	https://www.us.jll.com/en/locations	2026-11-10		non-paying	JLL Vulnerability Disclosure Engagement
 urls	https://www.user.quintoandar.com.br/admin	2026-11-10		paying	QuintoAndar Managed Bug Bounty Engagement
 urls	https://www.usps.com/postalone	2026-11-10		non-paying	USPS - United States Postal Service
+urls	https://www.vault.striga.eu/web/sandbox	2026-11-11		paying	Lightspark Public Bug Bounty
 urls	https://www.vfsglobalcustomerexperience.com/CustomerFeedback/GeneralFeedback/Index	2026-11-10		paying	VFS Global Bug Bounty Program
 urls	https://www.victoriassecret.com/us	2026-11-10		non-paying	Victoria's Secret Vulnerability Disclosure Engagement
 urls	https://www.virtru.com/install	2026-11-10		non-paying	Virtru Vulnerability Disclosure Program
@@ -61665,6 +61738,7 @@ wildcards	ophthalmicdirect.ca	2026-11-10		non-paying	McKesson Vulnerability Disc
 wildcards	opr.news	2026-11-10		paying	Opera Public Bug Bounty
 wildcards	opsgenie.com	2026-11-10		paying	Opsgenie
 wildcards	optics1.com	2026-11-10		non-paying	DIB-VDP
+wildcards	optimuscards.com	2026-11-11		non-paying	Uphold
 wildcards	optus.com.au	2026-11-10		paying	Optus Managed Bug Bounty
 wildcards	opx.tc	2026-11-10		non-paying	Henkel
 wildcards	orbia.com	2026-11-10		non-paying	Orbia Responsible Disclosure
@@ -62380,6 +62454,7 @@ wildcards	shopify.io	2026-11-10		paying	Shopify
 wildcards	shopifycloud.com	2026-11-10		paying	Shopify
 wildcards	shopifycs.com	2026-11-10		paying	Shopify
 wildcards	shopifykloud.com	2026-11-10		paying	Shopify
+wildcards	shopifysvc.com	2026-11-11		paying	Shopify
 wildcards	shoproyalcanin.com	2026-11-10		non-paying	Mars
 wildcards	shuffle.com	2026-11-10		non-paying	Shuffle Vulnerability Disclosure Program
 wildcards	shuffle.us	2026-11-10		non-paying	Shuffle Vulnerability Disclosure Program
@@ -62801,6 +62876,7 @@ wildcards	tools.thefork.tech	2026-11-10		paying	TheFork Managed Bug Bounty Engag
 wildcards	toolsforhumanity.com	2026-11-10		paying	Tools for Humanity
 wildcards	toolsportal.zebra.com	2026-11-10		non-paying	Zebra VDP
 wildcards	topgolf.com.au	2026-11-10		non-paying	Village Roadshow Vulnerability Disclosure Program
+wildcards	topperpay.com	2026-11-11		paying	Uphold
 wildcards	torneoaguila.co	2026-11-10		non-paying	AB InBev Vulnerability Disclosure Program
 wildcards	tospotify.com	2026-11-10		paying	Spotify
 wildcards	tostitos.com	2026-11-10		non-paying	PepsiCo VDP
@@ -62998,6 +63074,7 @@ wildcards	upc.cz	2026-11-10		non-paying	Vodafone
 wildcards	upc.hu	2026-11-10		non-paying	Vodafone
 wildcards	updev.net	2026-11-10		non-paying	Bendigo Bank Responsible Disclosure Program
 wildcards	upgrd.co	2026-11-10		non-paying	Plusgrade Vulnerability Disclosure Program
+wildcards	uphold.com	2026-11-11		paying	Uphold
 wildcards	upmoney.com.au	2026-11-10		non-paying	Bendigo Bank Responsible Disclosure Program
 wildcards	ups-mi.com	2026-11-10		non-paying	UPS VDP
 wildcards	ups-tms.com	2026-11-10		non-paying	UPS VDP
@@ -63073,6 +63150,7 @@ wildcards	vercel.com	2026-11-10		paying	Vercel
 wildcards	vercel.live	2026-11-10		paying	Vercel
 wildcards	verdia.com	2026-11-10		non-paying	Henkel
 wildcards	verical.com	2026-11-10		non-paying	Arrow Electronics VDP
+wildcards	veriff.com	2026-11-11		paying	Veriff Bug Bounty
 wildcards	verily.com	2026-11-10		paying	Verily Life Sciences
 wildcards	verilyme.com	2026-11-10		paying	Verily Life Sciences
 wildcards	verisign-grs.com	2026-11-10		paying	Verisign Bug Bounty

@@ -497,6 +497,7 @@ id	asset	value
 153fc1d85d	subdomains	id.atlassian.com
 153fc1d85d	text	Any app URLs that contain "staging", "stg", "dev" or "ngrok"
 153fc1d85d	wildcards	resolution.de
+15aafe25d2	urls	https://station.veriff.com/config
 15e79f1831	github	https://github.com/0xpolygon/heimdall-v2
 15e79f1831	github	https://github.com/maticnetwork/bor
 15e79f1831	github	https://github.com/maticnetwork/contracts
@@ -704,12 +705,12 @@ id	asset	value
 24c03103ed	subdomains	status.fetlife.com
 24c03103ed	text	Requests to our ad endpoints (on any server): `/ads/serve`, `/ads/application_serve*`, and `/ads/click/*`
 24c03103ed	wildcards	bitlove.co
-24fec504ce	apex	shopifycompass.com
-24fec504ce	subdomains	academy.shopify.com
+24fec504ce	apex	shopify.photo
+24fec504ce	apex	shopifyevents.com
+24fec504ce	apex	shopifypartnerships.com
 24fec504ce	subdomains	cdn.shopify.com
 24fec504ce	subdomains	community.shopify.com
 24fec504ce	subdomains	community.shopify.dev
-24fec504ce	subdomains	investors.shopify.com
 24fec504ce	subdomains	livechat.shopify.com
 24fec504ce	subdomains	supplier-portal.shopifycloud.com
 24fec504ce	text	Other
@@ -1062,6 +1063,7 @@ id	asset	value
 37662c1a3d	wildcards	wirewax.com
 37e030f3ad	urls	https://mailing.swisspass.ch/r/wxmc/swisspass/{20-chars}/{20-chars}/{13-chars}/{26-chars
 37e030f3ad	urls	https://order.info.sbb.ch/r/wxmc/sbb/{20-chars}/{20-chars}/{13-chars}/{26-chars
+37e030f3ad	wildcards	event.sbb.ch
 387cd90e1a	subdomains	actie.hln.be
 387cd90e1a	urls	https://hln.be/service
 3954bbcbff	github	https://github.com/aptos-labs/aptos-core
@@ -2935,6 +2937,7 @@ id	asset	value
 914d1d18cc	subdomains	cmm01.sl.zebra.com
 914d1d18cc	subdomains	healthcare-ws.virtualzebra.com
 914d1d18cc	subdomains	healthcare.virtualzebra.com
+914d1d18cc	subdomains	vod.zebra.com
 914d1d18cc	subdomains	www.comtecis.com
 914d1d18cc	subdomains	www.matrox.com
 914d1d18cc	subdomains	www.multispectral.com
@@ -3025,6 +3028,7 @@ id	asset	value
 92fa8e0b49	wildcards	criticalstack.com
 92fa8e0b49	wildcards	intelstack.com
 92fa8e0b49	wildcards	unitedincome.com
+93284c70ad	subdomains	support.lightspark.com
 937c4307f9	subdomains	future.portofantwerp.com
 937c4307f9	subdomains	future.portofantwerpbruges.com
 937c4307f9	subdomains	jobs.portofantwerp.com
@@ -3238,6 +3242,27 @@ id	asset	value
 9a794452f1	urls	https://www.loopnet.com/solutions/contact-us
 9a794452f1	urls	https://www.realtimeagent.com.au/wp-admin/admin-ajax.php
 9a794452f1	wildcards	onthemarket.com
+9ac8fc3a6c	subdomains	api.topperpay.com
+9ac8fc3a6c	subdomains	api.uphold.com
+9ac8fc3a6c	subdomains	app.topperpay.com
+9ac8fc3a6c	subdomains	cms.optimuscards.com
+9ac8fc3a6c	subdomains	status.uphold.com
+9ac8fc3a6c	subdomains	support-sandbox.uphold.com
+9ac8fc3a6c	subdomains	support-staging.topperpay.com
+9ac8fc3a6c	subdomains	support.topperpay.com
+9ac8fc3a6c	subdomains	support.uphold.com
+9ac8fc3a6c	subdomains	wallet.uphold.com
+9ac8fc3a6c	subdomains	www.uphodl.com
+9ac8fc3a6c	text	UpHODL
+9ac8fc3a6c	urls	https://api.enterprise.uphold.com/core
+9ac8fc3a6c	urls	https://api.enterprise.uphold.com/kyc-connector
+9ac8fc3a6c	urls	https://api.enterprise.uphold.com/market-pulse
+9ac8fc3a6c	urls	https://api.enterprise.uphold.com/topper
+9ac8fc3a6c	urls	https://api.enterprise.uphold.com/trading
+9ac8fc3a6c	urls	https://api.enterprise.uphold.com/widgets
+9ac8fc3a6c	urls	https://api.uphold.com/graphql
+9ac8fc3a6c	urls	https://graphql.topperpay.com/graphql
+9ac8fc3a6c	wildcards	uphodl.com
 9add68d55e	text	Anything that is not explicitely listed as part of the Scope
 9b123e6c11	subdomains	uconf.uat.unico.app
 9b123e6c11	wildcards	cadastro.uat.unico.app

@@ -1757,6 +1757,7 @@ lifeatspotify.com
 lifeinvader.com
 lifeomic.com
 lifeomic.life
+lightspark.com
 lightspeed.app
 lime.bike
 limeinternal.com
@@ -2328,6 +2329,7 @@ opsgenie.com
 optimism.io
 optimizely-edge.com
 optimizely.com
+optimuscards.com
 optus.com.au
 optus.net.au
 optusnet.com.au
@@ -2878,6 +2880,7 @@ sheingsp.com
 shffls.com
 shiseido.me
 shop.app
+shop.com
 shopify.com
 shopify.io
 shopify.plus
@@ -2886,6 +2889,7 @@ shopifycs.com
 shopifyinbox.com
 shopifyinc.com
 shopifykloud.com
+shopifysvc.com
 showmax.app
 showmax.com
 sidefx.com
@@ -3084,6 +3088,8 @@ stradivarius.com
 strata.markets
 strategie.agency
 streamlabs.com
+striga.com
+striga.eu
 stripchat.com
 stripe.com
 stripe.dev
@@ -3263,6 +3269,7 @@ tonscan.org
 toobit.com
 toolsforhumanity.com
 toom.de
+topperpay.com
 toppjirayut.com
 topx.one
 torfs.be
@@ -3364,6 +3371,8 @@ uk.com
 ultimateears.com
 ultimateearsuniversity.com
 ultramobile.com
+uma.me
+uma.money
 umblr.com
 umiloans.com.au
 underarmour.cn
@@ -3464,6 +3473,8 @@ verbalizeit.com
 vercel.app
 vercel.com
 vercel.live
+veriff.com
+veriff.me
 verily.com
 verilyme.com
 verisign-grs.com

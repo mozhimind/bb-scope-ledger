@@ -111,7 +111,6 @@ https://github.com/berachain/airdrop-contracts
 https://github.com/berachain/beacon-kit
 https://github.com/berachain/bera-reth
 https://github.com/berachain/contracts
-https://github.com/berriai/litellm
 https://github.com/better-auth/better-auth
 https://github.com/bgd-labs/aave-collector-unification
 https://github.com/bgd-labs/aave-governance-v3
@@ -128,6 +127,7 @@ https://github.com/bitwarden/sdk-internal
 https://github.com/bitwarden/server
 https://github.com/brave
 https://github.com/brave-intl
+https://github.com/buildonspark/spark
 https://github.com/bwillis/versioncake
 https://github.com/byteball/city-aa
 https://github.com/byteball/coop-aa
@@ -533,6 +533,12 @@ https://github.com/lidofinance/onchain-mon
 https://github.com/lidofinance/oz-merkle-tree
 https://github.com/lidofinance/stonks
 https://github.com/lidofinance/validator-ejector
+https://github.com/lightsparkdev/flutter-sdk
+https://github.com/lightsparkdev/go-sdk
+https://github.com/lightsparkdev/js-sdk
+https://github.com/lightsparkdev/kotlin-sdk
+https://github.com/lightsparkdev/lightspark-rs
+https://github.com/lightsparkdev/python-sdk
 https://github.com/linear-protocol/linear
 https://github.com/liquid-bitcoin/bard
 https://github.com/logos-messaging/examples.waku.org
@@ -837,6 +843,7 @@ https://github.com/sky-ecosystem/univ2-lp-oracle
 https://github.com/sky-ecosystem/univ2-pool-migrator
 https://github.com/sky-ecosystem/univ3-lp-oracle
 https://github.com/sky-ecosystem/usds
+https://github.com/sky-ecosystem/value-registry
 https://github.com/sky-ecosystem/vote-delegate
 https://github.com/slackhq/nebula
 https://github.com/smartcontractkit/ccip-owner-contracts
@@ -918,6 +925,7 @@ https://github.com/trufin-io/smart-contracts-solana-public
 https://github.com/trustwallet/wallet-core
 https://github.com/twilio
 https://github.com/twilio-labs
+https://github.com/uphold
 https://github.com/usnistgov
 https://github.com/usstatedept
 https://github.com/valvesoftware
