@@ -1,0 +1,82 @@
+# Daily Bug Bounty Domains - the scheduler for scripts/update_bb_domains.py (see that file's docstring).
+#
+# What happens: GitHub starts a fresh Ubuntu machine every day at 03:00 IST (or when you press "Run workflow"),
+# checks out this repo, runs the script (which rewrites data/, history/ and state/), commits the changes back to
+# the repo, and finally turns the run red if any source had a problem. No secrets are needed: the sources are public
+# and the commit uses the built-in GITHUB_TOKEN (that is what "permissions: contents: write" allows).
+name: Daily Bug Bounty Domains
+
+on:
+  schedule:
+    # 21:30 UTC = 03:00 IST (India has no daylight saving, so this never drifts)
+    - cron: "30 21 * * *"
+  workflow_dispatch:
+    inputs:
+      baseline:
+        description: "Baseline run: update the data but write no new/removed diffs (use once after changing the script)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+# Never run two updates at once (a manual run during the scheduled one would clash on git push)
+concurrency:
+  group: bb-domains
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    # The direct platform sources read hundreds of programs one by one (politely, with pauses) and run in parallel with
+    # a 15 minute budget each, so a normal run takes about 10-15 minutes; 60 is the safety net.
+    timeout-minutes: 60
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run aggregator
+        env:
+          BB_BASELINE: ${{ inputs.baseline && '1' || '' }}
+          # Optional API credentials for the direct platform sources (Settings -> Secrets and variables -> Actions).
+          # An unset secret arrives as an empty string and that source is simply skipped.
+          H1_USERNAME: ${{ secrets.H1_USERNAME }}
+          H1_TOKEN: ${{ secrets.H1_TOKEN }}
+          INTIGRITI_TOKEN: ${{ secrets.INTIGRITI_TOKEN }}
+          YWH_TOKEN: ${{ secrets.YWH_TOKEN }}
+          HACKENPROOF: ${{ secrets.HACKENPROOF }}
+          # BB_INCLUDE_PRIVATE: "1"   # also read PRIVATE programs of those accounts - ONLY in a private repository
+        run: python scripts/update_bb_domains.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # stage everything the script may have changed, including deleted files (old names, pruned history)
+          git add -A data history state
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            # commit message shows the number of new apexes / subdomains, e.g. "data: 2026-11-03 (+12 apex, +40 subdomains)"
+            NEW_A=$(wc -l < data/apex-new.txt)
+            NEW_S=$(wc -l < data/subdomains-new.txt)
+            git commit -m "data: $(date -u +%Y-%m-%d) (+${NEW_A} apex, +${NEW_S} subdomains)"
+            # if you pushed something meanwhile, replay today's data commit on top of it instead of failing
+            git pull --rebase --autostash
+            git push
+          fi
+
+      # Runs after the commit so the data is saved, but turns the run red (GitHub emails you)
+      # when a source failed or a list collapsed. The details are in data/failed-sources.txt.
+      - name: Fail loudly if a source had problems
+        run: |
+          if [ -s data/failed-sources.txt ]; then
+            echo "::error::Problems today - see data/failed-sources.txt"
+            cat data/failed-sources.txt
+            exit 1
+          fi
