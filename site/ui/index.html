@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Scope Ledger</title>
+<meta name="description" content="Bug bounty scope from every platform and self-hosted programs, updated daily.">
+<meta name="theme-color" content="#0F1B24">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%232B3AD9'/%3E%3Cpath d='M8 10h16M8 16h16M8 22h10' stroke='%23fff' stroke-width='2.6' stroke-linecap='round'/%3E%3Crect x='20' y='19.5' width='6' height='5' rx='1' fill='%23FFE14D'/%3E%3C/svg%3E">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<!-- No framework, no external files: style.css and four small scripts. Everything the page shows comes from /api/v1/ (see api.js docs page). -->
+<div class="app">
+  <aside class="rail" id="rail" aria-label="Main navigation">
+    <a class="brand" href="#/" aria-label="Scope Ledger, home">
+      <svg class="mark" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="7"/><path d="M8 10h16M8 16h16M8 22h10"/><rect class="hl" x="20" y="19.5" width="6" height="5" rx="1"/></svg>
+      <span>Scope Ledger</span>
+    </a>
+    <nav id="nav">
+      <a href="#/" data-nav="home"><i data-ic="home"></i>Overview</a>
+      <a href="#/check" data-nav="check"><i data-ic="search"></i>Check scope</a>
+      <a href="#/programs" data-nav="programs"><i data-ic="list"></i>Programs</a>
+      <a href="#/programs?hosting=self" data-nav="selfhosted"><i data-ic="house"></i>Self-hosted</a>
+      <a href="#/targets" data-nav="targets"><i data-ic="target"></i>Targets</a>
+      <a href="#/changes" data-nav="changes"><i data-ic="delta"></i>Changes</a>
+      <a href="#/insights" data-nav="insights"><i data-ic="chart"></i>Insights</a>
+      <a href="#/sources" data-nav="sources"><i data-ic="pulse"></i>Sources</a>
+      <a href="#/api" data-nav="api"><i data-ic="code"></i>API</a>
+    </nav>
+    <div class="rail-foot">
+      <div id="freshness" class="fresh" role="status"></div>
+      <div class="themes" role="group" aria-label="Colour theme">
+        <button type="button" data-theme-set="" aria-pressed="true" title="Follow the system"><i class="sw sys"></i>Auto</button>
+        <button type="button" data-theme-set="light" aria-pressed="false"><i class="sw lt"></i>Light</button>
+        <button type="button" data-theme-set="dark" aria-pressed="false"><i class="sw dk"></i>Dark</button>
+        <button type="button" data-theme-set="fiesta" aria-pressed="false" title="Fiesta: the colourful one"><i class="sw fi"></i>Fiesta</button>
+      </div>
+    </div>
+  </aside>
+  <div class="scrim" id="scrim"></div>
+
+  <header class="topbar">
+    <button type="button" class="icon" id="menuBtn" aria-label="Open menu" aria-controls="rail"><i data-ic="menu"></i></button>
+    <a class="brand sm" href="#/"><svg class="mark" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="7"/><path d="M8 10h16M8 16h16M8 22h10"/><rect class="hl" x="20" y="19.5" width="6" height="5" rx="1"/></svg><span>Scope Ledger</span></a>
+    <span id="topFresh" class="fresh"></span>
+  </header>
+
+  <main class="main" id="view" tabindex="-1" aria-live="polite"></main>
+
+  <nav class="tabbar" aria-label="Quick navigation">
+    <a href="#/" data-nav="home"><i data-ic="home"></i>Overview</a>
+    <a href="#/check" data-nav="check"><i data-ic="search"></i>Check</a>
+    <a href="#/programs" data-nav="programs"><i data-ic="list"></i>Programs</a>
+    <a href="#/targets" data-nav="targets"><i data-ic="target"></i>Targets</a>
+    <a href="#/changes" data-nav="changes"><i data-ic="delta"></i>Changes</a>
+  </nav>
+</div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<noscript><p style="padding:2rem">This page needs JavaScript. The plain lists are still available under <a href="api/v1/index.json">/api/v1/</a>.</p></noscript>
+<script src="core.js"></script>
+<script src="check.js"></script>
+<script src="pages.js"></script>
+<script src="pages2.js"></script>
+<script src="pages3.js"></script>
+</body>
+</html>

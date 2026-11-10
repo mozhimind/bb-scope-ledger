@@ -1,0 +1,69 @@
+# ==============================================================================
+# DENYLIST - CURRENTLY DISABLED
+# ==============================================================================
+# All domains coming from the sources are kept for now.
+#
+# Uncomment (or add) domains below only when you start active subdomain
+# enumeration on shared platforms. Until then, leave everything commented.
+#
+# One domain per line. Lines starting with # are ignored.
+# These will never appear in apex / subdomain / master lists.
+# ==============================================================================
+
+# amazonaws.com
+# cloudfront.net
+# azurewebsites.net
+# azure.com
+# github.io
+# github.com
+# githubusercontent.com
+# herokuapp.com
+# netlify.app
+# vercel.app
+# pages.dev
+# zendesk.com
+# atlassian.net
+# force.com
+# salesforce.com
+# okta.com
+# auth0.com
+# cloudflare.com
+# workers.dev
+# google.com
+# googleapis.com
+# gstatic.com
+# microsoft.com
+# office.com
+# sharepoint.com
+# hackerone.com
+# bugcrowd.com
+# intigriti.com
+# yeswehack.com
+# hackenproof.com
+# immunefi.com
+# federacy.com
+# medium.com
+# wordpress.com
+# blogger.com
+# fastly.net
+# akamaized.net
+# edgekey.net
+# edgesuite.net
+# cloudapp.azure.com
+# blob.core.windows.net
+# web.core.windows.net
+# azure-api.net
+# trafficmanager.net
+# g.cloud.com
+# appspot.com
+# firebaseapp.com
+# web.app
+# netlify.com
+# vercel.com
+# shopify.com
+# myshopify.com
+# statuspage.io
+# site24x7.com
+# newrelic.com
+# datadoghq.com
+# sentry.io

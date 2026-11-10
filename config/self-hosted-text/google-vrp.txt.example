@@ -1,0 +1,10 @@
+# program: Google VRP
+# url: https://bughunters.google.com/
+# bounty: paying
+# (Open the program page, Ctrl+A, Ctrl+C, paste everything below these three lines. Rename this file to google-vrp.txt.)
+In scope
+- *.google.com
+- *.youtube.com
+
+Out of scope
+- sandbox.google.com

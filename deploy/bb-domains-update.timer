@@ -1,0 +1,11 @@
+[Unit]
+Description=Daily bug bounty data run (03:00 Raspberry Pi time)
+
+[Timer]
+OnCalendar=*-*-* 03:00:00
+# if the Pi was off at 03:00, run once it is back
+Persistent=true
+RandomizedDelaySec=120
+
+[Install]
+WantedBy=timers.target

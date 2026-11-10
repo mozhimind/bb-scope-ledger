@@ -1,0 +1,19 @@
+[Unit]
+Description=Bug bounty domains - website and static API
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=@USER@
+WorkingDirectory=@DIR@
+ExecStart=/usr/bin/python3 @DIR@/site/serve.py --port @PORT@
+Restart=always
+RestartSec=3
+# the server only reads files, so lock it down
+NoNewPrivileges=true
+ProtectSystem=strict
+ProtectHome=read-only
+PrivateTmp=true
+
+[Install]
+WantedBy=multi-user.target

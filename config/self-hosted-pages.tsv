@@ -1,0 +1,8 @@
+# AUTOMATIC self-hosted programs: pages that the daily run downloads and reads (scripts/textscope.py).
+# One line per program, columns separated by a TAB (2+ spaces also work):
+#   program <TAB> program url <TAB> paying|non-paying|unknown <TAB> page url [<TAB> another page url ...]
+# The page url may be left out when it is the program url. Use several page urls when the exclusions live on another page.
+# Pages drawn by JavaScript (bughunters.google.com) give no text to a download: the run says "no scope found on ..." in the
+# Sources table; for those paste the page text into config/self-hosted-text/ instead.
+# Lines starting with # are ignored. Remove the # below to try it.
+#Example Corp VRP	https://example.com/security	paying	https://example.com/security/scope

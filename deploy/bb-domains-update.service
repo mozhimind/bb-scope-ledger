@@ -1,0 +1,15 @@
+[Unit]
+Description=Bug bounty domains - collect the data and rebuild the site
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=@USER@
+WorkingDirectory=@DIR@
+ExecStart=/bin/bash @DIR@/site/update.sh
+# a full run takes minutes; this only stops one that hangs
+TimeoutStartSec=2h
+# a run that reports a problem (exit 1) is not a systemd failure: the log has the details
+SuccessExitStatus=1
+Nice=10

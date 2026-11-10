@@ -1,0 +1,11 @@
+# Self-hosted bug bounty programs: programs a company runs on its OWN website instead of HackerOne, Bugcrowd and so on
+# (Google, Microsoft, Zoho ...). No platform publishes their scope, so you write it down here once; the daily run reads it
+# as the source "self-hosted-manual" and everything below goes through the normal parser.
+#
+# One line per scope entry. Four columns separated by a TAB (2 or more spaces work too):
+#   program <TAB> program_url <TAB> paying|non-paying|unknown <TAB> scope entry
+# The scope entry can be a host, a wildcard (*.example.com), a URL, an IP range, "a.com, b.com", ...
+# Lines starting with # and empty lines are ignored. Remove the # from the line below to try it.
+#
+#Example Corp VRP	https://example.com/security/bug-bounty	paying	*.example.com
+#Example Corp VRP	https://example.com/security/bug-bounty	paying	api.example.com
