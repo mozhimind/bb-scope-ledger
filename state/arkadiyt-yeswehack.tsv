@@ -1,0 +1,892 @@
+!! Links pointing to other FQDNs are always out of scope !!	out-of-scope	VINCI SA - Public program	
+(*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17	paying	Swiss Post	
+(se|fi|uk).bingo.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+*. myqcloud.com	out-of-scope	Tencent Bug Bounty Program	
+*. vfsevisa.id	paying	VFS Global Bug Bounty Program	
+*.alasco.de	paying	Alasco GmbH - Bug Bounty Program	
+*.alasco.rocks	paying	Alasco GmbH - Bug Bounty Program	
+*.api-app.telenor.se	paying	Telenor Sweden Public Bug Bounty Program	
+*.api.louisvuitton.com	paying	Louis Vuitton Malletier - Public Bug Bounty Program	
+*.api.vimla.se	paying	Telenor Sweden Public Bug Bounty Program	
+*.apis.telenor.se	paying	Telenor Sweden Public Bug Bounty Program	
+*.atg.se	paying	ATG Public Bug Bounty Program	
+*.bbcust.telenor.se	out-of-scope	Telenor Sweden Public Bug Bounty Program	
+*.bredbandsbolaget.se	paying	Telenor Sweden Public Bug Bounty Program	
+*.captcha-delivery.com	paying	DataDome Bot Bounty	
+*.cust.bredbandsbolaget.se	out-of-scope	Telenor Sweden Public Bug Bounty Program	
+*.cust.ownit.se	out-of-scope	Telenor Sweden Public Bug Bounty Program	
+*.cust.telenor.se	out-of-scope	Telenor Sweden Public Bug Bounty Program	
+*.customers.ownit.se	out-of-scope	Telenor Sweden Public Bug Bounty Program	
+*.cyber.gouv.qc.ca	paying	Programme de prime aux bogues du Gouvernement du Québec	
+*.cyberghost.com	paying	CyberGhost - Bug Bounty Program	
+*.cyberghostvpn.com	paying	CyberGhost - Bug Bounty Program	
+*.dana.id	out-of-scope	DANA Bug Bounty Program	
+*.directverify.in	paying	VFS Global Bug Bounty Program	
+*.docswallet.com	paying	VFS Global Bug Bounty Program	
+*.doctolib.(fr|de|it|com|net)	paying	Doctolib	
+*.europolitan.se	paying	Telenor Sweden Public Bug Bounty Program	
+*.expressvpn.com	paying	ExpressVPN - Bug Bounty Program	
+*.eziot.com	paying	Ezviz - Bug Bounty Program	
+*.ezviz.com	paying	Ezviz - Bug Bounty Program	
+*.ezviz7.com	paying	Ezviz - Bug Bounty Program	
+*.ezvizlife.com	paying	Ezviz - Bug Bounty Program	
+*.ezvizru.com	paying	Ezviz - Bug Bounty Program	
+*.foretagsportalen.telenor.se	paying	Telenor Sweden Public Bug Bounty Program	
+*.gov.sg	non-paying	GovTech - Vulnerability Disclosure Programme	
+*.hicloudcam.com	paying	Ezviz - Bug Bounty Program	
+*.hikops.com	paying	Ezviz - Bug Bounty Program	
+*.infomaniak.com	paying	Infomaniak Bug Bounty program	
+*.inpli.se	paying	Telenor Sweden Public Bug Bounty Program	
+*.kchat.infomaniak.com	paying	Infomaniak Bug Bounty program	
+*.kdrive.infomaniak.com	paying	Infomaniak Bug Bounty program	
+*.louisvuitton.com	out-of-scope	Louis Vuitton Malletier - Public Bug Bounty Program	
+*.mitt.vimla.se	paying	Telenor Sweden Public Bug Bounty Program	
+*.mittforetag.telenor.se	paying	Telenor Sweden Public Bug Bounty Program	
+*.onevasco.com	paying	VFS Global Bug Bounty Program	
+*.osp.ovh.com	out-of-scope	OVHcloud	
+*.ownit.nu	out-of-scope	Telenor Sweden Public Bug Bounty Program	
+*.ownit.se	paying	Telenor Sweden Public Bug Bounty Program	
+*.piaservers.com	paying	Private Internet Access - Bug Bounty Program	
+*.piaservers.net	paying	Private Internet Access - Bug Bounty Program	
+*.play.ownit.se	paying	Telenor Sweden Public Bug Bounty Program	
+*.polymoon.it	paying	ExpressVPN - Bug Bounty Program	
+*.privateinternetaccess.com	paying	Private Internet Access - Bug Bounty Program	
+*.profile.telenor.se	paying	Telenor Sweden Public Bug Bounty Program	
+*.qzoneapp.com	out-of-scope	Tencent Bug Bounty Program	
+*.signin.telenor.se	paying	Telenor Sweden Public Bug Bounty Program	
+*.siilo.com	paying	Doctolib	
+*.sme.telenor.se	out-of-scope	Telenor Sweden Public Bug Bounty Program	
+*.soyoustart.com	paying	OVHcloud	
+*.stream.telenor.se	paying	Telenor Sweden Public Bug Bounty Program	
+*.telenor.se	paying	Telenor Sweden Public Bug Bounty Program	
+*.telenorinpli.se	paying	Telenor Sweden Public Bug Bounty Program	
+*.vfsai.com	paying	VFS Global Bug Bounty Program	
+*.vfsevisa.com	paying	VFS Global Bug Bounty Program	
+*.vfsglobal.(com|co.uk|ca)	paying	VFS Global Bug Bounty Program	
+*.vfsglobal.by	paying	VFS Global Bug Bounty Program	
+*.vimla.io	paying	Telenor Sweden Public Bug Bounty Program	
+*.vimla.se	paying	Telenor Sweden Public Bug Bounty Program	
+*.vimla.work	paying	Telenor Sweden Public Bug Bounty Program	
+*.vod2.infomaniak.com	paying	Infomaniak Bug Bounty program	
+*.xvservice.net	paying	ExpressVPN - Bug Bounty Program	
+*.xvtest.net	paying	ExpressVPN - Bug Bounty Program	
+*.ys7.com	paying	Ezviz - Bug Bounty Program	
+*Notes about Tencent Cloud (cloud.tencent.com as included in *.tencent.com)	out-of-scope	Tencent Bug Bounty Program	
+*dev.swapcard.com	out-of-scope	Swapcard	
+- Any reports relating to improper authorization / information disclosure on api.moneyboxapp.com through /investment/payments/GetGiftUser/{code} and PII leak or sensitive data exposure is out of scope as this was intended by design.	out-of-scope	Moneybox Bug Bounty	
+/apps-messenger (the chatbot in general is out of scope)	out-of-scope	OTTO.DE Bug Bounty	
+/blog/ (or translated equivalent) endpoints on our sites	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+/tracking	out-of-scope	OTTO.DE Bug Bounty	
+1pw-scim.prd.iat.it.xvservice.net	paying	ExpressVPN - Bug Bounty Program	
+5k8vrbdyje.infomaniak.site	paying	Infomaniak Bug Bounty program	
+API Playground	paying	Kiteworks Public Bug Bounty Program	
+Alasco will not provide access credentials to any system, not for testing and also not for issue validation.	out-of-scope	Alasco GmbH - Bug Bounty Program	
+All 3rd parties are out of scope	out-of-scope	Thüringer Aufbaubank Bug Bounty Program	
+All PDF documents published or served on castor.vinci.com are public, thank you for not reporting any bug linked to the accessibility of these documents.	out-of-scope	VINCI SA - Public program	
+All assets that are not listed in the scope section are to be considered as out of scope	out-of-scope	Dossier Medical Partagé Bug Bounty Program	
+All domains not listed In-Scope	out-of-scope	DataDome Bug Bounty	
+All domains not listed In-Scope	out-of-scope	OTTO.DE Bug Bounty	
+All domains not listed In-Scope	out-of-scope	TeamViewer - Bounty Program	
+All domains not listed In-Scope	out-of-scope	Thüringer Aufbaubank Bug Bounty Program	
+All domains not listed In-Scope.	out-of-scope	Programme de prime aux bogues du Gouvernement du Québec	
+All domains or subdomains not listed in the above list of 'Scopes'	out-of-scope	BookBeat	
+All domains or subdomains not listed in the above list of 'Scopes'	out-of-scope	CyberGhost - Bug Bounty Program	
+All domains or subdomains not listed in the above list of 'Scopes'	out-of-scope	ExpressVPN - Bug Bounty Program	
+All domains or subdomains not listed in the above list of 'Scopes'	out-of-scope	GRW Trading FZE - Open Bug Bounty Program	
+All domains or subdomains not listed in the above list of 'Scopes'	out-of-scope	GovTech - Vulnerability Disclosure Programme	
+All domains or subdomains not listed in the above list of 'Scopes'	out-of-scope	HARMAN International - Web Applications	
+All domains or subdomains not listed in the above list of 'Scopes'	out-of-scope	Harman International Lifestyle Products & Services	
+All domains or subdomains not listed in the above list of 'Scopes'	out-of-scope	IMOU Public Bug Bounty Program	
+All domains or subdomains not listed in the above list of 'Scopes'	out-of-scope	Maya - Public Bug Bounty Program	
+All domains or subdomains not listed in the above list of 'Scopes'	out-of-scope	Moneybox Bug Bounty	
+All domains or subdomains not listed in the above list of 'Scopes'	out-of-scope	OneDoc	
+All domains or subdomains not listed in the above list of 'Scopes'	out-of-scope	Ooredoo QPSC - Customer Portal Bug Bounty Program	
+All domains or subdomains not listed in the above list of 'Scopes'	out-of-scope	Private Internet Access - Bug Bounty Program	
+All domains or subdomains not listed in the above list of 'Scopes'	out-of-scope	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	
+All domains or subdomains not listed in the above list of 'Scopes'	out-of-scope	vidaXL Services - Open Bug Bounty Program	
+All domains or subdomains not listed in the above list of 'Scopes' should be considered to be out of scope	out-of-scope	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+All domains or subdomains not listed in the above list of 'Scopes'.	out-of-scope	toom Baumarkt GmbH - Webshop	
+All domains, subdomains or applications not listed in the above list of 'Scopes'	out-of-scope	OVHcloud	
+All domains, subdomains or assets not listed in the above list of 'Scopes' must be considered as out of the scope of this program	out-of-scope	Louis Vuitton Malletier - Public Bug Bounty Program	
+All domains, subdomains or assets not listed in the above list of 'Scopes' must be considered as out of the scope of this program	out-of-scope	Paddle.com Public Bug Bounty Program	
+All domains, subdomains or assets not listed in the above list of 'Scopes' must be considered as out of the scope of this program.	out-of-scope	MediaMarktSaturn Bug Bounty Program	
+All domains, subdomains, apps not listed in-scope	out-of-scope	DECATHLON	
+All other Pine Labs assets that are not listed above are to be treated as out of scope	out-of-scope	Pine Labs Bug Bounty Program	
+All other VFS assets that are not listed above as in scope are automatically out of scope	out-of-scope	VFS Global Bug Bounty Program	
+All other domains or subdomains not listed in the above list of 'Scopes'.	out-of-scope	Alasco GmbH - Bug Bounty Program	
+Any *.sslip.io, *.nip.io, AWS ELB / load-balancer hostname, or raw IPv4 / IPv6 address	out-of-scope	Doctolib	
+Any Applications under https://www.expressvpn.com/latest	paying	ExpressVPN - Bug Bounty Program	
+Any domain that looks like it's owned by a third party or customer due to customer's privacy	out-of-scope	Telenor Sweden Public Bug Bounty Program	
+Any issues with Wallet or KYC features (There are third party services)	out-of-scope	YesWeHack	
+Any resource created or accessed with the Outscale Cloud on eu-west-2 region -  created by the Hunter	paying	3DS OUTSCALE	
+Any resource created or accessed with the Outscale Cloud, on all regions - except the ones created by the Hunter	out-of-scope	3DS OUTSCALE	
+Any services related to Incamail (for example https://incamail-dev.post.ch (194.41.248.224) and https://incamail-test.post.ch (194.41.248.58))	out-of-scope	Swiss Post	
+Any services related to PostCardCreator (for example https://service.post.ch/pccweb, mobile apps and https://pccweb.api.post.ch)	out-of-scope	Swiss Post	
+Any website that is not listed explicitly in the scope.	out-of-scope	Bug Bounty Program - BlaBlaCar	
+Anything that has not been described as in scope in the previous section is automatically out of scope.	out-of-scope	Swiss Post	
+Anything that is not explicitely listed as part of the Scope	out-of-scope	Mon Espace Santé (MES)	
+Anything that is not explicitely listed in scope section	out-of-scope	VINCI SA - Public program	
+Anything that is not explicitely listed in the ‘Scope’ section.	out-of-scope	Swiss Post - E-Voting	
+Applications, URLs, or data that are not listed on this page are considered out of scope.	out-of-scope	Superbank - Public Bug Bounty Program	
+Applications/Extensions under https://www.cyberghostvpn.com/download	paying	CyberGhost - Bug Bounty Program	
+Applications/Extensions under https://www.privateinternetaccess.com/download	paying	Private Internet Access - Bug Bounty Program	
+Assets not listed in the in scope section are to be considered as out of the scope of this program and won't be eligible for reward	out-of-scope	Infomaniak Bug Bounty program	
+Attack against Outscale offices (malware, backdoor, DoS, etc.)	out-of-scope	3DS OUTSCALE	
+Attacks on administrative and surrounding systems that are not used for the in-scope services are not permitted (this includes DNS, NTP, routers, systems of the ISP, etc.).	out-of-scope	Swiss Post	
+Attention: Third-party managed infrastructure (e.g. HubSpot, Salesforce, or other SaaS platforms) where Alasco has no ability to remediate vulnerabilities at the infrastructure or platform level, regardless of the subdomain.	out-of-scope	Alasco GmbH - Bug Bounty Program	
+By default all the endpoints that are not listed in the allowed scopes are out of scope of the program.	out-of-scope	Swapcard	
+Client-side web vulnerabilities	out-of-scope	DataDome Bot Bounty	
+Core Assets In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)	paying	Tencent Bug Bounty Program	
+Craft CMS on www.siilo.com, plus siilo.com marketing / staging sub-domains (l.siilo.com, l-dev.siilo.com, web.siilo.com, web-dev.siilo.com, www-admin.siilo.com, mjt-dev.siilo.com, att-dev-nl.siilo.com, sandbox-nl.siilo.com, connect.siilo.com, prod-nl-web.siilo.com)	out-of-scope	Doctolib	
+Crown Jewel Heist	paying	Kiteworks Public Bug Bounty Program	
+CyberGhost VPN servers	paying	CyberGhost - Bug Bounty Program	
+Database service instances from customers, like *.dbaas.infomaniak.cloud	out-of-scope	Infomaniak Bug Bounty program	
+Dataleaks or 3DS OUTSCALE-related vulnerabilities outside the scope of the IaaS Cloud Service.	out-of-scope	3DS OUTSCALE	
+Demo environment (for example: ezcpcloudiot.eziot.com)	out-of-scope	Ezviz - Bug Bounty Program	
+Denial of service attacks	out-of-scope	3DS OUTSCALE	
+Denial of service attacks or any technique whose goal is to degrade infrastructure availability. This falls outside the scope of bot protection bypass and will not be rewarded.	out-of-scope	DataDome Bot Bounty	
+Dev, Test, SIT, Staging, Sandbox, Demo, and other non-production environments	out-of-scope	DANA Bug Bounty Program	
+Device: JBL Authentics 200	paying	Harman International Lifestyle Products & Services	
+Device: JBL Authentics 300	paying	Harman International Lifestyle Products & Services	
+Device: JBL Authentics 500	paying	Harman International Lifestyle Products & Services	
+Device: JBL Bar 1000MK2	paying	Harman International Lifestyle Products & Services	
+Device: JBL Bar 1300MK2	paying	Harman International Lifestyle Products & Services	
+Device: JBL Bar 300MK2	paying	Harman International Lifestyle Products & Services	
+Device: JBL Bar 500MK2	paying	Harman International Lifestyle Products & Services	
+Device: JBL Bar 700MK2	paying	Harman International Lifestyle Products & Services	
+Device: JBL Bar 800MK2	paying	Harman International Lifestyle Products & Services	
+Device: JBL Boombox 3 Wi-Fi	paying	Harman International Lifestyle Products & Services	
+Device: JBL Charge 5	paying	Harman International Lifestyle Products & Services	
+Device: JBL Charge 5 Wi-Fi	paying	Harman International Lifestyle Products & Services	
+Device: JBL Flip 7	paying	Harman International Lifestyle Products & Services	
+Device: JBL Live Beam 3	paying	Harman International Lifestyle Products & Services	
+Device: JBL PartyBox Encore 2	paying	Harman International Lifestyle Products & Services	
+Device: JBL Tour One M3	paying	Harman International Lifestyle Products & Services	
+Distributed attacks (scraping must be performed from a single IP at a time)	out-of-scope	DataDome Bot Bounty	
+Domains not listed in scope are by default all out of scope	out-of-scope	Santé Publique France Bug Bounty Program	
+Domains where GovTech is the registrar	non-paying	GovTech - Vulnerability Disclosure Programme	
+E-mail server configuration (DKIM/SPF/DMARC)	out-of-scope	3DS OUTSCALE	
+Email Protection Gateway (EPG)	paying	Kiteworks Public Bug Bounty Program	
+Everything that's out of the scope root URL	out-of-scope	YesWeHack Dojo	
+ExpressVPN APIs	paying	ExpressVPN - Bug Bounty Program	
+ExpressVPN Router	paying	ExpressVPN - Bug Bounty Program	
+ExpressVPN VPN servers	paying	ExpressVPN - Bug Bounty Program	
+FTP credentials from our customers, like *.ftp.infomaniak.com	out-of-scope	Infomaniak Bug Bounty program	
+Finally, fraud related reports are out-of-scope if they do not exploit a security vulnerability. Therefore, fraud activity enabled by bug or incomplete business rules enforcement are out-of-scope.  However, a fraud activity enabled by a CSRF exploit for example is valid.	out-of-scope	Bug Bounty Program - BlaBlaCar	
+Hardware found on https://www.ezviz.com/category/security-wifi-cameras	paying	Ezviz - Bug Bounty Program	
+Hardware found on https://www.ezviz.com/category/smart-home	paying	Ezviz - Bug Bounty Program	
+However, any vulnerability discovered in a system or service that requires a login to access is outside the scope of this program.	out-of-scope	Alasco GmbH - Bug Bounty Program	
+However, though listed in the out-of-scope list, if you really feel that a bug will leave an impact on our platform, please come up with a convincing and working POC. If that convinces us to change our code, we will reward you with a bounty.	out-of-scope	Bug Bounty Program - BlaBlaCar	
+Information returned by /get-tickets-infos (including organizer, event_name, event_date, command_date, and masked email) is out of scope	out-of-scope	Infomaniak Bug Bounty program	
+Issues in our DNS and NTP	out-of-scope	3DS OUTSCALE	
+Issues not leading to confidentiality, traceability or integrity problems. You can report it to support@outscale.com.	out-of-scope	3DS OUTSCALE	
+Jelastic subdomains : *.jcloud.ik-server.com, *.jpc.infomaniak.com, *.jpe.infomaniak.com	out-of-scope	Infomaniak Bug Bounty program	
+Kiteworks Core	paying	Kiteworks Public Bug Bounty Program	
+Kiteworks Desktop Client 2.0	paying	Kiteworks Public Bug Bounty Program	
+Kiteworks for Desktop	paying	Kiteworks Public Bug Bounty Program	
+Kiteworks for Office Desktop	paying	Kiteworks Public Bug Bounty Program	
+Kiteworks for Outlook Desktop	paying	Kiteworks Public Bug Bounty Program	
+Look-alike, typo-squatting or expired domains not owned by Doctolib (e.g. www.dioctolib.de, doctolib.fr.evil.com, doctodketest.tk, doctolib-poc.partner-experience.com)	out-of-scope	Doctolib	
+Managed File Transfer (MFT)	paying	Kiteworks Public Bug Bounty Program	
+Mobile app versions that are not currently in app stores.	out-of-scope	Harman International Lifestyle Products & Services	
+Mobile services and devices provided by Telenor Sweden and subsidiaries not reachable from Internet	out-of-scope	Telenor Sweden Public Bug Bounty Program	
+Moving or copying calendar events / contacts between containers by read-write collaborators (intended behavior)	out-of-scope	Infomaniak Bug Bounty program	
+MySQL credentials from our customers, like *.myd.infomaniak.com	out-of-scope	Infomaniak Bug Bounty program	
+Non Core Assets In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)	paying	Tencent Bug Bounty Program	
+Non-Production environments (test, dev, staging, or sandbox)	out-of-scope	Maya - Public Bug Bounty Program	
+Note: should you discover a critical issue within an asset that falls outside the program's scope, we would appreciate it and may choose to offer a reward at our discretion.	out-of-scope	Doctolib	
+On www.vinci.com, Cross Site Scripting (XSS) vulnerabilities are considered out of scope temporarily as part of an exhaustive remediation project for such code injections.	out-of-scope	VINCI SA - Public program	
+Only vulnerabilities affecting the platform itself and IP owned by Tencent will be accepted. If an IP belongs to Tencent Cloud external customer, it is not considered in scope.	out-of-scope	Tencent Bug Bounty Program	
+Other business units of the Telenor Group - including *.telenor.com	out-of-scope	Telenor Sweden Public Bug Bounty Program	
+Other subdomain of paymaya.com that has no direct integration/part of the mobile application	out-of-scope	Maya - Public Bug Bounty Program	
+Other subdomains on outscale.com (wiki.outscale.net, fr.outscale.com, en.outscale.com... )	out-of-scope	3DS OUTSCALE	
+Out-Of-Scope are also other applications hosted under the www.otto.de domain but have a different path, that is not part of our core online shop itself (you will notice, since the design of the page is completely different)	out-of-scope	OTTO.DE Bug Bounty	
+PIA VPN servers	paying	Private Internet Access - Bug Bounty Program	
+Partner program: pages about finding partner and sending offer, and reports about data already public on the partner directory are not eligible. Missing authorization on partner-program routes exposing private data remains in scope.	out-of-scope	Infomaniak Bug Bounty program	
+Please let us know if you have any questions regarding the scope.	out-of-scope	OTTO.DE Bug Bounty	
+Please note that all non-authenticated areas of our systems are in scope for this program. This means that any vulnerability discovered in a system or service that does not require a login to access is eligible for a reward.	out-of-scope	Alasco GmbH - Bug Bounty Program	
+Please note that some of the applications may contain links or redirect you away from the URIs described in the scope section. This means you are leaving the scope if you follow these links / redirects.	out-of-scope	Swiss Post	
+Please note that the vulnerabilities reported for the following assets will not be eligible for bounties.	out-of-scope	Tencent Bug Bounty Program	
+Please note that www.lafabriquedelacite.com is out of scope from today 10/12/25 as the web site is going to be redeveloped.	out-of-scope	VINCI SA - Public program	
+Pre-release environment(for example: pb.ys7.com)	out-of-scope	Ezviz - Bug Bounty Program	
+Protocol of the Swiss Post Voting System	paying	Swiss Post - E-Voting	
+Protocol of the Swiss Post Voting System 2.0 (Whitepaper)	paying	Swiss Post - E-Voting	
+Public GitHub repositories we do not own (such as student projects doing)	out-of-scope	Doctolib	
+S3 credentials from our customers, like s3.pub*.infomaniak.cloud	out-of-scope	Infomaniak Bug Bounty program	
+Same behavior as Amazon Web Services	out-of-scope	3DS OUTSCALE	
+Scenarios with Special Bounties	paying	Swiss Post - E-Voting	
+Secure Data Forms (SDF, aka Advanced Forms)	paying	Kiteworks Public Bug Bounty Program	
+Social engineering of DataDome employees or contractors	out-of-scope	DataDome Bot Bounty	
+Social engineering of Outscale employees and contractors	out-of-scope	3DS OUTSCALE	
+Social media accounts	out-of-scope	Sogexia	
+Source Code	paying	Swiss Post - E-Voting	
+Special scenarios (see description)	paying	Doctolib	
+System Specification	paying	Swiss Post - E-Voting	
+Test environment(for example: test.ys7.com)	out-of-scope	Ezviz - Bug Bounty Program	
+Testing any other system than https://bounty.cryptobox.com, in particular admin.bounty.cryptobox.com, *.cryptobox.com or *.ercom.fr.	out-of-scope	Cryptobox	
+Testing is only authorized on the targets listed as in scope. Any domain/property of Kiteworks not listed in the targets section is out of scope. This includes any/all subdomains not listed above. If you happen to identify a security vulnerability on a target that is not in scope, but it demonstrably belongs to Kiteworks, you can report it here. However, be aware that it is ineligible for rewards or points-based compensation.	out-of-scope	Kiteworks Public Bug Bounty Program	
+The alternative login (https://login.swissid.ch) is out of scope. It also leads to the in-scope service, (https://account.post.ch) but we have designated it as out of scope.	out-of-scope	Swiss Post	
+The following asset is not in scope but allows creation of an account without verification:	out-of-scope	Programme de prime aux bogues du Gouvernement du Québec	
+There is no IDOR on /api/security/tanker_groups via subject_id	out-of-scope	Doctolib	
+Third-party applications and websites	out-of-scope	Tencent Bug Bounty Program	
+Third-party assets linked from our products (e.g. login.decathlon.net, wallet.esw.esante.gouv.fr, preprod.alaxione.fr, hooks.zapier.com, cron.signitic.app, job-boards.greenhouse.io, docto.digitalstack.it, and any hospital-specific or customer-specific host)	out-of-scope	Doctolib	
+Third-party widgets on www.datadome.co and app.datadome.co	out-of-scope	DataDome Bug Bounty	
+This domain https://drive.infomaniak.com/app/office/:folder:/:file: is out of scope. This is only office application, an external app to open MS office documents.	out-of-scope	Infomaniak Bug Bounty program	
+Those include but are not limited to (if unsure, contact us before executing the tests):	out-of-scope	OTTO.DE Bug Bounty	
+TrustedServer 100,000 Bonus Award (See Program Policy for Info)	paying	ExpressVPN - Bug Bounty Program	
+Update 16/10/26: please note that vinci-groupe.profils.org is excluded from our program until further notice	out-of-scope	VINCI SA - Public program	
+User email verification	out-of-scope	Infomaniak Bug Bounty program	
+VPS instances from our customers, like *.vps.infomaniak.com	out-of-scope	Infomaniak Bug Bounty program	
+Vulnerabilities on products or services other than Cockpit or APIs	out-of-scope	3DS OUTSCALE	
+Vulnerabilities reported on client services	out-of-scope	OVHcloud	
+Vulnerabilities reported on other services or applications are not allowed.	out-of-scope	YesWeHack	
+We do not manage Open Stack dashboard which is therefore out of scope	out-of-scope	Infomaniak Bug Bounty program	
+Websocket IPS-public credentials (MQTT, info-mq, IPS_RABBIT, ips-public). Public identifiers that do not allow access to information outside the scope of the user's profile.	out-of-scope	Infomaniak Bug Bounty program	
+acronis.infomaniak.com	out-of-scope	Infomaniak Bug Bounty program	
+actionnaires.vinci.com	paying	VINCI SA - Public program	
+admin-stage.tv.telenor.se	out-of-scope	Telenor Sweden Public Bug Bounty Program	
+admincms.developer.monespacesante.fr	paying	Mon Espace Santé (MES)	
+admincms.monespacesante.fr	paying	Mon Espace Santé (MES)	
+adminstore.developer.monespacesante.fr	paying	Mon Espace Santé (MES)	
+adminstore.monespacesante.fr	paying	Mon Espace Santé (MES)	
+agents.tasheer.com	paying	VFS Global Bug Bounty Program	
+aide.swapcard.com (Zoho)	out-of-scope	Swapcard	
+alasco.com	out-of-scope	Alasco GmbH - Bug Bounty Program	
+alasco.de	out-of-scope	Alasco GmbH - Bug Bounty Program	
+all domains not listed in scopes, noteworthy:	out-of-scope	Sogexia	
+am.developer.monespacesante.fr	paying	Mon Espace Santé (MES)	
+analytics.pinelabs.com	paying	Pine Labs Bug Bounty Program	
+api-js.datadome.co	paying	DataDome Bot Bounty	
+api.alasco.de	paying	Alasco GmbH - Bug Bounty Program	
+api.atg.se	paying	ATG Public Bug Bounty Program	
+api.developer.monespacesante.fr	paying	Mon Espace Santé (MES)	
+api.dmp.gouv.fr	paying	Dossier Medical Partagé Bug Bounty Program	
+api.editeur.preprod.monespacesante.fr	paying	Mon Espace Santé (MES)	
+api.ezvizlife.com	paying	Ezviz - Bug Bounty Program	
+api.infomaniak.com	paying	Infomaniak Bug Bounty program	
+api.monespacesante.fr	paying	Mon Espace Santé (MES)	
+api.ovh.com	paying	OVHcloud	
+api.preprod.monespacesante.fr	paying	Mon Espace Santé (MES)	
+api.privateinternetaccess.com	paying	Private Internet Access - Bug Bounty Program	
+api.pub1.infomaniak.cloud	paying	Infomaniak Bug Bounty program	
+api.pub2.infomaniak.cloud	paying	Infomaniak Bug Bounty program	
+api.super-id.net	paying	Superbank - Public Bug Bounty Program	
+api.swapcard.com	paying	Swapcard	
+api.tanker.io (Accessing the tanker private key is normal functioning of the Tanker protocol)	out-of-scope	Doctolib	
+app.alasco.de	paying	Alasco GmbH - Bug Bounty Program	
+app.expressmailguard.com	paying	ExpressVPN - Bug Bounty Program	
+app.swapcard.com	paying	Swapcard	
+app:Kiteworks Android App	paying	Kiteworks Public Bug Bounty Program	
+app:Kiteworks iOS App	paying	Kiteworks Public Bug Bounty Program	
+app:am.editeur.preprod.monespacesante.fr	paying	Mon Espace Santé (MES)	
+app:am.monespacesante.fr	paying	Mon Espace Santé (MES)	
+app:am.preprod.monespacesante.fr	paying	Mon Espace Santé (MES)	
+app:apps.apple.com/fr/app/mon-espace-sant%C3%A9/id1589255019 (iOS)	paying	Mon Espace Santé (MES)	
+app:editeur.am.monespacesante.fr	paying	Mon Espace Santé (MES)	
+app:http://play.google.com/store/apps/details?id=fr.doctolib.www	paying	Doctolib	
+app:https://appgallery.huawei.com/#/app/C102099703?locale=zh_CN&source=appshare&subsource=C102099703	paying	Louis Vuitton Malletier - Public Bug Bounty Program	
+app:https://appgallery.huawei.com/app/C101186357	paying	Maya - Public Bug Bounty Program	
+app:https://apps.apple.com/am/app/maya-your-all-in-one-money-app/id991673877	paying	Maya - Public Bug Bounty Program	
+app:https://apps.apple.com/app/infomaniak-kdrive/id1482778676	paying	Infomaniak Bug Bounty program	
+app:https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669	paying	MediaMarktSaturn Bug Bounty Program	
+app:https://apps.apple.com/be/app/mediamarkt-belgi%C3%AB/id958993034	paying	MediaMarktSaturn Bug Bounty Program	
+app:https://apps.apple.com/ch/app/die-post/id378676700	paying	Swiss Post	
+app:https://apps.apple.com/ch/app/media-markt-schweiz/id1169043480	paying	MediaMarktSaturn Bug Bounty Program	
+app:https://apps.apple.com/de/app/mediamarkt-deutschland/id386304604	paying	MediaMarktSaturn Bug Bounty Program	
+app:https://apps.apple.com/de/app/otto-shopping-m%C3%B6bel/id404844644	paying	OTTO.DE Bug Bounty	
+app:https://apps.apple.com/de/app/saturn-deutschland/id557562682	paying	MediaMarktSaturn Bug Bounty Program	
+app:https://apps.apple.com/de/app/teamviewer-quicksupport/id661649585	paying	TeamViewer - Bounty Program	
+app:https://apps.apple.com/de/app/teamviewer-remote-control/id692035811	paying	TeamViewer - Bounty Program	
+app:https://apps.apple.com/es/app/mediamarkt-comprar-online/id1438532508	paying	MediaMarktSaturn Bug Bounty Program	
+app:https://apps.apple.com/fr/app/cryptobox/id972602802	paying	Cryptobox	
+app:https://apps.apple.com/fr/app/decathlon-shopping/id1168607403	paying	DECATHLON	
+app:https://apps.apple.com/fr/app/doctolib/id925339063	paying	Doctolib	
+app:https://apps.apple.com/fr/app/infomaniak-authenticator/id1478424817	paying	Infomaniak Bug Bounty program	
+app:https://apps.apple.com/fr/app/infomaniak-euria/id6754152858	paying	Infomaniak Bug Bounty program	
+app:https://apps.apple.com/fr/app/infomaniak-kchat/id6443845553	paying	Infomaniak Bug Bounty program	
+app:https://apps.apple.com/fr/app/infomaniak-mail/id1622596573	paying	Infomaniak Bug Bounty program	
+app:https://apps.apple.com/fr/app/infomaniak-swisstransfer/id6737686335	paying	Infomaniak Bug Bounty program	
+app:https://apps.apple.com/fr/app/jbl-one/id1610239857	paying	Harman International Lifestyle Products & Services	
+app:https://apps.apple.com/fr/app/louis-vuitton-city-guide/id1014618396	paying	Louis Vuitton Malletier - Public Bug Bounty Program	
+app:https://apps.apple.com/fr/app/louis-vuitton/id709101942	paying	Louis Vuitton Malletier - Public Bug Bounty Program	
+app:https://apps.apple.com/fr/app/swapcard/id879488719	paying	Swapcard	
+app:https://apps.apple.com/gb/app/moneybox-save-and-invest/id1049797239	paying	Moneybox Bug Bounty	
+app:https://apps.apple.com/id/app/dana/id1437123008	paying	DANA Bug Bounty Program	
+app:https://apps.apple.com/id/app/superbank/id6444720285	paying	Superbank - Public Bug Bounty Program	
+app:https://apps.apple.com/ie/app/doctolib-siilo/id1083002150	paying	Doctolib	
+app:https://apps.apple.com/it/app/mediaworld-app/id1076895831	paying	MediaMarktSaturn Bug Bounty Program	
+app:https://apps.apple.com/nl/app/mediamarkt-nederland/id573907448	paying	MediaMarktSaturn Bug Bounty Program	
+app:https://apps.apple.com/pl/app/mediamarkt-polska/id6470200706	paying	MediaMarktSaturn Bug Bounty Program	
+app:https://apps.apple.com/qa/app/ooredoo-qatar/id619828745	paying	Ooredoo QPSC - Customer Portal Bug Bounty Program	
+app:https://apps.apple.com/se/app/atg/id1434660322	paying	ATG Public Bug Bounty Program	
+app:https://apps.apple.com/se/app/bookbeat-audiobooks-e-books/id1056652614?l=en-GB	paying	BookBeat	
+app:https://apps.apple.com/se/app/vimla/id1233271881  https://play.google.com/store/apps/details?id=com.vimlaapp&hl=en	paying	Telenor Sweden Public Bug Bounty Program	
+app:https://apps.apple.com/tr/app/mediamarkt-t%C3%BCrkiye/id908956795	paying	MediaMarktSaturn Bug Bounty Program	
+app:https://apps.apple.com/us/app/id583009522	paying	CyberGhost - Bug Bounty Program	
+app:https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407	paying	Private Internet Access - Bug Bounty Program	
+app:https://cdn.unicdn.net/apk/UnibetCasino.apk	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+app:https://itunes.apple.com/fr/app/blablacar-trusted-carpooling/id341329033?l=en&mt=8	paying	Bug Bounty Program - BlaBlaCar	
+app:https://itunes.apple.com/gb/app/unibet-casino-slots-games/id905382680	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+app:https://itunes.apple.com/gb/app/unibet-live-sports-betting/id463335337	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+app:https://mobile.ooredoo.qa	paying	Ooredoo QPSC - Customer Portal Bug Bounty Program	
+app:https://play.google.com/store/apps/details?id=at.com.media.markt	paying	MediaMarktSaturn Bug Bounty Program	
+app:https://play.google.com/store/apps/details?id=be.com.media.markt	paying	MediaMarktSaturn Bug Bounty Program	
+app:https://play.google.com/store/apps/details?id=ch.mediamarkt	paying	MediaMarktSaturn Bug Bounty Program	
+app:https://play.google.com/store/apps/details?id=com.bookbeat.android&hl=en&pli=1	paying	BookBeat	
+app:https://play.google.com/store/apps/details?id=com.comuto&hl=en	paying	Bug Bounty Program - BlaBlaCar	
+app:https://play.google.com/store/apps/details?id=com.decathlon.app	paying	DECATHLON	
+app:https://play.google.com/store/apps/details?id=com.ercom.cryptobox.release&hl=fr	paying	Cryptobox	
+app:https://play.google.com/store/apps/details?id=com.infomaniak.auth	paying	Infomaniak Bug Bounty program	
+app:https://play.google.com/store/apps/details?id=com.infomaniak.chat	paying	Infomaniak Bug Bounty program	
+app:https://play.google.com/store/apps/details?id=com.infomaniak.drive	paying	Infomaniak Bug Bounty program	
+app:https://play.google.com/store/apps/details?id=com.infomaniak.euria	paying	Infomaniak Bug Bounty program	
+app:https://play.google.com/store/apps/details?id=com.infomaniak.mail	paying	Infomaniak Bug Bounty program	
+app:https://play.google.com/store/apps/details?id=com.infomaniak.swisstransfer	paying	Infomaniak Bug Bounty program	
+app:https://play.google.com/store/apps/details?id=com.infomaniak.sync	paying	Infomaniak Bug Bounty program	
+app:https://play.google.com/store/apps/details?id=com.jbl.oneapp&hl=fr&gl=US	paying	Harman International Lifestyle Products & Services	
+app:https://play.google.com/store/apps/details?id=com.media.markt	paying	MediaMarktSaturn Bug Bounty Program	
+app:https://play.google.com/store/apps/details?id=com.media.saturn	paying	MediaMarktSaturn Bug Bounty Program	
+app:https://play.google.com/store/apps/details?id=com.moneyboxapp	paying	Moneybox Bug Bounty	
+app:https://play.google.com/store/apps/details?id=com.nth.swisspost&hl=de_CH&gl=US	paying	Swiss Post	
+app:https://play.google.com/store/apps/details?id=com.paymaya	paying	Maya - Public Bug Bounty Program	
+app:https://play.google.com/store/apps/details?id=com.pinelabs.emicatalogue.pinelabs&hl=uz	paying	Pine Labs Bug Bounty Program	
+app:https://play.google.com/store/apps/details?id=com.privateinternetaccess.android&hl=en	paying	Private Internet Access - Bug Bounty Program	
+app:https://play.google.com/store/apps/details?id=com.siilo.android&hl=en	paying	Doctolib	
+app:https://play.google.com/store/apps/details?id=com.swapcard.apps.android&hl=fr	paying	Swapcard	
+app:https://play.google.com/store/apps/details?id=com.teamviewer.host.market&hl=en&gl=US	paying	TeamViewer - Bounty Program	
+app:https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=en&gl=US	paying	TeamViewer - Bounty Program	
+app:https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile&hl=en&gl=US	paying	TeamViewer - Bounty Program	
+app:https://play.google.com/store/apps/details?id=com.vimlaapp&hl=en	paying	Telenor Sweden Public Bug Bounty Program	
+app:https://play.google.com/store/apps/details?id=com.vuitton.android&hl=fr&gl=US	paying	Louis Vuitton Malletier - Public Bug Bounty Program	
+app:https://play.google.com/store/apps/details?id=de.cellular.ottohybrid&hl=de	paying	OTTO.DE Bug Bounty	
+app:https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost	paying	CyberGhost - Bug Bounty Program	
+app:https://play.google.com/store/apps/details?id=es.mediamarkt.app	paying	MediaMarktSaturn Bug Bounty Program	
+app:https://play.google.com/store/apps/details?id=id.co.bankfama.android&hl=en	paying	Superbank - Public Bug Bounty Program	
+app:https://play.google.com/store/apps/details?id=id.dana&hl=en	paying	DANA Bug Bounty Program	
+app:https://play.google.com/store/apps/details?id=io.gonative.android.xjndrq&hl=fr	paying	Sogexia	
+app:https://play.google.com/store/apps/details?id=it.mediamarket.mediaworld	paying	MediaMarktSaturn Bug Bounty Program	
+app:https://play.google.com/store/apps/details?id=nl.com.media.markt	paying	MediaMarktSaturn Bug Bounty Program	
+app:https://play.google.com/store/apps/details?id=pl.mediamarkt	paying	MediaMarktSaturn Bug Bounty Program	
+app:https://play.google.com/store/apps/details?id=qa.ooredoo.android&hl=en&gl=US	paying	Ooredoo QPSC - Customer Portal Bug Bounty Program	
+app:https://play.google.com/store/apps/details?id=se.atg.live&hl=en&gl=SE	paying	ATG Public Bug Bounty Program	
+app:https://play.google.com/store/apps/details?id=tr.com.media.markt	paying	MediaMarktSaturn Bug Bounty Program	
+app:itmss://apps.apple.com/us/app/id1510360750?ign-mscache=1	paying	Sogexia	
+app:play.google.com/store/apps/details?id=fr.assurancemaladie.monespacesante&showAllReviews=true (Android)	paying	Mon Espace Santé (MES)	
+app:preprod.am.monespacesante.fr	paying	Mon Espace Santé (MES)	
+app:preprod.editeur.am.monespacesante.fr	paying	Mon Espace Santé (MES)	
+app:www.am.monespacesante.fr	paying	Mon Espace Santé (MES)	
+app:www.editeur.am.monespacesante.fr	paying	Mon Espace Santé (MES)	
+auth.dmp.gouv.fr	paying	Dossier Medical Partagé Bug Bounty Program	
+auth.monespacesante.fr	paying	Mon Espace Santé (MES)	
+auth.preprod.monespacesante.fr	paying	Mon Espace Santé (MES)	
+billing-client-logs.billing.doctolib.fr | api-external.datascience.doctolibdata.com	out-of-scope	Doctolib	
+biometservices.com	paying	VFS Global Bug Bounty Program	
+blog.swapcard.com (Hubspot)	out-of-scope	Swapcard	
+books.swapcard.com (Zoho)	out-of-scope	Swapcard	
+boost.vinci.com	paying	VINCI SA - Public program	
+c.swapcard.com	out-of-scope	Swapcard	
+calendar.infomaniak.com	paying	Infomaniak Bug Bounty program	
+cam.notebleue.pro	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	
+castor.vinci.com	paying	VINCI SA - Public program	
+chat-api.swapcard.com/graphql	paying	Swapcard	
+chk.infomaniak.com	paying	Infomaniak Bug Bounty program	
+cloud.cloud1.harmanaudio.com	out-of-scope	HARMAN International - Web Applications	
+cloud.cloud2.harmanaudio.com	out-of-scope	HARMAN International - Web Applications	
+cloud.cloud3.harmanaudio.com	out-of-scope	HARMAN International - Web Applications	
+cms.monespacesante.fr	paying	Mon Espace Santé (MES)	
+cmsdev.dana.id	out-of-scope	DANA Bug Bounty Program	
+community.doctolib.com | .fr | .de | .it	out-of-scope	Doctolib	
+contacts.infomaniak.com	paying	Infomaniak Bug Bounty program	
+corp.polymoon.it	paying	ExpressVPN - Bug Bounty Program	
+cyberghost.app	paying	CyberGhost - Bug Bounty Program	
+cyberghost.com	paying	CyberGhost - Bug Bounty Program	
+dashboard.pluralonline.com	paying	Pine Labs Bug Bounty Program	
+developer.swapcard.com/event-admin/graphql	paying	Swapcard	
+developers.doctolib.com	out-of-scope	Doctolib	
+dm.dana.id	out-of-scope	DANA Bug Bounty Program	
+dmp.doctolib.fr | dmp-prd-aws-*.doctolib.fr	out-of-scope	Doctolib	
+doctocommit.doctolib.fr	out-of-scope	Doctolib	
+doctolib-ps-ehr-downloads.s3.amazonaws.com	out-of-scope	Doctolib	
+doctolib.atlassian.net and any *.atlassian.net path	out-of-scope	Doctolib	
+doctolib.zendesk.com | siilo.zendesk.com	out-of-scope	Doctolib	
+ecosystem-experience.super-id.net	paying	Superbank - Public Bug Bounty Program	
+edge.bookbeat.com	paying	BookBeat	
+editeur.api.monespacesante.fr	paying	Mon Espace Santé (MES)	
+editeurs.developer.monespacesante.fr	paying	Mon Espace Santé (MES)	
+editeurs.monespacesante.fr	paying	Mon Espace Santé (MES)	
+emag.vinci.com	paying	VINCI SA - Public program	
+en.casinohuone.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+en.kolikkopelit.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+en.ottokasino.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+encrypt.dana.id	out-of-scope	DANA Bug Bounty Program	
+essentials.vinci.com	paying	VINCI SA - Public program	
+essentiel.vinci.com	paying	VINCI SA - Public program	
+etickets.infomaniak.com	paying	Infomaniak Bug Bounty program	
+euria.infomaniak.com	paying	Infomaniak Bug Bounty program	
+evisa.gov.mz	paying	VFS Global Bug Bounty Program	
+exceptions.doctolib.fr | .de	out-of-scope	Doctolib	
+explore.alasco.com	out-of-scope	Alasco GmbH - Bug Bounty Program	
+explore.alasco.de	out-of-scope	Alasco GmbH - Bug Bounty Program	
+expressvpn.jobs	paying	ExpressVPN - Bug Bounty Program	
+faq.vimla.se	out-of-scope	Telenor Sweden Public Bug Bounty Program	
+fb.doctolib.com | fb-dev.doctolib.fr	out-of-scope	Doctolib	
+fhir.developer.monespacesante.fr	paying	Mon Espace Santé (MES)	
+fhir.monespacesante.fr	paying	Mon Espace Santé (MES)	
+fi.mariacasino.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+fi.unibet.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+fiat.dana.id	out-of-scope	DANA Bug Bounty Program	
+fm.doctolib.fr | fm.doctolib.it | voip.doctolib.de and other decommissioned / dangling Doctolib sub-domains	out-of-scope	Doctolib	
+fraga.atg.se (external supplier)	out-of-scope	ATG Public Bug Bounty Program	
+fv3lfbdyjh.infomaniak.site	paying	Infomaniak Bug Bounty program	
+gatekeeper.prd.iat.it.xvservice.net	paying	ExpressVPN - Bug Bounty Program	
+gh-mail.expressvpn.com	paying	ExpressVPN - Bug Bounty Program	
+git.notebleue.pro	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	
+help.swapcard.com (Zoho)	out-of-scope	Swapcard	
+hittabutik.atg.se (external supplier)	out-of-scope	ATG Public Bug Bounty Program	
+hosting-ik.com	paying	Infomaniak Bug Bounty program	
+http://chatbot.super-id.net	paying	Superbank - Public Bug Bounty Program	
+https://(navigate|engage|checkout|internal|cached-api|api).shoppingapp.decathlon.com/*	paying	DECATHLON	
+https://*.captcha-delivery.com	paying	DataDome Bug Bounty	
+https://*.dropxl.com	paying	GRW Trading FZE - Open Bug Bounty Program	
+https://*.grwtrading.com	paying	GRW Trading FZE - Open Bug Bounty Program	
+https://*.vidaxl.io	paying	vidaXL Services - Open Bug Bounty Program	
+https://*.vidaxl.net	paying	vidaXL Services - Open Bug Bounty Program	
+https://*.vidaxl.org	paying	vidaXL Services - Open Bug Bounty Program	
+https://[it | fr | us | sg | …].louisvuitton.com	paying	Louis Vuitton Malletier - Public Bug Bounty Program	
+https://account.post.ch	paying	Swiss Post	
+https://account.teamviewer.com	paying	TeamViewer - Bounty Program	
+https://admin-roundups.moneyboxapp.org	paying	Moneybox Bug Bounty	
+https://admin.moneyboxapp.org	paying	Moneybox Bug Bounty	
+https://api-app.datadome.co/	paying	DataDome Bug Bounty	
+https://api-js.datadome.co	paying	DataDome Bug Bounty	
+https://api.blts.kape.com	paying	ExpressVPN - Bug Bounty Program	
+https://api.bookbeat.com	paying	BookBeat	
+https://api.cyberghostvpn.com	paying	CyberGhost - Bug Bounty Program	
+https://api.datadome.co	paying	DataDome Bug Bounty	
+https://api.dbs.kape.com	paying	ExpressVPN - Bug Bounty Program	
+https://api.dts.kape.com	paying	ExpressVPN - Bug Bounty Program	
+https://api.enc.kape.com	paying	ExpressVPN - Bug Bounty Program	
+https://api.expressvpn.com	paying	ExpressVPN - Bug Bounty Program	
+https://api.jwks.kape.com	paying	ExpressVPN - Bug Bounty Program	
+https://api.moneyboxapp.com	paying	Moneybox Bug Bounty	
+https://api.onedoc.ch	paying	OneDoc	
+https://api.paddle.com	paying	Paddle.com Public Bug Bounty Program	
+https://api.paymaya.com/	paying	Maya - Public Bug Bounty Program	
+https://api.pcrs.kape.com	paying	ExpressVPN - Bug Bounty Program	
+https://api.pluralonline.com	paying	Pine Labs Bug Bounty Program	
+https://api.pluralpay.in	paying	Pine Labs Bug Bounty Program	
+https://api.toom.de	paying	toom Baumarkt GmbH - Webshop	
+https://api.yeswehack.com	paying	YesWeHack	
+https://apis.onecloud.harman.com	paying	Harman International Lifestyle Products & Services	
+https://app-*.easy4ipcloud.com	paying	IMOU Public Bug Bounty Program	
+https://app.datadome.co	paying	DataDome Bug Bounty	
+https://app.easy4ipcloud.com	paying	IMOU Public Bug Bounty Program	
+https://apps.apple.com/se/app/atg-live/id1608156355	paying	ATG Public Bug Bounty Program	
+https://apps.yeswehack.com	paying	YesWeHack	
+https://auth-ywh.it.authentification.si.gouv.qc.ca/	paying	Programme de prime aux bogues du Gouvernement du Québec	
+https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)	paying	Bug Bounty Program - BlaBlaCar	
+https://auth.datadome.co	paying	DataDome Bug Bounty	
+https://be.harmanaudio.com	paying	HARMAN International - Web Applications	
+https://be.jbl.com	paying	HARMAN International - Web Applications	
+https://billingonline.post.ch/OnlinePayment/Web/v1/BOI	paying	Swiss Post	
+https://billingserver.pinelabs.com	paying	Pine Labs Bug Bounty Program	
+https://bluetooth-events.onecloud.harman.com	paying	Harman International Lifestyle Products & Services	
+https://board.pinelabs.com	paying	Pine Labs Bug Bounty Program	
+https://bounty-fastly.datashield.co	paying	DataDome Bot Bounty	
+https://bounty-nginx.datashield.co	paying	DataDome Bot Bounty	
+https://bounty-nodejs.datashield.co	paying	DataDome Bot Bounty	
+https://bounty.cryptobox.com	paying	Cryptobox	
+https://buy.paddle.com	out-of-scope	Paddle.com Public Bug Bounty Program	
+https://ch.harmanaudio.com	paying	HARMAN International - Web Applications	
+https://ch.jbl.com	paying	HARMAN International - Web Applications	
+https://checkout-service.paddle.com	out-of-scope	Paddle.com Public Bug Bounty Program	
+https://cicforms.mioot.com/	paying	VFS Global Bug Bounty Program	
+https://cockpit-eu-west-2.outscale.com/	paying	3DS OUTSCALE	
+https://connect.paymaya.com/	paying	Maya - Public Bug Bounty Program	
+https://cp.expressapisv2.net	paying	ExpressVPN - Bug Bounty Program	
+https://credit.pinelabs.com	paying	Pine Labs Bug Bounty Program	
+https://customer-api.datadome.co	paying	DataDome Bug Bounty	
+https://customer-portal.paddle.com	paying	Paddle.com Public Bug Bounty Program	
+https://datadome.co	paying	DataDome Bug Bounty	
+https://de.harmanaudio.com	paying	HARMAN International - Web Applications	
+https://de.jbl.com	paying	HARMAN International - Web Applications	
+https://developer.paddle.com	paying	Paddle.com Public Bug Bounty Program	
+https://devicedb.roonlabs.net/1/devicedb-*.zip	out-of-scope	HARMAN International - Web Applications	
+https://directlink.eu-west-2.outscale.com	paying	3DS OUTSCALE	
+https://dk.harmanaudio.com	paying	HARMAN International - Web Applications	
+https://dk.jbl.com	paying	HARMAN International - Web Applications	
+https://dojo-yeswehack.com/challenge-of-the-month/dojo-56	non-paying	YesWeHack Dojo	
+https://edge.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua))	paying	Bug Bounty Program - BlaBlaCar	
+https://edgeapis.onecloud.harman.com	paying	Harman International Lifestyle Products & Services	
+https://egonline.vfsevisa.com/main-es2015.c7bb991442356b23f23e.js?v=3.1.3	out-of-scope	VFS Global Bug Bounty Program	
+https://eim.eu-west-2.outscale.com	paying	3DS OUTSCALE	
+https://emistores.pinelabs.com	paying	Pine Labs Bug Bounty Program	
+https://equatorialguinea-evisa.com	paying	VFS Global Bug Bounty Program	
+https://es.harmankardon.com	paying	HARMAN International - Web Applications	
+https://events.onecloud.harman.com	paying	Harman International Lifestyle Products & Services	
+https://fcu.eu-west-2.outscale.com	paying	3DS OUTSCALE	
+https://fi.harmanaudio.com	paying	HARMAN International - Web Applications	
+https://fi.harmankardon.com	paying	HARMAN International - Web Applications	
+https://fi.jbl.com	paying	HARMAN International - Web Applications	
+https://fr.jbl.com	paying	HARMAN International - Web Applications	
+https://github.com/Infomaniak/desktop-kChat	paying	Infomaniak Bug Bounty program	
+https://github.com/Infomaniak/desktop-kDrive	paying	Infomaniak Bug Bounty program	
+https://github.com/expressvpn/lightway	paying	ExpressVPN - Bug Bounty Program	
+https://github.com/expressvpn/wolfssl-rs	paying	ExpressVPN - Bug Bounty Program	
+https://glow.imoulife.com	paying	IMOU Public Bug Bounty Program	
+https://hg.easy4ipcloud.com	paying	IMOU Public Bug Bounty Program	
+https://hu.harmanaudio.com	paying	HARMAN International - Web Applications	
+https://in.harmankardon.com	paying	HARMAN International - Web Applications	
+https://in.jbl.com	paying	HARMAN International - Web Applications	
+https://india-usa.vfsglobal.com	out-of-scope	VFS Global Bug Bounty Program	
+https://indonesiavoa.vfsevisa.id/	paying	VFS Global Bug Bounty Program	
+https://jp.harmanaudio.com	paying	HARMAN International - Web Applications	
+https://jp.jbl.com	paying	HARMAN International - Web Applications	
+https://keycloak.apps.otto.de	out-of-scope	OTTO.DE Bug Bounty	
+https://lbu.eu-west-2.outscale.com	paying	3DS OUTSCALE	
+https://liftassets.vfsglobal.com/_nuxt/46217fc777819548fddb.js	out-of-scope	VFS Global Bug Bounty Program	
+https://login.aufbaubank.de	paying	Thüringer Aufbaubank Bug Bounty Program	
+https://login.paddle.com	paying	Paddle.com Public Bug Bounty Program	
+https://login.teamviewer.com	paying	TeamViewer - Bounty Program	
+https://lounge.pinelabs.com/loungeui/login	paying	Pine Labs Bug Bounty Program	
+https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)	paying	Bug Bounty Program - BlaBlaCar	
+https://mmp.otto.de	paying	OTTO.DE Bug Bounty	
+https://mohesr.vfsglobal.com/forms/CVUAE/admin/	paying	VFS Global Bug Bounty Program	
+https://my.sogexia.com	paying	Sogexia	
+https://myplutus.pinelabs.my	paying	Pine Labs Bug Bounty Program	
+https://nbs.pinelabs.com	paying	Pine Labs Bug Bounty Program	
+https://no.harmanaudio.com	paying	HARMAN International - Web Applications	
+https://no.harmankardon.com	paying	HARMAN International - Web Applications	
+https://no.jbl.com	paying	HARMAN International - Web Applications	
+https://online.srilankaevisa.lk/lka/en/login	paying	VFS Global Bug Bounty Program	
+https://online.vfsevisa.com/main-es2015.521ef2e1d9f68fd1bb90.js	out-of-scope	VFS Global Bug Bounty Program	
+https://online.vfsevisa.com/main-es2015.6d514e86ec7c6492aafc.js?v=3.1.2	out-of-scope	VFS Global Bug Bounty Program	
+https://online.vfsevisa.com/main-es5.521ef2e1d9f68fd1bb90.js?v=3.1.6	out-of-scope	VFS Global Bug Bounty Program	
+https://op.paymaya.com/	paying	Maya - Public Bug Bounty Program	
+https://orbidder.otto.de	paying	OTTO.DE Bug Bounty	
+https://osu.eu-west-2.outscale.com	paying	3DS OUTSCALE	
+https://ota.onecloud.harman.com	paying	Harman International Lifestyle Products & Services	
+https://paddle.net	paying	Paddle.com Public Bug Bounty Program	
+https://partnerapi.imoulife.com	paying	IMOU Public Bug Bounty Program	
+https://paymayabiller-prod.paymaya.com/	paying	Maya - Public Bug Bounty Program	
+https://payoutapi.maya.ph/	paying	Maya - Public Bug Bounty Program	
+https://pci.kindredgroup.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+https://pg.paymaya.com	paying	Maya - Public Bug Bounty Program	
+https://pinepg.in	paying	Pine Labs Bug Bounty Program	
+https://pinepgconsole.in:9099	paying	Pine Labs Bug Bounty Program	
+https://pl.jbl.com	paying	HARMAN International - Web Applications	
+https://pluralcheckout.pinepg.in	paying	Pine Labs Bug Bounty Program	
+https://poc-op-ywh.it.authentification.si.gouv.qc.ca/	out-of-scope	Programme de prime aux bogues du Gouvernement du Québec	
+https://portal.vfsevisa.com/main-es2015.7857657af609ca5e4bc5.js?v=3.1.4	out-of-scope	VFS Global Bug Bounty Program	
+https://portal.vfsevisa.com/main-es2015.987b1b526aa8041bfdee.js	out-of-scope	VFS Global Bug Bounty Program	
+https://portal.vfsevisa.com/main-es5.987b1b526aa8041bfdee.js?v=3.1.6	out-of-scope	VFS Global Bug Bounty Program	
+https://privateinternetaccess.com/api/client/v5	paying	Private Internet Access - Bug Bounty Program	
+https://pro.onedoc.ch	paying	OneDoc	
+https://quantum-events.onecloud.harman.com	paying	Harman International Lifestyle Products & Services	
+https://retail-api.otto.de	paying	OTTO.DE Bug Bounty	
+https://ro.harmanaudio.com	paying	HARMAN International - Web Applications	
+https://sandbox-api.paddle.com	paying	Paddle.com Public Bug Bounty Program	
+https://sandbox-buy.paddle.com	paying	Paddle.com Public Bug Bounty Program	
+https://sandbox-checkout-service.paddle.com	paying	Paddle.com Public Bug Bounty Program	
+https://sandbox-login.paddle.com	paying	Paddle.com Public Bug Bounty Program	
+https://sandbox-vendors.paddle.com	paying	Paddle.com Public Bug Bounty Program	
+https://se.harmanaudio.com	paying	HARMAN International - Web Applications	
+https://search-api.bookbeat.com	paying	BookBeat	
+https://secondchance.jbl.com	out-of-scope	HARMAN International - Web Applications	
+https://secondchance.jbl.com/module/stripe_official/createIntent	out-of-scope	HARMAN International - Web Applications	
+https://selfcare.ooredoo.qa	paying	Ooredoo QPSC - Customer Portal Bug Bounty Program	
+https://service.post.ch/ekp-web/	paying	Swiss Post	
+https://service.post.ch/ele-klp/ele/	paying	Swiss Post	
+https://service.post.ch/zopa/app/	paying	Swiss Post	
+https://shop.post.ch/shop	paying	Swiss Post	
+https://sip2.dmp.gouv.fr	paying	Dossier Medical Partagé Bug Bounty Program	
+https://supplier-connect.otto.de	paying	OTTO.DE Bug Bounty	
+https://sycamore.moneyboxapp.org	paying	Moneybox Bug Bounty	
+https://telehealth.onedoc.ch	paying	OneDoc	
+https://thueringer-foerderportal.eu	paying	Thüringer Aufbaubank Bug Bounty Program	
+https://tms.onecloud.harman.com	paying	Harman International Lifestyle Products & Services	
+https://toom.de	paying	toom Baumarkt GmbH - Webshop	
+https://trm.pinelabs.ae	paying	Pine Labs Bug Bounty Program	
+https://uat-lift.vfsglobal.com/_angular/main.8dbd1aa97c38b188.js?v=6.0.29	out-of-scope	VFS Global Bug Bounty Program	
+https://uat-lift.vfsglobal.com/_angular/main.c05c54e8703c3a9f.js?v=6.0.36	out-of-scope	VFS Global Bug Bounty Program	
+https://uk.harmanaudio.com	paying	HARMAN International - Web Applications	
+https://uk.jbl.com	paying	HARMAN International - Web Applications	
+https://uketa.vfsglobal.com/forms/UKETA/	paying	VFS Global Bug Bounty Program	
+https://ukvitest.vfsglobal.com/_angular/main.3ca04c44a2718f71.js?v=1.0.22	out-of-scope	VFS Global Bug Bounty Program	
+https://us.marklevinson.com	paying	HARMAN International - Web Applications	
+https://uy.jbl.com	paying	HARMAN International - Web Applications	
+https://vc.tasheer.com/	paying	VFS Global Bug Bounty Program	
+https://vendors.paddle.com	paying	Paddle.com Public Bug Bounty Program	
+https://vfs.mioot.com/	paying	VFS Global Bug Bounty Program	
+https://vfseu.mioot.com/	paying	VFS Global Bug Bounty Program	
+https://vfsforms.mioot.com/	paying	VFS Global Bug Bounty Program	
+https://vire.vfsglobal.com	out-of-scope	VFS Global Bug Bounty Program	
+https://web.teamviewer.com	paying	TeamViewer - Bounty Program	
+https://www.32red.com/	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+https://www.akg.com	paying	HARMAN International - Web Applications	
+https://www.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)	paying	Bug Bounty Program - BlaBlaCar	
+https://www.bookbeat.com	paying	BookBeat	
+https://www.cyberghostvpn.com/en_US/apps/linux-vpn	paying	CyberGhost - Bug Bounty Program	
+https://www.cyberghostvpn.com/en_US/apps/macos-vpn	paying	CyberGhost - Bug Bounty Program	
+https://www.cyberghostvpn.com/en_US/apps/windows-vpn	paying	CyberGhost - Bug Bounty Program	
+https://www.decathlon.(fr|ch|co.uk|it|nl|de|pt|es|be|pl|cz|ca)/	paying	DECATHLON	
+https://www.decathlon.(hu|ro|com.tr)/	paying	DECATHLON	
+https://www.dmp.fr	paying	Dossier Medical Partagé Bug Bounty Program	
+https://www.dmp.gouv.fr	paying	Dossier Medical Partagé Bug Bounty Program	
+https://www.harmanaudio.at	paying	HARMAN International - Web Applications	
+https://www.harmanaudio.com	paying	HARMAN International - Web Applications	
+https://www.harmanaudio.com.au	paying	HARMAN International - Web Applications	
+https://www.harmanaudio.com.br	paying	HARMAN International - Web Applications	
+https://www.harmanaudio.com.mx	paying	HARMAN International - Web Applications	
+https://www.harmanaudio.fr	paying	HARMAN International - Web Applications	
+https://www.harmanaudio.in	paying	HARMAN International - Web Applications	
+https://www.harmanaudio.nl	paying	HARMAN International - Web Applications	
+https://www.harmankardon.at	paying	HARMAN International - Web Applications	
+https://www.harmankardon.be	paying	HARMAN International - Web Applications	
+https://www.harmankardon.ch	paying	HARMAN International - Web Applications	
+https://www.harmankardon.co.nz	paying	HARMAN International - Web Applications	
+https://www.harmankardon.co.uk	paying	HARMAN International - Web Applications	
+https://www.harmankardon.com	paying	HARMAN International - Web Applications	
+https://www.harmankardon.com.au	paying	HARMAN International - Web Applications	
+https://www.harmankardon.com.br	paying	HARMAN International - Web Applications	
+https://www.harmankardon.com.mx	paying	HARMAN International - Web Applications	
+https://www.harmankardon.de	paying	HARMAN International - Web Applications	
+https://www.harmankardon.dk	paying	HARMAN International - Web Applications	
+https://www.harmankardon.fr	paying	HARMAN International - Web Applications	
+https://www.harmankardon.nl	paying	HARMAN International - Web Applications	
+https://www.harmankardon.se	paying	HARMAN International - Web Applications	
+https://www.imou.com	paying	IMOU Public Bug Bounty Program	
+https://www.jbl.at	paying	HARMAN International - Web Applications	
+https://www.jbl.cl	paying	HARMAN International - Web Applications	
+https://www.jbl.co.nz	paying	HARMAN International - Web Applications	
+https://www.jbl.com	paying	HARMAN International - Web Applications	
+https://www.jbl.com.ar	paying	HARMAN International - Web Applications	
+https://www.jbl.com.au	paying	HARMAN International - Web Applications	
+https://www.jbl.com.br	paying	HARMAN International - Web Applications	
+https://www.jbl.com.co	paying	HARMAN International - Web Applications	
+https://www.jbl.com.gt	paying	HARMAN International - Web Applications	
+https://www.jbl.com.mx	paying	HARMAN International - Web Applications	
+https://www.jbl.com.pe	paying	HARMAN International - Web Applications	
+https://www.jbl.es	paying	HARMAN International - Web Applications	
+https://www.jbl.nl	paying	HARMAN International - Web Applications	
+https://www.jbl.pr	paying	HARMAN International - Web Applications	
+https://www.jbl.se	paying	HARMAN International - Web Applications	
+https://www.lascana.de/	paying	OTTO.DE Bug Bounty	
+https://www.letspaylater.ph	paying	Pine Labs Bug Bounty Program	
+https://www.lexicon.com	paying	HARMAN International - Web Applications	
+https://www.mediamarkt.at	paying	MediaMarktSaturn Bug Bounty Program	
+https://www.mediamarkt.be	paying	MediaMarktSaturn Bug Bounty Program	
+https://www.mediamarkt.ch	paying	MediaMarktSaturn Bug Bounty Program	
+https://www.mediamarkt.com.tr	paying	MediaMarktSaturn Bug Bounty Program	
+https://www.mediamarkt.de	paying	MediaMarktSaturn Bug Bounty Program	
+https://www.mediamarkt.es	paying	MediaMarktSaturn Bug Bounty Program	
+https://www.mediamarkt.hu	paying	MediaMarktSaturn Bug Bounty Program	
+https://www.mediamarkt.nl	paying	MediaMarktSaturn Bug Bounty Program	
+https://www.mediamarkt.pl	paying	MediaMarktSaturn Bug Bounty Program	
+https://www.mediaworld.it	paying	MediaMarktSaturn Bug Bounty Program	
+https://www.onedoc.ch	paying	OneDoc	
+https://www.ooredoo.qa	paying	Ooredoo QPSC - Customer Portal Bug Bounty Program	
+https://www.otto.de	paying	OTTO.DE Bug Bounty	
+https://www.otto.de/clara	out-of-scope	OTTO.DE Bug Bounty	
+https://www.otto.de/jobs	paying	OTTO.DE Bug Bounty	
+https://www.otto.de/kundenchat	out-of-scope	OTTO.DE Bug Bounty	
+https://www.otto.de/newsroom	out-of-scope	OTTO.DE Bug Bounty	
+https://www.otto.de/reblog	out-of-scope	OTTO.DE Bug Bounty	
+https://www.otto.de/roombeez	out-of-scope	OTTO.DE Bug Bounty	
+https://www.otto.de/soulfully	out-of-scope	OTTO.DE Bug Bounty	
+https://www.otto.de/twoforfashion	out-of-scope	OTTO.DE Bug Bounty	
+https://www.otto.de/updated	out-of-scope	OTTO.DE Bug Bounty	
+https://www.otto.de/user/contactFormSubmit	out-of-scope	OTTO.DE Bug Bounty	
+https://www.otto.de/user/sendcallbackrequest	out-of-scope	OTTO.DE Bug Bounty	
+https://www.paddle.com	paying	Paddle.com Public Bug Bounty Program	
+https://www.pinelabs.ae	paying	Pine Labs Bug Bounty Program	
+https://www.pinelabs.com	paying	Pine Labs Bug Bounty Program	
+https://www.pinelabs.my	paying	Pine Labs Bug Bounty Program	
+https://www.pinelabs.us	paying	Pine Labs Bug Bounty Program	
+https://www.privateinternetaccess.com/download/linux-vpn	paying	Private Internet Access - Bug Bounty Program	
+https://www.privateinternetaccess.com/download/mac-vpn	paying	Private Internet Access - Bug Bounty Program	
+https://www.privateinternetaccess.com/download/windows-vpn	paying	Private Internet Access - Bug Bounty Program	
+https://www.saturn.de	paying	MediaMarktSaturn Bug Bounty Program	
+https://www.teamviewer.com/en/products/teamviewer/	paying	TeamViewer - Bounty Program	
+https://www.teleoptiprd.otto.de	paying	OTTO.DE Bug Bounty	
+https://www.vfsglobalcustomerexperience.com/CustomerFeedback/GeneralFeedback/Index	paying	VFS Global Bug Bounty Program	
+https://www.vidaxl.(at|be|bg|ch|co.uk.com|com.au|com.ua|com|cz|de|dk|ee|es|fi|fr|gr|ie|is|it|hr|hu|lt|lv|no|nl|pl|pt|ro|se|si|sk|uk|ae|ca|jp)	paying	vidaXL Services - Open Bug Bounty Program	
+https://www.visaforkorea-sl.com/	paying	VFS Global Bug Bounty Program	
+https://www.yeswehack.com	paying	YesWeHack	
+https://xv-cp.apis-staging.xvtest.net/	paying	ExpressVPN - Bug Bounty Program	
+https://yeswehack.com	paying	YesWeHack	
+iam.atg.se	paying	ATG Public Bug Bounty Program	
+iat.it.xvservice.net	paying	ExpressVPN - Bug Bounty Program	
+img.swapcard.com	paying	Swapcard	
+info.doctolib.com | .fr | .de | .it	out-of-scope	Doctolib	
+infomaniak.events	paying	Infomaniak Bug Bounty program	
+int.32red.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+it.xvservice.net	paying	ExpressVPN - Bug Bounty Program	
+ix2smbdyjt.infomaniak.site	paying	Infomaniak Bug Bounty program	
+jobs.vinci.com	paying	VINCI SA - Public program	
+js.datadome.co	paying	DataDome Bot Bounty	
+kdrive.infomaniak.com/app/*/preview/*	paying	Infomaniak Bug Bounty program	
+kdrive.infomaniak.com/app/office*/*	paying	Infomaniak Bug Bounty program	
+kmeet.infomaniak.com	paying	Infomaniak Bug Bounty program	
+knowage.developer.monespacesante.fr	paying	Mon Espace Santé (MES)	
+knowage.monespacesante.fr	paying	Mon Espace Santé (MES)	
+kpaste.infomaniak.com	paying	Infomaniak Bug Bounty program	
+ksuite.infomaniak.com	paying	Infomaniak Bug Bounty program	
+ksuite.infomaniak.com/*/kdrive/*/preview/*	paying	Infomaniak Bug Bounty program	
+kundo.atg.se (external supplier)	out-of-scope	ATG Public Bug Bounty Program	
+l.swapcard.com	out-of-scope	Swapcard	
+l75pvbdyjo.infomaniak.site	paying	Infomaniak Bug Bounty program	
+leonard.vinci.com	paying	VINCI SA - Public program	
+login.infomaniak.com	paying	Infomaniak Bug Bounty program	
+login.swapcard.com	paying	Swapcard	
+lp.alasco.com	out-of-scope	Alasco GmbH - Bug Bounty Program	
+lp.alasco.de	out-of-scope	Alasco GmbH - Bug Bounty Program	
+lps.dmp.gouv.fr	paying	Dossier Medical Partagé Bug Bounty Program	
+lps2.dmp.gouv.fr	paying	Dossier Medical Partagé Bug Bounty Program	
+m.dana.id	paying	DANA Bug Bounty Program	
+mail.infomaniak.com	paying	Infomaniak Bug Bounty program	
+manager.infomaniak.com/*proxy*	paying	Infomaniak Bug Bounty program	
+manager.infomaniak.com/v3/*	paying	Infomaniak Bug Bounty program	
+mangerbouger.fr	paying	Santé Publique France Bug Bounty Program	
+media.doctolib.com	out-of-scope	Doctolib	
+mgs-gw.dana.id	paying	DANA Bug Bounty Program	
+myeasydocs.co.il	out-of-scope	VFS Global Bug Bounty Program	
+networkguard.com	paying	ExpressVPN - Bug Bounty Program	
+nssr-7.vfsglobal.com	out-of-scope	VFS Global Bug Bounty Program	
+odoo.zecible.pro	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	
+only exception: wishes.vinci.com (english version of voeux.vinci.com) is included in the scope	out-of-scope	VINCI SA - Public program	
+open.ys7.com	paying	Ezviz - Bug Bounty Program	
+ov-XX.infomaniak.ch and od-XX.infomaniak.ch sub domains	out-of-scope	Infomaniak Bug Bounty program	
+ownit.se	paying	Telenor Sweden Public Bug Bounty Program	
+page.swapcard.com	out-of-scope	Swapcard	
+payment.bingo.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+payment.casinohuone.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+payment.kolikkopelit.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+payment.mariacasino.(com|se|ee|dk)	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+payment.ottocasino.se	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+payment.ottokasino.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+payment.storspelare.se	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+payment.storspiller.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+payment.unibet.(com­|it|se|co.uk|be|nl|dk|ro|ee|ie|com.au|mt)	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+payment.vladcazino.ro	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+phlonline.vfsevisa.cn	paying	VFS Global Bug Bounty Program	
+phlportal.vfsevisa.cn	paying	VFS Global Bug Bounty Program	
+player-radio.infomaniak.com	paying	Infomaniak Bug Bounty program	
+prd.iat.it.xvservice.net	paying	ExpressVPN - Bug Bounty Program	
+preprod.api.monespacesante.fr	paying	Mon Espace Santé (MES)	
+preprod.auth.monespacesante.fr	paying	Mon Espace Santé (MES)	
+preprod.editeur.api.monespacesante.fr	paying	Mon Espace Santé (MES)	
+preprod.monespacesante.fr	paying	Mon Espace Santé (MES)	
+preprod1.monespacesante.fr	paying	Mon Espace Santé (MES)	
+preprod2.monespacesante.fr	paying	Mon Espace Santé (MES)	
+pro-app.doctolib.com	out-of-scope	Doctolib	
+pro.doctolib.(fr|de|it) (see "Free features for healthcare professionals"))	paying	Doctolib	
+professionnels.vaccination-info-service.fr	paying	Santé Publique France Bug Bounty Program	
+r121.news.atg.se (external supplier)	out-of-scope	ATG Public Bug Bounty Program	
+r122.news.atg.se (external supplier)	out-of-scope	ATG Public Bug Bounty Program	
+r123.news.atg.se (external supplier)	out-of-scope	ATG Public Bug Bounty Program	
+r124.news.atg.se (external supplier)	out-of-scope	ATG Public Bug Bounty Program	
+registre.notebleue.pro	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	
+s3.gva1.infomaniak.cloud	paying	Infomaniak Bug Bounty program	
+s3.gva2.infomaniak.cloud	paying	Infomaniak Bug Bounty program	
+securite.monespacesante.fr	paying	Mon Espace Santé (MES)	
+sentry.swapcard.com (Except if you notice a miss-configuration)	out-of-scope	Swapcard	
+share.doctolib.net	out-of-scope	Doctolib	
+shop.atg.se (external supplier)	out-of-scope	ATG Public Bug Bounty Program	
+shop.infomaniak.com	paying	Infomaniak Bug Bounty program	
+solutions-environnement.vinci.com	paying	VINCI SA - Public program	
+sso.mangerbouger.fr	paying	Santé Publique France Bug Bounty Program	
+stage-vimla-se.vimla.io	out-of-scope	Telenor Sweden Public Bug Bounty Program	
+stats.vinci.com	paying	VINCI SA - Public program	
+status.doctolib.com | .fr | .it	out-of-scope	Doctolib	
+status.vimla.se	out-of-scope	Telenor Sweden Public Bug Bounty Program	
+storage*.infomaniak.com	paying	Infomaniak Bug Bounty program	
+storage*.infomaniak.com/newsletter/thumbnails/*	out-of-scope	Infomaniak Bug Bounty program	
+store.doctolib.com	out-of-scope	Doctolib	
+studio-api.swapcard.com	paying	Swapcard	
+studio.swapcard.com	paying	Swapcard	
+superbank.id	paying	Superbank - Public Bug Bounty Program	
+support.alasco.com	out-of-scope	Alasco GmbH - Bug Bounty Program	
+support.alasco.de	out-of-scope	Alasco GmbH - Bug Bounty Program	
+support.monespacesante.fr	paying	Mon Espace Santé (MES)	
+support.sogexia.com	out-of-scope	Sogexia	
+survey.swapcard.com	out-of-scope	Swapcard	
+survey.vinci.com	paying	VINCI SA - Public program	
+svn.notebleue.pro	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	
+swiss-backup*.infomaniak.com	paying	Infomaniak Bug Bounty program	
+swisstransfer.infomaniak.com	paying	Infomaniak Bug Bounty program	
+sync.infomaniak.com	paying	Infomaniak Bug Bounty program	
+t.swapcard.com	paying	Swapcard	
+tc.ownit.se	out-of-scope	Telenor Sweden Public Bug Bounty Program	
+team.swapcard.com	paying	Swapcard	
+techops.dana.id	out-of-scope	DANA Bug Bounty Program	
+telenor.se	paying	Telenor Sweden Public Bug Bounty Program	
+todo.notebleue.pro	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	
+trm.pinepaymentsolutions.com	paying	Pine Labs Bug Bounty Program	
+vaccination-info-service.fr	paying	Santé Publique France Bug Bounty Program	
+vector.prd.iat.it.xvservice.net	paying	ExpressVPN - Bug Bounty Program	
+vettore.it and any related Vettore assets	out-of-scope	Doctolib	
+vfsglobal.com.ru	out-of-scope	VFS Global Bug Bounty Program	
+vimla.se	paying	Telenor Sweden Public Bug Bounty Program	
+vod.infomaniak.com	paying	Infomaniak Bug Bounty program	
+vœux.vinci.com	paying	VINCI SA - Public program	
+web-mh.dmp.gouv.fr	paying	Dossier Medical Partagé Bug Bounty Program	
+webbshop.atg.se (external supplier)	out-of-scope	ATG Public Bug Bounty Program	
+webdev.dana.id	out-of-scope	DANA Bug Bounty Program	
+webtoolbox.notebleue.pro	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	
+welcome.infomaniak.com	paying	Infomaniak Bug Bounty program	
+wp.dana.id	out-of-scope	DANA Bug Bounty Program	
+wps-cps.cv.dmp.gouv.fr	paying	Dossier Medical Partagé Bug Bounty Program	
+wps-cps.dmp.gouv.fr	paying	Dossier Medical Partagé Bug Bounty Program	
+wps-cps.dmp.monespacesante.fr	paying	Mon Espace Santé (MES)	
+www.1000-premiers-jours.fr	paying	Santé Publique France Bug Bounty Program	
+www.alasco.com	out-of-scope	Alasco GmbH - Bug Bounty Program	
+www.alasco.de	out-of-scope	Alasco GmbH - Bug Bounty Program	
+www.atg.se	paying	ATG Public Bug Bounty Program	
+www.bingo.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+www.casinohuone.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+www.chaire-arpenter.fr	paying	VINCI SA - Public program	
+www.doctolib.(fr|de|it)	paying	Doctolib	
+www.editeur.api.monespacesante.fr	paying	Mon Espace Santé (MES)	
+www.ezviz.com	paying	Ezviz - Bug Bounty Program	
+www.fondation-vinci.com	paying	VINCI SA - Public program	
+www.habileoh.com	paying	VINCI SA - Public program	
+www.infomaniak.com	paying	Infomaniak Bug Bounty program	
+www.kolikkopelit.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+www.lab-recherche-environnement.org	paying	VINCI SA - Public program	
+www.mariacasino.(com|se|ee|dk)	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+www.monespacesante.fr	paying	Mon Espace Santé (MES)	
+www.onsexprime.fr	paying	Santé Publique France Bug Bounty Program	
+www.ottocasino.se	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+www.ottokasino.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+www.ovh.com	paying	OVHcloud	
+www.preprod.monespacesante.fr	paying	Mon Espace Santé (MES)	
+www.preprod1.monespacesante.fr	paying	Mon Espace Santé (MES)	
+www.preprod2.monespacesante.fr	paying	Mon Espace Santé (MES)	
+www.sogexia.com	out-of-scope	Sogexia	
+www.sogexiaclub.com	out-of-scope	Sogexia	
+www.storspelare.se	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+www.storspiller.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+www.swapcard.com (static corporate website)	out-of-scope	Swapcard	
+www.swisstransfer.com	paying	Infomaniak Bug Bounty program	
+www.tabac-info-service.fr	paying	Santé Publique France Bug Bounty Program	
+www.trajeoh.com	paying	VINCI SA - Public program	
+www.unibet.(com­|it|se|co.uk|be|nl|dk|ro|ee|ie|com.au|mt)	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+www.vfsvisaonline.com	paying	VFS Global Bug Bounty Program	
+www.vinci-vie.fr	paying	VINCI SA - Public program	
+www.vinci.com	paying	VINCI SA - Public program	
+www.vivre-avec-la-chaleur.fr	paying	Santé Publique France Bug Bounty Program	
+www.vladcazino.ro	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+ywh.admin.zecible.fr	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	
+ywh.api.zecible.fr	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	
+ywh.comptage.zecible.fr	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	
+ywh.crons.zecible.fr	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	
+ywh.dev.zecible.fr	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	
+ywh.fichiers.zecible.fr	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	
+ywh.mydata.zecible.fr	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	
+ywh.routage.zecible.fr	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	
+ywh.static.zcb.fr	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	
+ywh.static.zecible.fr	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	
+ywh.update.zecible.fr	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	
+ywh.verify.zecible.fr	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	
+ywh.zcb.fr	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	

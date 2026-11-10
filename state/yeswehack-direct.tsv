@@ -1,0 +1,892 @@
+!! Links pointing to other FQDNs are always out of scope !!	out-of-scope	VINCI SA - Public program	https://yeswehack.com/programs/vincisa-public-program
+(*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17	paying	Swiss Post	https://yeswehack.com/programs/swiss-post
+(se|fi|uk).bingo.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+*. myqcloud.com	out-of-scope	Tencent Bug Bounty Program	https://yeswehack.com/programs/tencent-bug-bounty-program
+*. vfsevisa.id	paying	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+*.alasco.de	paying	Alasco GmbH - Bug Bounty Program	https://yeswehack.com/programs/alasco-gmbh-bug-bounty-program
+*.alasco.rocks	paying	Alasco GmbH - Bug Bounty Program	https://yeswehack.com/programs/alasco-gmbh-bug-bounty-program
+*.atg.se	paying	ATG Public Bug Bounty Program	https://yeswehack.com/programs/atg-public-bug-bounty-program
+*.bbcust.telenor.se	out-of-scope	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+*.bredbandsbolaget.se	paying	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+*.captcha-delivery.com	paying	DataDome Bot Bounty	https://yeswehack.com/programs/datadome-bot-bounty
+*.cust.bredbandsbolaget.se	out-of-scope	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+*.cust.ownit.se	out-of-scope	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+*.cust.telenor.se	out-of-scope	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+*.customers.ownit.se	out-of-scope	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+*.cyber.gouv.qc.ca	paying	Programme de prime aux bogues du Gouvernement du Québec	https://yeswehack.com/programs/programmes-de-primes-aux-bogues-du-gouvernement-du-quebec-cgcd
+*.cyberghost.com	paying	CyberGhost - Bug Bounty Program	https://yeswehack.com/programs/cyberghost-bug-bounty-program
+*.cyberghostvpn.com	paying	CyberGhost - Bug Bounty Program	https://yeswehack.com/programs/cyberghost-bug-bounty-program
+*.dana.id	out-of-scope	DANA Bug Bounty Program	https://yeswehack.com/programs/dana-bug-bounty-program
+*.directverify.in	paying	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+*.docswallet.com	paying	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+*.doctolib.(fr|de|it|com|net)	paying	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+*.europolitan.se	paying	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+*.expressvpn.com	paying	ExpressVPN - Bug Bounty Program	https://yeswehack.com/programs/expressvpn-bug-bounty-program
+*.eziot.com	paying	Ezviz - Bug Bounty Program	https://yeswehack.com/programs/ezviz-bug-bounty-program
+*.ezviz.com	paying	Ezviz - Bug Bounty Program	https://yeswehack.com/programs/ezviz-bug-bounty-program
+*.ezviz7.com	paying	Ezviz - Bug Bounty Program	https://yeswehack.com/programs/ezviz-bug-bounty-program
+*.ezvizlife.com	paying	Ezviz - Bug Bounty Program	https://yeswehack.com/programs/ezviz-bug-bounty-program
+*.ezvizru.com	paying	Ezviz - Bug Bounty Program	https://yeswehack.com/programs/ezviz-bug-bounty-program
+*.foretagsportalen.telenor.se	paying	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+*.gov.sg	non-paying	GovTech - Vulnerability Disclosure Programme	https://yeswehack.com/programs/govtech-vulnerability-disclosure-programme-policy
+*.hicloudcam.com	paying	Ezviz - Bug Bounty Program	https://yeswehack.com/programs/ezviz-bug-bounty-program
+*.hikops.com	paying	Ezviz - Bug Bounty Program	https://yeswehack.com/programs/ezviz-bug-bounty-program
+*.infomaniak.com	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+*.inpli.se	paying	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+*.kchat.infomaniak.com	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+*.kdrive.infomaniak.com	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+*.louisvuitton.com	out-of-scope	Louis Vuitton Malletier - Public Bug Bounty Program	https://yeswehack.com/programs/louis-vuitton-malletier-public-bug-bounty-program
+*.mitt.vimla.se	paying	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+*.mittforetag.telenor.se	paying	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+*.onevasco.com	paying	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+*.osp.ovh.com	out-of-scope	OVHcloud	https://yeswehack.com/programs/ovh
+*.ownit.nu	out-of-scope	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+*.ownit.se	paying	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+*.piaservers.com	paying	Private Internet Access - Bug Bounty Program	https://yeswehack.com/programs/private-internet-access-bug-bounty-program
+*.piaservers.net	paying	Private Internet Access - Bug Bounty Program	https://yeswehack.com/programs/private-internet-access-bug-bounty-program
+*.play.ownit.se	paying	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+*.polymoon.it	paying	ExpressVPN - Bug Bounty Program	https://yeswehack.com/programs/expressvpn-bug-bounty-program
+*.privateinternetaccess.com	paying	Private Internet Access - Bug Bounty Program	https://yeswehack.com/programs/private-internet-access-bug-bounty-program
+*.profile.telenor.se	paying	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+*.qzoneapp.com	out-of-scope	Tencent Bug Bounty Program	https://yeswehack.com/programs/tencent-bug-bounty-program
+*.signin.telenor.se	paying	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+*.siilo.com	paying	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+*.sme.telenor.se	out-of-scope	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+*.soyoustart.com	paying	OVHcloud	https://yeswehack.com/programs/ovh
+*.stream.telenor.se	paying	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+*.telenor.se	paying	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+*.telenorinpli.se	paying	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+*.vfsai.com	paying	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+*.vfsevisa.com	paying	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+*.vfsglobal.(com|co.uk|ca)	paying	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+*.vfsglobal.by	paying	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+*.vimla.io	paying	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+*.vimla.se	paying	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+*.vimla.work	paying	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+*.vod2.infomaniak.com	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+*.xvservice.net	paying	ExpressVPN - Bug Bounty Program	https://yeswehack.com/programs/expressvpn-bug-bounty-program
+*.xvtest.net	paying	ExpressVPN - Bug Bounty Program	https://yeswehack.com/programs/expressvpn-bug-bounty-program
+*.ys7.com	paying	Ezviz - Bug Bounty Program	https://yeswehack.com/programs/ezviz-bug-bounty-program
+*Notes about Tencent Cloud (cloud.tencent.com as included in *.tencent.com)	out-of-scope	Tencent Bug Bounty Program	https://yeswehack.com/programs/tencent-bug-bounty-program
+*dev.swapcard.com	out-of-scope	Swapcard	https://yeswehack.com/programs/swapcard
+- Any reports relating to improper authorization / information disclosure on api.moneyboxapp.com through /investment/payments/GetGiftUser/{code} and PII leak or sensitive data exposure is out of scope as this was intended by design.	out-of-scope	Moneybox Bug Bounty	https://yeswehack.com/programs/moneybox-bug-bounty
+/apps-messenger (the chatbot in general is out of scope)	out-of-scope	OTTO.DE Bug Bounty	https://yeswehack.com/programs/otto-de-bug-bounty
+/blog/ (or translated equivalent) endpoints on our sites	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+/tracking	out-of-scope	OTTO.DE Bug Bounty	https://yeswehack.com/programs/otto-de-bug-bounty
+1pw-scim.prd.iat.it.xvservice.net	paying	ExpressVPN - Bug Bounty Program	https://yeswehack.com/programs/expressvpn-bug-bounty-program
+5k8vrbdyje.infomaniak.site	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+API Playground	paying	Kiteworks Public Bug Bounty Program	https://yeswehack.com/programs/kiteworks-public-bug-bounty-program-1
+Alasco will not provide access credentials to any system, not for testing and also not for issue validation.	out-of-scope	Alasco GmbH - Bug Bounty Program	https://yeswehack.com/programs/alasco-gmbh-bug-bounty-program
+All 3rd parties are out of scope	out-of-scope	Thüringer Aufbaubank Bug Bounty Program	https://yeswehack.com/programs/thuringer-aufbaubank-bug-bounty-program
+All PDF documents published or served on castor.vinci.com are public, thank you for not reporting any bug linked to the accessibility of these documents.	out-of-scope	VINCI SA - Public program	https://yeswehack.com/programs/vincisa-public-program
+All assets that are not listed in the scope section are to be considered as out of scope	out-of-scope	Dossier Medical Partagé Bug Bounty Program	https://yeswehack.com/programs/dossier-medical-partage-program
+All domains not listed In-Scope	out-of-scope	DataDome Bug Bounty	https://yeswehack.com/programs/datadome-bug-bounty
+All domains not listed In-Scope	out-of-scope	OTTO.DE Bug Bounty	https://yeswehack.com/programs/otto-de-bug-bounty
+All domains not listed In-Scope	out-of-scope	TeamViewer - Bounty Program	https://yeswehack.com/programs/teamviewer-bounty-program
+All domains not listed In-Scope	out-of-scope	Thüringer Aufbaubank Bug Bounty Program	https://yeswehack.com/programs/thuringer-aufbaubank-bug-bounty-program
+All domains not listed In-Scope.	out-of-scope	Programme de prime aux bogues du Gouvernement du Québec	https://yeswehack.com/programs/programmes-de-primes-aux-bogues-du-gouvernement-du-quebec-cgcd
+All domains or subdomains not listed in the above list of 'Scopes'	out-of-scope	BookBeat	https://yeswehack.com/programs/bookbeat
+All domains or subdomains not listed in the above list of 'Scopes'	out-of-scope	CyberGhost - Bug Bounty Program	https://yeswehack.com/programs/cyberghost-bug-bounty-program
+All domains or subdomains not listed in the above list of 'Scopes'	out-of-scope	ExpressVPN - Bug Bounty Program	https://yeswehack.com/programs/expressvpn-bug-bounty-program
+All domains or subdomains not listed in the above list of 'Scopes'	out-of-scope	GRW Trading FZE - Open Bug Bounty Program	https://yeswehack.com/programs/grw-trading-fze-bug-bounty-program
+All domains or subdomains not listed in the above list of 'Scopes'	out-of-scope	GovTech - Vulnerability Disclosure Programme	https://yeswehack.com/programs/govtech-vulnerability-disclosure-programme-policy
+All domains or subdomains not listed in the above list of 'Scopes'	out-of-scope	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+All domains or subdomains not listed in the above list of 'Scopes'	out-of-scope	Harman International Lifestyle Products & Services	https://yeswehack.com/programs/harman-international-public-bug-bounty
+All domains or subdomains not listed in the above list of 'Scopes'	out-of-scope	IMOU Public Bug Bounty Program	https://yeswehack.com/programs/imou-public-bug-bounty-program
+All domains or subdomains not listed in the above list of 'Scopes'	out-of-scope	Maya - Public Bug Bounty Program	https://yeswehack.com/programs/maya-public-bug-bounty-program
+All domains or subdomains not listed in the above list of 'Scopes'	out-of-scope	Moneybox Bug Bounty	https://yeswehack.com/programs/moneybox-bug-bounty
+All domains or subdomains not listed in the above list of 'Scopes'	out-of-scope	OneDoc	https://yeswehack.com/programs/onedoc-sa-bug-bounty-program
+All domains or subdomains not listed in the above list of 'Scopes'	out-of-scope	Ooredoo QPSC - Customer Portal Bug Bounty Program	https://yeswehack.com/programs/ooredoo-qpsc-bug-bounty-program
+All domains or subdomains not listed in the above list of 'Scopes'	out-of-scope	Private Internet Access - Bug Bounty Program	https://yeswehack.com/programs/private-internet-access-bug-bounty-program
+All domains or subdomains not listed in the above list of 'Scopes'	out-of-scope	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	https://yeswehack.com/programs/zecible-public-bug-bounty-program
+All domains or subdomains not listed in the above list of 'Scopes'	out-of-scope	vidaXL Services - Open Bug Bounty Program	https://yeswehack.com/programs/vidaxl-services-open-bug-bounty-program
+All domains or subdomains not listed in the above list of 'Scopes' should be considered to be out of scope	out-of-scope	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+All domains or subdomains not listed in the above list of 'Scopes'.	out-of-scope	toom Baumarkt GmbH - Webshop	https://yeswehack.com/programs/toom-baumarkt-gmbh-bug-bounty-program
+All domains, subdomains or applications not listed in the above list of 'Scopes'	out-of-scope	OVHcloud	https://yeswehack.com/programs/ovh
+All domains, subdomains or assets not listed in the above list of 'Scopes' must be considered as out of the scope of this program	out-of-scope	Louis Vuitton Malletier - Public Bug Bounty Program	https://yeswehack.com/programs/louis-vuitton-malletier-public-bug-bounty-program
+All domains, subdomains or assets not listed in the above list of 'Scopes' must be considered as out of the scope of this program	out-of-scope	Paddle.com Public Bug Bounty Program	https://yeswehack.com/programs/paddle-com-public-bug-bounty-program
+All domains, subdomains or assets not listed in the above list of 'Scopes' must be considered as out of the scope of this program.	out-of-scope	MediaMarktSaturn Bug Bounty Program	https://yeswehack.com/programs/mediamarktsaturn-bug-bounty-program
+All domains, subdomains, apps not listed in-scope	out-of-scope	DECATHLON	https://yeswehack.com/programs/decathlon
+All other Pine Labs assets that are not listed above are to be treated as out of scope	out-of-scope	Pine Labs Bug Bounty Program	https://yeswehack.com/programs/pine-labs-bug-bounty-program
+All other VFS assets that are not listed above as in scope are automatically out of scope	out-of-scope	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+All other domains or subdomains not listed in the above list of 'Scopes'.	out-of-scope	Alasco GmbH - Bug Bounty Program	https://yeswehack.com/programs/alasco-gmbh-bug-bounty-program
+Any *.sslip.io, *.nip.io, AWS ELB / load-balancer hostname, or raw IPv4 / IPv6 address	out-of-scope	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+Any Applications under https://www.expressvpn.com/latest	paying	ExpressVPN - Bug Bounty Program	https://yeswehack.com/programs/expressvpn-bug-bounty-program
+Any domain that looks like it's owned by a third party or customer due to customer's privacy	out-of-scope	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+Any issues with Wallet or KYC features (There are third party services)	out-of-scope	YesWeHack	https://yeswehack.com/programs/yes-we-hack
+Any resource created or accessed with the Outscale Cloud on eu-west-2 region - created by the Hunter	paying	3DS OUTSCALE	https://yeswehack.com/programs/outscale
+Any resource created or accessed with the Outscale Cloud, on all regions - except the ones created by the Hunter	out-of-scope	3DS OUTSCALE	https://yeswehack.com/programs/outscale
+Any services related to Incamail (for example https://incamail-dev.post.ch (194.41.248.224) and https://incamail-test.post.ch (194.41.248.58))	out-of-scope	Swiss Post	https://yeswehack.com/programs/swiss-post
+Any services related to PostCardCreator (for example https://service.post.ch/pccweb, mobile apps and https://pccweb.api.post.ch)	out-of-scope	Swiss Post	https://yeswehack.com/programs/swiss-post
+Any website that is not listed explicitly in the scope.	out-of-scope	Bug Bounty Program - BlaBlaCar	https://yeswehack.com/programs/bug-bounty-program-blablacar
+Anything that has not been described as in scope in the previous section is automatically out of scope.	out-of-scope	Swiss Post	https://yeswehack.com/programs/swiss-post
+Anything that is not explicitely listed as part of the Scope	out-of-scope	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+Anything that is not explicitely listed in scope section	out-of-scope	VINCI SA - Public program	https://yeswehack.com/programs/vincisa-public-program
+Anything that is not explicitely listed in the ‘Scope’ section.	out-of-scope	Swiss Post - E-Voting	https://yeswehack.com/programs/swiss-post-evoting
+Applications, URLs, or data that are not listed on this page are considered out of scope.	out-of-scope	Superbank - Public Bug Bounty Program	https://yeswehack.com/programs/superbank-public-bug-bounty-program
+Applications/Extensions under https://www.cyberghostvpn.com/download	paying	CyberGhost - Bug Bounty Program	https://yeswehack.com/programs/cyberghost-bug-bounty-program
+Applications/Extensions under https://www.privateinternetaccess.com/download	paying	Private Internet Access - Bug Bounty Program	https://yeswehack.com/programs/private-internet-access-bug-bounty-program
+Assets not listed in the in scope section are to be considered as out of the scope of this program and won't be eligible for reward	out-of-scope	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+Attack against Outscale offices (malware, backdoor, DoS, etc.)	out-of-scope	3DS OUTSCALE	https://yeswehack.com/programs/outscale
+Attacks on administrative and surrounding systems that are not used for the in-scope services are not permitted (this includes DNS, NTP, routers, systems of the ISP, etc.).	out-of-scope	Swiss Post	https://yeswehack.com/programs/swiss-post
+Attention: Third-party managed infrastructure (e.g. HubSpot, Salesforce, or other SaaS platforms) where Alasco has no ability to remediate vulnerabilities at the infrastructure or platform level, regardless of the subdomain.	out-of-scope	Alasco GmbH - Bug Bounty Program	https://yeswehack.com/programs/alasco-gmbh-bug-bounty-program
+By default all the endpoints that are not listed in the allowed scopes are out of scope of the program.	out-of-scope	Swapcard	https://yeswehack.com/programs/swapcard
+Client-side web vulnerabilities	out-of-scope	DataDome Bot Bounty	https://yeswehack.com/programs/datadome-bot-bounty
+Core Assets In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)	paying	Tencent Bug Bounty Program	https://yeswehack.com/programs/tencent-bug-bounty-program
+Craft CMS on www.siilo.com, plus siilo.com marketing / staging sub-domains (l.siilo.com, l-dev.siilo.com, web.siilo.com, web-dev.siilo.com, www-admin.siilo.com, mjt-dev.siilo.com, att-dev-nl.siilo.com, sandbox-nl.siilo.com, connect.siilo.com, prod-nl-web.siilo.com)	out-of-scope	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+Crown Jewel Heist	paying	Kiteworks Public Bug Bounty Program	https://yeswehack.com/programs/kiteworks-public-bug-bounty-program-1
+CyberGhost VPN servers	paying	CyberGhost - Bug Bounty Program	https://yeswehack.com/programs/cyberghost-bug-bounty-program
+Database service instances from customers, like *.dbaas.infomaniak.cloud	out-of-scope	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+Dataleaks or 3DS OUTSCALE-related vulnerabilities outside the scope of the IaaS Cloud Service.	out-of-scope	3DS OUTSCALE	https://yeswehack.com/programs/outscale
+Demo environment (for example: ezcpcloudiot.eziot.com)	out-of-scope	Ezviz - Bug Bounty Program	https://yeswehack.com/programs/ezviz-bug-bounty-program
+Denial of service attacks	out-of-scope	3DS OUTSCALE	https://yeswehack.com/programs/outscale
+Denial of service attacks or any technique whose goal is to degrade infrastructure availability. This falls outside the scope of bot protection bypass and will not be rewarded.	out-of-scope	DataDome Bot Bounty	https://yeswehack.com/programs/datadome-bot-bounty
+Dev, Test, SIT, Staging, Sandbox, Demo, and other non-production environments	out-of-scope	DANA Bug Bounty Program	https://yeswehack.com/programs/dana-bug-bounty-program
+Device: JBL Authentics 200	paying	Harman International Lifestyle Products & Services	https://yeswehack.com/programs/harman-international-public-bug-bounty
+Device: JBL Authentics 300	paying	Harman International Lifestyle Products & Services	https://yeswehack.com/programs/harman-international-public-bug-bounty
+Device: JBL Authentics 500	paying	Harman International Lifestyle Products & Services	https://yeswehack.com/programs/harman-international-public-bug-bounty
+Device: JBL Bar 1000MK2	paying	Harman International Lifestyle Products & Services	https://yeswehack.com/programs/harman-international-public-bug-bounty
+Device: JBL Bar 1300MK2	paying	Harman International Lifestyle Products & Services	https://yeswehack.com/programs/harman-international-public-bug-bounty
+Device: JBL Bar 300MK2	paying	Harman International Lifestyle Products & Services	https://yeswehack.com/programs/harman-international-public-bug-bounty
+Device: JBL Bar 500MK2	paying	Harman International Lifestyle Products & Services	https://yeswehack.com/programs/harman-international-public-bug-bounty
+Device: JBL Bar 700MK2	paying	Harman International Lifestyle Products & Services	https://yeswehack.com/programs/harman-international-public-bug-bounty
+Device: JBL Bar 800MK2	paying	Harman International Lifestyle Products & Services	https://yeswehack.com/programs/harman-international-public-bug-bounty
+Device: JBL Boombox 3 Wi-Fi	paying	Harman International Lifestyle Products & Services	https://yeswehack.com/programs/harman-international-public-bug-bounty
+Device: JBL Charge 5	paying	Harman International Lifestyle Products & Services	https://yeswehack.com/programs/harman-international-public-bug-bounty
+Device: JBL Charge 5 Wi-Fi	paying	Harman International Lifestyle Products & Services	https://yeswehack.com/programs/harman-international-public-bug-bounty
+Device: JBL Flip 7	paying	Harman International Lifestyle Products & Services	https://yeswehack.com/programs/harman-international-public-bug-bounty
+Device: JBL Live Beam 3	paying	Harman International Lifestyle Products & Services	https://yeswehack.com/programs/harman-international-public-bug-bounty
+Device: JBL PartyBox Encore 2	paying	Harman International Lifestyle Products & Services	https://yeswehack.com/programs/harman-international-public-bug-bounty
+Device: JBL Tour One M3	paying	Harman International Lifestyle Products & Services	https://yeswehack.com/programs/harman-international-public-bug-bounty
+Distributed attacks (scraping must be performed from a single IP at a time)	out-of-scope	DataDome Bot Bounty	https://yeswehack.com/programs/datadome-bot-bounty
+Domains not listed in scope are by default all out of scope	out-of-scope	Santé Publique France Bug Bounty Program	https://yeswehack.com/programs/sante-publique-france-bugbounty-public-program
+Domains where GovTech is the registrar	non-paying	GovTech - Vulnerability Disclosure Programme	https://yeswehack.com/programs/govtech-vulnerability-disclosure-programme-policy
+E-mail server configuration (DKIM/SPF/DMARC)	out-of-scope	3DS OUTSCALE	https://yeswehack.com/programs/outscale
+Email Protection Gateway (EPG)	paying	Kiteworks Public Bug Bounty Program	https://yeswehack.com/programs/kiteworks-public-bug-bounty-program-1
+Everything that's out of the scope root URL	out-of-scope	YesWeHack Dojo	https://yeswehack.com/programs/dojo
+ExpressVPN Router	paying	ExpressVPN - Bug Bounty Program	https://yeswehack.com/programs/expressvpn-bug-bounty-program
+ExpressVPN VPN servers	paying	ExpressVPN - Bug Bounty Program	https://yeswehack.com/programs/expressvpn-bug-bounty-program
+FTP credentials from our customers, like *.ftp.infomaniak.com	out-of-scope	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+Finally, fraud related reports are out-of-scope if they do not exploit a security vulnerability. Therefore, fraud activity enabled by bug or incomplete business rules enforcement are out-of-scope. However, a fraud activity enabled by a CSRF exploit for example is valid.	out-of-scope	Bug Bounty Program - BlaBlaCar	https://yeswehack.com/programs/bug-bounty-program-blablacar
+Hardware found on https://www.ezviz.com/category/security-wifi-cameras	paying	Ezviz - Bug Bounty Program	https://yeswehack.com/programs/ezviz-bug-bounty-program
+Hardware found on https://www.ezviz.com/category/smart-home	paying	Ezviz - Bug Bounty Program	https://yeswehack.com/programs/ezviz-bug-bounty-program
+However, any vulnerability discovered in a system or service that requires a login to access is outside the scope of this program.	out-of-scope	Alasco GmbH - Bug Bounty Program	https://yeswehack.com/programs/alasco-gmbh-bug-bounty-program
+However, though listed in the out-of-scope list, if you really feel that a bug will leave an impact on our platform, please come up with a convincing and working POC. If that convinces us to change our code, we will reward you with a bounty.	out-of-scope	Bug Bounty Program - BlaBlaCar	https://yeswehack.com/programs/bug-bounty-program-blablacar
+Information returned by /get-tickets-infos (including organizer, event_name, event_date, command_date, and masked email) is out of scope	out-of-scope	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+Issues in our DNS and NTP	out-of-scope	3DS OUTSCALE	https://yeswehack.com/programs/outscale
+Issues not leading to confidentiality, traceability or integrity problems. You can report it to support@outscale.com.	out-of-scope	3DS OUTSCALE	https://yeswehack.com/programs/outscale
+Jelastic subdomains : *.jcloud.ik-server.com, *.jpc.infomaniak.com, *.jpe.infomaniak.com	out-of-scope	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+Kiteworks Core	paying	Kiteworks Public Bug Bounty Program	https://yeswehack.com/programs/kiteworks-public-bug-bounty-program-1
+Kiteworks Desktop Client 2.0	paying	Kiteworks Public Bug Bounty Program	https://yeswehack.com/programs/kiteworks-public-bug-bounty-program-1
+Kiteworks for Desktop	paying	Kiteworks Public Bug Bounty Program	https://yeswehack.com/programs/kiteworks-public-bug-bounty-program-1
+Kiteworks for Office Desktop	paying	Kiteworks Public Bug Bounty Program	https://yeswehack.com/programs/kiteworks-public-bug-bounty-program-1
+Kiteworks for Outlook Desktop	paying	Kiteworks Public Bug Bounty Program	https://yeswehack.com/programs/kiteworks-public-bug-bounty-program-1
+Look-alike, typo-squatting or expired domains not owned by Doctolib (e.g. www.dioctolib.de, doctolib.fr.evil.com, doctodketest.tk, doctolib-poc.partner-experience.com)	out-of-scope	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+Managed File Transfer (MFT)	paying	Kiteworks Public Bug Bounty Program	https://yeswehack.com/programs/kiteworks-public-bug-bounty-program-1
+Mobile app versions that are not currently in app stores.	out-of-scope	Harman International Lifestyle Products & Services	https://yeswehack.com/programs/harman-international-public-bug-bounty
+Mobile services and devices provided by Telenor Sweden and subsidiaries not reachable from Internet	out-of-scope	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+Moving or copying calendar events / contacts between containers by read-write collaborators (intended behavior)	out-of-scope	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+MySQL credentials from our customers, like *.myd.infomaniak.com	out-of-scope	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+Non Core Assets In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)	paying	Tencent Bug Bounty Program	https://yeswehack.com/programs/tencent-bug-bounty-program
+Non-Production environments (test, dev, staging, or sandbox)	out-of-scope	Maya - Public Bug Bounty Program	https://yeswehack.com/programs/maya-public-bug-bounty-program
+Note: should you discover a critical issue within an asset that falls outside the program's scope, we would appreciate it and may choose to offer a reward at our discretion.	out-of-scope	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+On www.vinci.com, Cross Site Scripting (XSS) vulnerabilities are considered out of scope temporarily as part of an exhaustive remediation project for such code injections.	out-of-scope	VINCI SA - Public program	https://yeswehack.com/programs/vincisa-public-program
+Only vulnerabilities affecting the platform itself and IP owned by Tencent will be accepted. If an IP belongs to Tencent Cloud external customer, it is not considered in scope.	out-of-scope	Tencent Bug Bounty Program	https://yeswehack.com/programs/tencent-bug-bounty-program
+Other business units of the Telenor Group - including *.telenor.com	out-of-scope	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+Other subdomain of paymaya.com that has no direct integration/part of the mobile application	out-of-scope	Maya - Public Bug Bounty Program	https://yeswehack.com/programs/maya-public-bug-bounty-program
+Other subdomains on outscale.com (wiki.outscale.net, fr.outscale.com, en.outscale.com... )	out-of-scope	3DS OUTSCALE	https://yeswehack.com/programs/outscale
+Out-Of-Scope are also other applications hosted under the www.otto.de domain but have a different path, that is not part of our core online shop itself (you will notice, since the design of the page is completely different)	out-of-scope	OTTO.DE Bug Bounty	https://yeswehack.com/programs/otto-de-bug-bounty
+PIA VPN servers	paying	Private Internet Access - Bug Bounty Program	https://yeswehack.com/programs/private-internet-access-bug-bounty-program
+Partner program: pages about finding partner and sending offer, and reports about data already public on the partner directory are not eligible. Missing authorization on partner-program routes exposing private data remains in scope.	out-of-scope	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+Please let us know if you have any questions regarding the scope.	out-of-scope	OTTO.DE Bug Bounty	https://yeswehack.com/programs/otto-de-bug-bounty
+Please note that all non-authenticated areas of our systems are in scope for this program. This means that any vulnerability discovered in a system or service that does not require a login to access is eligible for a reward.	out-of-scope	Alasco GmbH - Bug Bounty Program	https://yeswehack.com/programs/alasco-gmbh-bug-bounty-program
+Please note that some of the applications may contain links or redirect you away from the URIs described in the scope section. This means you are leaving the scope if you follow these links / redirects.	out-of-scope	Swiss Post	https://yeswehack.com/programs/swiss-post
+Please note that the vulnerabilities reported for the following assets will not be eligible for bounties.	out-of-scope	Tencent Bug Bounty Program	https://yeswehack.com/programs/tencent-bug-bounty-program
+Please note that www.lafabriquedelacite.com is out of scope from today 10/12/25 as the web site is going to be redeveloped.	out-of-scope	VINCI SA - Public program	https://yeswehack.com/programs/vincisa-public-program
+Pre-release environment(for example: pb.ys7.com)	out-of-scope	Ezviz - Bug Bounty Program	https://yeswehack.com/programs/ezviz-bug-bounty-program
+Protocol of the Swiss Post Voting System	paying	Swiss Post - E-Voting	https://yeswehack.com/programs/swiss-post-evoting
+Protocol of the Swiss Post Voting System 2.0 (Whitepaper)	paying	Swiss Post - E-Voting	https://yeswehack.com/programs/swiss-post-evoting
+Public GitHub repositories we do not own (such as student projects doing)	out-of-scope	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+S3 credentials from our customers, like s3.pub*.infomaniak.cloud	out-of-scope	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+Same behavior as Amazon Web Services	out-of-scope	3DS OUTSCALE	https://yeswehack.com/programs/outscale
+Scenarios with Special Bounties	paying	Swiss Post - E-Voting	https://yeswehack.com/programs/swiss-post-evoting
+Secure Data Forms (SDF, aka Advanced Forms)	paying	Kiteworks Public Bug Bounty Program	https://yeswehack.com/programs/kiteworks-public-bug-bounty-program-1
+Social engineering of DataDome employees or contractors	out-of-scope	DataDome Bot Bounty	https://yeswehack.com/programs/datadome-bot-bounty
+Social engineering of Outscale employees and contractors	out-of-scope	3DS OUTSCALE	https://yeswehack.com/programs/outscale
+Social media accounts	out-of-scope	Sogexia	https://yeswehack.com/programs/sogexia
+Source Code	paying	Swiss Post - E-Voting	https://yeswehack.com/programs/swiss-post-evoting
+Special scenarios (see description)	paying	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+System Specification	paying	Swiss Post - E-Voting	https://yeswehack.com/programs/swiss-post-evoting
+Test environment(for example: test.ys7.com)	out-of-scope	Ezviz - Bug Bounty Program	https://yeswehack.com/programs/ezviz-bug-bounty-program
+Testing any other system than https://bounty.cryptobox.com, in particular admin.bounty.cryptobox.com, *.cryptobox.com or *.ercom.fr.	out-of-scope	Cryptobox	https://yeswehack.com/programs/cryptobox-bug-bounty
+Testing is only authorized on the targets listed as in scope. Any domain/property of Kiteworks not listed in the targets section is out of scope. This includes any/all subdomains not listed above. If you happen to identify a security vulnerability on a target that is not in scope, but it demonstrably belongs to Kiteworks, you can report it here. However, be aware that it is ineligible for rewards or points-based compensation.	out-of-scope	Kiteworks Public Bug Bounty Program	https://yeswehack.com/programs/kiteworks-public-bug-bounty-program-1
+The alternative login (https://login.swissid.ch) is out of scope. It also leads to the in-scope service, (https://account.post.ch) but we have designated it as out of scope.	out-of-scope	Swiss Post	https://yeswehack.com/programs/swiss-post
+The following asset is not in scope but allows creation of an account without verification:	out-of-scope	Programme de prime aux bogues du Gouvernement du Québec	https://yeswehack.com/programs/programmes-de-primes-aux-bogues-du-gouvernement-du-quebec-cgcd
+There is no IDOR on /api/security/tanker_groups via subject_id	out-of-scope	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+Third-party applications and websites	out-of-scope	Tencent Bug Bounty Program	https://yeswehack.com/programs/tencent-bug-bounty-program
+Third-party assets linked from our products (e.g. login.decathlon.net, wallet.esw.esante.gouv.fr, preprod.alaxione.fr, hooks.zapier.com, cron.signitic.app, job-boards.greenhouse.io, docto.digitalstack.it, and any hospital-specific or customer-specific host)	out-of-scope	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+Third-party widgets on www.datadome.co and app.datadome.co	out-of-scope	DataDome Bug Bounty	https://yeswehack.com/programs/datadome-bug-bounty
+This domain https://drive.infomaniak.com/app/office/:folder:/:file: is out of scope. This is only office application, an external app to open MS office documents.	out-of-scope	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+Those include but are not limited to (if unsure, contact us before executing the tests):	out-of-scope	OTTO.DE Bug Bounty	https://yeswehack.com/programs/otto-de-bug-bounty
+TrustedServer 100,000 Bonus Award (See Program Policy for Info)	paying	ExpressVPN - Bug Bounty Program	https://yeswehack.com/programs/expressvpn-bug-bounty-program
+Update 16/10/26: please note that vinci-groupe.profils.org is excluded from our program until further notice	out-of-scope	VINCI SA - Public program	https://yeswehack.com/programs/vincisa-public-program
+User email verification	out-of-scope	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+VPS instances from our customers, like *.vps.infomaniak.com	out-of-scope	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+Vulnerabilities on products or services other than Cockpit or APIs	out-of-scope	3DS OUTSCALE	https://yeswehack.com/programs/outscale
+Vulnerabilities reported on client services	out-of-scope	OVHcloud	https://yeswehack.com/programs/ovh
+Vulnerabilities reported on other services or applications are not allowed.	out-of-scope	YesWeHack	https://yeswehack.com/programs/yes-we-hack
+We do not manage Open Stack dashboard which is therefore out of scope	out-of-scope	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+Websocket IPS-public credentials (MQTT, info-mq, IPS_RABBIT, ips-public). Public identifiers that do not allow access to information outside the scope of the user's profile.	out-of-scope	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+acronis.infomaniak.com	out-of-scope	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+actionnaires.vinci.com	paying	VINCI SA - Public program	https://yeswehack.com/programs/vincisa-public-program
+admin-stage.tv.telenor.se	out-of-scope	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+admincms.developer.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+admincms.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+adminstore.developer.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+adminstore.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+agents.tasheer.com	paying	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+aide.swapcard.com (Zoho)	out-of-scope	Swapcard	https://yeswehack.com/programs/swapcard
+alasco.com	out-of-scope	Alasco GmbH - Bug Bounty Program	https://yeswehack.com/programs/alasco-gmbh-bug-bounty-program
+alasco.de	out-of-scope	Alasco GmbH - Bug Bounty Program	https://yeswehack.com/programs/alasco-gmbh-bug-bounty-program
+all domains not listed in scopes, noteworthy:	out-of-scope	Sogexia	https://yeswehack.com/programs/sogexia
+am.developer.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+analytics.pinelabs.com	paying	Pine Labs Bug Bounty Program	https://yeswehack.com/programs/pine-labs-bug-bounty-program
+api.ezvizlife.com	paying	Ezviz - Bug Bounty Program	https://yeswehack.com/programs/ezviz-bug-bounty-program
+api.ovh.com	paying	OVHcloud	https://yeswehack.com/programs/ovh
+api.tanker.io (Accessing the tanker private key is normal functioning of the Tanker protocol)	out-of-scope	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+api:*.api-app.telenor.se	paying	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+api:*.api.louisvuitton.com	paying	Louis Vuitton Malletier - Public Bug Bounty Program	https://yeswehack.com/programs/louis-vuitton-malletier-public-bug-bounty-program
+api:*.api.vimla.se	paying	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+api:*.apis.telenor.se	paying	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+api:ExpressVPN APIs	paying	ExpressVPN - Bug Bounty Program	https://yeswehack.com/programs/expressvpn-bug-bounty-program
+api:api-js.datadome.co	paying	DataDome Bot Bounty	https://yeswehack.com/programs/datadome-bot-bounty
+api:api.alasco.de	paying	Alasco GmbH - Bug Bounty Program	https://yeswehack.com/programs/alasco-gmbh-bug-bounty-program
+api:api.atg.se	paying	ATG Public Bug Bounty Program	https://yeswehack.com/programs/atg-public-bug-bounty-program
+api:api.developer.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+api:api.dmp.gouv.fr	paying	Dossier Medical Partagé Bug Bounty Program	https://yeswehack.com/programs/dossier-medical-partage-program
+api:api.editeur.preprod.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+api:api.infomaniak.com	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+api:api.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+api:api.preprod.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+api:api.privateinternetaccess.com	paying	Private Internet Access - Bug Bounty Program	https://yeswehack.com/programs/private-internet-access-bug-bounty-program
+api:api.pub1.infomaniak.cloud	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+api:api.pub2.infomaniak.cloud	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+api:api.super-id.net	paying	Superbank - Public Bug Bounty Program	https://yeswehack.com/programs/superbank-public-bug-bounty-program
+api:api.swapcard.com	paying	Swapcard	https://yeswehack.com/programs/swapcard
+api:chat-api.swapcard.com/graphql	paying	Swapcard	https://yeswehack.com/programs/swapcard
+api:developer.swapcard.com/event-admin/graphql	paying	Swapcard	https://yeswehack.com/programs/swapcard
+api:edge.bookbeat.com	paying	BookBeat	https://yeswehack.com/programs/bookbeat
+api:editeur.api.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+api:https://(navigate|engage|checkout|internal|cached-api|api).shoppingapp.decathlon.com/*	paying	DECATHLON	https://yeswehack.com/programs/decathlon
+api:https://*.vidaxl.net	paying	vidaXL Services - Open Bug Bounty Program	https://yeswehack.com/programs/vidaxl-services-open-bug-bounty-program
+api:https://*.vidaxl.org	paying	vidaXL Services - Open Bug Bounty Program	https://yeswehack.com/programs/vidaxl-services-open-bug-bounty-program
+api:https://api-app.datadome.co/	paying	DataDome Bug Bounty	https://yeswehack.com/programs/datadome-bug-bounty
+api:https://api-js.datadome.co	paying	DataDome Bug Bounty	https://yeswehack.com/programs/datadome-bug-bounty
+api:https://api.blts.kape.com	paying	ExpressVPN - Bug Bounty Program	https://yeswehack.com/programs/expressvpn-bug-bounty-program
+api:https://api.bookbeat.com	paying	BookBeat	https://yeswehack.com/programs/bookbeat
+api:https://api.cyberghostvpn.com	paying	CyberGhost - Bug Bounty Program	https://yeswehack.com/programs/cyberghost-bug-bounty-program
+api:https://api.datadome.co	paying	DataDome Bug Bounty	https://yeswehack.com/programs/datadome-bug-bounty
+api:https://api.dbs.kape.com	paying	ExpressVPN - Bug Bounty Program	https://yeswehack.com/programs/expressvpn-bug-bounty-program
+api:https://api.dts.kape.com	paying	ExpressVPN - Bug Bounty Program	https://yeswehack.com/programs/expressvpn-bug-bounty-program
+api:https://api.enc.kape.com	paying	ExpressVPN - Bug Bounty Program	https://yeswehack.com/programs/expressvpn-bug-bounty-program
+api:https://api.expressvpn.com	paying	ExpressVPN - Bug Bounty Program	https://yeswehack.com/programs/expressvpn-bug-bounty-program
+api:https://api.jwks.kape.com	paying	ExpressVPN - Bug Bounty Program	https://yeswehack.com/programs/expressvpn-bug-bounty-program
+api:https://api.moneyboxapp.com	paying	Moneybox Bug Bounty	https://yeswehack.com/programs/moneybox-bug-bounty
+api:https://api.onedoc.ch	paying	OneDoc	https://yeswehack.com/programs/onedoc-sa-bug-bounty-program
+api:https://api.paddle.com	paying	Paddle.com Public Bug Bounty Program	https://yeswehack.com/programs/paddle-com-public-bug-bounty-program
+api:https://api.paymaya.com/	paying	Maya - Public Bug Bounty Program	https://yeswehack.com/programs/maya-public-bug-bounty-program
+api:https://api.pcrs.kape.com	paying	ExpressVPN - Bug Bounty Program	https://yeswehack.com/programs/expressvpn-bug-bounty-program
+api:https://api.pluralonline.com	paying	Pine Labs Bug Bounty Program	https://yeswehack.com/programs/pine-labs-bug-bounty-program
+api:https://api.pluralpay.in	paying	Pine Labs Bug Bounty Program	https://yeswehack.com/programs/pine-labs-bug-bounty-program
+api:https://api.toom.de	paying	toom Baumarkt GmbH - Webshop	https://yeswehack.com/programs/toom-baumarkt-gmbh-bug-bounty-program
+api:https://api.yeswehack.com	paying	YesWeHack	https://yeswehack.com/programs/yes-we-hack
+api:https://apis.onecloud.harman.com	paying	Harman International Lifestyle Products & Services	https://yeswehack.com/programs/harman-international-public-bug-bounty
+api:https://apps.yeswehack.com	paying	YesWeHack	https://yeswehack.com/programs/yes-we-hack
+api:https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)	paying	Bug Bounty Program - BlaBlaCar	https://yeswehack.com/programs/bug-bounty-program-blablacar
+api:https://bluetooth-events.onecloud.harman.com	paying	Harman International Lifestyle Products & Services	https://yeswehack.com/programs/harman-international-public-bug-bounty
+api:https://connect.paymaya.com/	paying	Maya - Public Bug Bounty Program	https://yeswehack.com/programs/maya-public-bug-bounty-program
+api:https://cp.expressapisv2.net	paying	ExpressVPN - Bug Bounty Program	https://yeswehack.com/programs/expressvpn-bug-bounty-program
+api:https://customer-api.datadome.co	paying	DataDome Bug Bounty	https://yeswehack.com/programs/datadome-bug-bounty
+api:https://directlink.eu-west-2.outscale.com	paying	3DS OUTSCALE	https://yeswehack.com/programs/outscale
+api:https://edge.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua))	paying	Bug Bounty Program - BlaBlaCar	https://yeswehack.com/programs/bug-bounty-program-blablacar
+api:https://edgeapis.onecloud.harman.com	paying	Harman International Lifestyle Products & Services	https://yeswehack.com/programs/harman-international-public-bug-bounty
+api:https://eim.eu-west-2.outscale.com	paying	3DS OUTSCALE	https://yeswehack.com/programs/outscale
+api:https://events.onecloud.harman.com	paying	Harman International Lifestyle Products & Services	https://yeswehack.com/programs/harman-international-public-bug-bounty
+api:https://fcu.eu-west-2.outscale.com	paying	3DS OUTSCALE	https://yeswehack.com/programs/outscale
+api:https://lbu.eu-west-2.outscale.com	paying	3DS OUTSCALE	https://yeswehack.com/programs/outscale
+api:https://op.paymaya.com/	paying	Maya - Public Bug Bounty Program	https://yeswehack.com/programs/maya-public-bug-bounty-program
+api:https://osu.eu-west-2.outscale.com	paying	3DS OUTSCALE	https://yeswehack.com/programs/outscale
+api:https://ota.onecloud.harman.com	paying	Harman International Lifestyle Products & Services	https://yeswehack.com/programs/harman-international-public-bug-bounty
+api:https://partnerapi.imoulife.com	paying	IMOU Public Bug Bounty Program	https://yeswehack.com/programs/imou-public-bug-bounty-program
+api:https://paymayabiller-prod.paymaya.com/	paying	Maya - Public Bug Bounty Program	https://yeswehack.com/programs/maya-public-bug-bounty-program
+api:https://payoutapi.maya.ph/	paying	Maya - Public Bug Bounty Program	https://yeswehack.com/programs/maya-public-bug-bounty-program
+api:https://pg.paymaya.com	paying	Maya - Public Bug Bounty Program	https://yeswehack.com/programs/maya-public-bug-bounty-program
+api:https://pinepg.in	paying	Pine Labs Bug Bounty Program	https://yeswehack.com/programs/pine-labs-bug-bounty-program
+api:https://pluralcheckout.pinepg.in	paying	Pine Labs Bug Bounty Program	https://yeswehack.com/programs/pine-labs-bug-bounty-program
+api:https://privateinternetaccess.com/api/client/v5	paying	Private Internet Access - Bug Bounty Program	https://yeswehack.com/programs/private-internet-access-bug-bounty-program
+api:https://quantum-events.onecloud.harman.com	paying	Harman International Lifestyle Products & Services	https://yeswehack.com/programs/harman-international-public-bug-bounty
+api:https://sandbox-api.paddle.com	paying	Paddle.com Public Bug Bounty Program	https://yeswehack.com/programs/paddle-com-public-bug-bounty-program
+api:https://search-api.bookbeat.com	paying	BookBeat	https://yeswehack.com/programs/bookbeat
+api:https://tms.onecloud.harman.com	paying	Harman International Lifestyle Products & Services	https://yeswehack.com/programs/harman-international-public-bug-bounty
+api:https://xv-cp.apis-staging.xvtest.net/	paying	ExpressVPN - Bug Bounty Program	https://yeswehack.com/programs/expressvpn-bug-bounty-program
+api:img.swapcard.com	paying	Swapcard	https://yeswehack.com/programs/swapcard
+api:login.swapcard.com	paying	Swapcard	https://yeswehack.com/programs/swapcard
+api:preprod.api.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+api:preprod.editeur.api.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+api:s3.gva1.infomaniak.cloud	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+api:s3.gva2.infomaniak.cloud	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+api:sso.mangerbouger.fr	paying	Santé Publique France Bug Bounty Program	https://yeswehack.com/programs/sante-publique-france-bugbounty-public-program
+api:studio-api.swapcard.com	paying	Swapcard	https://yeswehack.com/programs/swapcard
+api:t.swapcard.com	paying	Swapcard	https://yeswehack.com/programs/swapcard
+api:www.editeur.api.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+api:ywh.verify.zecible.fr	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	https://yeswehack.com/programs/zecible-public-bug-bounty-program
+app.alasco.de	paying	Alasco GmbH - Bug Bounty Program	https://yeswehack.com/programs/alasco-gmbh-bug-bounty-program
+app.expressmailguard.com	paying	ExpressVPN - Bug Bounty Program	https://yeswehack.com/programs/expressvpn-bug-bounty-program
+app.swapcard.com	paying	Swapcard	https://yeswehack.com/programs/swapcard
+app:Kiteworks Android App	paying	Kiteworks Public Bug Bounty Program	https://yeswehack.com/programs/kiteworks-public-bug-bounty-program-1
+app:Kiteworks iOS App	paying	Kiteworks Public Bug Bounty Program	https://yeswehack.com/programs/kiteworks-public-bug-bounty-program-1
+app:am.editeur.preprod.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+app:am.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+app:am.preprod.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+app:apps.apple.com/fr/app/mon-espace-sant%C3%A9/id1589255019 (iOS)	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+app:editeur.am.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+app:http://play.google.com/store/apps/details?id=fr.doctolib.www	paying	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+app:https://appgallery.huawei.com/#/app/C102099703?locale=zh_CN&source=appshare&subsource=C102099703	paying	Louis Vuitton Malletier - Public Bug Bounty Program	https://yeswehack.com/programs/louis-vuitton-malletier-public-bug-bounty-program
+app:https://appgallery.huawei.com/app/C101186357	paying	Maya - Public Bug Bounty Program	https://yeswehack.com/programs/maya-public-bug-bounty-program
+app:https://apps.apple.com/am/app/maya-your-all-in-one-money-app/id991673877	paying	Maya - Public Bug Bounty Program	https://yeswehack.com/programs/maya-public-bug-bounty-program
+app:https://apps.apple.com/app/infomaniak-kdrive/id1482778676	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+app:https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669	paying	MediaMarktSaturn Bug Bounty Program	https://yeswehack.com/programs/mediamarktsaturn-bug-bounty-program
+app:https://apps.apple.com/be/app/mediamarkt-belgi%C3%AB/id958993034	paying	MediaMarktSaturn Bug Bounty Program	https://yeswehack.com/programs/mediamarktsaturn-bug-bounty-program
+app:https://apps.apple.com/ch/app/die-post/id378676700	paying	Swiss Post	https://yeswehack.com/programs/swiss-post
+app:https://apps.apple.com/ch/app/media-markt-schweiz/id1169043480	paying	MediaMarktSaturn Bug Bounty Program	https://yeswehack.com/programs/mediamarktsaturn-bug-bounty-program
+app:https://apps.apple.com/de/app/mediamarkt-deutschland/id386304604	paying	MediaMarktSaturn Bug Bounty Program	https://yeswehack.com/programs/mediamarktsaturn-bug-bounty-program
+app:https://apps.apple.com/de/app/otto-shopping-m%C3%B6bel/id404844644	paying	OTTO.DE Bug Bounty	https://yeswehack.com/programs/otto-de-bug-bounty
+app:https://apps.apple.com/de/app/saturn-deutschland/id557562682	paying	MediaMarktSaturn Bug Bounty Program	https://yeswehack.com/programs/mediamarktsaturn-bug-bounty-program
+app:https://apps.apple.com/de/app/teamviewer-quicksupport/id661649585	paying	TeamViewer - Bounty Program	https://yeswehack.com/programs/teamviewer-bounty-program
+app:https://apps.apple.com/de/app/teamviewer-remote-control/id692035811	paying	TeamViewer - Bounty Program	https://yeswehack.com/programs/teamviewer-bounty-program
+app:https://apps.apple.com/es/app/mediamarkt-comprar-online/id1438532508	paying	MediaMarktSaturn Bug Bounty Program	https://yeswehack.com/programs/mediamarktsaturn-bug-bounty-program
+app:https://apps.apple.com/fr/app/cryptobox/id972602802	paying	Cryptobox	https://yeswehack.com/programs/cryptobox-bug-bounty
+app:https://apps.apple.com/fr/app/decathlon-shopping/id1168607403	paying	DECATHLON	https://yeswehack.com/programs/decathlon
+app:https://apps.apple.com/fr/app/doctolib/id925339063	paying	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+app:https://apps.apple.com/fr/app/infomaniak-authenticator/id1478424817	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+app:https://apps.apple.com/fr/app/infomaniak-euria/id6754152858	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+app:https://apps.apple.com/fr/app/infomaniak-kchat/id6443845553	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+app:https://apps.apple.com/fr/app/infomaniak-mail/id1622596573	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+app:https://apps.apple.com/fr/app/infomaniak-swisstransfer/id6737686335	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+app:https://apps.apple.com/fr/app/jbl-one/id1610239857	paying	Harman International Lifestyle Products & Services	https://yeswehack.com/programs/harman-international-public-bug-bounty
+app:https://apps.apple.com/fr/app/louis-vuitton-city-guide/id1014618396	paying	Louis Vuitton Malletier - Public Bug Bounty Program	https://yeswehack.com/programs/louis-vuitton-malletier-public-bug-bounty-program
+app:https://apps.apple.com/fr/app/louis-vuitton/id709101942	paying	Louis Vuitton Malletier - Public Bug Bounty Program	https://yeswehack.com/programs/louis-vuitton-malletier-public-bug-bounty-program
+app:https://apps.apple.com/fr/app/swapcard/id879488719	paying	Swapcard	https://yeswehack.com/programs/swapcard
+app:https://apps.apple.com/gb/app/moneybox-save-and-invest/id1049797239	paying	Moneybox Bug Bounty	https://yeswehack.com/programs/moneybox-bug-bounty
+app:https://apps.apple.com/id/app/dana/id1437123008	paying	DANA Bug Bounty Program	https://yeswehack.com/programs/dana-bug-bounty-program
+app:https://apps.apple.com/id/app/superbank/id6444720285	paying	Superbank - Public Bug Bounty Program	https://yeswehack.com/programs/superbank-public-bug-bounty-program
+app:https://apps.apple.com/ie/app/doctolib-siilo/id1083002150	paying	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+app:https://apps.apple.com/it/app/mediaworld-app/id1076895831	paying	MediaMarktSaturn Bug Bounty Program	https://yeswehack.com/programs/mediamarktsaturn-bug-bounty-program
+app:https://apps.apple.com/nl/app/mediamarkt-nederland/id573907448	paying	MediaMarktSaturn Bug Bounty Program	https://yeswehack.com/programs/mediamarktsaturn-bug-bounty-program
+app:https://apps.apple.com/pl/app/mediamarkt-polska/id6470200706	paying	MediaMarktSaturn Bug Bounty Program	https://yeswehack.com/programs/mediamarktsaturn-bug-bounty-program
+app:https://apps.apple.com/qa/app/ooredoo-qatar/id619828745	paying	Ooredoo QPSC - Customer Portal Bug Bounty Program	https://yeswehack.com/programs/ooredoo-qpsc-bug-bounty-program
+app:https://apps.apple.com/se/app/atg/id1434660322	paying	ATG Public Bug Bounty Program	https://yeswehack.com/programs/atg-public-bug-bounty-program
+app:https://apps.apple.com/se/app/bookbeat-audiobooks-e-books/id1056652614?l=en-GB	paying	BookBeat	https://yeswehack.com/programs/bookbeat
+app:https://apps.apple.com/se/app/vimla/id1233271881 https://play.google.com/store/apps/details?id=com.vimlaapp&hl=en	paying	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+app:https://apps.apple.com/tr/app/mediamarkt-t%C3%BCrkiye/id908956795	paying	MediaMarktSaturn Bug Bounty Program	https://yeswehack.com/programs/mediamarktsaturn-bug-bounty-program
+app:https://apps.apple.com/us/app/id583009522	paying	CyberGhost - Bug Bounty Program	https://yeswehack.com/programs/cyberghost-bug-bounty-program
+app:https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407	paying	Private Internet Access - Bug Bounty Program	https://yeswehack.com/programs/private-internet-access-bug-bounty-program
+app:https://cdn.unicdn.net/apk/UnibetCasino.apk	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+app:https://itunes.apple.com/fr/app/blablacar-trusted-carpooling/id341329033?l=en&mt=8	paying	Bug Bounty Program - BlaBlaCar	https://yeswehack.com/programs/bug-bounty-program-blablacar
+app:https://itunes.apple.com/gb/app/unibet-casino-slots-games/id905382680	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+app:https://itunes.apple.com/gb/app/unibet-live-sports-betting/id463335337	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+app:https://mobile.ooredoo.qa	paying	Ooredoo QPSC - Customer Portal Bug Bounty Program	https://yeswehack.com/programs/ooredoo-qpsc-bug-bounty-program
+app:https://play.google.com/store/apps/details?id=at.com.media.markt	paying	MediaMarktSaturn Bug Bounty Program	https://yeswehack.com/programs/mediamarktsaturn-bug-bounty-program
+app:https://play.google.com/store/apps/details?id=be.com.media.markt	paying	MediaMarktSaturn Bug Bounty Program	https://yeswehack.com/programs/mediamarktsaturn-bug-bounty-program
+app:https://play.google.com/store/apps/details?id=ch.mediamarkt	paying	MediaMarktSaturn Bug Bounty Program	https://yeswehack.com/programs/mediamarktsaturn-bug-bounty-program
+app:https://play.google.com/store/apps/details?id=com.bookbeat.android&hl=en&pli=1	paying	BookBeat	https://yeswehack.com/programs/bookbeat
+app:https://play.google.com/store/apps/details?id=com.comuto&hl=en	paying	Bug Bounty Program - BlaBlaCar	https://yeswehack.com/programs/bug-bounty-program-blablacar
+app:https://play.google.com/store/apps/details?id=com.decathlon.app	paying	DECATHLON	https://yeswehack.com/programs/decathlon
+app:https://play.google.com/store/apps/details?id=com.ercom.cryptobox.release&hl=fr	paying	Cryptobox	https://yeswehack.com/programs/cryptobox-bug-bounty
+app:https://play.google.com/store/apps/details?id=com.infomaniak.auth	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+app:https://play.google.com/store/apps/details?id=com.infomaniak.chat	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+app:https://play.google.com/store/apps/details?id=com.infomaniak.drive	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+app:https://play.google.com/store/apps/details?id=com.infomaniak.euria	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+app:https://play.google.com/store/apps/details?id=com.infomaniak.mail	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+app:https://play.google.com/store/apps/details?id=com.infomaniak.swisstransfer	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+app:https://play.google.com/store/apps/details?id=com.infomaniak.sync	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+app:https://play.google.com/store/apps/details?id=com.jbl.oneapp&hl=fr&gl=US	paying	Harman International Lifestyle Products & Services	https://yeswehack.com/programs/harman-international-public-bug-bounty
+app:https://play.google.com/store/apps/details?id=com.media.markt	paying	MediaMarktSaturn Bug Bounty Program	https://yeswehack.com/programs/mediamarktsaturn-bug-bounty-program
+app:https://play.google.com/store/apps/details?id=com.media.saturn	paying	MediaMarktSaturn Bug Bounty Program	https://yeswehack.com/programs/mediamarktsaturn-bug-bounty-program
+app:https://play.google.com/store/apps/details?id=com.moneyboxapp	paying	Moneybox Bug Bounty	https://yeswehack.com/programs/moneybox-bug-bounty
+app:https://play.google.com/store/apps/details?id=com.nth.swisspost&hl=de_CH&gl=US	paying	Swiss Post	https://yeswehack.com/programs/swiss-post
+app:https://play.google.com/store/apps/details?id=com.paymaya	paying	Maya - Public Bug Bounty Program	https://yeswehack.com/programs/maya-public-bug-bounty-program
+app:https://play.google.com/store/apps/details?id=com.pinelabs.emicatalogue.pinelabs&hl=uz	paying	Pine Labs Bug Bounty Program	https://yeswehack.com/programs/pine-labs-bug-bounty-program
+app:https://play.google.com/store/apps/details?id=com.privateinternetaccess.android&hl=en	paying	Private Internet Access - Bug Bounty Program	https://yeswehack.com/programs/private-internet-access-bug-bounty-program
+app:https://play.google.com/store/apps/details?id=com.siilo.android&hl=en	paying	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+app:https://play.google.com/store/apps/details?id=com.swapcard.apps.android&hl=fr	paying	Swapcard	https://yeswehack.com/programs/swapcard
+app:https://play.google.com/store/apps/details?id=com.teamviewer.host.market&hl=en&gl=US	paying	TeamViewer - Bounty Program	https://yeswehack.com/programs/teamviewer-bounty-program
+app:https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=en&gl=US	paying	TeamViewer - Bounty Program	https://yeswehack.com/programs/teamviewer-bounty-program
+app:https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile&hl=en&gl=US	paying	TeamViewer - Bounty Program	https://yeswehack.com/programs/teamviewer-bounty-program
+app:https://play.google.com/store/apps/details?id=com.vimlaapp&hl=en	paying	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+app:https://play.google.com/store/apps/details?id=com.vuitton.android&hl=fr&gl=US	paying	Louis Vuitton Malletier - Public Bug Bounty Program	https://yeswehack.com/programs/louis-vuitton-malletier-public-bug-bounty-program
+app:https://play.google.com/store/apps/details?id=de.cellular.ottohybrid&hl=de	paying	OTTO.DE Bug Bounty	https://yeswehack.com/programs/otto-de-bug-bounty
+app:https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost	paying	CyberGhost - Bug Bounty Program	https://yeswehack.com/programs/cyberghost-bug-bounty-program
+app:https://play.google.com/store/apps/details?id=es.mediamarkt.app	paying	MediaMarktSaturn Bug Bounty Program	https://yeswehack.com/programs/mediamarktsaturn-bug-bounty-program
+app:https://play.google.com/store/apps/details?id=id.co.bankfama.android&hl=en	paying	Superbank - Public Bug Bounty Program	https://yeswehack.com/programs/superbank-public-bug-bounty-program
+app:https://play.google.com/store/apps/details?id=id.dana&hl=en	paying	DANA Bug Bounty Program	https://yeswehack.com/programs/dana-bug-bounty-program
+app:https://play.google.com/store/apps/details?id=io.gonative.android.xjndrq&hl=fr	paying	Sogexia	https://yeswehack.com/programs/sogexia
+app:https://play.google.com/store/apps/details?id=it.mediamarket.mediaworld	paying	MediaMarktSaturn Bug Bounty Program	https://yeswehack.com/programs/mediamarktsaturn-bug-bounty-program
+app:https://play.google.com/store/apps/details?id=nl.com.media.markt	paying	MediaMarktSaturn Bug Bounty Program	https://yeswehack.com/programs/mediamarktsaturn-bug-bounty-program
+app:https://play.google.com/store/apps/details?id=pl.mediamarkt	paying	MediaMarktSaturn Bug Bounty Program	https://yeswehack.com/programs/mediamarktsaturn-bug-bounty-program
+app:https://play.google.com/store/apps/details?id=qa.ooredoo.android&hl=en&gl=US	paying	Ooredoo QPSC - Customer Portal Bug Bounty Program	https://yeswehack.com/programs/ooredoo-qpsc-bug-bounty-program
+app:https://play.google.com/store/apps/details?id=se.atg.live&hl=en&gl=SE	paying	ATG Public Bug Bounty Program	https://yeswehack.com/programs/atg-public-bug-bounty-program
+app:https://play.google.com/store/apps/details?id=tr.com.media.markt	paying	MediaMarktSaturn Bug Bounty Program	https://yeswehack.com/programs/mediamarktsaturn-bug-bounty-program
+app:itmss://apps.apple.com/us/app/id1510360750?ign-mscache=1	paying	Sogexia	https://yeswehack.com/programs/sogexia
+app:play.google.com/store/apps/details?id=fr.assurancemaladie.monespacesante&showAllReviews=true (Android)	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+app:preprod.am.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+app:preprod.editeur.am.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+app:www.am.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+app:www.editeur.am.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+auth.dmp.gouv.fr	paying	Dossier Medical Partagé Bug Bounty Program	https://yeswehack.com/programs/dossier-medical-partage-program
+auth.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+auth.preprod.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+billing-client-logs.billing.doctolib.fr | api-external.datascience.doctolibdata.com	out-of-scope	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+biometservices.com	paying	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+blog.swapcard.com (Hubspot)	out-of-scope	Swapcard	https://yeswehack.com/programs/swapcard
+books.swapcard.com (Zoho)	out-of-scope	Swapcard	https://yeswehack.com/programs/swapcard
+boost.vinci.com	paying	VINCI SA - Public program	https://yeswehack.com/programs/vincisa-public-program
+c.swapcard.com	out-of-scope	Swapcard	https://yeswehack.com/programs/swapcard
+calendar.infomaniak.com	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+cam.notebleue.pro	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	https://yeswehack.com/programs/zecible-public-bug-bounty-program
+castor.vinci.com	paying	VINCI SA - Public program	https://yeswehack.com/programs/vincisa-public-program
+chk.infomaniak.com	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+cloud.cloud1.harmanaudio.com	out-of-scope	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+cloud.cloud2.harmanaudio.com	out-of-scope	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+cloud.cloud3.harmanaudio.com	out-of-scope	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+cms.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+cmsdev.dana.id	out-of-scope	DANA Bug Bounty Program	https://yeswehack.com/programs/dana-bug-bounty-program
+community.doctolib.com | .fr | .de | .it	out-of-scope	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+contacts.infomaniak.com	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+corp.polymoon.it	paying	ExpressVPN - Bug Bounty Program	https://yeswehack.com/programs/expressvpn-bug-bounty-program
+cyberghost.app	paying	CyberGhost - Bug Bounty Program	https://yeswehack.com/programs/cyberghost-bug-bounty-program
+cyberghost.com	paying	CyberGhost - Bug Bounty Program	https://yeswehack.com/programs/cyberghost-bug-bounty-program
+dashboard.pluralonline.com	paying	Pine Labs Bug Bounty Program	https://yeswehack.com/programs/pine-labs-bug-bounty-program
+developers.doctolib.com	out-of-scope	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+dm.dana.id	out-of-scope	DANA Bug Bounty Program	https://yeswehack.com/programs/dana-bug-bounty-program
+dmp.doctolib.fr | dmp-prd-aws-*.doctolib.fr	out-of-scope	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+doctocommit.doctolib.fr	out-of-scope	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+doctolib-ps-ehr-downloads.s3.amazonaws.com	out-of-scope	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+doctolib.atlassian.net and any *.atlassian.net path	out-of-scope	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+doctolib.zendesk.com | siilo.zendesk.com	out-of-scope	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+ecosystem-experience.super-id.net	paying	Superbank - Public Bug Bounty Program	https://yeswehack.com/programs/superbank-public-bug-bounty-program
+editeurs.developer.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+editeurs.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+emag.vinci.com	paying	VINCI SA - Public program	https://yeswehack.com/programs/vincisa-public-program
+en.casinohuone.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+en.kolikkopelit.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+en.ottokasino.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+encrypt.dana.id	out-of-scope	DANA Bug Bounty Program	https://yeswehack.com/programs/dana-bug-bounty-program
+essentials.vinci.com	paying	VINCI SA - Public program	https://yeswehack.com/programs/vincisa-public-program
+essentiel.vinci.com	paying	VINCI SA - Public program	https://yeswehack.com/programs/vincisa-public-program
+etickets.infomaniak.com	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+euria.infomaniak.com	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+evisa.gov.mz	paying	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+exceptions.doctolib.fr | .de	out-of-scope	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+explore.alasco.com	out-of-scope	Alasco GmbH - Bug Bounty Program	https://yeswehack.com/programs/alasco-gmbh-bug-bounty-program
+explore.alasco.de	out-of-scope	Alasco GmbH - Bug Bounty Program	https://yeswehack.com/programs/alasco-gmbh-bug-bounty-program
+expressvpn.jobs	paying	ExpressVPN - Bug Bounty Program	https://yeswehack.com/programs/expressvpn-bug-bounty-program
+faq.vimla.se	out-of-scope	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+fb.doctolib.com | fb-dev.doctolib.fr	out-of-scope	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+fhir.developer.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+fhir.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+fi.mariacasino.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+fi.unibet.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+fiat.dana.id	out-of-scope	DANA Bug Bounty Program	https://yeswehack.com/programs/dana-bug-bounty-program
+fm.doctolib.fr | fm.doctolib.it | voip.doctolib.de and other decommissioned / dangling Doctolib sub-domains	out-of-scope	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+fraga.atg.se (external supplier)	out-of-scope	ATG Public Bug Bounty Program	https://yeswehack.com/programs/atg-public-bug-bounty-program
+fv3lfbdyjh.infomaniak.site	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+gatekeeper.prd.iat.it.xvservice.net	paying	ExpressVPN - Bug Bounty Program	https://yeswehack.com/programs/expressvpn-bug-bounty-program
+gh-mail.expressvpn.com	paying	ExpressVPN - Bug Bounty Program	https://yeswehack.com/programs/expressvpn-bug-bounty-program
+git.notebleue.pro	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	https://yeswehack.com/programs/zecible-public-bug-bounty-program
+help.swapcard.com (Zoho)	out-of-scope	Swapcard	https://yeswehack.com/programs/swapcard
+hittabutik.atg.se (external supplier)	out-of-scope	ATG Public Bug Bounty Program	https://yeswehack.com/programs/atg-public-bug-bounty-program
+hosting-ik.com	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+http://chatbot.super-id.net	paying	Superbank - Public Bug Bounty Program	https://yeswehack.com/programs/superbank-public-bug-bounty-program
+https://*.captcha-delivery.com	paying	DataDome Bug Bounty	https://yeswehack.com/programs/datadome-bug-bounty
+https://*.dropxl.com	paying	GRW Trading FZE - Open Bug Bounty Program	https://yeswehack.com/programs/grw-trading-fze-bug-bounty-program
+https://*.grwtrading.com	paying	GRW Trading FZE - Open Bug Bounty Program	https://yeswehack.com/programs/grw-trading-fze-bug-bounty-program
+https://*.vidaxl.io	paying	vidaXL Services - Open Bug Bounty Program	https://yeswehack.com/programs/vidaxl-services-open-bug-bounty-program
+https://[it | fr | us | sg | …].louisvuitton.com	paying	Louis Vuitton Malletier - Public Bug Bounty Program	https://yeswehack.com/programs/louis-vuitton-malletier-public-bug-bounty-program
+https://account.post.ch	paying	Swiss Post	https://yeswehack.com/programs/swiss-post
+https://account.teamviewer.com	paying	TeamViewer - Bounty Program	https://yeswehack.com/programs/teamviewer-bounty-program
+https://admin-roundups.moneyboxapp.org	paying	Moneybox Bug Bounty	https://yeswehack.com/programs/moneybox-bug-bounty
+https://admin.moneyboxapp.org	paying	Moneybox Bug Bounty	https://yeswehack.com/programs/moneybox-bug-bounty
+https://app-*.easy4ipcloud.com	paying	IMOU Public Bug Bounty Program	https://yeswehack.com/programs/imou-public-bug-bounty-program
+https://app.datadome.co	paying	DataDome Bug Bounty	https://yeswehack.com/programs/datadome-bug-bounty
+https://app.easy4ipcloud.com	paying	IMOU Public Bug Bounty Program	https://yeswehack.com/programs/imou-public-bug-bounty-program
+https://apps.apple.com/se/app/atg-live/id1608156355	paying	ATG Public Bug Bounty Program	https://yeswehack.com/programs/atg-public-bug-bounty-program
+https://auth-ywh.it.authentification.si.gouv.qc.ca/	paying	Programme de prime aux bogues du Gouvernement du Québec	https://yeswehack.com/programs/programmes-de-primes-aux-bogues-du-gouvernement-du-quebec-cgcd
+https://auth.datadome.co	paying	DataDome Bug Bounty	https://yeswehack.com/programs/datadome-bug-bounty
+https://be.harmanaudio.com	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://be.jbl.com	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://billingonline.post.ch/OnlinePayment/Web/v1/BOI	paying	Swiss Post	https://yeswehack.com/programs/swiss-post
+https://billingserver.pinelabs.com	paying	Pine Labs Bug Bounty Program	https://yeswehack.com/programs/pine-labs-bug-bounty-program
+https://board.pinelabs.com	paying	Pine Labs Bug Bounty Program	https://yeswehack.com/programs/pine-labs-bug-bounty-program
+https://bounty-fastly.datashield.co	paying	DataDome Bot Bounty	https://yeswehack.com/programs/datadome-bot-bounty
+https://bounty-nginx.datashield.co	paying	DataDome Bot Bounty	https://yeswehack.com/programs/datadome-bot-bounty
+https://bounty-nodejs.datashield.co	paying	DataDome Bot Bounty	https://yeswehack.com/programs/datadome-bot-bounty
+https://bounty.cryptobox.com	paying	Cryptobox	https://yeswehack.com/programs/cryptobox-bug-bounty
+https://buy.paddle.com	out-of-scope	Paddle.com Public Bug Bounty Program	https://yeswehack.com/programs/paddle-com-public-bug-bounty-program
+https://ch.harmanaudio.com	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://ch.jbl.com	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://checkout-service.paddle.com	out-of-scope	Paddle.com Public Bug Bounty Program	https://yeswehack.com/programs/paddle-com-public-bug-bounty-program
+https://cicforms.mioot.com/	paying	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+https://cockpit-eu-west-2.outscale.com/	paying	3DS OUTSCALE	https://yeswehack.com/programs/outscale
+https://credit.pinelabs.com	paying	Pine Labs Bug Bounty Program	https://yeswehack.com/programs/pine-labs-bug-bounty-program
+https://customer-portal.paddle.com	paying	Paddle.com Public Bug Bounty Program	https://yeswehack.com/programs/paddle-com-public-bug-bounty-program
+https://datadome.co	paying	DataDome Bug Bounty	https://yeswehack.com/programs/datadome-bug-bounty
+https://de.harmanaudio.com	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://de.jbl.com	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://developer.paddle.com	paying	Paddle.com Public Bug Bounty Program	https://yeswehack.com/programs/paddle-com-public-bug-bounty-program
+https://devicedb.roonlabs.net/1/devicedb-*.zip	out-of-scope	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://dk.harmanaudio.com	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://dk.jbl.com	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://dojo-yeswehack.com/challenge-of-the-month/dojo-56	non-paying	YesWeHack Dojo	https://yeswehack.com/programs/dojo
+https://egonline.vfsevisa.com/main-es2015.c7bb991442356b23f23e.js?v=3.1.3	out-of-scope	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+https://emistores.pinelabs.com	paying	Pine Labs Bug Bounty Program	https://yeswehack.com/programs/pine-labs-bug-bounty-program
+https://equatorialguinea-evisa.com	paying	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+https://es.harmankardon.com	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://fi.harmanaudio.com	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://fi.harmankardon.com	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://fi.jbl.com	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://fr.jbl.com	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://github.com/Infomaniak/desktop-kChat	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+https://github.com/Infomaniak/desktop-kDrive	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+https://github.com/expressvpn/lightway	paying	ExpressVPN - Bug Bounty Program	https://yeswehack.com/programs/expressvpn-bug-bounty-program
+https://github.com/expressvpn/wolfssl-rs	paying	ExpressVPN - Bug Bounty Program	https://yeswehack.com/programs/expressvpn-bug-bounty-program
+https://glow.imoulife.com	paying	IMOU Public Bug Bounty Program	https://yeswehack.com/programs/imou-public-bug-bounty-program
+https://hg.easy4ipcloud.com	paying	IMOU Public Bug Bounty Program	https://yeswehack.com/programs/imou-public-bug-bounty-program
+https://hu.harmanaudio.com	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://in.harmankardon.com	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://in.jbl.com	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://india-usa.vfsglobal.com	out-of-scope	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+https://indonesiavoa.vfsevisa.id/	paying	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+https://jp.harmanaudio.com	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://jp.jbl.com	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://keycloak.apps.otto.de	out-of-scope	OTTO.DE Bug Bounty	https://yeswehack.com/programs/otto-de-bug-bounty
+https://liftassets.vfsglobal.com/_nuxt/46217fc777819548fddb.js	out-of-scope	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+https://login.aufbaubank.de	paying	Thüringer Aufbaubank Bug Bounty Program	https://yeswehack.com/programs/thuringer-aufbaubank-bug-bounty-program
+https://login.paddle.com	paying	Paddle.com Public Bug Bounty Program	https://yeswehack.com/programs/paddle-com-public-bug-bounty-program
+https://login.teamviewer.com	paying	TeamViewer - Bounty Program	https://yeswehack.com/programs/teamviewer-bounty-program
+https://lounge.pinelabs.com/loungeui/login	paying	Pine Labs Bug Bounty Program	https://yeswehack.com/programs/pine-labs-bug-bounty-program
+https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)	paying	Bug Bounty Program - BlaBlaCar	https://yeswehack.com/programs/bug-bounty-program-blablacar
+https://mmp.otto.de	paying	OTTO.DE Bug Bounty	https://yeswehack.com/programs/otto-de-bug-bounty
+https://mohesr.vfsglobal.com/forms/CVUAE/admin/	paying	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+https://my.sogexia.com	paying	Sogexia	https://yeswehack.com/programs/sogexia
+https://myplutus.pinelabs.my	paying	Pine Labs Bug Bounty Program	https://yeswehack.com/programs/pine-labs-bug-bounty-program
+https://nbs.pinelabs.com	paying	Pine Labs Bug Bounty Program	https://yeswehack.com/programs/pine-labs-bug-bounty-program
+https://no.harmanaudio.com	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://no.harmankardon.com	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://no.jbl.com	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://online.srilankaevisa.lk/lka/en/login	paying	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+https://online.vfsevisa.com/main-es2015.521ef2e1d9f68fd1bb90.js	out-of-scope	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+https://online.vfsevisa.com/main-es2015.6d514e86ec7c6492aafc.js?v=3.1.2	out-of-scope	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+https://online.vfsevisa.com/main-es5.521ef2e1d9f68fd1bb90.js?v=3.1.6	out-of-scope	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+https://orbidder.otto.de	paying	OTTO.DE Bug Bounty	https://yeswehack.com/programs/otto-de-bug-bounty
+https://paddle.net	paying	Paddle.com Public Bug Bounty Program	https://yeswehack.com/programs/paddle-com-public-bug-bounty-program
+https://pci.kindredgroup.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+https://pinepgconsole.in:9099	paying	Pine Labs Bug Bounty Program	https://yeswehack.com/programs/pine-labs-bug-bounty-program
+https://pl.jbl.com	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://poc-op-ywh.it.authentification.si.gouv.qc.ca/	out-of-scope	Programme de prime aux bogues du Gouvernement du Québec	https://yeswehack.com/programs/programmes-de-primes-aux-bogues-du-gouvernement-du-quebec-cgcd
+https://portal.vfsevisa.com/main-es2015.7857657af609ca5e4bc5.js?v=3.1.4	out-of-scope	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+https://portal.vfsevisa.com/main-es2015.987b1b526aa8041bfdee.js	out-of-scope	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+https://portal.vfsevisa.com/main-es5.987b1b526aa8041bfdee.js?v=3.1.6	out-of-scope	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+https://pro.onedoc.ch	paying	OneDoc	https://yeswehack.com/programs/onedoc-sa-bug-bounty-program
+https://retail-api.otto.de	paying	OTTO.DE Bug Bounty	https://yeswehack.com/programs/otto-de-bug-bounty
+https://ro.harmanaudio.com	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://sandbox-buy.paddle.com	paying	Paddle.com Public Bug Bounty Program	https://yeswehack.com/programs/paddle-com-public-bug-bounty-program
+https://sandbox-checkout-service.paddle.com	paying	Paddle.com Public Bug Bounty Program	https://yeswehack.com/programs/paddle-com-public-bug-bounty-program
+https://sandbox-login.paddle.com	paying	Paddle.com Public Bug Bounty Program	https://yeswehack.com/programs/paddle-com-public-bug-bounty-program
+https://sandbox-vendors.paddle.com	paying	Paddle.com Public Bug Bounty Program	https://yeswehack.com/programs/paddle-com-public-bug-bounty-program
+https://se.harmanaudio.com	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://secondchance.jbl.com	out-of-scope	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://secondchance.jbl.com/module/stripe_official/createIntent	out-of-scope	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://selfcare.ooredoo.qa	paying	Ooredoo QPSC - Customer Portal Bug Bounty Program	https://yeswehack.com/programs/ooredoo-qpsc-bug-bounty-program
+https://service.post.ch/ekp-web/	paying	Swiss Post	https://yeswehack.com/programs/swiss-post
+https://service.post.ch/ele-klp/ele/	paying	Swiss Post	https://yeswehack.com/programs/swiss-post
+https://service.post.ch/zopa/app/	paying	Swiss Post	https://yeswehack.com/programs/swiss-post
+https://shop.post.ch/shop	paying	Swiss Post	https://yeswehack.com/programs/swiss-post
+https://sip2.dmp.gouv.fr	paying	Dossier Medical Partagé Bug Bounty Program	https://yeswehack.com/programs/dossier-medical-partage-program
+https://supplier-connect.otto.de	paying	OTTO.DE Bug Bounty	https://yeswehack.com/programs/otto-de-bug-bounty
+https://sycamore.moneyboxapp.org	paying	Moneybox Bug Bounty	https://yeswehack.com/programs/moneybox-bug-bounty
+https://telehealth.onedoc.ch	paying	OneDoc	https://yeswehack.com/programs/onedoc-sa-bug-bounty-program
+https://thueringer-foerderportal.eu	paying	Thüringer Aufbaubank Bug Bounty Program	https://yeswehack.com/programs/thuringer-aufbaubank-bug-bounty-program
+https://toom.de	paying	toom Baumarkt GmbH - Webshop	https://yeswehack.com/programs/toom-baumarkt-gmbh-bug-bounty-program
+https://trm.pinelabs.ae	paying	Pine Labs Bug Bounty Program	https://yeswehack.com/programs/pine-labs-bug-bounty-program
+https://uat-lift.vfsglobal.com/_angular/main.8dbd1aa97c38b188.js?v=6.0.29	out-of-scope	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+https://uat-lift.vfsglobal.com/_angular/main.c05c54e8703c3a9f.js?v=6.0.36	out-of-scope	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+https://uk.harmanaudio.com	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://uk.jbl.com	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://uketa.vfsglobal.com/forms/UKETA/	paying	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+https://ukvitest.vfsglobal.com/_angular/main.3ca04c44a2718f71.js?v=1.0.22	out-of-scope	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+https://us.marklevinson.com	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://uy.jbl.com	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://vc.tasheer.com/	paying	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+https://vendors.paddle.com	paying	Paddle.com Public Bug Bounty Program	https://yeswehack.com/programs/paddle-com-public-bug-bounty-program
+https://vfs.mioot.com/	paying	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+https://vfseu.mioot.com/	paying	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+https://vfsforms.mioot.com/	paying	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+https://vire.vfsglobal.com	out-of-scope	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+https://web.teamviewer.com	paying	TeamViewer - Bounty Program	https://yeswehack.com/programs/teamviewer-bounty-program
+https://www.32red.com/	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+https://www.akg.com	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)	paying	Bug Bounty Program - BlaBlaCar	https://yeswehack.com/programs/bug-bounty-program-blablacar
+https://www.bookbeat.com	paying	BookBeat	https://yeswehack.com/programs/bookbeat
+https://www.cyberghostvpn.com/en_US/apps/linux-vpn	paying	CyberGhost - Bug Bounty Program	https://yeswehack.com/programs/cyberghost-bug-bounty-program
+https://www.cyberghostvpn.com/en_US/apps/macos-vpn	paying	CyberGhost - Bug Bounty Program	https://yeswehack.com/programs/cyberghost-bug-bounty-program
+https://www.cyberghostvpn.com/en_US/apps/windows-vpn	paying	CyberGhost - Bug Bounty Program	https://yeswehack.com/programs/cyberghost-bug-bounty-program
+https://www.decathlon.(fr|ch|co.uk|it|nl|de|pt|es|be|pl|cz|ca)/	paying	DECATHLON	https://yeswehack.com/programs/decathlon
+https://www.decathlon.(hu|ro|com.tr)/	paying	DECATHLON	https://yeswehack.com/programs/decathlon
+https://www.dmp.fr	paying	Dossier Medical Partagé Bug Bounty Program	https://yeswehack.com/programs/dossier-medical-partage-program
+https://www.dmp.gouv.fr	paying	Dossier Medical Partagé Bug Bounty Program	https://yeswehack.com/programs/dossier-medical-partage-program
+https://www.harmanaudio.at	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.harmanaudio.com	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.harmanaudio.com.au	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.harmanaudio.com.br	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.harmanaudio.com.mx	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.harmanaudio.fr	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.harmanaudio.in	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.harmanaudio.nl	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.harmankardon.at	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.harmankardon.be	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.harmankardon.ch	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.harmankardon.co.nz	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.harmankardon.co.uk	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.harmankardon.com	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.harmankardon.com.au	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.harmankardon.com.br	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.harmankardon.com.mx	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.harmankardon.de	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.harmankardon.dk	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.harmankardon.fr	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.harmankardon.nl	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.harmankardon.se	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.imou.com	paying	IMOU Public Bug Bounty Program	https://yeswehack.com/programs/imou-public-bug-bounty-program
+https://www.jbl.at	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.jbl.cl	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.jbl.co.nz	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.jbl.com	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.jbl.com.ar	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.jbl.com.au	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.jbl.com.br	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.jbl.com.co	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.jbl.com.gt	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.jbl.com.mx	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.jbl.com.pe	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.jbl.es	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.jbl.nl	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.jbl.pr	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.jbl.se	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.lascana.de/	paying	OTTO.DE Bug Bounty	https://yeswehack.com/programs/otto-de-bug-bounty
+https://www.letspaylater.ph	paying	Pine Labs Bug Bounty Program	https://yeswehack.com/programs/pine-labs-bug-bounty-program
+https://www.lexicon.com	paying	HARMAN International - Web Applications	https://yeswehack.com/programs/harman-international-web-applications
+https://www.mediamarkt.at	paying	MediaMarktSaturn Bug Bounty Program	https://yeswehack.com/programs/mediamarktsaturn-bug-bounty-program
+https://www.mediamarkt.be	paying	MediaMarktSaturn Bug Bounty Program	https://yeswehack.com/programs/mediamarktsaturn-bug-bounty-program
+https://www.mediamarkt.ch	paying	MediaMarktSaturn Bug Bounty Program	https://yeswehack.com/programs/mediamarktsaturn-bug-bounty-program
+https://www.mediamarkt.com.tr	paying	MediaMarktSaturn Bug Bounty Program	https://yeswehack.com/programs/mediamarktsaturn-bug-bounty-program
+https://www.mediamarkt.de	paying	MediaMarktSaturn Bug Bounty Program	https://yeswehack.com/programs/mediamarktsaturn-bug-bounty-program
+https://www.mediamarkt.es	paying	MediaMarktSaturn Bug Bounty Program	https://yeswehack.com/programs/mediamarktsaturn-bug-bounty-program
+https://www.mediamarkt.hu	paying	MediaMarktSaturn Bug Bounty Program	https://yeswehack.com/programs/mediamarktsaturn-bug-bounty-program
+https://www.mediamarkt.nl	paying	MediaMarktSaturn Bug Bounty Program	https://yeswehack.com/programs/mediamarktsaturn-bug-bounty-program
+https://www.mediamarkt.pl	paying	MediaMarktSaturn Bug Bounty Program	https://yeswehack.com/programs/mediamarktsaturn-bug-bounty-program
+https://www.mediaworld.it	paying	MediaMarktSaturn Bug Bounty Program	https://yeswehack.com/programs/mediamarktsaturn-bug-bounty-program
+https://www.onedoc.ch	paying	OneDoc	https://yeswehack.com/programs/onedoc-sa-bug-bounty-program
+https://www.ooredoo.qa	paying	Ooredoo QPSC - Customer Portal Bug Bounty Program	https://yeswehack.com/programs/ooredoo-qpsc-bug-bounty-program
+https://www.otto.de	paying	OTTO.DE Bug Bounty	https://yeswehack.com/programs/otto-de-bug-bounty
+https://www.otto.de/clara	out-of-scope	OTTO.DE Bug Bounty	https://yeswehack.com/programs/otto-de-bug-bounty
+https://www.otto.de/jobs	paying	OTTO.DE Bug Bounty	https://yeswehack.com/programs/otto-de-bug-bounty
+https://www.otto.de/kundenchat	out-of-scope	OTTO.DE Bug Bounty	https://yeswehack.com/programs/otto-de-bug-bounty
+https://www.otto.de/newsroom	out-of-scope	OTTO.DE Bug Bounty	https://yeswehack.com/programs/otto-de-bug-bounty
+https://www.otto.de/reblog	out-of-scope	OTTO.DE Bug Bounty	https://yeswehack.com/programs/otto-de-bug-bounty
+https://www.otto.de/roombeez	out-of-scope	OTTO.DE Bug Bounty	https://yeswehack.com/programs/otto-de-bug-bounty
+https://www.otto.de/soulfully	out-of-scope	OTTO.DE Bug Bounty	https://yeswehack.com/programs/otto-de-bug-bounty
+https://www.otto.de/twoforfashion	out-of-scope	OTTO.DE Bug Bounty	https://yeswehack.com/programs/otto-de-bug-bounty
+https://www.otto.de/updated	out-of-scope	OTTO.DE Bug Bounty	https://yeswehack.com/programs/otto-de-bug-bounty
+https://www.otto.de/user/contactFormSubmit	out-of-scope	OTTO.DE Bug Bounty	https://yeswehack.com/programs/otto-de-bug-bounty
+https://www.otto.de/user/sendcallbackrequest	out-of-scope	OTTO.DE Bug Bounty	https://yeswehack.com/programs/otto-de-bug-bounty
+https://www.paddle.com	paying	Paddle.com Public Bug Bounty Program	https://yeswehack.com/programs/paddle-com-public-bug-bounty-program
+https://www.pinelabs.ae	paying	Pine Labs Bug Bounty Program	https://yeswehack.com/programs/pine-labs-bug-bounty-program
+https://www.pinelabs.com	paying	Pine Labs Bug Bounty Program	https://yeswehack.com/programs/pine-labs-bug-bounty-program
+https://www.pinelabs.my	paying	Pine Labs Bug Bounty Program	https://yeswehack.com/programs/pine-labs-bug-bounty-program
+https://www.pinelabs.us	paying	Pine Labs Bug Bounty Program	https://yeswehack.com/programs/pine-labs-bug-bounty-program
+https://www.privateinternetaccess.com/download/linux-vpn	paying	Private Internet Access - Bug Bounty Program	https://yeswehack.com/programs/private-internet-access-bug-bounty-program
+https://www.privateinternetaccess.com/download/mac-vpn	paying	Private Internet Access - Bug Bounty Program	https://yeswehack.com/programs/private-internet-access-bug-bounty-program
+https://www.privateinternetaccess.com/download/windows-vpn	paying	Private Internet Access - Bug Bounty Program	https://yeswehack.com/programs/private-internet-access-bug-bounty-program
+https://www.saturn.de	paying	MediaMarktSaturn Bug Bounty Program	https://yeswehack.com/programs/mediamarktsaturn-bug-bounty-program
+https://www.teamviewer.com/en/products/teamviewer/	paying	TeamViewer - Bounty Program	https://yeswehack.com/programs/teamviewer-bounty-program
+https://www.teleoptiprd.otto.de	paying	OTTO.DE Bug Bounty	https://yeswehack.com/programs/otto-de-bug-bounty
+https://www.vfsglobalcustomerexperience.com/CustomerFeedback/GeneralFeedback/Index	paying	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+https://www.vidaxl.(at|be|bg|ch|co.uk.com|com.au|com.ua|com|cz|de|dk|ee|es|fi|fr|gr|ie|is|it|hr|hu|lt|lv|no|nl|pl|pt|ro|se|si|sk|uk|ae|ca|jp)	paying	vidaXL Services - Open Bug Bounty Program	https://yeswehack.com/programs/vidaxl-services-open-bug-bounty-program
+https://www.visaforkorea-sl.com/	paying	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+https://www.yeswehack.com	paying	YesWeHack	https://yeswehack.com/programs/yes-we-hack
+https://yeswehack.com	paying	YesWeHack	https://yeswehack.com/programs/yes-we-hack
+iam.atg.se	paying	ATG Public Bug Bounty Program	https://yeswehack.com/programs/atg-public-bug-bounty-program
+iat.it.xvservice.net	paying	ExpressVPN - Bug Bounty Program	https://yeswehack.com/programs/expressvpn-bug-bounty-program
+info.doctolib.com | .fr | .de | .it	out-of-scope	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+infomaniak.events	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+int.32red.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+it.xvservice.net	paying	ExpressVPN - Bug Bounty Program	https://yeswehack.com/programs/expressvpn-bug-bounty-program
+ix2smbdyjt.infomaniak.site	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+jobs.vinci.com	paying	VINCI SA - Public program	https://yeswehack.com/programs/vincisa-public-program
+js.datadome.co	paying	DataDome Bot Bounty	https://yeswehack.com/programs/datadome-bot-bounty
+kdrive.infomaniak.com/app/*/preview/*	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+kdrive.infomaniak.com/app/office*/*	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+kmeet.infomaniak.com	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+knowage.developer.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+knowage.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+kpaste.infomaniak.com	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+ksuite.infomaniak.com	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+ksuite.infomaniak.com/*/kdrive/*/preview/*	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+kundo.atg.se (external supplier)	out-of-scope	ATG Public Bug Bounty Program	https://yeswehack.com/programs/atg-public-bug-bounty-program
+l.swapcard.com	out-of-scope	Swapcard	https://yeswehack.com/programs/swapcard
+l75pvbdyjo.infomaniak.site	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+leonard.vinci.com	paying	VINCI SA - Public program	https://yeswehack.com/programs/vincisa-public-program
+login.infomaniak.com	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+lp.alasco.com	out-of-scope	Alasco GmbH - Bug Bounty Program	https://yeswehack.com/programs/alasco-gmbh-bug-bounty-program
+lp.alasco.de	out-of-scope	Alasco GmbH - Bug Bounty Program	https://yeswehack.com/programs/alasco-gmbh-bug-bounty-program
+lps.dmp.gouv.fr	paying	Dossier Medical Partagé Bug Bounty Program	https://yeswehack.com/programs/dossier-medical-partage-program
+lps2.dmp.gouv.fr	paying	Dossier Medical Partagé Bug Bounty Program	https://yeswehack.com/programs/dossier-medical-partage-program
+m.dana.id	paying	DANA Bug Bounty Program	https://yeswehack.com/programs/dana-bug-bounty-program
+mail.infomaniak.com	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+manager.infomaniak.com/*proxy*	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+manager.infomaniak.com/v3/*	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+mangerbouger.fr	paying	Santé Publique France Bug Bounty Program	https://yeswehack.com/programs/sante-publique-france-bugbounty-public-program
+media.doctolib.com	out-of-scope	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+mgs-gw.dana.id	paying	DANA Bug Bounty Program	https://yeswehack.com/programs/dana-bug-bounty-program
+myeasydocs.co.il	out-of-scope	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+networkguard.com	paying	ExpressVPN - Bug Bounty Program	https://yeswehack.com/programs/expressvpn-bug-bounty-program
+nssr-7.vfsglobal.com	out-of-scope	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+odoo.zecible.pro	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	https://yeswehack.com/programs/zecible-public-bug-bounty-program
+only exception: wishes.vinci.com (english version of voeux.vinci.com) is included in the scope	out-of-scope	VINCI SA - Public program	https://yeswehack.com/programs/vincisa-public-program
+open.ys7.com	paying	Ezviz - Bug Bounty Program	https://yeswehack.com/programs/ezviz-bug-bounty-program
+ov-XX.infomaniak.ch and od-XX.infomaniak.ch sub domains	out-of-scope	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+ownit.se	paying	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+page.swapcard.com	out-of-scope	Swapcard	https://yeswehack.com/programs/swapcard
+payment.bingo.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+payment.casinohuone.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+payment.kolikkopelit.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+payment.mariacasino.(com|se|ee|dk)	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+payment.ottocasino.se	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+payment.ottokasino.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+payment.storspelare.se	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+payment.storspiller.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+payment.unibet.(com­|it|se|co.uk|be|nl|dk|ro|ee|ie|com.au|mt)	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+payment.vladcazino.ro	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+phlonline.vfsevisa.cn	paying	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+phlportal.vfsevisa.cn	paying	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+player-radio.infomaniak.com	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+prd.iat.it.xvservice.net	paying	ExpressVPN - Bug Bounty Program	https://yeswehack.com/programs/expressvpn-bug-bounty-program
+preprod.auth.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+preprod.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+preprod1.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+preprod2.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+pro-app.doctolib.com	out-of-scope	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+pro.doctolib.(fr|de|it) (see "Free features for healthcare professionals"))	paying	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+professionnels.vaccination-info-service.fr	paying	Santé Publique France Bug Bounty Program	https://yeswehack.com/programs/sante-publique-france-bugbounty-public-program
+r121.news.atg.se (external supplier)	out-of-scope	ATG Public Bug Bounty Program	https://yeswehack.com/programs/atg-public-bug-bounty-program
+r122.news.atg.se (external supplier)	out-of-scope	ATG Public Bug Bounty Program	https://yeswehack.com/programs/atg-public-bug-bounty-program
+r123.news.atg.se (external supplier)	out-of-scope	ATG Public Bug Bounty Program	https://yeswehack.com/programs/atg-public-bug-bounty-program
+r124.news.atg.se (external supplier)	out-of-scope	ATG Public Bug Bounty Program	https://yeswehack.com/programs/atg-public-bug-bounty-program
+registre.notebleue.pro	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	https://yeswehack.com/programs/zecible-public-bug-bounty-program
+securite.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+sentry.swapcard.com (Except if you notice a miss-configuration)	out-of-scope	Swapcard	https://yeswehack.com/programs/swapcard
+share.doctolib.net	out-of-scope	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+shop.atg.se (external supplier)	out-of-scope	ATG Public Bug Bounty Program	https://yeswehack.com/programs/atg-public-bug-bounty-program
+shop.infomaniak.com	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+solutions-environnement.vinci.com	paying	VINCI SA - Public program	https://yeswehack.com/programs/vincisa-public-program
+stage-vimla-se.vimla.io	out-of-scope	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+stats.vinci.com	paying	VINCI SA - Public program	https://yeswehack.com/programs/vincisa-public-program
+status.doctolib.com | .fr | .it	out-of-scope	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+status.vimla.se	out-of-scope	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+storage*.infomaniak.com	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+storage*.infomaniak.com/newsletter/thumbnails/*	out-of-scope	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+store.doctolib.com	out-of-scope	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+studio.swapcard.com	paying	Swapcard	https://yeswehack.com/programs/swapcard
+superbank.id	paying	Superbank - Public Bug Bounty Program	https://yeswehack.com/programs/superbank-public-bug-bounty-program
+support.alasco.com	out-of-scope	Alasco GmbH - Bug Bounty Program	https://yeswehack.com/programs/alasco-gmbh-bug-bounty-program
+support.alasco.de	out-of-scope	Alasco GmbH - Bug Bounty Program	https://yeswehack.com/programs/alasco-gmbh-bug-bounty-program
+support.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+support.sogexia.com	out-of-scope	Sogexia	https://yeswehack.com/programs/sogexia
+survey.swapcard.com	out-of-scope	Swapcard	https://yeswehack.com/programs/swapcard
+survey.vinci.com	paying	VINCI SA - Public program	https://yeswehack.com/programs/vincisa-public-program
+svn.notebleue.pro	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	https://yeswehack.com/programs/zecible-public-bug-bounty-program
+swiss-backup*.infomaniak.com	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+swisstransfer.infomaniak.com	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+sync.infomaniak.com	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+tc.ownit.se	out-of-scope	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+team.swapcard.com	paying	Swapcard	https://yeswehack.com/programs/swapcard
+techops.dana.id	out-of-scope	DANA Bug Bounty Program	https://yeswehack.com/programs/dana-bug-bounty-program
+telenor.se	paying	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+todo.notebleue.pro	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	https://yeswehack.com/programs/zecible-public-bug-bounty-program
+trm.pinepaymentsolutions.com	paying	Pine Labs Bug Bounty Program	https://yeswehack.com/programs/pine-labs-bug-bounty-program
+vaccination-info-service.fr	paying	Santé Publique France Bug Bounty Program	https://yeswehack.com/programs/sante-publique-france-bugbounty-public-program
+vector.prd.iat.it.xvservice.net	paying	ExpressVPN - Bug Bounty Program	https://yeswehack.com/programs/expressvpn-bug-bounty-program
+vettore.it and any related Vettore assets	out-of-scope	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+vfsglobal.com.ru	out-of-scope	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+vimla.se	paying	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
+vod.infomaniak.com	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+vœux.vinci.com	paying	VINCI SA - Public program	https://yeswehack.com/programs/vincisa-public-program
+web-mh.dmp.gouv.fr	paying	Dossier Medical Partagé Bug Bounty Program	https://yeswehack.com/programs/dossier-medical-partage-program
+webbshop.atg.se (external supplier)	out-of-scope	ATG Public Bug Bounty Program	https://yeswehack.com/programs/atg-public-bug-bounty-program
+webdev.dana.id	out-of-scope	DANA Bug Bounty Program	https://yeswehack.com/programs/dana-bug-bounty-program
+webtoolbox.notebleue.pro	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	https://yeswehack.com/programs/zecible-public-bug-bounty-program
+welcome.infomaniak.com	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+wp.dana.id	out-of-scope	DANA Bug Bounty Program	https://yeswehack.com/programs/dana-bug-bounty-program
+wps-cps.cv.dmp.gouv.fr	paying	Dossier Medical Partagé Bug Bounty Program	https://yeswehack.com/programs/dossier-medical-partage-program
+wps-cps.dmp.gouv.fr	paying	Dossier Medical Partagé Bug Bounty Program	https://yeswehack.com/programs/dossier-medical-partage-program
+wps-cps.dmp.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+www.1000-premiers-jours.fr	paying	Santé Publique France Bug Bounty Program	https://yeswehack.com/programs/sante-publique-france-bugbounty-public-program
+www.alasco.com	out-of-scope	Alasco GmbH - Bug Bounty Program	https://yeswehack.com/programs/alasco-gmbh-bug-bounty-program
+www.alasco.de	out-of-scope	Alasco GmbH - Bug Bounty Program	https://yeswehack.com/programs/alasco-gmbh-bug-bounty-program
+www.atg.se	paying	ATG Public Bug Bounty Program	https://yeswehack.com/programs/atg-public-bug-bounty-program
+www.bingo.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+www.casinohuone.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+www.chaire-arpenter.fr	paying	VINCI SA - Public program	https://yeswehack.com/programs/vincisa-public-program
+www.doctolib.(fr|de|it)	paying	Doctolib	https://yeswehack.com/programs/doctolib-public-bug-bounty-program
+www.ezviz.com	paying	Ezviz - Bug Bounty Program	https://yeswehack.com/programs/ezviz-bug-bounty-program
+www.fondation-vinci.com	paying	VINCI SA - Public program	https://yeswehack.com/programs/vincisa-public-program
+www.habileoh.com	paying	VINCI SA - Public program	https://yeswehack.com/programs/vincisa-public-program
+www.infomaniak.com	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+www.kolikkopelit.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+www.lab-recherche-environnement.org	paying	VINCI SA - Public program	https://yeswehack.com/programs/vincisa-public-program
+www.mariacasino.(com|se|ee|dk)	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+www.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+www.onsexprime.fr	paying	Santé Publique France Bug Bounty Program	https://yeswehack.com/programs/sante-publique-france-bugbounty-public-program
+www.ottocasino.se	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+www.ottokasino.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+www.ovh.com	paying	OVHcloud	https://yeswehack.com/programs/ovh
+www.preprod.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+www.preprod1.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+www.preprod2.monespacesante.fr	paying	Mon Espace Santé (MES)	https://yeswehack.com/programs/mon-espace-sante-mes
+www.sogexia.com	out-of-scope	Sogexia	https://yeswehack.com/programs/sogexia
+www.sogexiaclub.com	out-of-scope	Sogexia	https://yeswehack.com/programs/sogexia
+www.storspelare.se	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+www.storspiller.com	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+www.swapcard.com (static corporate website)	out-of-scope	Swapcard	https://yeswehack.com/programs/swapcard
+www.swisstransfer.com	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
+www.tabac-info-service.fr	paying	Santé Publique France Bug Bounty Program	https://yeswehack.com/programs/sante-publique-france-bugbounty-public-program
+www.trajeoh.com	paying	VINCI SA - Public program	https://yeswehack.com/programs/vincisa-public-program
+www.unibet.(com­|it|se|co.uk|be|nl|dk|ro|ee|ie|com.au|mt)	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+www.vfsvisaonline.com	paying	VFS Global Bug Bounty Program	https://yeswehack.com/programs/vfs-global-bug-bounty-program
+www.vinci-vie.fr	paying	VINCI SA - Public program	https://yeswehack.com/programs/vincisa-public-program
+www.vinci.com	paying	VINCI SA - Public program	https://yeswehack.com/programs/vincisa-public-program
+www.vivre-avec-la-chaleur.fr	paying	Santé Publique France Bug Bounty Program	https://yeswehack.com/programs/sante-publique-france-bugbounty-public-program
+www.vladcazino.ro	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	https://yeswehack.com/programs/fdj-united-online-betting-gaming-bug-bounty-program
+ywh.admin.zecible.fr	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	https://yeswehack.com/programs/zecible-public-bug-bounty-program
+ywh.api.zecible.fr	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	https://yeswehack.com/programs/zecible-public-bug-bounty-program
+ywh.comptage.zecible.fr	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	https://yeswehack.com/programs/zecible-public-bug-bounty-program
+ywh.crons.zecible.fr	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	https://yeswehack.com/programs/zecible-public-bug-bounty-program
+ywh.dev.zecible.fr	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	https://yeswehack.com/programs/zecible-public-bug-bounty-program
+ywh.fichiers.zecible.fr	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	https://yeswehack.com/programs/zecible-public-bug-bounty-program
+ywh.mydata.zecible.fr	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	https://yeswehack.com/programs/zecible-public-bug-bounty-program
+ywh.routage.zecible.fr	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	https://yeswehack.com/programs/zecible-public-bug-bounty-program
+ywh.static.zcb.fr	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	https://yeswehack.com/programs/zecible-public-bug-bounty-program
+ywh.static.zecible.fr	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	https://yeswehack.com/programs/zecible-public-bug-bounty-program
+ywh.update.zecible.fr	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	https://yeswehack.com/programs/zecible-public-bug-bounty-program
+ywh.zcb.fr	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	https://yeswehack.com/programs/zecible-public-bug-bounty-program
