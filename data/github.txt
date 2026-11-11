@@ -768,7 +768,6 @@ https://github.com/rsksmart/powpeg-node
 https://github.com/rsksmart/rsk-powhsm
 https://github.com/rsksmart/rskj
 https://github.com/ruby/ruby
-https://github.com/rubygems/rubygems
 https://github.com/rundeck/rundeck
 https://github.com/rundeck/rundeck-cli
 https://github.com/segmentio
@@ -925,7 +924,6 @@ https://github.com/trufin-io/smart-contracts-solana-public
 https://github.com/trustwallet/wallet-core
 https://github.com/twilio
 https://github.com/twilio-labs
-https://github.com/uphold
 https://github.com/usnistgov
 https://github.com/usstatedept
 https://github.com/valvesoftware

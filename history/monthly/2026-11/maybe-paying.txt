@@ -367,6 +367,7 @@ support.rockstargames.com
 support.tvg.com
 template.uat.foodstorm.com
 tequila-api.kiwi.com
+testnet.bitmex.com
 todentaminen.posti.fi
 trac.wordpress.org
 ubereats.com
@@ -386,6 +387,7 @@ wordpress.org
 wp.cloud
 wpscan.com
 www.apollo.io
+www.bitmex.com
 www.bitstamp.net
 www.bridge.xyz
 www.cheapflights.co.uk

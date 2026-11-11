@@ -388,6 +388,7 @@
 *.bionic.ai	paying	Crowdstrike	https://hackerone.com/crowdstrike
 *.bitdam.com	non-paying	Kaseya	https://hackerone.com/kaseya
 *.bitlove.co	out-of-scope	FetLife	https://hackerone.com/fetlife
+*.bitmex.com	paying	BitMEX	https://hackerone.com/bitmex
 *.bizsoltraining.att.com	out-of-scope	AT&T	https://hackerone.com/att
 *.blackpeakcapital.com	non-paying	ION Group	https://hackerone.com/ion
 *.blackpeakgroup.com	non-paying	ION Group	https://hackerone.com/ion
@@ -1217,6 +1218,7 @@
 *.highwebmedia.com	paying	Chaturbate	https://hackerone.com/chaturbate
 *.hilolife.com	non-paying	PepsiCo VDP	https://hackerone.com/pepsico_vdp
 *.hilton.com	paying	Hilton	https://hackerone.com/hilton
+*.hilton.com.cn	paying	Hilton	https://hackerone.com/hilton
 *.hilton.io	paying	Hilton	https://hackerone.com/hilton
 *.hiltonbusinessonline.com	paying	Hilton	https://hackerone.com/hilton
 *.hiltonhotels.jp	out-of-scope	Hilton	https://hackerone.com/hilton
@@ -1613,6 +1615,7 @@
 *.mascoat.com	non-paying	Henkel	https://hackerone.com/henkel_vdp
 *.matic.network	out-of-scope	Polygon Technology	https://hackerone.com/polygon-technology
 *.mavenlab.com	non-paying	8x8	https://hackerone.com/8x8-bounty
+*.maxbet.ro	paying	Superbet	https://hackerone.com/superbet
 *.mbna.ca	non-paying	TD Bank Group	https://hackerone.com/td-bank
 *.mcd.cf.iongroup.com	non-paying	ION Group	https://hackerone.com/ion
 *.mcduk.reflexisinc.co.uk	non-paying	Zebra VDP	https://hackerone.com/zebra_vdp
@@ -4359,6 +4362,7 @@ All Apps published by Daimler Truck AG	non-paying	Daimler Truck	https://hackeron
 All Assets (other than Blinkit)	paying	Eternal	https://hackerone.com/eternal
 All Audible blogs across marketplaces	out-of-scope	Audible	https://hackerone.com/audible
 All Docusign apps and assets not listed below as Out of Scope	non-paying	DocuSign	https://hackerone.com/docusign
+All Other BitMEX Assets	paying	BitMEX	https://hackerone.com/bitmex
 All Twilio acquisitions unless explicitly listed as in-scope	out-of-scope	Twilio	https://hackerone.com/twilio
 All help centers across marketplaces	out-of-scope	Audible	https://hackerone.com/audible
 All internet-facing Aon assets are in scope	non-paying	Aon	https://hackerone.com/aon
@@ -4876,7 +4880,6 @@ Magic Firewall	paying	Cloudflare Public Bug Bounty	https://hackerone.com/cloudfl
 Magic Transit	paying	Cloudflare Public Bug Bounty	https://hackerone.com/cloudflare
 Magic WAN	paying	Cloudflare Public Bug Bounty	https://hackerone.com/cloudflare
 Main corporate site	paying	Inditex	https://hackerone.com/inditex
-Malicious or compromised gem	non-paying	RubyGems	https://hackerone.com/rubygems
 Managed OpenClaw	paying	hostinger	https://hackerone.com/hostinger
 Managed Property Assets	paying	Hilton	https://hackerone.com/hilton
 MariaDB Server & Connectors - Access control bypass	non-paying	MariaDB	https://hackerone.com/mariadb
@@ -5496,6 +5499,7 @@ academicvideoonline.com	non-paying	Clarivate	https://hackerone.com/clarivate
 academicvideostore.com	non-paying	Clarivate	https://hackerone.com/clarivate
 academy-outbound-ads.tiktok.com	paying	TikTok	https://hackerone.com/tiktok
 academy.aon.de/	non-paying	Aon	https://hackerone.com/aon
+academy.bitmex.com	out-of-scope	BitMEX	https://hackerone.com/bitmex
 academy.fleetboard.com	non-paying	Daimler Truck	https://hackerone.com/daimler_truck
 academy.gallileo-frankfurt.com	non-paying	CBRE	https://hackerone.com/cbre
 academy.gift.solutions	non-paying	Fiserv	https://hackerone.com/fiserv
@@ -5825,6 +5829,7 @@ affiliate.meesho.com	paying	Meesho	https://hackerone.com/meesho_bbp
 affiliate.napoleongames.be	out-of-scope	Superbet	https://hackerone.com/superbet
 affiliatehub.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 affiliatehub.skybet.com	out-of-scope	Flutter UK&I	https://hackerone.com/flutteruki
+affiliates.bitmex.com	out-of-scope	BitMEX	https://hackerone.com/bitmex
 affiliates.fanduel.com	out-of-scope	FanDuel	https://hackerone.com/fanduel
 affiliates.fanduel.com	out-of-scope	FanDuel Response	https://hackerone.com/fanduel-vdp
 affiliates.gallileo-frankfurt.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -6640,6 +6645,7 @@ api.grofers.com	paying	Eternal	https://hackerone.com/eternal
 api.gsi.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 api.hackerone.com	paying	HackerOne	https://hackerone.com/security
 api.host-building.com	non-paying	CBRE	https://hackerone.com/cbre
+api.humantoken.unico.app	paying	Unico IDtech	https://hackerone.com/unico_idtech
 api.industriousoffice.com	non-paying	CBRE	https://hackerone.com/cbre
 api.instacart.com	paying	Instacart	https://hackerone.com/instacart
 api.int.retailnet.daimlertruck.com	non-paying	Daimler Truck	https://hackerone.com/daimler_truck
@@ -6833,7 +6839,6 @@ api:funding-webhooks.remitly.io	paying	Remitly	https://hackerone.com/remitly
 api:gasstation.polygon.technology/	paying	Polygon Technology	https://hackerone.com/polygon-technology
 api:http://api-an.capitalone.com/private/907765/digital-intake/	out-of-scope	Capital One	https://hackerone.com/capital-one
 api:http://api-an.capitalone.com/private/907765/digital-intake/	out-of-scope	Capital One Bug Bounty	https://hackerone.com/capital-one-bounty
-api:http://rubygems.org/names	out-of-scope	RubyGems	https://hackerone.com/rubygems
 api:https://203074349567.uw2.portal.vectra.ai/api	non-paying	Vectra AI, Inc. (Response)	https://hackerone.com/vectra_ai_vdp
 api:https://api-dev.finnair.com/d/*	non-paying	Finnair Vulnerability Disclosure	https://hackerone.com/finnair_vdp
 api:https://api-preprod.finnair.com/d/*	non-paying	Finnair Vulnerability Disclosure	https://hackerone.com/finnair_vdp
@@ -9701,6 +9706,8 @@ bistro-api.blinkit.com	paying	Eternal	https://hackerone.com/eternal
 bitbucket.fr	non-paying	Clarivate	https://hackerone.com/clarivate
 bite-lt.staging.pms-ou.aon.com	non-paying	Aon	https://hackerone.com/aon
 bitlove.co	out-of-scope	FetLife	https://hackerone.com/fetlife
+bitmex-org.freshworks.com	out-of-scope	BitMEX	https://hackerone.com/bitmex
+bitmex.freshdesk.com	out-of-scope	BitMEX	https://hackerone.com/bitmex
 bitoasis.net	non-paying	CoinDCX Vulnerability Disclosure	https://hackerone.com/coindcx_vdp
 bitwarden.com	non-paying	Bitwarden	https://hackerone.com/bitwarden
 biuroprasowe.cbre.pl	non-paying	CBRE	https://hackerone.com/cbre
@@ -9730,6 +9737,7 @@ blockbuster.wgiftcard.com	non-paying	Fiserv	https://hackerone.com/fiserv
 blockbusterstore.wgiftcard.com	non-paying	Fiserv	https://hackerone.com/fiserv
 blog*semtech.com	non-paying	Semtech	https://hackerone.com/semtech
 blog.airtable.com	out-of-scope	Airtable	https://hackerone.com/airtable
+blog.bitmex.com	out-of-scope	BitMEX	https://hackerone.com/bitmex
 blog.bumble.com	out-of-scope	Bumble	https://hackerone.com/bumble
 blog.cbre.ae	non-paying	CBRE	https://hackerone.com/cbre
 blog.cbre.no	non-paying	CBRE	https://hackerone.com/cbre
@@ -9758,7 +9766,6 @@ blog.playcanvas.com	paying	Snapchat	https://hackerone.com/snapchat
 blog.privy.io	out-of-scope	Privy (Bounty)	https://hackerone.com/privy-bbp
 blog.remitly.com	paying	Remitly	https://hackerone.com/remitly
 blog.romonet.com	non-paying	CBRE	https://hackerone.com/cbre
-blog.rubygems.org	out-of-scope	RubyGems	https://hackerone.com/rubygems
 blog.spaziodati.eu	non-paying	ION Group	https://hackerone.com/ion
 blog.spoonflower.com	non-paying	Shutterfly VDP	https://hackerone.com/shutterfly_vdp
 blog.tenna.com	out-of-scope	John Deere	https://hackerone.com/john-deere
@@ -13719,6 +13726,7 @@ dashboard.razorpay.com	paying	Razorpay	https://hackerone.com/razorpay
 dashboard.redoxengine.com	out-of-scope	Redox	https://hackerone.com/redox_bbp
 dashboard.render.com	non-paying	Render	https://hackerone.com/render
 dashboard.trammellcrow.com	non-paying	CBRE	https://hackerone.com/cbre
+dashboard.unico.app	paying	Unico IDtech	https://hackerone.com/unico_idtech
 dashboard.xoswap.com	out-of-scope	Exodus	https://hackerone.com/exodus
 dashboards-nonp.cbrehost.com	non-paying	CBRE	https://hackerone.com/cbre
 dashboards.cbrehost.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -15051,6 +15059,7 @@ desc:https://support.link.com	paying	Stripe	https://hackerone.com/stripe
 desc:https://support.planet.com	non-paying	Planet Labs	https://hackerone.com/planet-labs
 desc:https://support.vectra.ai/s/article/KB-VS-1049	non-paying	Vectra AI, Inc. (Response)	https://hackerone.com/vectra_ai_vdp
 desc:https://testflight.apple.com/join/nB0VMPeC	non-paying	Lowe's Companies VDP	https://hackerone.com/lowes
+desc:https://testnet.bitmex.com/app/apiOverview	paying	BitMEX	https://hackerone.com/bitmex
 desc:https://ui.com/uid	paying	Ubiquiti Inc.	https://hackerone.com/ui
 desc:https://usa.visa.com/en-us/account/registration	paying	Visa	https://hackerone.com/visa
 desc:https://vcc-ce.8x8.com/analytix/rt-dashboard.htm	non-paying	8x8	https://hackerone.com/8x8-bounty
@@ -15630,7 +15639,6 @@ devapipace.cbre.com.au	non-paying	CBRE	https://hackerone.com/cbre
 devartifactory.gcsonp.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 devauth-snappay.fiserv.io	non-paying	Fiserv	https://hackerone.com/fiserv
 devcbrehomes.cbre.com.hk	non-paying	CBRE	https://hackerone.com/cbre
-devcenter.unico.io	paying	Unico IDtech	https://hackerone.com/unico_idtech
 devcms.ayoba.me	non-paying	MTN Group	https://hackerone.com/mtn_group
 develop.expertconnect.deere.com	non-paying	John Deere	https://hackerone.com/john-deere
 develop.gallileo-frankfurt.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -15668,6 +15676,7 @@ developer.jira.fleetboard.com	non-paying	Daimler Truck	https://hackerone.com/dai
 developer.playcanvas.com	paying	Snapchat	https://hackerone.com/snapchat
 developer.plus.authorize.net	paying	Visa	https://hackerone.com/visa
 developer.starlingbank.com	non-paying	Starling Bank VDP	https://hackerone.com/starling_bank
+developer.unico.io	paying	Unico IDtech	https://hackerone.com/unico_idtech
 developer.valvesoftware.com	paying	Valve	https://hackerone.com/valve
 developer.visa.com	paying	Visa	https://hackerone.com/visa
 developer.worldcoin.org	paying	Tools for Humanity	https://hackerone.com/toolsforhumanity
@@ -20036,6 +20045,7 @@ guess:teampages.com	non-paying	Global Payments	https://hackerone.com/global-paym
 guess:template.uat.foodstorm.com	paying	Instacart	https://hackerone.com/instacart
 guess:tequila-api.kiwi.com	paying	Kiwi.com	https://hackerone.com/kiwicom
 guess:test.secure.touchnet.net	non-paying	Global Payments	https://hackerone.com/global-payments
+guess:testnet.bitmex.com	paying	BitMEX	https://hackerone.com/bitmex
 guess:tools.cards	non-paying	Moov	https://hackerone.com/moov
 guess:trac.wordpress.org	paying	WordPress	https://hackerone.com/wordpress
 guess:unreal-agents-sys.8x8pilot.com	non-paying	8x8	https://hackerone.com/8x8-bounty
@@ -20059,6 +20069,7 @@ guess:wp.cloud	paying	Automattic	https://hackerone.com/automattic
 guess:www.advisoryworld.com	non-paying	LPL Financial VDP	https://hackerone.com/lpl_financial-vdp
 guess:www.aig	non-paying	AIG	https://hackerone.com/aig
 guess:www.bill.com	non-paying	BILL VDP	https://hackerone.com/bill_vdp
+guess:www.bitmex.com	paying	BitMEX	https://hackerone.com/bitmex
 guess:www.bitstamp.net	paying	Robinhood Markets Bounty	https://hackerone.com/robinhood
 guess:www.cheapflights.co.uk	paying	KAYAK	https://hackerone.com/kayak
 guess:www.cheapflights.com.au	paying	KAYAK	https://hackerone.com/kayak
@@ -20096,7 +20107,6 @@ guestwifi.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 guestwifi.cn.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 guestwifiuat.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 guide.airtable.com	out-of-scope	Airtable	https://hackerone.com/airtable
-guide.rubygems.org	out-of-scope	RubyGems	https://hackerone.com/rubygems
 guidedonboarding.deere.com	non-paying	John Deere	https://hackerone.com/john-deere
 guides.e-mobility.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 guides.siteready.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -20504,7 +20514,6 @@ help.nprd-exco.deere.com	non-paying	John Deere	https://hackerone.com/john-deere
 help.oportun.com	non-paying	Oportun	https://hackerone.com/oportun_vdp
 help.plc.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 help.redoxengine.com	paying	Redox	https://hackerone.com/redox_bbp
-help.rubygems.org	out-of-scope	RubyGems	https://hackerone.com/rubygems
 help.seleritycorp.com	non-paying	ION Group	https://hackerone.com/ion
 help.semtech.com	non-paying	Semtech	https://hackerone.com/semtech
 help.service.motion.abb.com.cn	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
@@ -26905,7 +26914,6 @@ https://ferrerorochergoldentouch.com/us/en/xp/add-your-golden-touch/berlin-beta/
 https://ferrerorocherpromo.ro/ro/ro/xp/cadoul-mai-presus-de-cuvinte/	non-paying	Ferrero	https://hackerone.com/ferrero
 https://ferrerorocherpromo.ro/ro/ro/xp/clipa-de-aur/	non-paying	Ferrero	https://hackerone.com/ferrero
 https://ferrerorocherpromo.ro/ro/ro/xp/lumineaza-clipele-speciale-inscriere/	non-paying	Ferrero	https://hackerone.com/ferrero
-https://filezilla-project.org/download.php?type=server&show_all=1	paying	FileZilla	https://hackerone.com/filezilla
 https://findyourmatch25.strategie.agency/be/fr/xp/findyourmatch/	non-paying	Ferrero	https://hackerone.com/ferrero
 https://fn-commerce-live.eeef.live.use1a.on.epicgames.com/api/fn-commerce/	paying	Epic Games	https://hackerone.com/epicgames
 https://fngw-svc-ds-livefn.ol.epicgames.net/api/magpie	paying	Epic Games	https://hackerone.com/epicgames
@@ -26918,7 +26926,6 @@ https://ftp.signaturescience.com	non-paying	DIB-VDP	https://hackerone.com/dib-vd
 https://fulfilborsoni.ferreropromo.it/	non-paying	Ferrero	https://hackerone.com/ferrero
 https://fw.ring.com/*	paying	Ring	https://hackerone.com/ring
 https://fx-qa.np.bolsasymercados.es/	paying	SIX Group	https://hackerone.com/six-group
-https://fzssh.filezilla-project.org/download.php	paying	FileZilla	https://hackerone.com/filezilla
 https://ganymede.cacicorenet.com	non-paying	DIB-VDP	https://hackerone.com/dib-vdp
 https://gatewaydsapprd.marriott.com/v1/	paying	Marriott Bug Bounty Program	https://hackerone.com/marriott
 https://gatewaydsapprd.marriott.com/v2/	paying	Marriott Bug Bounty Program	https://hackerone.com/marriott
@@ -27175,7 +27182,6 @@ https://github.com/rails/rails	non-paying	Ruby on Rails	https://hackerone.com/ra
 https://github.com/revive-adserver/revive-adserver	non-paying	Revive Adserver	https://hackerone.com/revive_adserver
 https://github.com/roundcube/roundcubemail	non-paying	Nextcloud	https://hackerone.com/nextcloud
 https://github.com/ruby/ruby	non-paying	Ruby	https://hackerone.com/ruby
-https://github.com/rubygems/rubygems	non-paying	RubyGems	https://hackerone.com/rubygems
 https://github.com/rundeck/rundeck	non-paying	PagerDuty	https://hackerone.com/pagerduty
 https://github.com/rundeck/rundeck-cli	non-paying	PagerDuty	https://hackerone.com/pagerduty
 https://github.com/slackhq/nebula	paying	Slack	https://hackerone.com/slack
@@ -27835,7 +27841,6 @@ https://roa.assaabloy.net	non-paying	Assa Abloy Americas	https://hackerone.com/a
 https://roa.medeco.com	non-paying	Assa Abloy Americas	https://hackerone.com/assa_abloy_americas
 https://rsenablers.live.web.corebridgefinancial.com/valic/nonparticipant/auth/public/login?appname=pso#/	non-paying	Corebridge Financial	https://hackerone.com/corebridge_financial
 https://rts.caci.com	non-paying	DIB-VDP	https://hackerone.com/dib-vdp
-https://s3-us-west-2.amazonaws.com/rubygems-dumps	out-of-scope	RubyGems	https://hackerone.com/rubygems
 https://saba-centroamerica.com	non-paying	Essity	https://hackerone.com/essity
 https://saba.com.mx	non-paying	Essity	https://hackerone.com/essity
 https://safari-extensions.apple.com/details/?id=com.bitwarden.safari-LTZ2PFU5D6	non-paying	Bitwarden	https://hackerone.com/bitwarden
@@ -27934,10 +27939,6 @@ https://support.centurum.com	non-paying	DIB-VDP	https://hackerone.com/dib-vdp
 https://support.pagerduty.com/docs/advanced-permissions	out-of-scope	PagerDuty	https://hackerone.com/pagerduty
 https://support.thorntontomasetti.com/	non-paying	MOD Supply Chain VDP	https://hackerone.com/mod_supply_chain_vdp
 https://survey.ectosense.com/assessment/home	non-paying	ResMed	https://hackerone.com/resmed
-https://svn.filezilla-project.org/svn/FileZilla3/trunk/	paying	FileZilla	https://hackerone.com/filezilla
-https://svn.filezilla-project.org/svn/filezilla3/trunk/src/storj/	out-of-scope	FileZilla	https://hackerone.com/filezilla
-https://svn.filezilla-project.org/svn/libfilezilla/trunk	paying	FileZilla	https://hackerone.com/filezilla
-https://svn.filezilla-project.org/svn/libfilezilla/trunk/	paying	FileZilla	https://hackerone.com/filezilla
 https://sys.express.53.com	non-paying	Fifth Third Bank VDP	https://hackerone.com/fifth_third_bank_vdp
 https://talent.lowes.com/	non-paying	Lowe's Companies VDP	https://hackerone.com/lowes
 https://talxsso.caci.com	non-paying	DIB-VDP	https://hackerone.com/dib-vdp
@@ -28639,6 +28640,7 @@ hudsonsbay.wgiftcard.com	non-paying	Fiserv	https://hackerone.com/fiserv
 hukitchen.com	non-paying	Mondelēz International	https://hackerone.com/mondelez
 hull.ca.essd.northgrum.com	non-paying	DIB-VDP	https://hackerone.com/dib-vdp
 humancapital.aon.com	non-paying	Aon	https://hackerone.com/aon
+humantoken.unico.app	paying	Unico IDtech	https://hackerone.com/unico_idtech
 hungrygowhere.com	paying	Grab	https://hackerone.com/grab
 huntington.fdecs.com	non-paying	Fiserv	https://hackerone.com/fiserv
 huntingtonbank.fdecs.com	non-paying	Fiserv	https://hackerone.com/fiserv
@@ -36693,7 +36695,9 @@ pubeasy-us.com	non-paying	Clarivate	https://hackerone.com/clarivate
 pubeasy.biz	non-paying	Clarivate	https://hackerone.com/clarivate
 pubeasy.com	non-paying	Clarivate	https://hackerone.com/clarivate
 pubeasyschool.com	non-paying	Clarivate	https://hackerone.com/clarivate
+public-testnet.bitmex.com	out-of-scope	BitMEX	https://hackerone.com/bitmex
 public-web-swarm-cluster.hmxservices.com	out-of-scope	Epic Games	https://hackerone.com/epicgames
+public.bitmex.com	out-of-scope	BitMEX	https://hackerone.com/bitmex
 public.esailcloud.com	non-paying	DIB-VDP	https://hackerone.com/dib-vdp
 public.hyatt.com	paying	Hyatt Hotels	https://hackerone.com/hyatt
 publicpriorart.com	non-paying	Clarivate	https://hackerone.com/clarivate
@@ -37493,6 +37497,7 @@ research-africa.net	non-paying	Clarivate	https://hackerone.com/clarivate
 research-fortnight.com	non-paying	Clarivate	https://hackerone.com/clarivate
 research-impact.com	non-paying	Clarivate	https://hackerone.com/clarivate
 research-ltd.com	non-paying	Clarivate	https://hackerone.com/clarivate
+research.bitmex.com	out-of-scope	BitMEX	https://hackerone.com/bitmex
 research.cbre.co.th	non-paying	CBRE	https://hackerone.com/cbre
 research.finance	non-paying	Clarivate	https://hackerone.com/clarivate
 research.gs.com	paying	Goldman Sachs	https://hackerone.com/goldmansachs
@@ -37877,7 +37882,6 @@ ruby-dev.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-la
 ruby-qa.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 ruby.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 rubygems.nextcapital.com	out-of-scope	Goldman Sachs	https://hackerone.com/goldmansachs
-rubygems.org	non-paying	RubyGems	https://hackerone.com/rubygems
 rubyhouse.cbresi.com.au	non-paying	CBRE	https://hackerone.com/cbre
 ruffles.com	non-paying	PepsiCo VDP	https://hackerone.com/pepsico_vdp
 rugby.cbre.co.uk	non-paying	CBRE	https://hackerone.com/cbre
@@ -38627,7 +38631,6 @@ shield.deere.com	non-paying	John Deere	https://hackerone.com/john-deere
 shinhan.fdecs.com	non-paying	Fiserv	https://hackerone.com/fiserv
 shinhancat.fdecs.com	non-paying	Fiserv	https://hackerone.com/fiserv
 shining-blue.com	non-paying	Clarivate	https://hackerone.com/clarivate
-shipit.rubygems.org	non-paying	RubyGems	https://hackerone.com/rubygems
 shoestation.gift.solutions	non-paying	Fiserv	https://hackerone.com/fiserv
 shop-cert.deere.com	non-paying	John Deere	https://hackerone.com/john-deere
 shop-id.tokopedia.com	paying	TikTok	https://hackerone.com/tiktok
@@ -39782,7 +39785,6 @@ stats.gleague.nba.com	paying	NBA Public Bug Bounty	https://hackerone.com/nba-pub
 stats.labs.apnic.net	non-paying	APNIC	https://hackerone.com/apnic
 stats.nba.com	paying	NBA Public Bug Bounty	https://hackerone.com/nba-public
 stats.nextcloud.com	non-paying	Nextcloud	https://hackerone.com/nextcloud
-stats.rubygems.org	out-of-scope	RubyGems	https://hackerone.com/rubygems
 stats.wnba.com	paying	NBA Public Bug Bounty	https://hackerone.com/nba-public
 statsreport-dev.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 statsreport-qa.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -39791,6 +39793,7 @@ statsreport.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 status.*.coinbase.com	out-of-scope	Coinbase	https://hackerone.com/coinbase
 status.agrisync.com	non-paying	John Deere	https://hackerone.com/john-deere
 status.ayoba.me	non-paying	MTN Group	https://hackerone.com/mtn_group
+status.bitmex.com	out-of-scope	BitMEX	https://hackerone.com/bitmex
 status.bitstamp.net	out-of-scope	Robinhood Markets	https://hackerone.com/robinhood_markets
 status.bitstamp.net	out-of-scope	Robinhood Markets Bounty	https://hackerone.com/robinhood
 status.chaturbate.com	out-of-scope	Chaturbate	https://hackerone.com/chaturbate
@@ -39807,7 +39810,6 @@ status.larksuite.com	paying	Lark Technologies	https://hackerone.com/lark_technol
 status.livestream.com	out-of-scope	Vimeo	https://hackerone.com/vimeo
 status.nebius.com	non-paying	Nebius AI Vulnerability Disclosure	https://hackerone.com/nebius_ai_vdp
 status.oasis.io	paying	Oasis Protocol Foundation	https://hackerone.com/oasisprotocol
-status.rubygems.org	out-of-scope	RubyGems	https://hackerone.com/rubygems
 status.segment.com	out-of-scope	Twilio	https://hackerone.com/twilio
 status.sendgrid.com	out-of-scope	Twilio	https://hackerone.com/twilio
 status.sierrawireless.com	non-paying	Semtech	https://hackerone.com/semtech
@@ -40081,6 +40083,7 @@ support.8x8.com	out-of-scope	8x8	https://hackerone.com/8x8-bounty
 support.airtable.com	out-of-scope	Airtable	https://hackerone.com/airtable
 support.anthropic.com	paying	Anthropic	https://hackerone.com/anthropic
 support.barracudafx.com	non-paying	ION Group	https://hackerone.com/ion
+support.bitmex.com	out-of-scope	BitMEX	https://hackerone.com/bitmex
 support.bluerivertech.com	non-paying	John Deere	https://hackerone.com/john-deere
 support.bluerivertechnology.com	non-paying	John Deere	https://hackerone.com/john-deere
 support.bose.xx	non-paying	Bose (VDP)	https://hackerone.com/bose_vdp
@@ -40122,7 +40125,6 @@ support.nutanix.com	non-paying	Nutanix	https://hackerone.com/nutanix
 support.phonepe.com	non-paying	PhonePe	https://hackerone.com/phonepe_vdp
 support.rockstargames.com	paying	Rockstar Games	https://hackerone.com/rockstargames
 support.romonet.com	non-paying	CBRE	https://hackerone.com/cbre
-support.rubygems.org	out-of-scope	RubyGems	https://hackerone.com/rubygems
 support.sendgrid.com	out-of-scope	Twilio	https://hackerone.com/twilio
 support.sentera.com	non-paying	John Deere	https://hackerone.com/john-deere
 support.senterasensors.com	non-paying	John Deere	https://hackerone.com/john-deere
@@ -40724,6 +40726,7 @@ testmyapps-secure.gslb.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 testmyapps.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 testmyapps.gslb.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 testmyemail.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
+testnet.bitmex.com	paying	BitMEX	https://hackerone.com/bitmex
 testolb.greenwoodcu.org	non-paying	Fiserv	https://hackerone.com/fiserv
 testolpss.fiservclients.com	non-paying	Fiserv	https://hackerone.com/fiserv
 testonboardclient.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -42379,7 +42382,6 @@ upspower.ca	non-paying	CBRE	https://hackerone.com/cbre
 upstatetelcofcu-admin.originate.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 upstatetelcofcu.cert.fec-dc.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 upstatetelcofcu.originate.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
-uptime.rubygems.org	out-of-scope	RubyGems	https://hackerone.com/rubygems
 urd.cbre.nl	non-paying	CBRE	https://hackerone.com/cbre
 url-checker.indrive.com	paying	inDrive	https://hackerone.com/indrive
 url5145.krisp.ai	out-of-scope	Krisp	https://hackerone.com/krisp
@@ -44144,6 +44146,7 @@ www.bhp.myvirtualsuper.com	non-paying	John Deere	https://hackerone.com/john-deer
 www.bi.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 www.bifm.com	non-paying	CBRE	https://hackerone.com/cbre
 www.bitiba.de	out-of-scope	Zooplus	https://hackerone.com/zooplus
+www.bitmex.com	paying	BitMEX	https://hackerone.com/bitmex
 www.bitmoji.com	paying	Snapchat	https://hackerone.com/snapchat
 www.bitstamp.net	non-paying	Robinhood Markets	https://hackerone.com/robinhood_markets
 www.bitstamp.net	paying	Robinhood Markets Bounty	https://hackerone.com/robinhood

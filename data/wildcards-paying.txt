@@ -153,6 +153,7 @@ bitgo.com
 bitkan.com
 bitkub.com
 bitmart.com
+bitmex.com
 bitrue.com
 bittrex.com
 blinkforhome.com
@@ -452,6 +453,7 @@ hicloudcam.com
 highwebmedia.com
 hikops.com
 hilton.com
+hilton.com.cn
 hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
@@ -608,6 +610,7 @@ marionnaud.sk
 mas.mobilevikings.be
 massimodutti.cn
 massimodutti.com
+maxbet.ro
 mclead.com.au
 mediatonic.co.uk
 megatix.be
@@ -1029,7 +1032,6 @@ tomorrowland.com
 ton.diamonds
 tools.thefork.tech
 toolsforhumanity.com
-topperpay.com
 tospotify.com
 tothemoon.com
 tr.ee
@@ -1070,7 +1072,6 @@ unisys.com
 unrealengine.com
 unrealtournament.com
 unscreen.com
-uphold.com
 uscc.com
 uscc.net
 uscellular.com

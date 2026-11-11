@@ -126,7 +126,6 @@ https://api-dev.finnair.com/d
 https://api-graphql-lambda.prod.zoopla.co.uk/graphql
 https://api-hr-zag-1.exoscale.com/v2
 https://api-preprod.finnair.com/d
-https://api-sandbox.uphold.com/graphql
 https://api.0x.org/gasless
 https://api.0x.org/swap
 https://api.6sense.com/docs
@@ -138,12 +137,6 @@ https://api.cbre.com:443/t/digitaltech_us_edp/vantageanalytics/gcp/prod/v1/entit
 https://api.cbre.com:443/token
 https://api.drogas.lt/api/v2/api-docs
 https://api.drogas.lv/api/v2/api-docs
-https://api.enterprise.sandbox.uphold.com/core
-https://api.enterprise.sandbox.uphold.com/kyc-connector
-https://api.enterprise.sandbox.uphold.com/market-pulse
-https://api.enterprise.sandbox.uphold.com/topper
-https://api.enterprise.sandbox.uphold.com/trading
-https://api.enterprise.sandbox.uphold.com/widgets
 https://api.essity.com/identifi/logger/v1
 https://api.essity.com/tvd/ble-device-install
 https://api.essity.com/tvd/sales-guide
@@ -424,6 +417,7 @@ https://docs.bitvavo.com/docs/websocket-api
 https://docs.citrix.com/en-us/citrix-application-delivery-management-service/getting-started.html
 https://docs.citrix.com/en-us/citrix-application-delivery-management-service/overview.html
 https://docs.databricks.com/aws/en/getting-started/free-edition
+https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit
 https://docs.gusto.com/embedded-payroll/docs
 https://docs.keeper.io/en/keeperpam
 https://docs.keeper.io/en/keeperpam/commander-cli/overview
@@ -688,7 +682,6 @@ https://ferrerorocherpromo.ro/ro/ro/xp/cadoul-mai-presus-de-cuvinte
 https://ferrerorocherpromo.ro/ro/ro/xp/clipa-de-aur
 https://ferrerorocherpromo.ro/ro/ro/xp/lumineaza-clipele-speciale-inscriere
 https://figma.slack.com/apps/A01N2QYSA81-figma-and-figjam
-https://filezilla-project.org/download.php
 https://findyourmatch25.strategie.agency/be/fr/xp/findyourmatch
 https://fivetran.com/login
 https://fn-commerce-live.eeef.live.use1a.on.epicgames.com/api/fn-commerce
@@ -697,7 +690,6 @@ https://fngw-svc-gc-livefn.ol.epicgames.net/api/magpie
 https://forestry.deere.com/dealers/salesreport
 https://forms.universalservice.org/portal/login
 https://front.com/download
-https://fzssh.filezilla-project.org/download.php
 https://gateway.optus.com.au/api/ai-search/search/v1
 https://gatewaydsapprd.marriott.com/v1
 https://gatewaydsapprd.marriott.com/v2
@@ -712,7 +704,6 @@ https://gist.github.com/RedBullSecurity/3eb88debcb01759eccf65ec2b799b340
 https://gitlab.torproject.org/tpo/applications/tor-browser
 https://goldenexperience.ferrero-campaigns.com/bg/bg/xp/goldenexperience
 https://gotit.net.au/dosage-calculations
-https://graphql.sandbox.topperpay.com/graphql
 https://hackerone.com/mcp
 https://help.formassembly.com/help/formassembly-mobile-app-for-ios
 https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/client.htm
@@ -1094,8 +1085,6 @@ https://support.higherlogic.com/hc/en-us/articles/12907719279380-Security-relate
 https://support.vectra.ai/s/article/KB-VS-1049
 https://support.virtru.com/hc/en-us/articles/1500010860821
 https://survey.ectosense.com/assessment/home
-https://svn.filezilla-project.org/svn/FileZilla3/trunk
-https://svn.filezilla-project.org/svn/libfilezilla/trunk
 https://t.me/AlfredTradesBot
 https://t.me/tapps
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/package
@@ -1120,6 +1109,7 @@ https://test-jours-a-croquer.ferrero.fr/status/_id/uid
 https://test.odswiezlatomuzyka.com/pl/pl/xp/odswiezlatomuzyka2026
 https://test.odswiezlatomuzyka.com/pl/pl/xp/odswiezlatomuzyka2026/admin_p3n1lkm541
 https://test.promo.dev/68822c932c72eeee76053246
+https://testnet.bitmex.com/app/apiOverview
 https://testnet.bybit.com/en/earn/rwa
 https://testnet.bybit.com/en/trade/odds
 https://testnet.bybit.com/en/trade/option/usdt/spcx

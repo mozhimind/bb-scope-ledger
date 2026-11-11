@@ -290,6 +290,7 @@ api.gx.games
 api.gx.me
 api.hackerone.com
 api.hibachi.xyz
+api.humantoken.unico.app
 api.ibops.net
 api.ibotta.com
 api.iciparisxl.be
@@ -1319,6 +1320,7 @@ dashboard.privy.io
 dashboard.rapyd.net
 dashboard.razorpay.com
 dashboard.stripe.com
+dashboard.unico.app
 data-api.coindesk.com
 data-api.hibachi.xyz
 data-test.nba.com
@@ -1409,6 +1411,7 @@ developer.plus.authorize.net
 developer.posti.com
 developer.spotify.com
 developer.swapcard.com
+developer.unico.io
 developer.valvesoftware.com
 developer.visa.com
 developer.wordpress.org
@@ -1888,6 +1891,7 @@ hub.zetachain.com
 hubacc.vznkul.be
 huddle.nba.com
 hug.personio.com
+humantoken.unico.app
 iam.atg.se
 iam.twilio.com
 iat.it.xvservice.net
@@ -3530,6 +3534,7 @@ testapi.redoxengine.com
 testapp.redoxengine.com
 testbank.xs2a.com
 testnet-blockexplorer.electroneum.com
+testnet.bitmex.com
 testnet.bybit.com
 testnet.bybit.eu
 testnet.nado.xyz
@@ -3936,6 +3941,7 @@ www.bitkubnext.io
 www.bitkubnft.com
 www.bitkubnft.io
 www.bitkubventures.com
+www.bitmex.com
 www.bitmoji.com
 www.bitpanda.com
 www.bitstamp.net

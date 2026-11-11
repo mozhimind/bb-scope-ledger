@@ -566,6 +566,7 @@ arkadiyt-hackerone	free-text	All API's called by the AWS CLI
 arkadiyt-hackerone	free-text	All Apps published by Daimler Truck AG
 arkadiyt-hackerone	free-text	All Assets (other than Blinkit)
 arkadiyt-hackerone	free-text	All Docusign apps and assets not listed below as Out of Scope
+arkadiyt-hackerone	free-text	All Other BitMEX Assets
 arkadiyt-hackerone	free-text	All internet-facing Aon assets are in scope
 arkadiyt-hackerone	free-text	All other applications (web sites, web applications, web services, and mobile applications) owned by Merck & Co., Inc., Rahway, NJ, USA
 arkadiyt-hackerone	free-text	Amazon AI Operations
@@ -960,7 +961,6 @@ arkadiyt-hackerone	free-text	Magic Firewall
 arkadiyt-hackerone	free-text	Magic Transit
 arkadiyt-hackerone	free-text	Magic WAN
 arkadiyt-hackerone	free-text	Main corporate site
-arkadiyt-hackerone	free-text	Malicious or compromised gem
 arkadiyt-hackerone	free-text	Managed OpenClaw
 arkadiyt-hackerone	free-text	Managed Property Assets
 arkadiyt-hackerone	free-text	MariaDB Server & Connectors  - Denial of Service
@@ -1695,8 +1695,6 @@ arkadiyt-intigriti	free-text	app:Superdrug Android
 arkadiyt-intigriti	free-text	app:Superdrug iOS
 arkadiyt-intigriti	free-text	app:The Perfume Shop Android
 arkadiyt-intigriti	free-text	app:The Perfume Shop iOS
-arkadiyt-intigriti	free-text	app:Uphold: Buy BTC, ETH and 300+
-arkadiyt-intigriti	free-text	app:Uphold: Buy BTC, ETH and 360+
 arkadiyt-intigriti	free-text	app:Watsons Hong Kong Android
 arkadiyt-intigriti	free-text	app:Watsons Hong Kong iOS
 arkadiyt-intigriti	free-text	app:Watsons Indonesia Android
@@ -3662,6 +3660,7 @@ hackerone-direct	free-text	All API's called by the AWS CLI
 hackerone-direct	free-text	All Apps published by Daimler Truck AG
 hackerone-direct	free-text	All Assets (other than Blinkit)
 hackerone-direct	free-text	All Docusign apps and assets not listed below as Out of Scope
+hackerone-direct	free-text	All Other BitMEX Assets
 hackerone-direct	free-text	All internet-facing Aon assets are in scope
 hackerone-direct	free-text	All other applications (web sites, web applications, web services, and mobile applications) owned by Merck & Co., Inc., Rahway, NJ, USA
 hackerone-direct	free-text	Amazon AI Operations
@@ -4056,7 +4055,6 @@ hackerone-direct	free-text	Magic Firewall
 hackerone-direct	free-text	Magic Transit
 hackerone-direct	free-text	Magic WAN
 hackerone-direct	free-text	Main corporate site
-hackerone-direct	free-text	Malicious or compromised gem
 hackerone-direct	free-text	Managed OpenClaw
 hackerone-direct	free-text	Managed Property Assets
 hackerone-direct	free-text	MariaDB Server & Connectors - Access control bypass

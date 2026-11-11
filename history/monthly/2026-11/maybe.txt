@@ -627,6 +627,7 @@ template.uat.foodstorm.com
 tequila-api.kiwi.com
 tescomobile.com
 test.secure.touchnet.net
+testnet.bitmex.com
 todentaminen.posti.fi
 tools.cards
 trac.wordpress.org
@@ -669,6 +670,7 @@ www.advisoryworld.com
 www.aig
 www.apollo.io
 www.bill.com
+www.bitmex.com
 www.bitstamp.net
 www.bridge.xyz
 www.canadapost-postescanada.ca

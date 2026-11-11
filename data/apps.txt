@@ -1473,7 +1473,7 @@ https://marketplace.atlassian.com/apps/1211923/k-sso-saml-sso-oauth-kerberos-use
 https://marketplace.atlassian.com/apps/1211976/gauge-gadget
 https://marketplace.atlassian.com/apps/1212012/discussion-for-confluence
 https://marketplace.atlassian.com/apps/1212035/edit-custom-field-values
-https://marketplace.atlassian.com/apps/1212078/easy-agile-user-story-maps-for-jira
+https://marketplace.atlassian.com/apps/1212078/easy-agile-teamrhythm-story-map-insights-retrospectives
 https://marketplace.atlassian.com/apps/1212096/customfield-editor-for-jira
 https://marketplace.atlassian.com/apps/1212120/agile-reports-and-gadgets
 https://marketplace.atlassian.com/apps/1212124/spectrum-formatting-macros
@@ -1635,7 +1635,7 @@ https://marketplace.atlassian.com/apps/1219401/users-sync-groups-sync-bitbucket
 https://marketplace.atlassian.com/apps/1219429/status-progress-report-structure-jira-dashboard-gadget
 https://marketplace.atlassian.com/apps/1219476/comment-custom-fields-for-jira
 https://marketplace.atlassian.com/apps/1219487/simple-timesheet-worklog-dashboard-gadget-for-jira
-https://marketplace.atlassian.com/apps/1219491/easy-agile-programs-for-jira
+https://marketplace.atlassian.com/apps/1219491/easy-agile-programs-pi-planning-program-board-dependencies
 https://marketplace.atlassian.com/apps/1219504/eazybi-reports-and-charts-for-confluence
 https://marketplace.atlassian.com/apps/1219514/merge-agent-for-jira
 https://marketplace.atlassian.com/apps/1219518/confluence-cloud-for-slack-official
@@ -1693,7 +1693,6 @@ https://marketplace.atlassian.com/apps/1221271/easy-heading-macro-floating-table
 https://marketplace.atlassian.com/apps/1221301/jira-cloud-for-excel-official
 https://marketplace.atlassian.com/apps/1221312/opsgenie-incident-timeline-eu
 https://marketplace.atlassian.com/apps/1221322/refined-for-confluence-cloud
-https://marketplace.atlassian.com/apps/1221392/easy-agile-personas-for-jira
 https://marketplace.atlassian.com/apps/1221399/security-for-bitbucket-enhanced-secret-scanner-by-soteri
 https://marketplace.atlassian.com/apps/1221462/time-between-statuses
 https://marketplace.atlassian.com/apps/1221519/roadmap-portal-for-jira-service-desk
@@ -2036,7 +2035,6 @@ https://marketplace.atlassian.com/apps/2974674253/assets-analytics-custom-dashbo
 https://marketplace.atlassian.com/apps/3076252818/gliffy-zero-egress-compliance-ready-diagramming
 https://marketplace.atlassian.com/apps/31399/jql-tricks-plugin
 https://marketplace.atlassian.com/apps/3402280988/laya-board
-https://marketplace.atlassian.com/apps/3443905353
 https://marketplace.atlassian.com/apps/3684126567/laya-workflowos-ai-automation-for-jira
 https://marketplace.atlassian.com/apps/3709319691/monte-carlo-simulations-for-scrum-kanban-agile-gadgets
 https://marketplace.atlassian.com/apps/3747688267/simple-gantt-roadmap-timeline-dashboard-gadget-for-jira

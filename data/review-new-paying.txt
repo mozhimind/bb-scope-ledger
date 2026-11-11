@@ -1,91 +1,20 @@
 bounty	assets	host	sources	programs	program_urls	raw_entries
-paying	apex	lightspark.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail	api.lightspark.com; app.lightspark.com (+2 more)
-paying	apex	optimuscards.com	arkadiyt-domains,arkadiyt-intigriti,arkadiyt-wildcard	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	*.optimuscards.com; docs.optimuscards.com (+2 more)
-paying	apex	shop.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	Shopify	https://hackerone.com/shopify	
-paying	apex	shopifysvc.com	arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct	Shopify	https://hackerone.com/shopify	*.shopifysvc.com
-paying	apex	striga.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail	9b10d44d-1499-4a2f-86bc-fda178acdfdc.striga.com; hooks.striga.com (+5 more)
-paying	apex	topperpay.com	arkadiyt-domains,arkadiyt-intigriti,arkadiyt-wildcard	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	*.topperpay.com; api.sandbox.topperpay.com (+4 more)
-paying	apex	uma.me	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail	https://link.uma.me; link.uma.me
-paying	apex	uma.money	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail	app.uma.money; https://app.uma.money
-paying	apex	veriff.me	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail	api.us.veriff.me; api.veriff.me (+3 more)
-paying	apis	api-sandbox.uphold.com	arkadiyt-domains,arkadiyt-intigriti	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	
-paying	apis	api.flamingo-eu.veriff.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail	
-paying	apis	api.lightspark.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail	https://api.lightspark.com
-paying	apis	api.portal.enterprise.uphold.com	arkadiyt-intigriti	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	
-paying	apis	api.sandbox.topperpay.com	arkadiyt-domains,arkadiyt-intigriti	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	
-paying	apis	api.us.veriff.me	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail	
-paying	apis	api.veriff.me	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail	
-paying	apis	https://api-sandbox.uphold.com/graphql	arkadiyt-intigriti	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	api-sandbox.uphold.com/graphql
-paying	apis	https://api.enterprise.sandbox.uphold.com/core	arkadiyt-intigriti	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	
-paying	apis	https://api.enterprise.sandbox.uphold.com/kyc-connector	arkadiyt-intigriti	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	
-paying	apis	https://api.enterprise.sandbox.uphold.com/market-pulse	arkadiyt-intigriti	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	
-paying	apis	https://api.enterprise.sandbox.uphold.com/topper	arkadiyt-intigriti	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	
-paying	apis	https://api.enterprise.sandbox.uphold.com/trading	arkadiyt-intigriti	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	
-paying	apis	https://api.enterprise.sandbox.uphold.com/widgets	arkadiyt-intigriti	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	
-paying	apis	https://graphql.sandbox.topperpay.com/graphql	arkadiyt-intigriti	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	graphql.sandbox.topperpay.com/graphql
-paying	apis	https://sandbox.striga.com/api/v0	arkadiyt-intigriti,intigriti-direct	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail	
-paying	apis	https://sandbox.striga.com/api/v1	arkadiyt-intigriti,intigriti-direct	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail	
-paying	apis	https://www.sandbox.striga.com/api/v1	arkadiyt-intigriti,intigriti-direct	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail	https://www.sandbox.striga.com/api/v1/
-paying	apis	stationapi.veriff.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail	
-paying	apps	1467907532	arkadiyt-intigriti,intigriti-direct	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail	app:1467907532
-paying	apps	com.veriff.demo	arkadiyt-intigriti,intigriti-direct	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail	app:com.veriff.demo
-paying	github	https://github.com/buildonspark/spark	arkadiyt-intigriti,intigriti-direct	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail	
-paying	github	https://github.com/sky-ecosystem/value-registry	immunefi-direct	Sky		https://github.com/sky-ecosystem/value-registry/blob/main/src/ValueRegistry.sol
-paying	github	https://github.com/uphold	arkadiyt-intigriti	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	github.com/uphold/*
-paying	maybe	shop.app	hackerone-direct	Shopify	https://hackerone.com/shopify	guess:shop.app
-paying	maybe	shop.com	hackerone-direct	Shopify	https://hackerone.com/shopify	guess:shop.com
-paying	subdomains	9b10d44d-1499-4a2f-86bc-fda178acdfdc.striga.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail	https://9b10d44d-1499-4a2f-86bc-fda178acdfdc.striga.com/
-paying	subdomains	alchemy.veriff.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail	
-paying	subdomains	api-sandbox.uphold.com	arkadiyt-domains,arkadiyt-intigriti	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	
-paying	subdomains	api.flamingo-eu.veriff.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail	
-paying	subdomains	api.lightspark.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail	https://api.lightspark.com
-paying	subdomains	api.portal.enterprise.uphold.com	arkadiyt-intigriti	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	
-paying	subdomains	api.sandbox.topperpay.com	arkadiyt-domains,arkadiyt-intigriti	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	
-paying	subdomains	api.us.veriff.me	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail	
-paying	subdomains	api.veriff.me	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail	
-paying	subdomains	app.lightspark.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail	https://app.lightspark.com
-paying	subdomains	app.sandbox.topperpay.com	arkadiyt-domains,arkadiyt-intigriti	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	
-paying	subdomains	app.uma.money	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail	https://app.uma.money
-paying	subdomains	developers.veriff.me	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail	
-paying	subdomains	docs.topperpay.com	arkadiyt-domains,arkadiyt-intigriti	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	
-paying	subdomains	docs.uphold.com	arkadiyt-domains,arkadiyt-intigriti	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	
-paying	subdomains	help.shop.app	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	Shopify	https://hackerone.com/shopify	
-paying	subdomains	link.uma.me	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail	https://link.uma.me
-paying	subdomains	louvre.veriff.me	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail	
-paying	subdomains	magic.veriff.me	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail	
-paying	subdomains	portal.enterprise.uphold.com	arkadiyt-domains,arkadiyt-intigriti	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	
-paying	subdomains	sandbox.striga.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail	
-paying	subdomains	station.veriff.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail	
-paying	subdomains	stationapi.veriff.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail	
-paying	subdomains	tfr-sandbox.striga.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail	https://tfr-sandbox.striga.com/
-paying	subdomains	uatcms.optimuscards.com	arkadiyt-domains,arkadiyt-intigriti	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	
-paying	subdomains	wallet-sandbox.uphold.com	arkadiyt-domains,arkadiyt-intigriti	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	
-paying	subdomains	www.topperpay.com	arkadiyt-domains,arkadiyt-intigriti	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	
-paying	subdomains	www.uphold.com	arkadiyt-domains,arkadiyt-intigriti	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	
-paying	subdomains	www.veriff.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail	
-paying	urls	https://api-sandbox.uphold.com/graphql	arkadiyt-intigriti	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	api-sandbox.uphold.com/graphql
-paying	urls	https://api.enterprise.sandbox.uphold.com/core	arkadiyt-intigriti	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	
-paying	urls	https://api.enterprise.sandbox.uphold.com/kyc-connector	arkadiyt-intigriti	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	
-paying	urls	https://api.enterprise.sandbox.uphold.com/market-pulse	arkadiyt-intigriti	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	
-paying	urls	https://api.enterprise.sandbox.uphold.com/topper	arkadiyt-intigriti	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	
-paying	urls	https://api.enterprise.sandbox.uphold.com/trading	arkadiyt-intigriti	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	
-paying	urls	https://api.enterprise.sandbox.uphold.com/widgets	arkadiyt-intigriti	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	
-paying	urls	https://graphql.sandbox.topperpay.com/graphql	arkadiyt-intigriti	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	graphql.sandbox.topperpay.com/graphql
-paying	urls	https://hooks.striga.com/core	arkadiyt-intigriti,intigriti-direct	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail	https://hooks.striga.com/core/
-paying	urls	https://sandbox.striga.com/api/v0	arkadiyt-intigriti,intigriti-direct	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail	
-paying	urls	https://sandbox.striga.com/api/v1	arkadiyt-intigriti,intigriti-direct	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail	
-paying	urls	https://sandbox.striga.com/backoffice	arkadiyt-intigriti,intigriti-direct	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail	
-paying	urls	https://www.sandbox.striga.com/api/v1	arkadiyt-intigriti,intigriti-direct	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail	https://www.sandbox.striga.com/api/v1/
-paying	urls	https://www.vault.striga.eu/web/sandbox	arkadiyt-intigriti,intigriti-direct	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail	https://www.vault.striga.eu/web/sandbox/
-paying	wildcards	shopifysvc.com	arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct	Shopify	https://hackerone.com/shopify	*.shopifysvc.com
-paying	wildcards	topperpay.com	arkadiyt-intigriti,arkadiyt-wildcard	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	*.topperpay.com
-paying	wildcards	uphold.com	arkadiyt-intigriti,arkadiyt-wildcard	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	*.uphold.com
-paying	wildcards	veriff.com	arkadiyt-intigriti,arkadiyt-wildcard,intigriti-direct	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail	*.veriff.com
-unknown	apex	striga.eu	arkadiyt-domains			www.vault.striga.eu
-unknown	apis	api.enterprise.sandbox.uphold.com	arkadiyt-domains			
-unknown	apis	graphql.sandbox.topperpay.com	arkadiyt-domains			
-unknown	subdomains	api.enterprise.sandbox.uphold.com	arkadiyt-domains			
-unknown	subdomains	graphql.sandbox.topperpay.com	arkadiyt-domains			
-unknown	subdomains	hooks.striga.com	arkadiyt-domains			
-unknown	subdomains	www.sandbox.striga.com	arkadiyt-domains			
-unknown	subdomains	www.vault.striga.eu	arkadiyt-domains			
+paying	apex	hilton.com.cn	arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct	Hilton	https://hackerone.com/hilton	*.hilton.com.cn
+paying	apex	maple.finance	immunefi-direct	Maple		
+paying	apex	maxbet.ro	arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct	Superbet	https://hackerone.com/superbet	*.maxbet.ro
+paying	apis	api.humantoken.unico.app	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	Unico IDtech	https://hackerone.com/unico_idtech	
+paying	apps	https://marketplace.atlassian.com/apps/1212078/easy-agile-teamrhythm-story-map-insights-retrospectives	arkadiyt-bugcrowd,bugcrowd-direct	Easy Agile	https://bugcrowd.com/engagements/easyagile	https://marketplace.atlassian.com/apps/1212078/easy-agile-teamrhythm-story-map-insights-retrospectives?hosting=cloud&tab
+paying	apps	https://marketplace.atlassian.com/apps/1219491/easy-agile-programs-pi-planning-program-board-dependencies	arkadiyt-bugcrowd,bugcrowd-direct	Easy Agile	https://bugcrowd.com/engagements/easyagile	https://marketplace.atlassian.com/apps/1219491/easy-agile-programs-pi-planning-program-board-dependencies?hosting=cloud&
+paying	maybe	testnet.bitmex.com	hackerone-direct	BitMEX	https://hackerone.com/bitmex	guess:testnet.bitmex.com
+paying	maybe	www.bitmex.com	hackerone-direct	BitMEX	https://hackerone.com/bitmex	guess:www.bitmex.com
+paying	subdomains	api.humantoken.unico.app	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	Unico IDtech	https://hackerone.com/unico_idtech	
+paying	subdomains	dashboard.unico.app	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	Unico IDtech	https://hackerone.com/unico_idtech	
+paying	subdomains	developer.unico.io	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	Unico IDtech	https://hackerone.com/unico_idtech	
+paying	subdomains	humantoken.unico.app	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	Unico IDtech	https://hackerone.com/unico_idtech	
+paying	subdomains	testnet.bitmex.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	BitMEX	https://hackerone.com/bitmex	
+paying	subdomains	www.bitmex.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	BitMEX	https://hackerone.com/bitmex	
+paying	urls	https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit	arkadiyt-intigriti,intigriti-direct	Dstny	https://app.intigriti.com/programs/dstny/dstnybugbounty/detail	https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1208823298#gid=1208823298; https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1281087877#gid=1281087877 (+2 more)
+paying	urls	https://testnet.bitmex.com/app/apiOverview	hackerone-direct	BitMEX	https://hackerone.com/bitmex	desc:https://testnet.bitmex.com/app/apiOverview
+paying	wildcards	bitmex.com	arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct	BitMEX	https://hackerone.com/bitmex	*.bitmex.com
+paying	wildcards	hilton.com.cn	arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct	Hilton	https://hackerone.com/hilton	*.hilton.com.cn
+paying	wildcards	maxbet.ro	arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct	Superbet	https://hackerone.com/superbet	*.maxbet.ro

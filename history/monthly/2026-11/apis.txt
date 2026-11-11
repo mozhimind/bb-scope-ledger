@@ -445,6 +445,7 @@ api.gyft.com
 api.hackerone.com
 api.hibachi.xyz
 api.host-building.com
+api.humantoken.unico.app
 api.ibops.net
 api.ibotta.com
 api.iciparisxl.be

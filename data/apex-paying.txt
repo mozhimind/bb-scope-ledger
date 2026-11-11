@@ -1388,6 +1388,7 @@ highwebmedia.com
 hike.in
 hikops.com
 hilton.com
+hilton.com.cn
 hilton.com.tr
 hilton.io
 hiltonbusinessonline.com
@@ -1869,6 +1870,7 @@ mantle.xyz
 mantlescan.xyz
 mapbox.com
 mapillary.com
+maple.finance
 marcus.co.uk
 marcus.com
 maria.casino
@@ -1909,6 +1911,7 @@ mathworks.com
 matomo.cloud
 matomo.org
 mattermost.com
+maxbet.ro
 maya.ph
 mayoclinic.org
 mb-cosmos.com
@@ -2328,7 +2331,6 @@ opsgenie.com
 optimism.io
 optimizely-edge.com
 optimizely.com
-optimuscards.com
 optus.com.au
 optus.net.au
 optusnet.com.au
@@ -3268,7 +3270,6 @@ tonscan.org
 toobit.com
 toolsforhumanity.com
 toom.de
-topperpay.com
 toppjirayut.com
 topx.one
 torfs.be
@@ -3462,7 +3463,6 @@ vartopia.info
 vaxvacationaccess.com
 vayama.com
 vechain.org
-veda.tech
 vendhq.com
 venly.io
 venmo.com

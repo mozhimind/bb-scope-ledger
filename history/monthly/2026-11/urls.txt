@@ -424,6 +424,7 @@ https://docs.bitvavo.com/docs/websocket-api
 https://docs.citrix.com/en-us/citrix-application-delivery-management-service/getting-started.html
 https://docs.citrix.com/en-us/citrix-application-delivery-management-service/overview.html
 https://docs.databricks.com/aws/en/getting-started/free-edition
+https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit
 https://docs.gusto.com/embedded-payroll/docs
 https://docs.keeper.io/en/keeperpam
 https://docs.keeper.io/en/keeperpam/commander-cli/overview
@@ -1120,6 +1121,7 @@ https://test-jours-a-croquer.ferrero.fr/status/_id/uid
 https://test.odswiezlatomuzyka.com/pl/pl/xp/odswiezlatomuzyka2026
 https://test.odswiezlatomuzyka.com/pl/pl/xp/odswiezlatomuzyka2026/admin_p3n1lkm541
 https://test.promo.dev/68822c932c72eeee76053246
+https://testnet.bitmex.com/app/apiOverview
 https://testnet.bybit.com/en/earn/rwa
 https://testnet.bybit.com/en/trade/odds
 https://testnet.bybit.com/en/trade/option/usdt/spcx

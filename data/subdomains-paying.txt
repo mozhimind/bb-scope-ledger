@@ -177,7 +177,6 @@ api-prod.thatconceptstore.com
 api-sandbox.circle.com
 api-sandbox.gocardless.com
 api-sandbox.idex.io
-api-sandbox.uphold.com
 api-secure.sports.yahoo.com
 api-staging.airtable.com
 api-test.nicehash.com
@@ -264,7 +263,6 @@ api.dyson.se
 api.dysoncanada.ca
 api.editeur.preprod.monespacesante.fr
 api.enc.kape.com
-api.enterprise.sandbox.uphold.com
 api.essity.com
 api.ethereum.shapeshift.com
 api.evernote.com
@@ -290,6 +288,7 @@ api.gx.games
 api.gx.me
 api.hackerone.com
 api.hibachi.xyz
+api.humantoken.unico.app
 api.ibops.net
 api.ibotta.com
 api.iciparisxl.be
@@ -364,7 +363,6 @@ api.pluralonline.com
 api.pluralpay.in
 api.pns.hk
 api.poloniex.com
-api.portal.enterprise.uphold.com
 api.portofantwerp.com
 api.portofantwerpbruges.com
 api.posti.fi
@@ -392,7 +390,6 @@ api.robinhood.com
 api.row.pro
 api.rx.originenergy.com.au
 api.ryadom.kz
-api.sandbox.topperpay.com
 api.savers.co.uk
 api.segment.io
 api.segmentapis.com
@@ -595,7 +592,6 @@ app.ripio.com
 app.routerprotocol.com
 app.safeswap.io
 app.saltlabs.com
-app.sandbox.topperpay.com
 app.savers.co.uk
 app.scaleft.com
 app.segment.com
@@ -1319,6 +1315,7 @@ dashboard.privy.io
 dashboard.rapyd.net
 dashboard.razorpay.com
 dashboard.stripe.com
+dashboard.unico.app
 data-api.coindesk.com
 data-api.hibachi.xyz
 data-test.nba.com
@@ -1391,7 +1388,6 @@ dev.stats.nba.com
 dev.stats.wnba.com
 dev.sweedpos.com
 dev.tutoring.classdojo.com
-devcenter.unico.io
 devedge.t-mobile.com
 developer-api.crypto.com
 developer-platform-api.crypto.com
@@ -1409,6 +1405,7 @@ developer.plus.authorize.net
 developer.posti.com
 developer.spotify.com
 developer.swapcard.com
+developer.unico.io
 developer.valvesoftware.com
 developer.visa.com
 developer.wordpress.org
@@ -1470,9 +1467,7 @@ docs.succinct.xyz
 docs.superhuman.com
 docs.sushi.com
 docs.tempus-ex.com
-docs.topperpay.com
 docs.tothemoon.com
-docs.uphold.com
 docsite.vistarmedia.com
 docuflow.stg.inspectorio.com
 download.krisp.ai
@@ -1817,7 +1812,6 @@ grandrapids-dev.gleague.nba.com
 grandrapids-qa.gleague.nba.com
 grandrapids.gleague.nba.com
 graphql.acorns.com
-graphql.sandbox.topperpay.com
 graphql.seek.com
 green.nba.com
 greenchannel.payoneer.com.cn
@@ -1888,6 +1882,7 @@ hub.zetachain.com
 hubacc.vznkul.be
 huddle.nba.com
 hug.personio.com
+humantoken.unico.app
 iam.atg.se
 iam.twilio.com
 iat.it.xvservice.net
@@ -2841,7 +2836,6 @@ portal.3cx.com
 portal.annuities.corebridgefinancial.com
 portal.anz.kinergysolutions.com
 portal.arkoselabs.com
-portal.enterprise.uphold.com
 portal.exoscale.com
 portal.ifoodpago.com.br
 portal.myconnect.com.au
@@ -3530,6 +3524,7 @@ testapi.redoxengine.com
 testapp.redoxengine.com
 testbank.xs2a.com
 testnet-blockexplorer.electroneum.com
+testnet.bitmex.com
 testnet.bybit.com
 testnet.bybit.eu
 testnet.nado.xyz
@@ -3628,7 +3623,6 @@ u.oppomobile.com
 uae.voxcinemas.com
 uat-bugbounty.nonprod.syfe.com
 uat.unico.app
-uatcms.optimuscards.com
 uber.marriott.com
 uc.8x8pilot.com
 ui-assets.cloud.databricks.com
@@ -3735,7 +3729,6 @@ vtxapp9q.underarmour.com
 vtxappd.underarmour.com
 vwcm.visa.com
 w1.uzleuven.be
-wallet-sandbox.uphold.com
 wallet.blofin.com
 wallet.cex.io
 wallet.oasis.io
@@ -3936,6 +3929,7 @@ www.bitkubnext.io
 www.bitkubnft.com
 www.bitkubnft.io
 www.bitkubventures.com
+www.bitmex.com
 www.bitmoji.com
 www.bitpanda.com
 www.bitstamp.net
@@ -4548,7 +4542,6 @@ www.tilalalghaf.com
 www.tink.com
 www.tomorrowland.com
 www.toobit.com
-www.topperpay.com
 www.torfs.be
 www.torfs.nl
 www.tork.co.uk
@@ -4593,7 +4586,6 @@ www.unibet.ro
 www.unibet.se
 www.universalorlandovacations.com
 www.unscreen.com
-www.uphold.com
 www.upwork.com
 www.urbanclap.com
 www.urbancompany.com

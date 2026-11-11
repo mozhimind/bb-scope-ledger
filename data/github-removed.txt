@@ -1,1 +1,2 @@
-https://github.com/berriai/litellm
+https://github.com/rubygems/rubygems
+https://github.com/uphold

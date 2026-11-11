@@ -1662,6 +1662,7 @@ api.gyft.com
 api.hackerone.com
 api.hibachi.xyz
 api.host-building.com
+api.humantoken.unico.app
 api.ibops.net
 api.ibotta.com
 api.iciparisxl.be
@@ -7370,6 +7371,7 @@ dashboard.razorpay.com
 dashboard.render.com
 dashboard.stripe.com
 dashboard.trammellcrow.com
+dashboard.unico.app
 dashboards-nonp.cbrehost.com
 dashboards.cbrehost.com
 dat.fmpilot2.com
@@ -8100,6 +8102,7 @@ developer.spotify.com
 developer.starlingbank.com
 developer.swapcard.com
 developer.truist.com
+developer.unico.io
 developer.valvesoftware.com
 developer.visa.com
 developer.wordpress.org
@@ -12674,6 +12677,7 @@ hull.ca.essd.northgrum.com
 humanacards-uat.hepsiian.com
 humanacards.hepsiian.com
 humancapital.aon.com
+humantoken.unico.app
 huntingdonvalleybank-admin.originate.fiservapps.com
 huntingdonvalleybank.originate.fiservapps.com
 huntington-corpoint.fiservapps.com
@@ -24738,6 +24742,7 @@ testmyapps.cbre.eu
 testmyapps.gslb.cbre.eu
 testmyemail.cbre.com
 testnet-blockexplorer.electroneum.com
+testnet.bitmex.com
 testnet.bybit.com
 testnet.bybit.eu
 testnet.nado.xyz
@@ -28133,6 +28138,7 @@ www.bitkubnext.io
 www.bitkubnft.com
 www.bitkubnft.io
 www.bitkubventures.com
+www.bitmex.com
 www.bitmoji.com
 www.bitpanda.com
 www.bitstamp.net

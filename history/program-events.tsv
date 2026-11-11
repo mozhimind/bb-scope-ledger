@@ -2,3 +2,7 @@ date	event	id	program	url	count	previous	note
 2026-11-11	grew	801ef6f86b	Uphold	https://app.intigriti.com/programs/Uphold/upholdcom/detail	25	1	values of this program doubled or more
 2026-11-11	appeared	15aafe25d2	Veriff Bug Bounty	https://app.intigriti.com/programs/veriff/veriffbugbounty/detail	14	0	listed by arkadiyt-intigriti,intigriti-direct
 2026-11-11	appeared	93284c70ad	Lightspark Public Bug Bounty	https://app.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail	24	0	listed by arkadiyt-intigriti,intigriti-direct
+2026-11-12	appeared	26b566b594	Dstny	https://app.intigriti.com/programs/dstny/dstnybugbounty/detail	1	0	listed by arkadiyt-intigriti,intigriti-direct
+2026-11-12	shrank	9ac8fc3a6c	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	1	25	values of this program fell to half or less: scope edit, or a page the parser no longer understands
+2026-11-12	appeared	fe1907341a	Maple		1	0	listed by immunefi-direct
+2026-11-12	left	562962b9d8	LiteLLM (VDP)	https://hackerone.com/litellm	0	1	last listed by arkadiyt-hackerone,hackerone-direct; every one of them answered, so it was really dropped (made private, paused or closed)

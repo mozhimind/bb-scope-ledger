@@ -556,6 +556,7 @@ bitgo.com
 bitkan.com
 bitkub.com
 bitmart.com
+bitmex.com
 bitrue.com
 bittings.medeco.com
 bittrex.com
@@ -1948,6 +1949,7 @@ highwebmedia.com
 hikops.com
 hilolife.com
 hilton.com
+hilton.com.cn
 hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
@@ -2579,6 +2581,7 @@ massimodutti.cn
 massimodutti.com
 mastersrx.com
 mavenlab.com
+maxbet.ro
 maz-bsd.com
 maz-coolers.com
 mazpeople.com
@@ -3135,7 +3138,6 @@ ophthalmicdirect.ca
 opr.news
 opsgenie.com
 optics1.com
-optimuscards.com
 optus.com.au
 opx.tc
 orbia.com
@@ -4273,7 +4275,6 @@ tools.thefork.tech
 toolsforhumanity.com
 toolsportal.zebra.com
 topgolf.com.au
-topperpay.com
 torneoaguila.co
 tospotify.com
 tostitos.com
@@ -4471,7 +4472,6 @@ upc.cz
 upc.hu
 updev.net
 upgrd.co
-uphold.com
 upmoney.com.au
 ups-mi.com
 ups-tms.com

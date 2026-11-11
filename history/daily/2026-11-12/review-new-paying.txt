@@ -1,0 +1,20 @@
+bounty	assets	host	sources	programs	program_urls	raw_entries
+paying	apex	hilton.com.cn	arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct	Hilton	https://hackerone.com/hilton	*.hilton.com.cn
+paying	apex	maple.finance	immunefi-direct	Maple		
+paying	apex	maxbet.ro	arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct	Superbet	https://hackerone.com/superbet	*.maxbet.ro
+paying	apis	api.humantoken.unico.app	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	Unico IDtech	https://hackerone.com/unico_idtech	
+paying	apps	https://marketplace.atlassian.com/apps/1212078/easy-agile-teamrhythm-story-map-insights-retrospectives	arkadiyt-bugcrowd,bugcrowd-direct	Easy Agile	https://bugcrowd.com/engagements/easyagile	https://marketplace.atlassian.com/apps/1212078/easy-agile-teamrhythm-story-map-insights-retrospectives?hosting=cloud&tab
+paying	apps	https://marketplace.atlassian.com/apps/1219491/easy-agile-programs-pi-planning-program-board-dependencies	arkadiyt-bugcrowd,bugcrowd-direct	Easy Agile	https://bugcrowd.com/engagements/easyagile	https://marketplace.atlassian.com/apps/1219491/easy-agile-programs-pi-planning-program-board-dependencies?hosting=cloud&
+paying	maybe	testnet.bitmex.com	hackerone-direct	BitMEX	https://hackerone.com/bitmex	guess:testnet.bitmex.com
+paying	maybe	www.bitmex.com	hackerone-direct	BitMEX	https://hackerone.com/bitmex	guess:www.bitmex.com
+paying	subdomains	api.humantoken.unico.app	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	Unico IDtech	https://hackerone.com/unico_idtech	
+paying	subdomains	dashboard.unico.app	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	Unico IDtech	https://hackerone.com/unico_idtech	
+paying	subdomains	developer.unico.io	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	Unico IDtech	https://hackerone.com/unico_idtech	
+paying	subdomains	humantoken.unico.app	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	Unico IDtech	https://hackerone.com/unico_idtech	
+paying	subdomains	testnet.bitmex.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	BitMEX	https://hackerone.com/bitmex	
+paying	subdomains	www.bitmex.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	BitMEX	https://hackerone.com/bitmex	
+paying	urls	https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit	arkadiyt-intigriti,intigriti-direct	Dstny	https://app.intigriti.com/programs/dstny/dstnybugbounty/detail	https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1208823298#gid=1208823298; https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1281087877#gid=1281087877 (+2 more)
+paying	urls	https://testnet.bitmex.com/app/apiOverview	hackerone-direct	BitMEX	https://hackerone.com/bitmex	desc:https://testnet.bitmex.com/app/apiOverview
+paying	wildcards	bitmex.com	arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct	BitMEX	https://hackerone.com/bitmex	*.bitmex.com
+paying	wildcards	hilton.com.cn	arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct	Hilton	https://hackerone.com/hilton	*.hilton.com.cn
+paying	wildcards	maxbet.ro	arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct	Superbet	https://hackerone.com/superbet	*.maxbet.ro

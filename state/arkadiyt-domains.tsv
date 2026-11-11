@@ -1679,7 +1679,6 @@ api-reservaonline.cbre.es	unknown
 api-rest.catalyst.clover.com	unknown		
 api-sandbox.cbre.com	unknown		
 api-sandbox.gocardless.com	unknown		
-api-sandbox.uphold.com	unknown		
 api-sb.experience.cbre.com	unknown		
 api-seasia.cbrehost.com	unknown		
 api-staging.airtable.com	unknown		
@@ -1865,7 +1864,6 @@ api.ea.login.cbre.com	unknown
 api.editeur.preprod.monespacesante.fr	unknown		
 api.elcacademy.com	unknown		
 api.enc.kape.com	unknown		
-api.enterprise.sandbox.uphold.com	unknown		
 api.epicgames.dev	unknown		
 api.essity.com	unknown		
 api.evernote.com	unknown		
@@ -1905,6 +1903,7 @@ api.gx.me	unknown
 api.gyft.com	unknown		
 api.hackerone.com	unknown		
 api.host-building.com	unknown		
+api.humantoken.unico.app	unknown		
 api.ibops.net	unknown		
 api.ibotta.com	unknown		
 api.iciparisxl.be	unknown		
@@ -2047,7 +2046,6 @@ api.robinhood.com	unknown
 api.row.pro	unknown		
 api.rx.originenergy.com.au	unknown		
 api.ryadom.kz	unknown		
-api.sandbox.topperpay.com	unknown		
 api.savers.co.uk	unknown		
 api.sbx.polaris.csg.daimlertruck.com	unknown		
 api.securehostedpayments.com	unknown		
@@ -2382,7 +2380,6 @@ app.ripio.com	unknown
 app.riteaid.fmpilot.com	unknown		
 app.s02.callsign.com	unknown		
 app.saltlabs.com	unknown		
-app.sandbox.topperpay.com	unknown		
 app.savers.co.uk	unknown		
 app.scaleft.com	unknown		
 app.securehostedpayments.com	unknown		
@@ -9393,6 +9390,7 @@ dashboard.rapyd.net	unknown
 dashboard.razorpay.com	unknown		
 dashboard.render.com	unknown		
 dashboard.trammellcrow.com	unknown		
+dashboard.unico.app	unknown		
 dashboards-nonp.cbrehost.com	unknown		
 dashboards.cbrehost.com	unknown		
 dashbrokers.com	unknown		
@@ -10256,7 +10254,6 @@ devapipace.cbre.com.au	unknown
 devartifactory.gcsonp.cbre.com	unknown		
 devauth-snappay.fiserv.io	unknown		
 devcbrehomes.cbre.com.hk	unknown		
-devcenter.unico.io	unknown		
 devcms.ayoba.me	unknown		
 devdocs.zimpler.com	unknown		
 devedge.t-mobile.com	unknown		
@@ -10305,6 +10302,7 @@ developer.posti.com	unknown
 developer.starlingbank.com	unknown		
 developer.swapcard.com	unknown		
 developer.truist.com	unknown		
+developer.unico.io	unknown		
 developer.valvesoftware.com	unknown		
 developer.visa.com	unknown		
 developer.worldcoin.org	unknown		
@@ -10771,16 +10769,13 @@ docs.moneynetwork.com	unknown
 docs.nebius.com	unknown		
 docs.newrelic.com	unknown		
 docs.nextcloud.com	unknown		
-docs.optimuscards.com	unknown		
 docs.passwordless.dev	unknown		
 docs.redoxengine.com	unknown		
 docs.spark.ai	unknown		
 docs.superhuman.com	unknown		
 docs.tempus-ex.com	unknown		
 docs.tokenfactory.nebius.com	unknown		
-docs.topperpay.com	unknown		
 docs.trammellcrow.com	unknown		
-docs.uphold.com	unknown		
 docs.worldpay.com	unknown		
 docsend.com	unknown		
 docsite.vistarmedia.com	unknown		
@@ -14789,7 +14784,6 @@ grantcountystatebank-p2.onlinebank.com	unknown
 grantcountystatebank.architect-cert.fiservapps.com	unknown		
 grantcountystatebank.onlinebank.com	unknown		
 graphql.acorns.com	unknown		
-graphql.sandbox.topperpay.com	unknown		
 graphql.seek.com	unknown		
 graphsync-cons.services.wirtgen-group.com	unknown		
 graphsync.services.wirtgen-group.com	unknown		
@@ -15833,6 +15827,7 @@ hull.ca.essd.northgrum.com	unknown
 humanacards-uat.hepsiian.com	unknown		
 humanacards.hepsiian.com	unknown		
 humancapital.aon.com	unknown		
+humantoken.unico.app	unknown		
 humo.be	unknown		
 hungrygowhere.com	unknown		
 huntingdonvalleybank-admin.originate.fiservapps.com	unknown		
@@ -25065,7 +25060,6 @@ portal.cbre.fr	unknown
 portal.cbreesi.com	unknown		
 portal.cert.fec-frms.fiservapps.com	unknown		
 portal.coldrivertax.com	unknown		
-portal.enterprise.uphold.com	unknown		
 portal.exoscale.com	unknown		
 portal.fiserv.dev	unknown		
 portal.gallileo-frankfurt.com	unknown		
@@ -27515,7 +27509,6 @@ rubble-api.mfg-branch-and-parts-prod-vpn.us.e11.c01.johndeerecloud.com	unknown
 ruby-dev.elcompanies.com	unknown		
 ruby-qa.elcompanies.com	unknown		
 ruby.elcompanies.com	unknown		
-rubygems.org	unknown		
 rubyhouse.cbresi.com.au	unknown		
 ruffles.com	unknown		
 rugby.cbre.co.uk	unknown		
@@ -28576,7 +28569,6 @@ shimmer-retail-lakeland.staging.cloveronline.com	unknown
 shinhan.fdecs.com	unknown		
 shinhancat.fdecs.com	unknown		
 shining-blue.com	unknown		
-shipit.rubygems.org	unknown		
 shipper-stage.info53.com	unknown		
 shoestation.gift.solutions	unknown		
 shoop.de	unknown		
@@ -31146,6 +31138,7 @@ testmyapps.cbre.eu	unknown
 testmyapps.gslb.cbre.eu	unknown		
 testmyemail.cbre.com	unknown		
 testnet-blockexplorer.electroneum.com	unknown		
+testnet.bitmex.com	unknown		
 testnet.bybit.com	unknown		
 testnet.bybit.eu	unknown		
 testolb.greenwoodcu.org	unknown		
@@ -32609,7 +32602,6 @@ uatbusinesscashcard.rbs.co.uk	unknown
 uatbusinesscashcard.ulsterbank.co.uk	unknown		
 uatcadm.locator.cbre.com	unknown		
 uatcbre-spain.uat.cbre.eu	unknown		
-uatcms.optimuscards.com	unknown		
 uatcompass.cbre.com.au	unknown		
 uatcorelogicapi.nonprodtops.cbre.co.nz	unknown		
 uatcorelogicapi.nonprodtops.cbre.com.au	unknown		
@@ -33971,7 +33963,6 @@ wakarusavlycu-dc.cert.fec-dc.fiservapps.com	unknown
 wakarusavlycu-dn.financial-net.com	unknown		
 wakatime.com	unknown		
 waldorfastoriahi.fr	unknown		
-wallet-sandbox.uphold.com	unknown		
 wallet.blofin.com	unknown		
 wallet.cbre.es	unknown		
 wallet.gallileo-frankfurt.com	unknown		
@@ -35430,6 +35421,7 @@ www.binance.com	unknown
 www.binance.us	unknown		
 www.bingo.com	unknown		
 www.bitdefender.com	unknown		
+www.bitmex.com	unknown		
 www.bitmoji.com	unknown		
 www.bitpanda.com	unknown		
 www.bitstamp.net	unknown		
@@ -36931,7 +36923,6 @@ www.operaneon.com	unknown
 www.oppo.com	unknown		
 www.opposhop.cn	unknown		
 www.optimizer.greenqa.cbre.com	unknown		
-www.optimuscards.com	unknown		
 www.optus.com.au	unknown		
 www.oreo.com	unknown		
 www.oreofun.se	unknown		
@@ -37538,7 +37529,6 @@ www.tomorrowland.com	unknown
 www.toofacedcosmetic.com	unknown		
 www.topdesk.cbre.eu	unknown		
 www.topechelon.com	unknown		
-www.topperpay.com	unknown		
 www.tops2-lb-prod.cbre.com	unknown		
 www.topsnet.cbre.com.hk	unknown		
 www.torfs.be	unknown		
@@ -37667,7 +37657,6 @@ www.unimil.com.br	unknown
 www.uniongaming.com	unknown		
 www.universalorlandovacations.com	unknown		
 www.unscreen.com	unknown		
-www.uphold.com	unknown		
 www.upwork.com	unknown		
 www.urbanclap.com	unknown		
 www.urbancompany.com	unknown		

@@ -1388,6 +1388,7 @@ highwebmedia.com
 hike.in
 hikops.com
 hilton.com
+hilton.com.cn
 hilton.com.tr
 hilton.io
 hiltonbusinessonline.com
@@ -1870,6 +1871,7 @@ mantle.xyz
 mantlescan.xyz
 mapbox.com
 mapillary.com
+maple.finance
 marcus.co.uk
 marcus.com
 maria.casino
@@ -1910,6 +1912,7 @@ mathworks.com
 matomo.cloud
 matomo.org
 mattermost.com
+maxbet.ro
 maya.ph
 mayoclinic.org
 mb-cosmos.com

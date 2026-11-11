@@ -1,0 +1,12 @@
+https://api-sandbox.uphold.com/graphql
+https://api.enterprise.sandbox.uphold.com/core
+https://api.enterprise.sandbox.uphold.com/kyc-connector
+https://api.enterprise.sandbox.uphold.com/market-pulse
+https://api.enterprise.sandbox.uphold.com/topper
+https://api.enterprise.sandbox.uphold.com/trading
+https://api.enterprise.sandbox.uphold.com/widgets
+https://filezilla-project.org/download.php
+https://fzssh.filezilla-project.org/download.php
+https://graphql.sandbox.topperpay.com/graphql
+https://svn.filezilla-project.org/svn/FileZilla3/trunk
+https://svn.filezilla-project.org/svn/libfilezilla/trunk

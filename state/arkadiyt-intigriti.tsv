@@ -301,7 +301,6 @@
 *.onplanhealth.com	non-paying	Flywire Vulnerability Disclose Program	https://www.intigriti.com/programs/flywire/flywirevulnerabilitydiscloseprogram/detail
 *.onplanu.com	non-paying	Flywire Vulnerability Disclose Program	https://www.intigriti.com/programs/flywire/flywirevulnerabilitydiscloseprogram/detail
 *.onstagingocean.app	out-of-scope	DigitalOcean	https://www.intigriti.com/programs/digitalocean/digitalocean/detail
-*.optimuscards.com	non-paying	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
 *.orbia.com	non-paying	Orbia Responsible Disclosure	https://www.intigriti.com/programs/orbia/orbiavdp/detail
 *.orbiaglobal.com	non-paying	Orbia Responsible Disclosure	https://www.intigriti.com/programs/orbia/orbiavdp/detail
 *.oshc.info	non-paying	Flywire Vulnerability Disclose Program	https://www.intigriti.com/programs/flywire/flywirevulnerabilitydiscloseprogram/detail
@@ -452,7 +451,6 @@
 *.toasttab.com	non-paying	Toast VDP	https://www.intigriti.com/programs/toast/toastvdp/detail
 *.toasttakeout.com	non-paying	Toast VDP	https://www.intigriti.com/programs/toast/toastvdp/detail
 *.tomorrowland.com	paying	Tomorrowland	https://www.intigriti.com/programs/tomorrowland/tomorrowland/detail
-*.topperpay.com	paying	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
 *.towereye.be	non-paying	Citymesh Responsible Vulnerability Disclosure Program	https://www.intigriti.com/programs/citymesh/responsiblevulnerabilitydisclosureprogram/detail
 *.towereye.eu	non-paying	Citymesh Responsible Vulnerability Disclosure Program	https://www.intigriti.com/programs/citymesh/responsiblevulnerabilitydisclosureprogram/detail
 *.travelbook.de	paying	Axel Springer National Media & Tech	https://www.intigriti.com/programs/axelspringerse/nmt/detail
@@ -469,8 +467,6 @@
 *.unique.be	out-of-scope	RGF BE - VDP	https://www.intigriti.com/programs/rgfstaffing/rgfbe-vdp/detail
 *.uniqueselect.be	out-of-scope	RGF BE - VDP	https://www.intigriti.com/programs/rgfstaffing/rgfbe-vdp/detail
 *.unispital.ch	non-paying	Universitätsspital Zürich VDP	https://www.intigriti.com/programs/universitatsspitalzurich/usz-vdp/detail
-*.uphodl.com	out-of-scope	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
-*.uphold.com	paying	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
 *.usgprofessionals.be	out-of-scope	RGF BE - VDP	https://www.intigriti.com/programs/rgfstaffing/rgfbe-vdp/detail
 *.usz.ch	non-paying	Universitätsspital Zürich VDP	https://www.intigriti.com/programs/universitatsspitalzurich/usz-vdp/detail
 *.uzleuven.*	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
@@ -733,7 +729,6 @@ Third-party systems or domains referencing NVIDIA, non-secure error reporting 3r
 Third-party systems or domains referencing Voi	out-of-scope	Voi Vulnerability Disclosure Program	https://www.intigriti.com/programs/voi/voivulnerabilitydisclosureprogram/detail
 Trading Scope	non-paying	QC VDP	https://www.intigriti.com/programs/quadcode/qcvdp/detail
 Tribal Wars	paying	InnoGames	https://www.intigriti.com/programs/innogames/innogames/detail
-UpHODL	out-of-scope	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
 WP Engine-developed WordPress Plugins and Themes	non-paying	WP Engine VDP	https://www.intigriti.com/programs/wpengine/wpengine/detail
 YADIFA authoritative name server	out-of-scope	EURid	https://www.intigriti.com/programs/eurid/eurid/detail
 Yahoo Calendar	paying	Yahoo Bug Bounty	https://www.intigriti.com/programs/yahoo/yahoobugbounty/detail
@@ -784,8 +779,6 @@ anchor.digitalocean.com	out-of-scope	DigitalOcean	https://www.intigriti.com/prog
 any intigriti CTF or challenge	out-of-scope	intigriti	https://www.intigriti.com/programs/intigriti/intigriti/detail
 api-accpt.portofantwerp.com	paying	Port of Antwerp-Bruges	https://www.intigriti.com/programs/portofantwerp/portofantwerp/detail
 api-accpt.portofantwerpbruges.com	paying	Port of Antwerp-Bruges	https://www.intigriti.com/programs/portofantwerp/portofantwerp/detail
-api-sandbox.uphold.com	paying	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
-api-sandbox.uphold.com/graphql	paying	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
 api-wallet-sandbox.venly.io	paying	Venly	https://www.intigriti.com/programs/arkane/arkanenetwork/detail
 api-wallet.venly.io	paying	Venly	https://www.intigriti.com/programs/arkane/arkanenetwork/detail
 api.afspraakmaken.gamma.be	out-of-scope	Intergamma	https://www.intigriti.com/programs/intergamma/intergamma/detail
@@ -821,20 +814,15 @@ api.marionnaud.sk	paying	Marionnaud	https://www.intigriti.com/programs/aswatson/
 api.personio-dev.com	paying	Personio	https://www.intigriti.com/programs/personio/personio/detail
 api.personio.com	paying	Personio	https://www.intigriti.com/programs/personio/personio/detail
 api.pns.hk	paying	Watsons	https://www.intigriti.com/programs/aswatson/watsons/detail
-api.portal.enterprise.uphold.com	paying	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
 api.portofantwerp.com	paying	Port of Antwerp-Bruges	https://www.intigriti.com/programs/portofantwerp/portofantwerp/detail
 api.portofantwerpbruges.com	paying	Port of Antwerp-Bruges	https://www.intigriti.com/programs/portofantwerp/portofantwerp/detail
 api.posti.fi	paying	Posti Bug Bounty	https://www.intigriti.com/programs/posti/postibugbounty/detail
 api.qr.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
 api.qualified.com/v1	non-paying	Qualified Responsible Disclosure Program	https://www.intigriti.com/programs/qualified/qualifiedresponsibledisclosureprogram/detail
-api.sandbox.topperpay.com	paying	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
 api.savers.co.uk	paying	Superdrug	https://www.intigriti.com/programs/aswatson/superdrug/detail
 api.superdrug.com	paying	Superdrug	https://www.intigriti.com/programs/aswatson/superdrug/detail
 api.theperfumeshop.com	paying	The Perfume Shop	https://www.intigriti.com/programs/aswatson/theperfumeshop/detail
-api.topperpay.com	out-of-scope	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
 api.unleashed.be	paying	Mobile Vikings	https://www.intigriti.com/programs/mv/mobilevikings/detail
-api.uphold.com	out-of-scope	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
-api.uphold.com/graphql	out-of-scope	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
 api.us.veriff.me	paying	Veriff Bug Bounty	https://www.intigriti.com/programs/veriff/veriffbugbounty/detail
 api.veriff.me	paying	Veriff Bug Bounty	https://www.intigriti.com/programs/veriff/veriffbugbounty/detail
 api.watsons.co.id	paying	Watsons	https://www.intigriti.com/programs/aswatson/watsons/detail
@@ -873,13 +861,11 @@ app.marionnaud.ro	paying	Marionnaud	https://www.intigriti.com/programs/aswatson/
 app.marionnaud.sk	paying	Marionnaud	https://www.intigriti.com/programs/aswatson/marionnaud/detail
 app.pharmacy.superdrug.com	paying	Superdrug	https://www.intigriti.com/programs/aswatson/superdrug/detail
 app.qualified-dev.com	non-paying	Qualified Responsible Disclosure Program	https://www.intigriti.com/programs/qualified/qualifiedresponsibledisclosureprogram/detail
-app.sandbox.topperpay.com	paying	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
 app.savers.co.uk	paying	Superdrug	https://www.intigriti.com/programs/aswatson/superdrug/detail
 app.service.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
 app.spacelift.dev	non-paying	Spacelift VDP	https://www.intigriti.com/programs/spacelift/spaceliftvdp/detail
 app.superdrug.com	paying	Superdrug	https://www.intigriti.com/programs/aswatson/superdrug/detail
 app.theperfumeshop.com	paying	The Perfume Shop	https://www.intigriti.com/programs/aswatson/theperfumeshop/detail
-app.topperpay.com	out-of-scope	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
 app.watsons.com.tr	paying	Watsons	https://www.intigriti.com/programs/aswatson/watsons/detail
 app:1052238659	paying	Monzo Public Bug Bounty Program	https://www.intigriti.com/programs/monzobank/monzopublicbugbountyprogram/detail
 app:1080074001	paying	Dropbox Bug Bounty	https://www.intigriti.com/programs/dropbox/dropbox/detail
@@ -955,8 +941,6 @@ app:Superdrug Android	paying	Superdrug	https://www.intigriti.com/programs/aswats
 app:Superdrug iOS	paying	Superdrug	https://www.intigriti.com/programs/aswatson/superdrug/detail
 app:The Perfume Shop Android	paying	The Perfume Shop	https://www.intigriti.com/programs/aswatson/theperfumeshop/detail
 app:The Perfume Shop iOS	paying	The Perfume Shop	https://www.intigriti.com/programs/aswatson/theperfumeshop/detail
-app:Uphold: Buy BTC, ETH and 300+	paying	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
-app:Uphold: Buy BTC, ETH and 360+	paying	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
 app:Watsons Hong Kong Android	paying	Watsons	https://www.intigriti.com/programs/aswatson/watsons/detail
 app:Watsons Hong Kong iOS	paying	Watsons	https://www.intigriti.com/programs/aswatson/watsons/detail
 app:Watsons Indonesia Android	paying	Watsons	https://www.intigriti.com/programs/aswatson/watsons/detail
@@ -1118,7 +1102,6 @@ cm.com/[locale]/app/*	paying	CM.com	https://www.intigriti.com/programs/cmcom/cmc
 cm.com/[locale]/register	paying	CM.com	https://www.intigriti.com/programs/cmcom/cmcom/detail
 cm.com/app/messagingtrial/	paying	CM.com	https://www.intigriti.com/programs/cmcom/cmcom/detail
 cmcom.atlassian.net	paying	CM.com	https://www.intigriti.com/programs/cmcom/cmcom/detail
-cms.optimuscards.com	out-of-scope	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
 com.dropbox.paper	out-of-scope	Dropbox Bug Bounty	https://www.intigriti.com/programs/dropbox/dropbox/detail
 com.loyaltyworks.wavinapp	out-of-scope	Orbia Responsible Disclosure	https://www.intigriti.com/programs/orbia/orbiavdp/detail
 comms-exhibitionmodels.esa.int	non-paying	European Space Agency (ESA) VDP	https://www.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail
@@ -1201,9 +1184,6 @@ dmm.bpost.be	non-paying	Bpost	https://www.intigriti.com/programs/bpost/dummy/det
 do.co	paying	DigitalOcean	https://www.intigriti.com/programs/digitalocean/digitalocean/detail
 dobby.masq.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
 docs.lansweeper.com	paying	Lansweeper Bug Bounty Program	https://www.intigriti.com/programs/lansweeper/lansweeper1/detail
-docs.optimuscards.com	non-paying	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
-docs.topperpay.com	paying	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
-docs.uphold.com	paying	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
 docsend.com	paying	Dropbox Bug Bounty	https://www.intigriti.com/programs/dropbox/dropbox/detail
 doctorb.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
 doing-business.sso.esa.int	non-paying	European Space Agency (ESA) VDP	https://www.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail
@@ -1281,15 +1261,12 @@ gammalokaal.nl	non-paying	Intergamma	https://www.intigriti.com/programs/intergam
 gateway.posti.fi	paying	Posti Bug Bounty	https://www.intigriti.com/programs/posti/postibugbounty/detail
 gc.watsons.com.tr	paying	Watsons	https://www.intigriti.com/programs/aswatson/watsons/detail
 getflywheel.com	non-paying	WP Engine VDP	https://www.intigriti.com/programs/wpengine/wpengine/detail
-github.com/uphold/*	paying	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
 gitlab.buhler-datascience.ch/api/v4/projects	out-of-scope	Bühler Group VDP	https://www.intigriti.com/programs/buhlergroup/buhlergroupvdp/detail
 globaljourney.tomorrowland.com	paying	Tomorrowland	https://www.intigriti.com/programs/tomorrowland/tomorrowland/detail
 go.capital.com	non-paying	Capital.com	https://www.intigriti.com/programs/capitalcom/capitalcom/detail
 go.digitalocean.com	out-of-scope	DigitalOcean	https://www.intigriti.com/programs/digitalocean/digitalocean/detail
 go.intigriti.com	out-of-scope	intigriti	https://www.intigriti.com/programs/intigriti/intigriti/detail
 go.welt.de	paying	Axel Springer National Media & Tech	https://www.intigriti.com/programs/axelspringerse/nmt/detail
-graphql.sandbox.topperpay.com/graphql	paying	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
-graphql.topperpay.com/graphql	out-of-scope	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
 grizzlyforce.com	out-of-scope	Randstad	https://www.intigriti.com/programs/randstad/randstad/detail
 groove.digitalocean.com	out-of-scope	DigitalOcean	https://www.intigriti.com/programs/digitalocean/digitalocean/detail
 hackathon-tracker.digitalocean.com	paying	DigitalOcean	https://www.intigriti.com/programs/digitalocean/digitalocean/detail
@@ -1333,18 +1310,6 @@ https://api-*exoscale.com/v2	paying	Exoscale Bug Bounty	https://www.intigriti.co
 https://api-gateway.citymesh.com/	non-paying	Citymesh Responsible Vulnerability Disclosure Program	https://www.intigriti.com/programs/citymesh/responsiblevulnerabilitydisclosureprogram/detail
 https://api.bitvavo.com/v2/*	non-paying	Bitvavo VDP	https://www.intigriti.com/programs/bitvavo/bitvavovdp/detail
 https://api.digi-belgium.be	out-of-scope	DIGI Responsible Disclosure Program	https://www.intigriti.com/programs/digi/digi-vdp/detail
-https://api.enterprise.sandbox.uphold.com/core	paying	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
-https://api.enterprise.sandbox.uphold.com/kyc-connector	paying	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
-https://api.enterprise.sandbox.uphold.com/market-pulse	paying	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
-https://api.enterprise.sandbox.uphold.com/topper	paying	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
-https://api.enterprise.sandbox.uphold.com/trading	paying	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
-https://api.enterprise.sandbox.uphold.com/widgets	paying	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
-https://api.enterprise.uphold.com/core	out-of-scope	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
-https://api.enterprise.uphold.com/kyc-connector	out-of-scope	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
-https://api.enterprise.uphold.com/market-pulse	out-of-scope	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
-https://api.enterprise.uphold.com/topper	out-of-scope	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
-https://api.enterprise.uphold.com/trading	out-of-scope	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
-https://api.enterprise.uphold.com/widgets	out-of-scope	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
 https://api.lightspark.com	paying	Lightspark Public Bug Bounty	https://www.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail
 https://api.proof.com	non-paying	Proof.com VDP	https://www.intigriti.com/programs/proof/proofvdp/detail
 https://app.ivo.ai/*	non-paying	Ivo: AI VDP	https://www.intigriti.com/programs/ivoai/ivovulnerabilitydisclosureprogram/detail
@@ -1374,6 +1339,11 @@ https://dialhome.ncentric.be/	non-paying	Citymesh Responsible Vulnerability Disc
 https://dietly.pl	non-paying	Zabka Group Vulnerability Disclosure Program	https://www.intigriti.com/programs/zabkapolska/zabkagroup-vdp/detail
 https://dietuer.arbonia.com/	non-paying	Arbonia VDP program	https://www.intigriti.com/programs/arbonia/arboniavdpprogram/detail
 https://digicampus.digimobil.es	out-of-scope	DIGI Responsible Disclosure Program	https://www.intigriti.com/programs/digi/digi-vdp/detail
+https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1208823298#gid=1208823298	paying	Dstny	https://www.intigriti.com/programs/dstny/dstnybugbounty/detail
+https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1281087877#gid=1281087877	paying	Dstny	https://www.intigriti.com/programs/dstny/dstnybugbounty/detail
+https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1370437389#gid=1370437389	out-of-scope	Dstny	https://www.intigriti.com/programs/dstny/dstnybugbounty/detail
+https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1767553194#gid=1767553194	paying	Dstny	https://www.intigriti.com/programs/dstny/dstnybugbounty/detail
+https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1817816238#gid=1817816238	non-paying	Dstny	https://www.intigriti.com/programs/dstny/dstnybugbounty/detail
 https://donorbox.org	non-paying	Donorbox Vulnerability Disclosure Project	https://www.intigriti.com/programs/donorbox/donorboxvdp/detail
 https://donorbox.org/admin	non-paying	Donorbox Vulnerability Disclosure Project	https://www.intigriti.com/programs/donorbox/donorboxvdp/detail
 https://donorbox.org/embed/potato	non-paying	Donorbox Vulnerability Disclosure Project	https://www.intigriti.com/programs/donorbox/donorboxvdp/detail
@@ -1805,7 +1775,6 @@ pol-web-acc2-mfa.esoc.esa.int	non-paying	European Space Agency (ESA) VDP	https:/
 policy.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
 politico.eu	paying	Axel Springer National Media & Tech	https://www.intigriti.com/programs/axelspringerse/nmt/detail
 pop.buhlergroup.cn	out-of-scope	Bühler Group VDP	https://www.intigriti.com/programs/buhlergroup/buhlergroupvdp/detail
-portal.enterprise.uphold.com	paying	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
 posthog.intigriti.com	out-of-scope	intigriti	https://www.intigriti.com/programs/intigriti/intigriti/detail
 posti.com	paying	Posti Bug Bounty	https://www.intigriti.com/programs/posti/postibugbounty/detail
 postikuori.posti.fi	paying	Posti Bug Bounty	https://www.intigriti.com/programs/posti/postibugbounty/detail
@@ -1914,7 +1883,6 @@ stationapi.veriff.com	paying	Veriff Bug Bounty	https://www.intigriti.com/program
 status.delen.be	paying	Delen Private Bank	https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail
 status.digitalocean.com	out-of-scope	DigitalOcean	https://www.intigriti.com/programs/digitalocean/digitalocean/detail
 status.intigriti.com	out-of-scope	intigriti	https://www.intigriti.com/programs/intigriti/intigriti/detail
-status.uphold.com	out-of-scope	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
 statuspage.personio.de	out-of-scope	Personio	https://www.intigriti.com/programs/personio/personio/detail
 stockup.esa.int	non-paying	European Space Agency (ESA) VDP	https://www.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail
 store.tomorrowland.com	paying	Tomorrowland	https://www.intigriti.com/programs/tomorrowland/tomorrowland/detail
@@ -1924,13 +1892,9 @@ sts.delen.be	paying	Delen Private Bank	https://www.intigriti.com/programs/delenp
 sts.uzleuven.be	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 studiopress.blog	non-paying	WP Engine VDP	https://www.intigriti.com/programs/wpengine/wpengine/detail
 suppliers-ivalua.ubisoft.com	out-of-scope	Ubisoft Responsible Disclosure Program	https://www.intigriti.com/programs/ubisoft/ubisoftvdp/detail
-support-sandbox.uphold.com	out-of-scope	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
-support-staging.topperpay.com	out-of-scope	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
 support.liferay.com	non-paying	Liferay VDP	https://www.intigriti.com/programs/liferay/liferay-vdp/detail
 support.lightspark.com	out-of-scope	Lightspark Public Bug Bounty	https://www.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail
 support.personio.de	out-of-scope	Personio	https://www.intigriti.com/programs/personio/personio/detail
-support.topperpay.com	out-of-scope	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
-support.uphold.com	out-of-scope	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
 swag.intigriti.com	out-of-scope	intigriti	https://www.intigriti.com/programs/intigriti/intigriti/detail
 swish-playground.zimpler.com	non-paying	TrueLayer VDP	https://www.intigriti.com/programs/truelayer/truelayervdp/detail
 tables.dsa.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
@@ -1959,7 +1923,6 @@ trust.intigriti.com	out-of-scope	intigriti	https://www.intigriti.com/programs/in
 tvdownload.esa.int	non-paying	European Space Agency (ESA) VDP	https://www.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail
 tvh-used-equipment.com	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
 typingmind.innogames.de	out-of-scope	InnoGames	https://www.intigriti.com/programs/innogames/innogames/detail
-uatcms.optimuscards.com	paying	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
 unified.cloudways.com	paying	Cloudways by DigitalOcean	https://www.intigriti.com/programs/digitalocean/cloudways/detail
 uqp.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
 uqp.tvh.com	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
@@ -2000,8 +1963,6 @@ vtmgo.be/registreren	out-of-scope	VTM GO	https://www.intigriti.com/programs/dpgm
 vtmgo.be/service	out-of-scope	VTM GO	https://www.intigriti.com/programs/dpgm/vtmgo/detail
 w1.uzleuven.be	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 w1.uzleuven.be/random	non-paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
-wallet-sandbox.uphold.com	paying	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
-wallet.uphold.com	out-of-scope	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
 wallet.venly.io	paying	Venly	https://www.intigriti.com/programs/arkane/arkanenetwork/detail
 wasapi.watsons.com.tr	paying	Watsons	https://www.intigriti.com/programs/aswatson/watsons/detail
 watch-acc.esa.int	non-paying	European Space Agency (ESA) VDP	https://www.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail
@@ -2124,7 +2085,6 @@ www.mjrtheatres.com	paying	Kinepolis Group	https://www.intigriti.com/programs/ki
 www.moneyback.com.hk	paying	Watsons	https://www.intigriti.com/programs/aswatson/watsons/detail
 www.monzo.com	paying	Monzo Public Bug Bounty Program	https://www.intigriti.com/programs/monzobank/monzopublicbugbountyprogram/detail
 www.nederlandseloterij.nl	non-paying	Dutch Lottery VDP	https://www.intigriti.com/programs/nederlandseloterij/dutchlotteryvdp/detail
-www.optimuscards.com	non-paying	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
 www.oursustainableport.com	out-of-scope	Port of Antwerp-Bruges	https://www.intigriti.com/programs/portofantwerp/portofantwerp/detail
 www.parool.nl	paying	Het Parool	https://www.intigriti.com/programs/dpgm/hetparool/detail
 www.parool.nl/abonnementen	paying	Het Parool	https://www.intigriti.com/programs/dpgm/hetparool/detail
@@ -2157,7 +2117,6 @@ www.tempo-team.com	non-paying	Tempo-Team	https://www.intigriti.com/programs/rand
 www.tempo-team.nl	non-paying	Tempo-Team	https://www.intigriti.com/programs/randstad/tempo-team/detail
 www.theperfumeshop.com	paying	The Perfume Shop	https://www.intigriti.com/programs/aswatson/theperfumeshop/detail
 www.tomorrowland.com	paying	Tomorrowland	https://www.intigriti.com/programs/tomorrowland/tomorrowland/detail
-www.topperpay.com	paying	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
 www.torfs.be	paying	Torfs	https://www.intigriti.com/programs/torfs/torfs/detail
 www.torfs.nl	paying	Torfs	https://www.intigriti.com/programs/torfs/torfs/detail
 www.toto.nl	non-paying	Dutch Lottery VDP	https://www.intigriti.com/programs/nederlandseloterij/dutchlotteryvdp/detail
@@ -2167,8 +2126,6 @@ www.trismegistos.org	out-of-scope	KU Leuven Vulnerability Disclosure Program (VD
 www.trouw.nl	paying	Trouw	https://www.intigriti.com/programs/dpgm/trouw/detail
 www.trouw.nl/abonnementen	paying	Trouw	https://www.intigriti.com/programs/dpgm/trouw/detail
 www.tvh-used-equipment.com	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
-www.uphodl.com	out-of-scope	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
-www.uphold.com	paying	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail
 www.used-equipment-portal.com	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
 www.usedequipmentportal.com	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
 www.uzleuven.be	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail

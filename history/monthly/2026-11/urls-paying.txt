@@ -263,6 +263,7 @@ https://docs.allbridge.io/allbridge-overview/bridge-contracts
 https://docs.citrix.com/en-us/citrix-application-delivery-management-service/getting-started.html
 https://docs.citrix.com/en-us/citrix-application-delivery-management-service/overview.html
 https://docs.databricks.com/aws/en/getting-started/free-edition
+https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit
 https://docs.keeper.io/en/keeperpam
 https://docs.keeper.io/en/keeperpam/commander-cli/overview
 https://docs.keeper.io/en/keeperpam/privileged-access-manager/getting-started/gateways
@@ -723,6 +724,7 @@ https://t.me/tapps
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/package
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/polling
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/upload
+https://testnet.bitmex.com/app/apiOverview
 https://testnet.bybit.com/en/earn/rwa
 https://testnet.bybit.com/en/trade/odds
 https://testnet.bybit.com/en/trade/option/usdt/spcx

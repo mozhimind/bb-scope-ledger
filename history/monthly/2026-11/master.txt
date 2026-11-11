@@ -4284,6 +4284,7 @@ api.gyft.com
 api.hackerone.com
 api.hibachi.xyz
 api.host-building.com
+api.humantoken.unico.app
 api.ibops.net
 api.ibotta.com
 api.iciparisxl.be
@@ -14432,6 +14433,7 @@ dashboard.razorpay.com
 dashboard.render.com
 dashboard.stripe.com
 dashboard.trammellcrow.com
+dashboard.unico.app
 dashboardgroningen.nl
 dashboards-nonp.cbrehost.com
 dashboards.cbrehost.com
@@ -15566,6 +15568,7 @@ developer.spotify.com
 developer.starlingbank.com
 developer.swapcard.com
 developer.truist.com
+developer.unico.io
 developer.valvesoftware.com
 developer.visa.com
 developer.wordpress.org
@@ -22637,6 +22640,7 @@ hilltop.olbanking.com
 hilltopcert-temp.olbanking.com
 hilolife.com
 hilton.com
+hilton.com.cn
 hilton.com.tr
 hilton.io
 hiltonbusinessonline.com
@@ -24129,6 +24133,7 @@ https://docs.citrix.com/en-us/citrix-application-delivery-management-service/ove
 https://docs.databricks.com/aws/en/getting-started/free-edition
 https://docs.doppler.com/docs/cli
 https://docs.doppler.com/reference
+https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit
 https://docs.gusto.com/embedded-payroll/docs
 https://docs.keeper.io/en/keeperpam
 https://docs.keeper.io/en/keeperpam/commander-cli/overview
@@ -25621,6 +25626,7 @@ https://marketplace.atlassian.com/apps/1211923/k-sso-saml-sso-oauth-kerberos-use
 https://marketplace.atlassian.com/apps/1211976/gauge-gadget
 https://marketplace.atlassian.com/apps/1212012/discussion-for-confluence
 https://marketplace.atlassian.com/apps/1212035/edit-custom-field-values
+https://marketplace.atlassian.com/apps/1212078/easy-agile-teamrhythm-story-map-insights-retrospectives
 https://marketplace.atlassian.com/apps/1212078/easy-agile-user-story-maps-for-jira
 https://marketplace.atlassian.com/apps/1212096/customfield-editor-for-jira
 https://marketplace.atlassian.com/apps/1212120/agile-reports-and-gadgets
@@ -25784,6 +25790,7 @@ https://marketplace.atlassian.com/apps/1219429/status-progress-report-structure-
 https://marketplace.atlassian.com/apps/1219476/comment-custom-fields-for-jira
 https://marketplace.atlassian.com/apps/1219487/simple-timesheet-worklog-dashboard-gadget-for-jira
 https://marketplace.atlassian.com/apps/1219491/easy-agile-programs-for-jira
+https://marketplace.atlassian.com/apps/1219491/easy-agile-programs-pi-planning-program-board-dependencies
 https://marketplace.atlassian.com/apps/1219504/eazybi-reports-and-charts-for-confluence
 https://marketplace.atlassian.com/apps/1219514/merge-agent-for-jira
 https://marketplace.atlassian.com/apps/1219518/confluence-cloud-for-slack-official
@@ -27086,6 +27093,7 @@ https://testflight.apple.com/join/Y4cHu289
 https://testflight.apple.com/join/dJeQFkqv
 https://testflight.apple.com/join/nB0VMPeC
 https://testflight.apple.com/join/vwFxXX7t
+https://testnet.bitmex.com/app/apiOverview
 https://testnet.bybit.com/en/earn/rwa
 https://testnet.bybit.com/en/trade/odds
 https://testnet.bybit.com/en/trade/option/usdt/spcx
@@ -27870,6 +27878,7 @@ humanacards-uat.hepsiian.com
 humanacards.hepsiian.com
 humancapital.aon.com
 humanrightstulip.nl
+humantoken.unico.app
 humblebundle.com
 humio.com
 humo.be
@@ -32981,6 +32990,7 @@ mapkmonitor.com
 maple-bank-admin.originate.fiservapps.com
 maple-bank.originate.fiservapps.com
 maple.cbre.com
+maple.finance
 mapmr.com
 mapmyfitness.com
 mapmyride.com
@@ -33421,6 +33431,7 @@ max-url.com
 max.jjwws.com
 maxandermas.wgiftcard.com
 maxandermasstore.wgiftcard.com
+maxbet.ro
 maxcdn.com
 maxcdn.net
 maxcloud-cit.fiservapp.com
@@ -48658,6 +48669,7 @@ testmyapps.cbre.eu
 testmyapps.gslb.cbre.eu
 testmyemail.cbre.com
 testnet-blockexplorer.electroneum.com
+testnet.bitmex.com
 testnet.bybit.com
 testnet.bybit.eu
 testnet.nado.xyz
@@ -54522,6 +54534,7 @@ www.bitkubnext.io
 www.bitkubnft.com
 www.bitkubnft.io
 www.bitkubventures.com
+www.bitmex.com
 www.bitmoji.com
 www.bitpanda.com
 www.bitstamp.net

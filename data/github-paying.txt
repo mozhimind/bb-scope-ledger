@@ -695,7 +695,6 @@ https://github.com/trufin-io/smart-contracts-solana-public
 https://github.com/trustwallet/wallet-core
 https://github.com/twilio
 https://github.com/twilio-labs
-https://github.com/uphold
 https://github.com/vechain/thor
 https://github.com/vercel
 https://github.com/vercel-labs/agent-skills

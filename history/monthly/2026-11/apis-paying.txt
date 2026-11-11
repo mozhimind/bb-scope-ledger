@@ -142,6 +142,7 @@ api.gx.games
 api.gx.me
 api.hackerone.com
 api.hibachi.xyz
+api.humantoken.unico.app
 api.ibops.net
 api.ibotta.com
 api.iciparisxl.be

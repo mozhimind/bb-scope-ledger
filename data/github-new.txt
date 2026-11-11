@@ -1,9 +1,0 @@
-https://github.com/buildonspark/spark
-https://github.com/lightsparkdev/flutter-sdk
-https://github.com/lightsparkdev/go-sdk
-https://github.com/lightsparkdev/js-sdk
-https://github.com/lightsparkdev/kotlin-sdk
-https://github.com/lightsparkdev/lightspark-rs
-https://github.com/lightsparkdev/python-sdk
-https://github.com/sky-ecosystem/value-registry
-https://github.com/uphold

@@ -1074,6 +1074,7 @@ https://marketplace.atlassian.com/apps/1211923/k-sso-saml-sso-oauth-kerberos-use
 https://marketplace.atlassian.com/apps/1211976/gauge-gadget
 https://marketplace.atlassian.com/apps/1212012/discussion-for-confluence
 https://marketplace.atlassian.com/apps/1212035/edit-custom-field-values
+https://marketplace.atlassian.com/apps/1212078/easy-agile-teamrhythm-story-map-insights-retrospectives
 https://marketplace.atlassian.com/apps/1212078/easy-agile-user-story-maps-for-jira
 https://marketplace.atlassian.com/apps/1212096/customfield-editor-for-jira
 https://marketplace.atlassian.com/apps/1212120/agile-reports-and-gadgets
@@ -1237,6 +1238,7 @@ https://marketplace.atlassian.com/apps/1219429/status-progress-report-structure-
 https://marketplace.atlassian.com/apps/1219476/comment-custom-fields-for-jira
 https://marketplace.atlassian.com/apps/1219487/simple-timesheet-worklog-dashboard-gadget-for-jira
 https://marketplace.atlassian.com/apps/1219491/easy-agile-programs-for-jira
+https://marketplace.atlassian.com/apps/1219491/easy-agile-programs-pi-planning-program-board-dependencies
 https://marketplace.atlassian.com/apps/1219504/eazybi-reports-and-charts-for-confluence
 https://marketplace.atlassian.com/apps/1219514/merge-agent-for-jira
 https://marketplace.atlassian.com/apps/1219518/confluence-cloud-for-slack-official

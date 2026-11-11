@@ -4018,7 +4018,6 @@ api-sandbox.cbre.com
 api-sandbox.circle.com
 api-sandbox.gocardless.com
 api-sandbox.idex.io
-api-sandbox.uphold.com
 api-sb.experience.cbre.com
 api-seasia.cbrehost.com
 api-secure.sports.yahoo.com
@@ -4238,7 +4237,6 @@ api.ea.login.cbre.com
 api.editeur.preprod.monespacesante.fr
 api.elcacademy.com
 api.enc.kape.com
-api.enterprise.sandbox.uphold.com
 api.epicgames.dev
 api.essity.com
 api.ethereum.shapeshift.com
@@ -4284,6 +4282,7 @@ api.gyft.com
 api.hackerone.com
 api.hibachi.xyz
 api.host-building.com
+api.humantoken.unico.app
 api.ibops.net
 api.ibotta.com
 api.iciparisxl.be
@@ -4402,7 +4401,6 @@ api.pluralonline.com
 api.pluralpay.in
 api.pns.hk
 api.poloniex.com
-api.portal.enterprise.uphold.com
 api.portofantwerp.com
 api.portofantwerpbruges.com
 api.posti.fi
@@ -4453,7 +4451,6 @@ api.row.pro
 api.rtpapi-stg.nube.53.com
 api.rx.originenergy.com.au
 api.ryadom.kz
-api.sandbox.topperpay.com
 api.savers.co.uk
 api.sbx.polaris.csg.daimlertruck.com
 api.seagate.com
@@ -4898,7 +4895,6 @@ app.routerprotocol.com
 app.s02.callsign.com
 app.safeswap.io
 app.saltlabs.com
-app.sandbox.topperpay.com
 app.savers.co.uk
 app.scaleft.com
 app.securehostedpayments.com
@@ -14432,6 +14428,7 @@ dashboard.razorpay.com
 dashboard.render.com
 dashboard.stripe.com
 dashboard.trammellcrow.com
+dashboard.unico.app
 dashboardgroningen.nl
 dashboards-nonp.cbrehost.com
 dashboards.cbrehost.com
@@ -15508,7 +15505,6 @@ devauth-snappay.fiserv.io
 devbridge.com
 devbridge.net
 devcbrehomes.cbre.com.hk
-devcenter.unico.io
 devcms.ayoba.me
 devdocs.zimpler.com
 devedge.t-mobile.com
@@ -15565,6 +15561,7 @@ developer.spotify.com
 developer.starlingbank.com
 developer.swapcard.com
 developer.truist.com
+developer.unico.io
 developer.valvesoftware.com
 developer.visa.com
 developer.wordpress.org
@@ -16204,7 +16201,6 @@ docs.nebius.com
 docs.newrelic.com
 docs.nextcloud.com
 docs.optimism.io
-docs.optimuscards.com
 docs.passwordless.dev
 docs.redoxengine.com
 docs.redstone.finance
@@ -16214,10 +16210,8 @@ docs.superhuman.com
 docs.sushi.com
 docs.tempus-ex.com
 docs.tokenfactory.nebius.com
-docs.topperpay.com
 docs.tothemoon.com
 docs.trammellcrow.com
-docs.uphold.com
 docs.worldpay.com
 docsend.com
 docsite.vistarmedia.com
@@ -21692,7 +21686,6 @@ grantcountystatebank.architect-cert.fiservapps.com
 grantcountystatebank.onlinebank.com
 grantsolutions.gov
 graphql.acorns.com
-graphql.sandbox.topperpay.com
 graphql.seek.com
 graphsync-cons.services.wirtgen-group.com
 graphsync.services.wirtgen-group.com
@@ -22633,6 +22626,7 @@ hilltop.olbanking.com
 hilltopcert-temp.olbanking.com
 hilolife.com
 hilton.com
+hilton.com.cn
 hilton.com.tr
 hilton.io
 hiltonbusinessonline.com
@@ -23206,7 +23200,6 @@ https://api-dev.finnair.com/d
 https://api-graphql-lambda.prod.zoopla.co.uk/graphql
 https://api-hr-zag-1.exoscale.com/v2
 https://api-preprod.finnair.com/d
-https://api-sandbox.uphold.com/graphql
 https://api.0x.org/gasless
 https://api.0x.org/swap
 https://api.6sense.com/docs
@@ -23218,12 +23211,6 @@ https://api.cbre.com:443/t/digitaltech_us_edp/vantageanalytics/gcp/prod/v1/entit
 https://api.cbre.com:443/token
 https://api.drogas.lt/api/v2/api-docs
 https://api.drogas.lv/api/v2/api-docs
-https://api.enterprise.sandbox.uphold.com/core
-https://api.enterprise.sandbox.uphold.com/kyc-connector
-https://api.enterprise.sandbox.uphold.com/market-pulse
-https://api.enterprise.sandbox.uphold.com/topper
-https://api.enterprise.sandbox.uphold.com/trading
-https://api.enterprise.sandbox.uphold.com/widgets
 https://api.essity.com/identifi/logger/v1
 https://api.essity.com/tvd/ble-device-install
 https://api.essity.com/tvd/sales-guide
@@ -24125,6 +24112,7 @@ https://docs.citrix.com/en-us/citrix-application-delivery-management-service/ove
 https://docs.databricks.com/aws/en/getting-started/free-edition
 https://docs.doppler.com/docs/cli
 https://docs.doppler.com/reference
+https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit
 https://docs.gusto.com/embedded-payroll/docs
 https://docs.keeper.io/en/keeperpam
 https://docs.keeper.io/en/keeperpam/commander-cli/overview
@@ -24410,7 +24398,6 @@ https://ferrerorocherpromo.ro/ro/ro/xp/clipa-de-aur
 https://ferrerorocherpromo.ro/ro/ro/xp/lumineaza-clipele-speciale-inscriere
 https://figma.com/weave
 https://figma.slack.com/apps/A01N2QYSA81-figma-and-figjam
-https://filezilla-project.org/download.php
 https://findyourmatch25.strategie.agency/be/fr/xp/findyourmatch
 https://fivetran.com/login
 https://fn-commerce-live.eeef.live.use1a.on.epicgames.com/api/fn-commerce
@@ -24419,7 +24406,6 @@ https://fngw-svc-gc-livefn.ol.epicgames.net/api/magpie
 https://forestry.deere.com/dealers/salesreport
 https://forms.universalservice.org/portal/login
 https://front.com/download
-https://fzssh.filezilla-project.org/download.php
 https://gateway.optus.com.au/api/ai-search/search/v1
 https://gatewaydsapprd.marriott.com/v1
 https://gatewaydsapprd.marriott.com/v2
@@ -25203,7 +25189,6 @@ https://github.com/rsksmart/powpeg-node
 https://github.com/rsksmart/rsk-powhsm
 https://github.com/rsksmart/rskj
 https://github.com/ruby/ruby
-https://github.com/rubygems/rubygems
 https://github.com/rundeck/rundeck
 https://github.com/rundeck/rundeck-cli
 https://github.com/segmentio
@@ -25360,7 +25345,6 @@ https://github.com/trufin-io/smart-contracts-solana-public
 https://github.com/trustwallet/wallet-core
 https://github.com/twilio
 https://github.com/twilio-labs
-https://github.com/uphold
 https://github.com/usnistgov
 https://github.com/usstatedept
 https://github.com/valvesoftware
@@ -25427,7 +25411,6 @@ https://gitlab.com/gitlab-org/gitlab-vscode-extension
 https://gitlab.torproject.org/tpo/applications/tor-browser
 https://goldenexperience.ferrero-campaigns.com/bg/bg/xp/goldenexperience
 https://gotit.net.au/dosage-calculations
-https://graphql.sandbox.topperpay.com/graphql
 https://hackerone.com/mcp
 https://help.catalytic.com/docs/add-user
 https://help.formassembly.com/help/formassembly-mobile-app-for-ios
@@ -25616,7 +25599,7 @@ https://marketplace.atlassian.com/apps/1211923/k-sso-saml-sso-oauth-kerberos-use
 https://marketplace.atlassian.com/apps/1211976/gauge-gadget
 https://marketplace.atlassian.com/apps/1212012/discussion-for-confluence
 https://marketplace.atlassian.com/apps/1212035/edit-custom-field-values
-https://marketplace.atlassian.com/apps/1212078/easy-agile-user-story-maps-for-jira
+https://marketplace.atlassian.com/apps/1212078/easy-agile-teamrhythm-story-map-insights-retrospectives
 https://marketplace.atlassian.com/apps/1212096/customfield-editor-for-jira
 https://marketplace.atlassian.com/apps/1212120/agile-reports-and-gadgets
 https://marketplace.atlassian.com/apps/1212124/spectrum-formatting-macros
@@ -25778,7 +25761,7 @@ https://marketplace.atlassian.com/apps/1219401/users-sync-groups-sync-bitbucket
 https://marketplace.atlassian.com/apps/1219429/status-progress-report-structure-jira-dashboard-gadget
 https://marketplace.atlassian.com/apps/1219476/comment-custom-fields-for-jira
 https://marketplace.atlassian.com/apps/1219487/simple-timesheet-worklog-dashboard-gadget-for-jira
-https://marketplace.atlassian.com/apps/1219491/easy-agile-programs-for-jira
+https://marketplace.atlassian.com/apps/1219491/easy-agile-programs-pi-planning-program-board-dependencies
 https://marketplace.atlassian.com/apps/1219504/eazybi-reports-and-charts-for-confluence
 https://marketplace.atlassian.com/apps/1219514/merge-agent-for-jira
 https://marketplace.atlassian.com/apps/1219518/confluence-cloud-for-slack-official
@@ -25836,7 +25819,6 @@ https://marketplace.atlassian.com/apps/1221271/easy-heading-macro-floating-table
 https://marketplace.atlassian.com/apps/1221301/jira-cloud-for-excel-official
 https://marketplace.atlassian.com/apps/1221312/opsgenie-incident-timeline-eu
 https://marketplace.atlassian.com/apps/1221322/refined-for-confluence-cloud
-https://marketplace.atlassian.com/apps/1221392/easy-agile-personas-for-jira
 https://marketplace.atlassian.com/apps/1221399/security-for-bitbucket-enhanced-secret-scanner-by-soteri
 https://marketplace.atlassian.com/apps/1221462/time-between-statuses
 https://marketplace.atlassian.com/apps/1221519/roadmap-portal-for-jira-service-desk
@@ -26179,7 +26161,6 @@ https://marketplace.atlassian.com/apps/2974674253/assets-analytics-custom-dashbo
 https://marketplace.atlassian.com/apps/3076252818/gliffy-zero-egress-compliance-ready-diagramming
 https://marketplace.atlassian.com/apps/31399/jql-tricks-plugin
 https://marketplace.atlassian.com/apps/3402280988/laya-board
-https://marketplace.atlassian.com/apps/3443905353
 https://marketplace.atlassian.com/apps/3684126567/laya-workflowos-ai-automation-for-jira
 https://marketplace.atlassian.com/apps/3709319691/monte-carlo-simulations-for-scrum-kanban-agile-gadgets
 https://marketplace.atlassian.com/apps/3747688267/simple-gantt-roadmap-timeline-dashboard-gadget-for-jira
@@ -27051,8 +27032,6 @@ https://support.vendasta.com/hc/en-us/articles/4406958960023-Accessing-Business-
 https://support.vendasta.com/hc/en-us/articles/4406959860887-Create-Snapshot-Reports
 https://support.virtru.com/hc/en-us/articles/1500010860821
 https://survey.ectosense.com/assessment/home
-https://svn.filezilla-project.org/svn/FileZilla3/trunk
-https://svn.filezilla-project.org/svn/libfilezilla/trunk
 https://t.me/AlfredTradesBot
 https://t.me/tapps
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/package
@@ -27081,6 +27060,7 @@ https://testflight.apple.com/join/Y4cHu289
 https://testflight.apple.com/join/dJeQFkqv
 https://testflight.apple.com/join/nB0VMPeC
 https://testflight.apple.com/join/vwFxXX7t
+https://testnet.bitmex.com/app/apiOverview
 https://testnet.bybit.com/en/earn/rwa
 https://testnet.bybit.com/en/trade/odds
 https://testnet.bybit.com/en/trade/option/usdt/spcx
@@ -27865,6 +27845,7 @@ humanacards-uat.hepsiian.com
 humanacards.hepsiian.com
 humancapital.aon.com
 humanrightstulip.nl
+humantoken.unico.app
 humblebundle.com
 humio.com
 humo.be
@@ -32975,6 +32956,7 @@ mapkmonitor.com
 maple-bank-admin.originate.fiservapps.com
 maple-bank.originate.fiservapps.com
 maple.cbre.com
+maple.finance
 mapmr.com
 mapmyfitness.com
 mapmyride.com
@@ -33415,6 +33397,7 @@ max-url.com
 max.jjwws.com
 maxandermas.wgiftcard.com
 maxandermasstore.wgiftcard.com
+maxbet.ro
 maxcdn.com
 maxcdn.net
 maxcloud-cit.fiservapp.com
@@ -38418,7 +38401,6 @@ optimumbank-admin.originate.fiservapps.com
 optimumbank.architect-cert.fiservapps.com
 optimumbank.onlinebank.com
 optimumbank.originate.fiservapps.com
-optimuscards.com
 optionscreditunion-dc.cert.fec-dc.fiservapps.com
 optionscreditunion-dn.financial-net.com
 optipat.com
@@ -40520,7 +40502,6 @@ portal.cbre.fr
 portal.cbreesi.com
 portal.cert.fec-frms.fiservapps.com
 portal.coldrivertax.com
-portal.enterprise.uphold.com
 portal.exoscale.com
 portal.fiserv.dev
 portal.gallileo-frankfurt.com
@@ -45117,7 +45098,6 @@ shimmer-retail-lakeland.staging.cloveronline.com
 shinhan.fdecs.com
 shinhancat.fdecs.com
 shining-blue.com
-shipit.rubygems.org
 shipper-stage.info53.com
 shipt.com
 shiseido.me
@@ -48652,6 +48632,7 @@ testmyapps.cbre.eu
 testmyapps.gslb.cbre.eu
 testmyemail.cbre.com
 testnet-blockexplorer.electroneum.com
+testnet.bitmex.com
 testnet.bybit.com
 testnet.bybit.eu
 testnet.nado.xyz
@@ -49366,7 +49347,6 @@ topictrek.org
 topinkomens.nl
 topleadershipteams.com
 topochico.com
-topperpay.com
 toppjirayut.com
 tops-stg.cbre.com
 tops-uat.cbre.com
@@ -50562,7 +50542,6 @@ uatbusinesscashcard.rbs.co.uk
 uatbusinesscashcard.ulsterbank.co.uk
 uatcadm.locator.cbre.com
 uatcbre-spain.uat.cbre.eu
-uatcms.optimuscards.com
 uatcompass.cbre.com.au
 uatcorelogicapi.nonprodtops.cbre.co.nz
 uatcorelogicapi.nonprodtops.cbre.com.au
@@ -51807,7 +51786,6 @@ vectrabank.com
 vectranetworks.com
 veda.co.nz
 veda.com.au
-veda.tech
 vedaadvantage.asia
 vedaadvantage.co.nz
 vedaadvantage.com
@@ -52634,7 +52612,6 @@ walgreens.com
 wali.com
 walkers.co.uk
 walla.co.il
-wallet-sandbox.uphold.com
 wallet.blofin.com
 wallet.cbre.es
 wallet.cex.io
@@ -54516,6 +54493,7 @@ www.bitkubnext.io
 www.bitkubnft.com
 www.bitkubnft.io
 www.bitkubventures.com
+www.bitmex.com
 www.bitmoji.com
 www.bitpanda.com
 www.bitstamp.net
@@ -56288,7 +56266,6 @@ www.oppo.com
 www.opposhop.cn
 www.optimism.io
 www.optimizer.greenqa.cbre.com
-www.optimuscards.com
 www.optus.com.au
 www.oreo.com
 www.oreofun.se
@@ -56998,7 +56975,6 @@ www.toobit.com
 www.toofacedcosmetic.com
 www.topdesk.cbre.eu
 www.topechelon.com
-www.topperpay.com
 www.tops2-lb-prod.cbre.com
 www.topsnet.cbre.com.hk
 www.torfs.be
@@ -57146,7 +57122,6 @@ www.unimil.com.br
 www.uniongaming.com
 www.universalorlandovacations.com
 www.unscreen.com
-www.uphold.com
 www.upstay.tech
 www.upwork.com
 www.urbanclap.com

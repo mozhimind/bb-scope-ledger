@@ -717,6 +717,7 @@ id	asset	value
 24fec504ce	wildcards	email.shopify.com
 24fec504ce	wildcards	myshopify.com
 24fec504ce	wildcards	shopify.com
+26b566b594	urls	https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit
 26cbd88983	maybe	admin.bounty.cryptobox.com
 26cbd88983	maybe	bounty.cryptobox.com
 26cbd88983	maybe	cryptobox.com
@@ -3242,27 +3243,6 @@ id	asset	value
 9a794452f1	urls	https://www.loopnet.com/solutions/contact-us
 9a794452f1	urls	https://www.realtimeagent.com.au/wp-admin/admin-ajax.php
 9a794452f1	wildcards	onthemarket.com
-9ac8fc3a6c	subdomains	api.topperpay.com
-9ac8fc3a6c	subdomains	api.uphold.com
-9ac8fc3a6c	subdomains	app.topperpay.com
-9ac8fc3a6c	subdomains	cms.optimuscards.com
-9ac8fc3a6c	subdomains	status.uphold.com
-9ac8fc3a6c	subdomains	support-sandbox.uphold.com
-9ac8fc3a6c	subdomains	support-staging.topperpay.com
-9ac8fc3a6c	subdomains	support.topperpay.com
-9ac8fc3a6c	subdomains	support.uphold.com
-9ac8fc3a6c	subdomains	wallet.uphold.com
-9ac8fc3a6c	subdomains	www.uphodl.com
-9ac8fc3a6c	text	UpHODL
-9ac8fc3a6c	urls	https://api.enterprise.uphold.com/core
-9ac8fc3a6c	urls	https://api.enterprise.uphold.com/kyc-connector
-9ac8fc3a6c	urls	https://api.enterprise.uphold.com/market-pulse
-9ac8fc3a6c	urls	https://api.enterprise.uphold.com/topper
-9ac8fc3a6c	urls	https://api.enterprise.uphold.com/trading
-9ac8fc3a6c	urls	https://api.enterprise.uphold.com/widgets
-9ac8fc3a6c	urls	https://api.uphold.com/graphql
-9ac8fc3a6c	urls	https://graphql.topperpay.com/graphql
-9ac8fc3a6c	wildcards	uphodl.com
 9add68d55e	text	Anything that is not explicitely listed as part of the Scope
 9b123e6c11	subdomains	uconf.uat.unico.app
 9b123e6c11	wildcards	cadastro.uat.unico.app
@@ -3359,7 +3339,6 @@ id	asset	value
 9d1721951d	text	Archived GitHub repositories
 9d1721951d	text	Digital Ocean, AWS, etc
 9d1721951d	wildcards	wordpress.com
-9d7b2bf211	urls	https://svn.filezilla-project.org/svn/filezilla3/trunk/src/storj
 9d867b78f6	apex	goextend.io
 9d867b78f6	apex	phenix.rocks
 9d867b78f6	apex	sharelock.io
@@ -4354,15 +4333,6 @@ ce1fd08c9a	wildcards	mlc.com.au
 ce1fd08c9a	wildcards	myexpand.com.au
 ce1fd08c9a	wildcards	plum.com.au
 ce1fd08c9a	wildcards	sfg.com.au
-ce2fba4539	subdomains	blog.rubygems.org
-ce2fba4539	subdomains	guide.rubygems.org
-ce2fba4539	subdomains	help.rubygems.org
-ce2fba4539	subdomains	stats.rubygems.org
-ce2fba4539	subdomains	status.rubygems.org
-ce2fba4539	subdomains	support.rubygems.org
-ce2fba4539	subdomains	uptime.rubygems.org
-ce2fba4539	urls	http://rubygems.org/names
-ce2fba4539	urls	https://s3-us-west-2.amazonaws.com/rubygems-dumps
 cef6af6265	subdomains	community.pagerduty.com
 cef6af6265	subdomains	university.pagerduty.com
 cef6af6265	urls	http://www.pagerduty.com/support
@@ -4396,6 +4366,16 @@ d0ae5d5b9d	text	Api docs
 d0ae5d5b9d	text	KuCoin store
 d0ae5d5b9d	text	SandBox
 d0ae5d5b9d	text	zendesk
+d191fd3fec	subdomains	academy.bitmex.com
+d191fd3fec	subdomains	affiliates.bitmex.com
+d191fd3fec	subdomains	bitmex-org.freshworks.com
+d191fd3fec	subdomains	bitmex.freshdesk.com
+d191fd3fec	subdomains	blog.bitmex.com
+d191fd3fec	subdomains	public-testnet.bitmex.com
+d191fd3fec	subdomains	public.bitmex.com
+d191fd3fec	subdomains	research.bitmex.com
+d191fd3fec	subdomains	status.bitmex.com
+d191fd3fec	subdomains	support.bitmex.com
 d1e2b5e4b9	subdomains	www.staging.aegeanair.com
 d2383e0a8a	text	3CX Phone 6.0
 d2383e0a8a	wildcards	3cx.com
