@@ -309,7 +309,6 @@ api.koho.ca
 api.krisp.ai
 api.kruidvat.be
 api.kruidvat.nl
-api.lansweeper.com
 api.larksuite.com
 api.leather.io
 api.letsexchange.io
@@ -500,6 +499,7 @@ app.capyfi.com
 app.cetus.zone
 app.chime.com
 app.circle.com
+app.datacamp.com
 app.datadome.co
 app.defisaver.com
 app.delen.be
@@ -542,7 +542,6 @@ app.koho.ca
 app.krisp.ai
 app.kruidvat.be
 app.kruidvat.nl
-app.lansweeper.com
 app.larksuite.com
 app.latitudepayapps.com
 app.launchdarkly.com
@@ -644,12 +643,17 @@ apps.portofantwerp.com
 apps.portofantwerpbruges.com
 apps.yeswehack.com
 appt.healthclinics.superdrug.com
+aquawardsoperate.water-link.be
+aquawardsspatial.water-link.be
 armourhouse.underarmour.com
 arrive-server.shopifycloud.com
 arsentomsky.indrive.com
 artifactory.marriott.com
 artists.soundcloud.com
 askpeopleteam.visa.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com
+assessment.datacamp.com
 assets-cdn.vistarmedia.com
 assets.airbnb.com
 assets.development.amazon-tacticalplanner.com
@@ -738,7 +742,6 @@ authn.usaa.com
 autocomplete.booking.com
 autodiscover.uzleuven.be
 autoupdate.geo.opera.com
-autoupdateapi.lansweeper.com
 av.indrive.com
 avocado.instadapp.io
 b2bapi-a.usaa.com
@@ -750,7 +753,6 @@ backend-api.devicecloud.production.forescoutcloud.net
 backend-sdk.uat.private.unico.run
 backend.bz-berlin.de
 backend.ibotta.com
-backoffice.lansweeper.com
 backstage.avax-dev.network
 badger.it.vinted.com
 baf-gw-cf.africa.afso1.aws.indriverapp.com
@@ -923,6 +925,7 @@ campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
+campus.datacamp.com
 cancellation.prod.ps.welt.de
 canton-dev.gleague.nba.com
 canton-qa.gleague.nba.com
@@ -1377,6 +1380,7 @@ design.gitlab.com
 design.ui.com
 desk.thetradedesk.com
 desktop-sit.uat.proptrack.com
+desktop.water-link.be
 detroit-dev.gleague.nba.com
 detroit-qa.gleague.nba.com
 detroit.gleague.nba.com
@@ -1455,7 +1459,6 @@ docs.gitlab.com
 docs.gocardless.com
 docs.institutional.ts.finance
 docs.keeper.io
-docs.lansweeper.com
 docs.launchdarkly.com
 docs.lido.fi
 docs.near.org
@@ -1535,7 +1538,6 @@ edge.blablacar.ro
 edge.blablacar.ru
 edge.blablacar.tr
 edge.bookbeat.com
-edge.lansweeper.com
 edgeacademy.thetradedesk.com
 edgeapi.slack.com
 edgeapis.onecloud.harman.com
@@ -1648,7 +1650,6 @@ faucet-api.polygon.technology
 faucet.avax-test.network
 faucet.polygon.technology
 faucets.chain.link
-fb.lansweeper.com
 fc-r2-pos-financeconnect.deere.com
 fch-cf.euce1.indriverapp.com
 fch-gw-cf.euce1.indriverapp.com
@@ -1697,7 +1698,7 @@ fire-dev.wnba.com
 fire-qa.wnba.com
 fire.wnba.com
 fit.nba.com
-fitbit-lottery.getmoneytree.com
+fitbit-lottery-staging.getmoneytree.com
 flags.expeng.optimizely.com
 flex-api.twilio.com
 flights.booking.com
@@ -1972,6 +1973,7 @@ inclusion.nba.com
 indiaontrack.nba.com
 indicative-pricing.taxi.booking.com
 indonesiavoa.vfsevisa.id
+indussiibis.water-link.be
 inference.do-ai.run
 influencers.tw.coupang.com
 infohub.essity.com
@@ -2102,7 +2104,6 @@ leaflet-map.bykea.net
 learn.neogov.com
 learn.newrelic.com
 learn.wordpress.org
-lecstaticcontent.lansweeper.com
 legacy-blockexplorer.electroneum.com
 leonard.vinci.com
 liberty-dev.wnba.com
@@ -2164,7 +2165,6 @@ login.infomaniak.com
 login.innogames.de
 login.insightly.com
 login.koho.ca
-login.lansweeper.com
 login.medscape.com
 login.nba.com
 login.neogov.com
@@ -2638,6 +2638,7 @@ online.srilankaevisa.lk
 onlinedoctor.superdrug.com
 onlinepharmacy.superdrug.com
 ontario.gleague.nba.com
+oos.eu-west-2.outscale.com
 op.paymaya.com
 ope-dashboard-api.optimism.io
 open-api.capital.com
@@ -2672,7 +2673,6 @@ ort-desktop.pingone.com
 osceola-qa.gleague.nba.com
 osceola.gleague.nba.com
 osp.opera.software
-osu.eu-west-2.outscale.com
 ota.onecloud.harman.com
 ourhouse.underarmour.com
 outlook.insightly.com
@@ -2793,12 +2793,12 @@ phlonline.vfsevisa.cn
 phlportal.vfsevisa.cn
 phone-validation.taxi.booking.com
 photo.kruidvat.be
-php-rce.cloudflare.app
 picc.posti.fi
 pigeon.swiftfinancial.com
 ping.pdst.fm
 pingfederate-admin-ocp-prd-bc3574.ocpf.info53.com
 pioneer.truata.com
+pit.water-link.be
 pl.jbl.com
 planet.wordpress.org
 plannerrequest.hyatt.com
@@ -2862,6 +2862,7 @@ ppw.euce1.indriverapp.com
 pr-dev.nba.com
 pr-qa.nba.com
 pr.nba.com
+practice.datacamp.com
 prd-pub.mobilevikings.be
 prd-ring-web-us.prd.rings.solutions
 prd.aser.simplisafe.com
@@ -2931,9 +2932,11 @@ profile.cex.io
 profile.playstation.com
 profile.segment.com
 profile.telenor.se
+profiles-api.datacamp.com
 profiles.sports.yahoo.com
 profiles.wordpress.org
 profreg.medscape.com
+projects.datacamp.com
 projects.epam.com
 promo.nutella.ro
 promo.tw.coupang.com
@@ -4012,6 +4015,7 @@ www.cultbeauty.co.uk
 www.currencycloud.com
 www.cvs.com
 www.cybersource.com
+www.datacamp.com
 www.ddfcontent.com
 www.decathlon.be
 www.decathlon.ca
@@ -4241,7 +4245,6 @@ www.kruidvatkids.nl
 www.lab-recherche-environnement.org
 www.ladbrokes.com
 www.landmarkcinemas.com
-www.lansweeper.com
 www.lascana.de
 www.lastpass.com
 www.lefties.com

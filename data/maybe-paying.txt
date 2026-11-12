@@ -73,7 +73,6 @@ api.verily.com
 apidocs.aikido.dev
 apidocs.bridge.xyz
 app.box.com
-app.lansweeper.com
 app.snapchat.com
 asiakastiedot.posti.fi
 atl-paas.net
@@ -131,7 +130,6 @@ digili.s-cloud.fi
 docs.databricks.com
 docs.doppler.com
 e.e.marcus.com
-edge.lansweeper.com
 education.github.com
 eis.hilton.com
 electronjs.org
@@ -271,7 +269,6 @@ https://www.gainsight.com/security/vulnerability-disclosure-program
 https://www.goodrx.com/care
 https://www.hilton.com/en/hilton-honors/join
 https://www.kayak.com/global
-https://www.lansweeper.com/download
 https://www.larksuite.com/download
 https://www.mastercard.ch/de-ch.html
 https://www.mastercard.ch/fr-ch.html

@@ -1,20 +1,46 @@
 bounty	assets	host	sources	programs	program_urls	raw_entries
-paying	apex	hilton.com.cn	arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct	Hilton	https://hackerone.com/hilton	*.hilton.com.cn
-paying	apex	maple.finance	immunefi-direct	Maple		
-paying	apex	maxbet.ro	arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct	Superbet	https://hackerone.com/superbet	*.maxbet.ro
-paying	apis	api.humantoken.unico.app	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	Unico IDtech	https://hackerone.com/unico_idtech	
-paying	apps	https://marketplace.atlassian.com/apps/1212078/easy-agile-teamrhythm-story-map-insights-retrospectives	arkadiyt-bugcrowd,bugcrowd-direct	Easy Agile	https://bugcrowd.com/engagements/easyagile	https://marketplace.atlassian.com/apps/1212078/easy-agile-teamrhythm-story-map-insights-retrospectives?hosting=cloud&tab
-paying	apps	https://marketplace.atlassian.com/apps/1219491/easy-agile-programs-pi-planning-program-board-dependencies	arkadiyt-bugcrowd,bugcrowd-direct	Easy Agile	https://bugcrowd.com/engagements/easyagile	https://marketplace.atlassian.com/apps/1219491/easy-agile-programs-pi-planning-program-board-dependencies?hosting=cloud&
-paying	maybe	testnet.bitmex.com	hackerone-direct	BitMEX	https://hackerone.com/bitmex	guess:testnet.bitmex.com
-paying	maybe	www.bitmex.com	hackerone-direct	BitMEX	https://hackerone.com/bitmex	guess:www.bitmex.com
-paying	subdomains	api.humantoken.unico.app	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	Unico IDtech	https://hackerone.com/unico_idtech	
-paying	subdomains	dashboard.unico.app	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	Unico IDtech	https://hackerone.com/unico_idtech	
-paying	subdomains	developer.unico.io	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	Unico IDtech	https://hackerone.com/unico_idtech	
-paying	subdomains	humantoken.unico.app	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	Unico IDtech	https://hackerone.com/unico_idtech	
-paying	subdomains	testnet.bitmex.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	BitMEX	https://hackerone.com/bitmex	
-paying	subdomains	www.bitmex.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	BitMEX	https://hackerone.com/bitmex	
-paying	urls	https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit	arkadiyt-intigriti,intigriti-direct	Dstny	https://app.intigriti.com/programs/dstny/dstnybugbounty/detail	https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1208823298#gid=1208823298; https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1281087877#gid=1281087877 (+2 more)
-paying	urls	https://testnet.bitmex.com/app/apiOverview	hackerone-direct	BitMEX	https://hackerone.com/bitmex	desc:https://testnet.bitmex.com/app/apiOverview
-paying	wildcards	bitmex.com	arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct	BitMEX	https://hackerone.com/bitmex	*.bitmex.com
-paying	wildcards	hilton.com.cn	arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct	Hilton	https://hackerone.com/hilton	*.hilton.com.cn
-paying	wildcards	maxbet.ro	arkadiyt-hackerone,arkadiyt-wildcard,hackerone-direct	Superbet	https://hackerone.com/superbet	*.maxbet.ro
+paying	apex	adelta.be	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Water-Link	https://app.intigriti.com/programs/waterlink/water-link/detail	
+paying	apex	aww.eu	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Water-Link	https://app.intigriti.com/programs/waterlink/water-link/detail	
+paying	apex	datacamp.com	arkadiyt-domains,arkadiyt-intigriti,arkadiyt-wildcard,intigriti-direct	DataCamp	https://app.intigriti.com/programs/datacamp/datacamp/detail	*.datacamp.com; app.datacamp.com (+8 more)
+paying	apex	induss.eu	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Water-Link	https://app.intigriti.com/programs/waterlink/water-link/detail	
+paying	apex	mijnwater-link.be	arkadiyt-intigriti,arkadiyt-wildcard,intigriti-direct	Water-Link	https://app.intigriti.com/programs/waterlink/water-link/detail	*.mijnwater-link.be
+paying	apex	rio-link.be	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Water-Link	https://app.intigriti.com/programs/waterlink/water-link/detail	
+paying	apex	water-kracht-levering.be	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Water-Link	https://app.intigriti.com/programs/waterlink/water-link/detail	
+paying	apex	water-kracht-levering.eu	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Water-Link	https://app.intigriti.com/programs/waterlink/water-link/detail	
+paying	apex	waterkracht-levering.be	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Water-Link	https://app.intigriti.com/programs/waterlink/water-link/detail	
+paying	apex	waterkracht-levering.eu	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Water-Link	https://app.intigriti.com/programs/waterlink/water-link/detail	
+paying	apex	waterlink.be	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Water-Link	https://app.intigriti.com/programs/waterlink/water-link/detail	
+paying	apex	waterstoringen.be	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Water-Link	https://app.intigriti.com/programs/waterlink/water-link/detail	
+paying	apis	assessment-api.datacamp.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	DataCamp	https://app.intigriti.com/programs/datacamp/datacamp/detail	
+paying	apis	oos.eu-west-2.outscale.com	yeswehack-direct	3DS OUTSCALE	https://yeswehack.com/programs/outscale	api:https://oos.eu-west-2.outscale.com
+paying	apis	profiles-api.datacamp.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	DataCamp	https://app.intigriti.com/programs/datacamp/datacamp/detail	
+paying	apps	com.datacamp	arkadiyt-intigriti,intigriti-direct	DataCamp	https://app.intigriti.com/programs/datacamp/datacamp/detail	app:com.datacamp
+paying	apps	https://apps.apple.com/app/id1263413087	arkadiyt-intigriti,intigriti-direct	DataCamp	https://app.intigriti.com/programs/datacamp/datacamp/detail	app:https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
+paying	github	https://github.com/lfdt-ibc/ibc	immunefi-direct	Cosmos		
+paying	github	https://github.com/lfdt-ibc/ibc-contracts	immunefi-direct	Cosmos		
+paying	github	https://github.com/lfdt-ibc/ibc-go	immunefi-direct	Cosmos		
+paying	subdomains	aquawardsoperate.water-link.be	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Water-Link	https://app.intigriti.com/programs/waterlink/water-link/detail	
+paying	subdomains	aquawardsspatial.water-link.be	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Water-Link	https://app.intigriti.com/programs/waterlink/water-link/detail	
+paying	subdomains	assessment-api.datacamp.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	DataCamp	https://app.intigriti.com/programs/datacamp/datacamp/detail	
+paying	subdomains	assessment-v2.datacamp.com	arkadiyt-intigriti,intigriti-direct	DataCamp	https://app.intigriti.com/programs/datacamp/datacamp/detail	
+paying	subdomains	assessment.datacamp.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	DataCamp	https://app.intigriti.com/programs/datacamp/datacamp/detail	
+paying	subdomains	campus.datacamp.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	DataCamp	https://app.intigriti.com/programs/datacamp/datacamp/detail	
+paying	subdomains	desktop.water-link.be	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Water-Link	https://app.intigriti.com/programs/waterlink/water-link/detail	
+paying	subdomains	fitbit-lottery-staging.getmoneytree.com	arkadiyt-bugcrowd,arkadiyt-domains,bugcrowd-direct	Moneytree KK	https://bugcrowd.com/engagements/moneytreekkog	https://fitbit-lottery-staging.getmoneytree.com/
+paying	subdomains	indussiibis.water-link.be	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Water-Link	https://app.intigriti.com/programs/waterlink/water-link/detail	
+paying	subdomains	oos.eu-west-2.outscale.com	arkadiyt-domains,arkadiyt-yeswehack,yeswehack-direct	3DS OUTSCALE	https://yeswehack.com/programs/outscale	api:https://oos.eu-west-2.outscale.com; https://oos.eu-west-2.outscale.com
+paying	subdomains	pit.water-link.be	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Water-Link	https://app.intigriti.com/programs/waterlink/water-link/detail	
+paying	subdomains	practice.datacamp.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	DataCamp	https://app.intigriti.com/programs/datacamp/datacamp/detail	
+paying	subdomains	profiles-api.datacamp.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	DataCamp	https://app.intigriti.com/programs/datacamp/datacamp/detail	
+paying	subdomains	projects.datacamp.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	DataCamp	https://app.intigriti.com/programs/datacamp/datacamp/detail	
+paying	subdomains	www.datacamp.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	DataCamp	https://app.intigriti.com/programs/datacamp/datacamp/detail	
+paying	urls	https://app.datacamp.com/certification	arkadiyt-intigriti,intigriti-direct	DataCamp	https://app.intigriti.com/programs/datacamp/datacamp/detail	app.datacamp.com/certification
+paying	urls	https://app.datacamp.com/groups	arkadiyt-intigriti,intigriti-direct	DataCamp	https://app.intigriti.com/programs/datacamp/datacamp/detail	app.datacamp.com/groups
+paying	urls	https://app.datacamp.com/learn	arkadiyt-intigriti,intigriti-direct	DataCamp	https://app.intigriti.com/programs/datacamp/datacamp/detail	app.datacamp.com/learn
+paying	urls	https://www.datacamp.com/datalab	arkadiyt-intigriti,intigriti-direct	DataCamp	https://app.intigriti.com/programs/datacamp/datacamp/detail	www.datacamp.com/datalab
+paying	wildcards	datacamp.com	arkadiyt-intigriti,arkadiyt-wildcard,intigriti-direct	DataCamp	https://app.intigriti.com/programs/datacamp/datacamp/detail	*.datacamp.com
+paying	wildcards	mijnwater-link.be	arkadiyt-intigriti,arkadiyt-wildcard,intigriti-direct	Water-Link	https://app.intigriti.com/programs/waterlink/water-link/detail	*.mijnwater-link.be
+unknown	subdomains	app.datacamp.com	arkadiyt-domains			
+non-paying	apex	divvyhomes.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	Divvy Homes	https://hackerone.com/divvy-homes	www.divvyhomes.com
+non-paying	apps	com.divvyapp.io	arkadiyt-hackerone,hackerone-direct	Divvy Homes	https://hackerone.com/divvy-homes	app:com.divvyapp.io
+non-paying	subdomains	www.divvyhomes.com	arkadiyt-domains,arkadiyt-hackerone,hackerone-direct	Divvy Homes	https://hackerone.com/divvy-homes	

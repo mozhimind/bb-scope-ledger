@@ -161,7 +161,6 @@ api.koho.ca
 api.krisp.ai
 api.kruidvat.be
 api.kruidvat.nl
-api.lansweeper.com
 api.larksuite.com
 api.leather.io
 api.letsexchange.io
@@ -327,6 +326,7 @@ app.klarna.com
 app.latitudepayapps.com
 apps.yeswehack.com
 arlo.com
+assessment-api.datacamp.com
 assistants.twilio.com
 atlantis-ext.myopenpass.com
 atlassian.ost-consulting.be
@@ -355,7 +355,6 @@ auth.riskrecon.com
 auth.riskrecon.eu
 auth.seek.com
 autoupdate.geo.opera.com
-autoupdateapi.lansweeper.com
 b2bapi-a.usaa.com
 b2bapi.usaa.com
 b2blsapi-a.usaa.com
@@ -751,6 +750,7 @@ nu.com.mx
 nubank.com.br
 numbers.twilio.com
 oauth.twilio.com
+oos.eu-west-2.outscale.com
 op.paymaya.com
 ope-dashboard-api.optimism.io
 open-api.capital.com
@@ -767,7 +767,6 @@ optout-prod.uidapi.com
 optout.prod.euid.eu
 osite99.com
 osp.opera.software
-osu.eu-west-2.outscale.com
 ota.onecloud.harman.com
 partnerapi.arlo.com
 partnerapi.imoulife.com
@@ -799,6 +798,7 @@ prod.meeshoapi.com
 prod.uidapi.com
 production.maf.auth0.com
 profile.segment.com
+profiles-api.datacamp.com
 proxy-production.lime.bike
 proxy.twilio.com
 pub-api-ro.fantasysports.yahoo.com

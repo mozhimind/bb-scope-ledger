@@ -1,1 +1,3 @@
-api.humantoken.unico.app
+assessment-api.datacamp.com
+oos.eu-west-2.outscale.com
+profiles-api.datacamp.com

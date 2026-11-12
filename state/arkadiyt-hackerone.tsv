@@ -7655,6 +7655,7 @@ app:com.deere.equipmentplus	non-paying	John Deere	https://hackerone.com/john-dee
 app:com.deere.myoperations	non-paying	John Deere	https://hackerone.com/john-deere
 app:com.defi.wallet	out-of-scope	Crypto.com	https://hackerone.com/crypto
 app:com.deribit	paying	Deribit	https://hackerone.com/deribit
+app:com.divvyapp.io	non-paying	Divvy Homes	https://hackerone.com/divvy-homes
 app:com.divvypay.Divvy	non-paying	BILL VDP	https://hackerone.com/bill_vdp
 app:com.dolap.android	paying	Trendyol	https://hackerone.com/trendyol
 app:com.duckduckgo.mobile.android	non-paying	DuckDuckGo	https://hackerone.com/duckduckgo
@@ -17000,6 +17001,7 @@ fep.suppliernet-qa.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.co
 fep.suppliernet-uat.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 fep.suppliernet.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 fepascardse-cat.fiserv.com.br	non-paying	Fiserv	https://hackerone.com/fiserv
+ferrero.integrityline.app	out-of-scope	Ferrero	https://hackerone.com/ferrero
 ferry.aegeanair.com	non-paying	Aegean Airlines Vulnerability Disclosure	https://hackerone.com/aegean_airlines_vdp
 fertittaentertainmentinc.com	non-paying	Fertitta Entertainment	https://hackerone.com/fertitta_entertainment
 ferzanrobbins.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -25616,6 +25618,7 @@ https://github.com/circlefin/stablecoin-xlm	paying	Circle	https://hackerone.com/
 https://github.com/circlefin/stellar-cctp	paying	Circle	https://hackerone.com/circle-bbp
 https://github.com/circlefin/sui-cctp	paying	Circle	https://hackerone.com/circle-bbp
 https://github.com/cloudflare/agentic-inbox	out-of-scope	Cloudflare Public Bug Bounty	https://hackerone.com/cloudflare
+https://github.com/cloudflare/boringtun	out-of-scope	Cloudflare Public Bug Bounty	https://hackerone.com/cloudflare
 https://github.com/cloudflare/cf	out-of-scope	Cloudflare Public Bug Bounty	https://hackerone.com/cloudflare
 https://github.com/cloudflare/cloudflare-os	out-of-scope	Cloudflare Public Bug Bounty	https://hackerone.com/cloudflare
 https://github.com/cloudflare/computer	out-of-scope	Cloudflare Public Bug Bounty	https://hackerone.com/cloudflare
@@ -26283,7 +26286,7 @@ https://paypoint.us.comerica.net/bankvisibility/viewbankdashboard.do?param_metho
 https://pci-xp-bff-audit.st.latamairlines.com	non-paying	LATAM Airlines	https://hackerone.com/latamairlines
 https://pdc.abb.com/	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 https://pe.products.essity.com	non-paying	Essity	https://hackerone.com/essity
-https://php-rce.cloudflare.app/	paying	Cloudflare Public Bug Bounty	https://hackerone.com/cloudflare
+https://php-rce.cloudflare.app/	out-of-scope	Cloudflare Public Bug Bounty	https://hackerone.com/cloudflare
 https://pim.essity.com	non-paying	Essity	https://hackerone.com/essity
 https://pim.essity.com/scacandaportal	non-paying	Essity	https://hackerone.com/essity
 https://pingfederate-admin-ocp-prd-bc3574.ocpf.info53.com/pingfederate/app	non-paying	Fifth Third Bank VDP	https://hackerone.com/fifth_third_bank_vdp
@@ -43693,6 +43696,7 @@ www.discourse.cbrehost.com	non-paying	CBRE	https://hackerone.com/cbre
 www.disneyexibidor.com.br	out-of-scope	The Walt Disney Company	https://hackerone.com/disney
 www.disruptech-test.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 www.disruptechapi-test.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
+www.divvyhomes.com	non-paying	Divvy Homes	https://hackerone.com/divvy-homes
 www.dl-global.com	non-paying	CBRE	https://hackerone.com/cbre
 www.docket-emea.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 www.dolap.com	paying	Trendyol	https://hackerone.com/trendyol

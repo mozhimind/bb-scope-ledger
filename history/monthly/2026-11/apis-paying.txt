@@ -331,6 +331,7 @@ app.klarna.com
 app.latitudepayapps.com
 apps.yeswehack.com
 arlo.com
+assessment-api.datacamp.com
 assistants.twilio.com
 atlantis-ext.myopenpass.com
 atlassian.ost-consulting.be
@@ -764,6 +765,7 @@ nu.com.mx
 nubank.com.br
 numbers.twilio.com
 oauth.twilio.com
+oos.eu-west-2.outscale.com
 op.paymaya.com
 ope-dashboard-api.optimism.io
 open-api.capital.com
@@ -812,6 +814,7 @@ prod.meeshoapi.com
 prod.uidapi.com
 production.maf.auth0.com
 profile.segment.com
+profiles-api.datacamp.com
 proxy-production.lime.bike
 proxy.twilio.com
 pub-api-ro.fantasysports.yahoo.com

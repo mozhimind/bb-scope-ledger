@@ -1122,6 +1122,7 @@ blog.underarmour.com	out-of-scope	Under Armour Corporate	https://bugcrowd.com/en
 blog.underarmour.com	out-of-scope	Under Armour Product Security	https://bugcrowd.com/engagements/underarmour
 bootstrap.transferwise.com	out-of-scope	Wise (ex-TransferWise)	https://bugcrowd.com/engagements/wise
 brand.bitdefender.com/	out-of-scope	Bitdefender	https://bugcrowd.com/engagements/bitdefender
+brand.optus.com.au	out-of-scope	Optus Managed Bug Bounty	https://bugcrowd.com/engagements/optus-mbb-og
 brand.transferwise.com	out-of-scope	Wise (ex-TransferWise)	https://bugcrowd.com/engagements/wise
 brand.wise.com	out-of-scope	Wise (ex-TransferWise)	https://bugcrowd.com/engagements/wise
 broker.mortgagechoice.com.au	out-of-scope	REA Group | realestate.com.au, realcommercial.com.au, property.com.au	https://bugcrowd.com/engagements/rea-mbb-og
@@ -1844,7 +1845,7 @@ https://fin.ai/	paying	Intercom	https://bugcrowd.com/engagements/intercom
 https://finance.quintoandar.com.br/*	paying	QuintoAndar Managed Bug Bounty Engagement	https://bugcrowd.com/engagements/quintoandar
 https://financeiro.hostgator.com.br	paying	HostGator LATAM Bug Bounty	https://bugcrowd.com/engagements/hostgator-latam-bb
 https://financialforce.com	paying	Certinia (formerly FinancialForce)	https://bugcrowd.com/engagements/financialforce
-https://fitbit-lottery.getmoneytree.com/	paying	Moneytree KK	https://bugcrowd.com/engagements/moneytreekkog
+https://fitbit-lottery-staging.getmoneytree.com/	paying	Moneytree KK	https://bugcrowd.com/engagements/moneytreekkog
 https://fivetran.com/login	paying	Fivetran	https://bugcrowd.com/engagements/fivetran-mbb-og
 https://flags.expeng.optimizely.com	paying	Optimizely	https://bugcrowd.com/engagements/optimizely
 https://flatmates-experience-api.flatmates.com.au	out-of-scope	REA Group | realestate.com.au, realcommercial.com.au, property.com.au	https://bugcrowd.com/engagements/rea-mbb-og

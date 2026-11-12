@@ -515,6 +515,9 @@ https://github.com/kubernetes/utils
 https://github.com/kubernetes/website
 https://github.com/leather-io/mono
 https://github.com/ledgerwatch/erigon
+https://github.com/lfdt-ibc/ibc
+https://github.com/lfdt-ibc/ibc-contracts
+https://github.com/lfdt-ibc/ibc-go
 https://github.com/lidofinance/aave-delivery-infrastructure
 https://github.com/lidofinance/aragon-apps
 https://github.com/lidofinance/circuit-breaker

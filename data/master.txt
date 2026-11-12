@@ -2655,6 +2655,7 @@ addiko-pindelivery-uat.firstdata.com
 addiko-pindelivery.firstdata.com
 addonpayments.com
 adelaidebank.com.au
+adelta.be
 adevinta.com
 adex.network
 adf.sigmahealthcare.com.au
@@ -4312,7 +4313,6 @@ api.kroger.com
 api.kruidvat.be
 api.kruidvat.nl
 api.land.com
-api.lansweeper.com
 api.larksuite.com
 api.leather.io
 api.letsexchange.io
@@ -4763,6 +4763,7 @@ app.citushealth.ca
 app.citushealth.com
 app.connecteam.com
 app.dailypay.com
+app.datacamp.com
 app.datadome.co
 app.defisaver.com
 app.delen.be
@@ -4826,7 +4827,6 @@ app.koho.ca
 app.krisp.ai
 app.kruidvat.be
 app.kruidvat.nl
-app.lansweeper.com
 app.larksuite.com
 app.latitudepayapps.com
 app.launchdarkly.com
@@ -5102,6 +5102,8 @@ aqora.naiad.*
 aqtooling.com
 aquafina.com
 aquasec.com
+aquawardsoperate.water-link.be
+aquawardsspatial.water-link.be
 aquiris.com.br
 aquiris.studio
 aquiristech.com
@@ -5387,8 +5389,11 @@ aspreports.com
 aspresolver.com
 assaabloy.com
 assaabloy.net
+assessment-api.datacamp.com
+assessment-v2.datacamp.com
 assessment.aon.com
 assessment.aonanalytics.tech
+assessment.datacamp.com
 asset-admin.cbre.se
 asset-api.cbre.com.au
 asset.cbre.cl
@@ -5963,7 +5968,6 @@ autotruckfcu-dc.cert.fec-dc.fiservapps.com
 autotruckfcu-dn.financial-net.com
 autotruckfcu.originate.fiservapps.com
 autoupdate.geo.opera.com
-autoupdateapi.lansweeper.com
 autovu.cloud
 autovu.com
 auvik.com
@@ -6099,6 +6103,7 @@ awtr.ngc.com
 awtrdev.ngc.com
 awtrplte.ngc.com
 aww.be
+aww.eu
 awx.devops.cbre.com
 axasecurity.com
 axelspringer.com
@@ -6256,7 +6261,6 @@ backend.test-smsservicesnow.com
 backoffice.evcharging.abb.com.cn
 backoffice.gallileo-frankfurt.com
 backoffice.gyft.com
-backoffice.lansweeper.com
 backoffice.sitemanager.ability.abb.com.cn
 backoffice.vnlat-cat.fiservapps.com
 backoffice.vnlat.fiservapps.com
@@ -8639,6 +8643,7 @@ campshelbycreditunion.vbwebservices.com
 campshelbycu-dc.cert.fec-dc.fiservapps.com
 campshelbycu-dn.financial-net.com
 campus.bovis.es
+campus.datacamp.com
 campus.deere.com.br
 campusbrno.cz
 campusm.co.uk
@@ -11271,7 +11276,6 @@ cloudendure.com
 cloudera-flowgen-u.spaziodati.eu
 cloudera-flowgen.spaziodati.eu
 cloudera.com
-cloudflare.app
 cloudflare.com
 cloudflareaccess.com
 cloudflarepartners.com
@@ -11906,11 +11910,13 @@ com.costco.app.android
 com.costco.costco
 com.creditkarma.mobile
 com.creditkarma.mobile.international
+com.datacamp
 com.dd.doordash
 com.deere.anubhuti
 com.deere.equipmentplus
 com.deere.myoperations
 com.deribit
+com.divvyapp.io
 com.divvypay.Divvy
 com.dolap.android
 com.dropbox.android
@@ -14483,6 +14489,7 @@ databank.nl
 database.dev
 databricks.com
 databronnencovid19.nl
+datacamp.com
 datacenter.motion.abb.com.cn
 datacenters.abb.com
 datachallenge.nl
@@ -15149,6 +15156,7 @@ deskpro.com
 desksonar.cbre.es
 desktop-sit.uat.proptrack.com
 desktop.github.com
+desktop.water-link.be
 deskundigengroepdierziekten.nl
 deskundigenregister.nl
 destaatvanhetonderwijs.nl
@@ -16028,6 +16036,7 @@ dividendsolar.com
 division2map.com
 divops-mcp.deere.com
 divvy.co
+divvyhomes.com
 dixan.it
 dixiecupfcu-dc.cert.fec-dc.fiservapps.com
 dixiecupfcu-dn.financial-net.com
@@ -16192,7 +16201,6 @@ docs.harvestprofit.com
 docs.host-building.com
 docs.institutional.ts.finance
 docs.keeper.io
-docs.lansweeper.com
 docs.launchdarkly.com
 docs.lido.fi
 docs.moneynetwork.com
@@ -17187,7 +17195,6 @@ edge.blablacar.tr
 edge.bookbeat.com
 edge.genixdatalyzer.measurementservice.abb.com
 edge.in.myngc.com
-edge.lansweeper.com
 edge.machinefinder.com
 edge.om-machinefinder-prod-vpn.us.e26.c01.johndeerecloud.com
 edge.supplieroasis.com
@@ -18984,7 +18991,6 @@ faxpatinc.com
 fb.com
 fb.gallileo-frankfurt.com
 fb.gyft.com
-fb.lansweeper.com
 fb.me
 fb.test.gyft.com
 fbapps.aegeanair.com
@@ -19837,7 +19843,7 @@ fisherinvestments.fr
 fisheye.pclender.com
 fishwatch.gov
 fit.nba.com
-fitbit-lottery.getmoneytree.com
+fitbit-lottery-staging.getmoneytree.com
 fitbit.com
 fitbook.de
 fitburn.ai
@@ -23282,6 +23288,9 @@ https://app.cvent.com/Subscribers/Appointments
 https://app.cvent.com/Subscribers/Events2
 https://app.cvent.com/Subscribers/Inquisium
 https://app.cvent.com/Subscribers/RFP
+https://app.datacamp.com/certification
+https://app.datacamp.com/groups
+https://app.datacamp.com/learn
 https://app.dexalot.com
 https://app.ecwid.com/api/v3
 https://app.fing.com/internet/business/devrecog/trial
@@ -23289,7 +23298,6 @@ https://app.glean.com/login
 https://app.granite.world/market
 https://app.high.powerbigov.us/view
 https://app.ibotta.com/sign-in
-https://app.lansweeper.com/trial
 https://app.simple-reports.com/demo
 https://app.sproutsocial.com/api
 https://app.wisdomtreeconnect.com/api
@@ -23395,6 +23403,7 @@ https://apps.apple.com/app/id1235601864
 https://apps.apple.com/app/id1254292716
 https://apps.apple.com/app/id1256027729
 https://apps.apple.com/app/id1257222717
+https://apps.apple.com/app/id1263413087
 https://apps.apple.com/app/id1265170914
 https://apps.apple.com/app/id1267896687
 https://apps.apple.com/app/id1273303729
@@ -24053,7 +24062,6 @@ https://developer.arkoselabs.com/docs/arkose-labs-command-center
 https://developer.arkoselabs.com/docs/client-api
 https://developer.arkoselabs.com/docs/verify-api-v4
 https://developer.authorize.net/hello_world/sandbox.html
-https://developer.lansweeper.com/docs/data-api/get-started/welcome
 https://developer.nvidia.com/cuda-downloads
 https://developer.nvidia.com/nvcomp-downloads
 https://developer.nvidia.com/nvidia-development-tools-solutions-err_nvgpuctrperm-permission-issue-performance-counters
@@ -24616,10 +24624,8 @@ https://github.com/cosmos/cosmos-sdk
 https://github.com/cosmos/evm
 https://github.com/cosmos/gaia
 https://github.com/cosmos/iavl
-https://github.com/cosmos/ibc-go
 https://github.com/cosmos/ics23
 https://github.com/cosmos/ledger-cosmos
-https://github.com/cosmos/solidity-ibc-eureka
 https://github.com/cosmwasm/cosmwasm
 https://github.com/cosmwasm/cw-storage-plus
 https://github.com/cosmwasm/cw-utils
@@ -24935,6 +24941,9 @@ https://github.com/kubernetes/utils
 https://github.com/kubernetes/website
 https://github.com/leather-io/mono
 https://github.com/ledgerwatch/erigon
+https://github.com/lfdt-ibc/ibc
+https://github.com/lfdt-ibc/ibc-contracts
+https://github.com/lfdt-ibc/ibc-go
 https://github.com/lidofinance/aave-delivery-infrastructure
 https://github.com/lidofinance/aragon-apps
 https://github.com/lidofinance/circuit-breaker
@@ -27323,6 +27332,7 @@ https://www.cyberghostvpn.com/en_US/apps/windows-vpn
 https://www.dancenter.dk/sommerhus/midtjylland/midtjylland/kvie-so/65573
 https://www.dashlane.com/download-dashlane
 https://www.dashlane.com/sso
+https://www.datacamp.com/datalab
 https://www.deepcoin.com/en/apiPage
 https://www.delacre.com/fr/fr/xp/jeu-concours
 https://www.delacre.com/int/en
@@ -27449,8 +27459,6 @@ https://www.kruidvat.be/api/v2/api-docs
 https://www.kruidvat.nl/api/v2/api-docs
 https://www.kuleuven.be/sapredir/huisvesting
 https://www.ladbrokes.com/en/games
-https://www.lansweeper.com/download
-https://www.lansweeper.com/product/features/integrate/flow-builder
 https://www.larksuite.com/download
 https://www.leukoplast.be/fr
 https://www.leukoplast.ch/de
@@ -28595,6 +28603,8 @@ indriverapp.com
 indriverjob.com
 indsight-royalcanin.com
 indusappstore.com
+induss.eu
+indussiibis.water-link.be
 industrial-automation-service.abb.com
 industrialemployeescu-dc.cert.fec-dc.fiservapps.com
 industrialemployeescu-dn.financial-net.com
@@ -31069,7 +31079,6 @@ languagecert.org
 languagesinview.com
 lanierfcu.org
 lanpass.aero
-lansweeper.com
 lanternpay.com
 lantours.aero
 lanvb.com
@@ -31247,7 +31256,6 @@ leaseweb.com
 leasing.apartments.com
 leasingproposal.cbre.com.au
 leather.io
-lecstaticcontent.lansweeper.com
 ledger.com
 ledn.io
 leebank.onlinebank.com
@@ -31883,7 +31891,6 @@ login.infomaniak.com
 login.innogames.de
 login.insightly.com
 login.koho.ca
-login.lansweeper.com
 login.mbs-navigator.com
 login.medscape.com
 login.my.fleetboard.com
@@ -34254,6 +34261,7 @@ mijnontwikkelhuis.nl
 mijnpgb.nl
 mijnslachtofferzaak.nl
 mijnverblijfsdocument.nl
+mijnwater-link.be
 mijnwerkenzekerheid.nl
 mikescolombia.com
 mikesecuador.com
@@ -38200,6 +38208,7 @@ ontwerpwedstrijdmiljoenennota.nl
 onzedelta.nl
 onzeoverheid.nl
 ooredoo.qa
+oos.eu-west-2.outscale.com
 oos.pdc.abb.com
 op.paymaya.com
 op2-bff.rokt.com
@@ -38641,7 +38650,6 @@ osti.gov
 ostium.app
 ostium.com
 osts.fcc.gov
-osu.eu-west-2.outscale.com
 ota.onecloud.harman.com
 otc.in.abb.com
 otcweb.econfigure.abb.com
@@ -39844,7 +39852,6 @@ photo.kruidvat.be
 photo.walgreens.com
 photoccino.com
 photos.gallileo-frankfurt.com
-php-rce.cloudflare.app
 php.net
 phpmv.monosem-inc.com
 phpmyadmin.gallileo-frankfurt.com
@@ -39977,6 +39984,7 @@ piscataqua-admin.originate.fiservapps.com
 piscataqua.onlinebank.com
 piscataqua.originate.fiservapps.com
 pismo.io
+pit.water-link.be
 pit2port.com
 pitch.cbre.nl
 pitch.se
@@ -40733,6 +40741,7 @@ pr.nba.com
 practicalbusinessskills.org
 practicalmoneyskills.com
 practicalmoneyskills.org
+practice.datacamp.com
 practice.securevetsource.com
 practo.com
 pragueofficeadvisor.cbre.cz
@@ -41267,6 +41276,7 @@ profile.hackthebox.com
 profile.playstation.com
 profile.segment.com
 profile.telenor.se
+profiles-api.datacamp.com
 profiles.sports.yahoo.com
 profiles.wordpress.org
 profileservicep.deere.com
@@ -41299,6 +41309,7 @@ projectneon.com
 projectradon.com
 projects.cbre.eu
 projects.cbre.se
+projects.datacamp.com
 projects.dev
 projects.drives.abb.com.cn
 projects.epam.com
@@ -43320,6 +43331,7 @@ rincon.streamlendvelocity.net
 ring.com
 rings.solutions
 ringtune.mtn.co.za
+rio-link.be
 rio.bank-admin.originate.fiservapps.com
 rio.bank.originate.fiservapps.com
 rio.caaweb.com
@@ -52707,6 +52719,8 @@ watch.global.nba.com
 watchguard.ca
 watdevog.nl
 wateetnederland.nl
+water-kracht-levering.be
+water-kracht-levering.eu
 water-link-jaarverslag.be
 water-link.be
 waterasleverage.org
@@ -52716,8 +52730,12 @@ waterenklimaat.nl
 waterfordbank.caaweb.com
 waterfordbankna-p2.onlinebank.com
 waterfordbankna.onlinebank.com
+waterkracht-levering.be
+waterkracht-levering.eu
+waterlink.be
 watermarkt.nl
 watermonitor.gov
+waterstoringen.be
 watertownsavings-admin.originate.fiservapps.com
 watertownsavings-p2.onlinebank.com
 watertownsavings.originate.fiservapps.com
@@ -54976,6 +54994,7 @@ www.darphin.dcp.elcompanies.com
 www.darphin.dcpm.elcompanies.com
 www.dashboard.gatekeepers.co.in
 www.data-center.cbre.es
+www.datacamp.com
 www.datamgmt.greenqa.cbre.com
 www.dataservices.cbre.eu
 www.dateplanner.cbre.nl
@@ -55097,6 +55116,7 @@ www.dimensionserverdev.cbre.com
 www.discourse.cbrehost.com
 www.disruptech-test.cbre.com
 www.disruptechapi-test.cbre.com
+www.divvyhomes.com
 www.dl-global.com
 www.dmp.fr
 www.dmp.gouv.fr
@@ -55798,7 +55818,6 @@ www.landaulettings.com
 www.landmarkcinemas.com
 www.landwatch.com
 www.languagecert.org
-www.lansweeper.com
 www.laoficinadelfuturo.cbre.es
 www.lascana.de
 www.lastpass.com

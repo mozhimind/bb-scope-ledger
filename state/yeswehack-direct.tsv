@@ -314,8 +314,8 @@ api:https://eim.eu-west-2.outscale.com	paying	3DS OUTSCALE	https://yeswehack.com
 api:https://events.onecloud.harman.com	paying	Harman International Lifestyle Products & Services	https://yeswehack.com/programs/harman-international-public-bug-bounty
 api:https://fcu.eu-west-2.outscale.com	paying	3DS OUTSCALE	https://yeswehack.com/programs/outscale
 api:https://lbu.eu-west-2.outscale.com	paying	3DS OUTSCALE	https://yeswehack.com/programs/outscale
+api:https://oos.eu-west-2.outscale.com	paying	3DS OUTSCALE	https://yeswehack.com/programs/outscale
 api:https://op.paymaya.com/	paying	Maya - Public Bug Bounty Program	https://yeswehack.com/programs/maya-public-bug-bounty-program
-api:https://osu.eu-west-2.outscale.com	paying	3DS OUTSCALE	https://yeswehack.com/programs/outscale
 api:https://ota.onecloud.harman.com	paying	Harman International Lifestyle Products & Services	https://yeswehack.com/programs/harman-international-public-bug-bounty
 api:https://partnerapi.imoulife.com	paying	IMOU Public Bug Bounty Program	https://yeswehack.com/programs/imou-public-bug-bounty-program
 api:https://paymayabiller-prod.paymaya.com/	paying	Maya - Public Bug Bounty Program	https://yeswehack.com/programs/maya-public-bug-bounty-program
@@ -451,6 +451,7 @@ biometservices.com	paying	VFS Global Bug Bounty Program	https://yeswehack.com/pr
 blog.swapcard.com (Hubspot)	out-of-scope	Swapcard	https://yeswehack.com/programs/swapcard
 books.swapcard.com (Zoho)	out-of-scope	Swapcard	https://yeswehack.com/programs/swapcard
 boost.vinci.com	paying	VINCI SA - Public program	https://yeswehack.com/programs/vincisa-public-program
+butik.vimla.se	out-of-scope	Telenor Sweden Public Bug Bounty Program	https://yeswehack.com/programs/telenor-sweden-public-bug-bounty-program
 c.swapcard.com	out-of-scope	Swapcard	https://yeswehack.com/programs/swapcard
 calendar.infomaniak.com	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program
 cam.notebleue.pro	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM	https://yeswehack.com/programs/zecible-public-bug-bounty-program

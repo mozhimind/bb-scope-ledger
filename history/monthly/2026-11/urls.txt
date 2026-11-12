@@ -203,6 +203,9 @@ https://apigw.prod.quintoandar.com.br/sales-flow-api
 https://apis.indeed.com/graphql
 https://apk.wx16ml.info/apk400.apk
 https://app-qa.chime.com/login
+https://app.datacamp.com/certification
+https://app.datacamp.com/groups
+https://app.datacamp.com/learn
 https://app.ecwid.com/api/v3
 https://app.glean.com/login
 https://app.granite.world/market
@@ -1353,6 +1356,7 @@ https://www.cyberghostvpn.com/en_US/apps/linux-vpn
 https://www.cyberghostvpn.com/en_US/apps/macos-vpn
 https://www.cyberghostvpn.com/en_US/apps/windows-vpn
 https://www.dancenter.dk/sommerhus/midtjylland/midtjylland/kvie-so/65573
+https://www.datacamp.com/datalab
 https://www.deepcoin.com/en/apiPage
 https://www.delacre.com/fr/fr/xp/jeu-concours
 https://www.delacre.com/int/en

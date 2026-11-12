@@ -4125,8 +4125,8 @@ app:Opera for Android	paying	Opera Public Bug Bounty	https://bugcrowd.com/engage
 app:Opera for iOS	paying	Opera Public Bug Bounty	https://bugcrowd.com/engagements/opera
 app:Opsgenie (Android)	paying	Opsgenie	https://bugcrowd.com/engagements/opsgenie
 app:Opsgenie (IoS)	paying	Opsgenie	https://bugcrowd.com/engagements/opsgenie
-app:Optus android app	paying	Optus Managed Bug Bounty	https://bugcrowd.com/engagements/optus-mbb-og
-app:Optus iOS App	paying	Optus Managed Bug Bounty	https://bugcrowd.com/engagements/optus-mbb-og
+app:Optus Android Application	paying	Optus Managed Bug Bounty	https://bugcrowd.com/engagements/optus-mbb-og
+app:Optus iOS Application	paying	Optus Managed Bug Bounty	https://bugcrowd.com/engagements/optus-mbb-og
 app:PartOS Android Application	non-paying	Telefónica Germany	https://bugcrowd.com/engagements/telefonicavdp
 app:PartOS iOS Application	non-paying	Telefónica Germany	https://bugcrowd.com/engagements/telefonicavdp
 app:Partycasino APK	paying	Entain Public Managed Bug Bounty Engagement 2024	https://bugcrowd.com/engagements/entain-public-mbb-og
@@ -4743,6 +4743,7 @@ bootstrap.transferwise.com	out-of-scope	Wise (ex-TransferWise)	https://bugcrowd.
 bordgaisenergy.ie	non-paying	Bord Gais Energy VDP	https://bugcrowd.com/engagements/bordgaisenergy
 bp.ual.com	out-of-scope	United Airlines	https://bugcrowd.com/engagements/united-vdp
 brand.bitdefender.com/	out-of-scope	Bitdefender	https://bugcrowd.com/engagements/bitdefender
+brand.optus.com.au	out-of-scope	Optus Managed Bug Bounty	https://bugcrowd.com/engagements/optus-mbb-og
 brand.transferwise.com	out-of-scope	Wise (ex-TransferWise)	https://bugcrowd.com/engagements/wise
 brand.united.com	out-of-scope	United Airlines	https://bugcrowd.com/engagements/united-vdp
 brand.wise.com	out-of-scope	Wise (ex-TransferWise)	https://bugcrowd.com/engagements/wise
@@ -6269,7 +6270,7 @@ https://finance.quintoandar.com.br/*	paying	QuintoAndar Managed Bug Bounty Engag
 https://financeiro.hostgator.com.br	paying	HostGator LATAM Bug Bounty	https://bugcrowd.com/engagements/hostgator-latam-bb
 https://financeiro.quintoandar.com.br/*	paying	QuintoAndar Managed Bug Bounty Engagement	https://bugcrowd.com/engagements/quintoandar
 https://financialforce.com	paying	Certinia (formerly FinancialForce)	https://bugcrowd.com/engagements/financialforce
-https://fitbit-lottery.getmoneytree.com/	paying	Moneytree KK	https://bugcrowd.com/engagements/moneytreekkog
+https://fitbit-lottery-staging.getmoneytree.com/	paying	Moneytree KK	https://bugcrowd.com/engagements/moneytreekkog
 https://fitnowinc.com/	non-paying	Ziff Davis Vulnerability Disclosure Program	https://bugcrowd.com/engagements/ziffdavis-vdp-pro
 https://fivetran.com/login	paying	Fivetran	https://bugcrowd.com/engagements/fivetran-mbb-og
 https://fixedassets.xero.com	non-paying	Xero Vulnerability Disclosure Engagement	https://bugcrowd.com/engagements/xero-vdp-pro

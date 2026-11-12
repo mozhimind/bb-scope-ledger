@@ -1,3 +1,2 @@
-bitmex.com
-hilton.com.cn
-maxbet.ro
+datacamp.com
+mijnwater-link.be

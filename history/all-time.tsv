@@ -385,6 +385,7 @@ apex	adaptivesoftware.net	2026-11-10		non-paying	Clarivate
 apex	adaptsw.com	2026-11-10		non-paying	Clarivate
 apex	adaware.com	2026-11-10		non-paying	adaware.com
 apex	adelaidebank.com.au	2026-11-10		non-paying	Bendigo Bank Responsible Disclosure Program
+apex	adelta.be	2026-11-13		paying	Water-Link
 apex	adevinta.com	2026-11-10		non-paying	Adevinta
 apex	adex.network	2026-11-10		non-paying	adex.network
 apex	admin.ch	2026-11-10		non-paying	Swiss National Cyber Security Center (NCSC.ch)
@@ -1290,7 +1291,8 @@ apex	awsevents.com	2026-11-10		non-paying	AWS VDP
 apex	awspartner.com	2026-11-10		non-paying	AWS VDP
 apex	awt.nl	2026-11-10		non-paying	Government of Netherlands
 apex	awti.nl	2026-11-10		non-paying	Government of Netherlands
-apex	aww.be	2026-11-10		non-paying	Water-Link VDP
+apex	aww.be	2026-11-10		paying	Water-Link; Water-Link VDP
+apex	aww.eu	2026-11-13		paying	Water-Link
 apex	axasecurity.com	2026-11-10		non-paying	Allegion
 apex	axelspringer.com	2026-11-10		paying	Axel Springer National Media & Tech; Axel Springer SE Vulnerability Disclosure Program
 apex	axelspringer.de	2026-11-10		paying	Axel Springer National Media & Tech
@@ -3570,7 +3572,7 @@ apex	cloudbees.com	2026-11-10		non-paying	Cloudbees
 apex	cloudcannon.com	2026-11-10		paying	CloudCannon
 apex	cloudendure.com	2026-11-10		non-paying	AWS VDP
 apex	cloudera.com	2026-11-10		non-paying	Cloudera
-apex	cloudflare.app	2026-11-10		paying	Cloudflare Public Bug Bounty
+apex	cloudflare.app	2026-11-10	2026-11-13	paying	Cloudflare Public Bug Bounty
 apex	cloudflare.com	2026-11-10		paying	CloudFlare; Cloudflare Public Bug Bounty
 apex	cloudflareaccess.com	2026-11-10		paying	Cloudflare Public Bug Bounty
 apex	cloudflarepartners.com	2026-11-10		paying	Cloudflare Public Bug Bounty
@@ -4771,6 +4773,7 @@ apex	databank.nl	2026-11-10		non-paying	Government of Netherlands
 apex	database.dev	2026-11-10		non-paying	Supabase
 apex	databricks.com	2026-11-10		paying	Databricks
 apex	databronnencovid19.nl	2026-11-10		non-paying	Government of Netherlands
+apex	datacamp.com	2026-11-13		paying	DataCamp
 apex	datachallenge.nl	2026-11-10		non-paying	Government of Netherlands
 apex	datacredito.com	2026-11-10		non-paying	Equifax-vdp
 apex	datacredito.com.do	2026-11-10		non-paying	Equifax-vdp
@@ -5331,6 +5334,7 @@ apex	dividendfinance.com	2026-11-10		non-paying	Fifth Third Bank VDP
 apex	dividendsolar.com	2026-11-10		non-paying	Fifth Third Bank VDP
 apex	division2map.com	2026-11-10		non-paying	Ziff Davis Vulnerability Disclosure Program
 apex	divvy.co	2026-11-10		non-paying	BILL VDP
+apex	divvyhomes.com	2026-11-13		non-paying	Divvy Homes
 apex	dixan.it	2026-11-10		non-paying	Henkel
 apex	dixieline.org	2026-11-10		non-paying	Fiserv
 apex	dji-aanbestedingen.nl	2026-11-10		non-paying	Government of Netherlands
@@ -8402,6 +8406,7 @@ apex	indriverapp.com	2026-11-10		paying	inDrive
 apex	indriverjob.com	2026-11-10		paying	inDrive
 apex	indsight-royalcanin.com	2026-11-10		non-paying	Mars
 apex	indusappstore.com	2026-11-10		non-paying	PhonePe
+apex	induss.eu	2026-11-13		paying	Water-Link
 apex	industrialtechnologies2016.eu	2026-11-10		non-paying	Government of Netherlands
 apex	industriousoffice.com	2026-11-10		non-paying	CBRE
 apex	infiniteathlete.ai	2026-11-10		paying	Infinite Athlete
@@ -9739,7 +9744,7 @@ apex	languagecert.org	2026-11-10		non-paying	PeopleCert VDP
 apex	languagesinview.com	2026-11-10		non-paying	Clarivate
 apex	lanierfcu.org	2026-11-10		non-paying	Fiserv
 apex	lanpass.aero	2026-11-10		non-paying	LATAM Airlines
-apex	lansweeper.com	2026-11-10		paying	Lansweeper Bug Bounty Program
+apex	lansweeper.com	2026-11-10	2026-11-13	paying	Lansweeper Bug Bounty Program
 apex	lanternpay.com	2026-11-10		non-paying	NAB's Responsible Disclosure Program
 apex	lantours.aero	2026-11-10		non-paying	LATAM Airlines
 apex	lanvb.com	2026-11-10		non-paying	Clarivate
@@ -10996,6 +11001,7 @@ apex	mijnontwikkelhuis.nl	2026-11-10		non-paying	Government of Netherlands
 apex	mijnpgb.nl	2026-11-10		non-paying	Government of Netherlands
 apex	mijnslachtofferzaak.nl	2026-11-10		non-paying	Government of Netherlands
 apex	mijnverblijfsdocument.nl	2026-11-10		non-paying	Government of Netherlands
+apex	mijnwater-link.be	2026-11-13		paying	Water-Link
 apex	mijnwerkenzekerheid.nl	2026-11-10		non-paying	Government of Netherlands
 apex	mikescolombia.com	2026-11-10		non-paying	AB InBev Vulnerability Disclosure Program
 apex	mikesecuador.com	2026-11-10		non-paying	AB InBev Vulnerability Disclosure Program
@@ -14683,6 +14689,7 @@ apex	rijkswaterstaatstrooit.nl	2026-11-10		non-paying	Government of Netherlands
 apex	rilfavy.ca	2026-11-10		non-paying	Clarivate
 apex	ring.com	2026-11-10		paying	Ring
 apex	rings.solutions	2026-11-10		paying	Ring
+apex	rio-link.be	2026-11-13		paying	Water-Link
 apex	riotgames.com	2026-11-10		paying	Riot Games
 apex	ripe.net	2026-11-10		paying	RIPE NCC; Ripe NCC
 apex	ripio.com	2026-11-10		paying	Ripio
@@ -18464,14 +18471,20 @@ apex	washingtonfederal.com	2026-11-10		non-paying	Fiserv
 apex	watchguard.ca	2026-11-10		non-paying	Clarivate
 apex	watdevog.nl	2026-11-10		non-paying	Government of Netherlands
 apex	wateetnederland.nl	2026-11-10		non-paying	Government of Netherlands
-apex	water-link-jaarverslag.be	2026-11-10		non-paying	Water-Link VDP
-apex	water-link.be	2026-11-10		non-paying	Water-Link VDP
+apex	water-kracht-levering.be	2026-11-13		paying	Water-Link
+apex	water-kracht-levering.eu	2026-11-13		paying	Water-Link
+apex	water-link-jaarverslag.be	2026-11-10		paying	Water-Link; Water-Link VDP
+apex	water-link.be	2026-11-10		paying	Water-Link; Water-Link VDP
 apex	waterasleverage.org	2026-11-10		non-paying	Government of Netherlands
 apex	waterbeschikbaarheid.nl	2026-11-10		non-paying	Government of Netherlands
 apex	waterbodemrichtlijn.nl	2026-11-10		non-paying	Government of Netherlands
 apex	waterenklimaat.nl	2026-11-10		non-paying	Government of Netherlands
+apex	waterkracht-levering.be	2026-11-13		paying	Water-Link
+apex	waterkracht-levering.eu	2026-11-13		paying	Water-Link
+apex	waterlink.be	2026-11-13		paying	Water-Link
 apex	watermarkt.nl	2026-11-10		non-paying	Government of Netherlands
 apex	watermonitor.gov	2026-11-10		non-paying	U.S. Geological Survey
+apex	waterstoringen.be	2026-11-13		paying	Water-Link
 apex	waterveiligheidsportaal.nl	2026-11-10		non-paying	Government of Netherlands
 apex	waterverhalen.nl	2026-11-10		non-paying	Government of Netherlands
 apex	watisdeslimmemeter.nl	2026-11-10		non-paying	Government of Netherlands
@@ -19956,11 +19969,13 @@ apps	com.costco.app.android	2026-11-10		non-paying	Costco
 apps	com.costco.costco	2026-11-10		non-paying	Costco
 apps	com.creditkarma.mobile	2026-11-10		paying	Credit Karma
 apps	com.creditkarma.mobile.international	2026-11-10		paying	Credit Karma
+apps	com.datacamp	2026-11-13		paying	DataCamp
 apps	com.dd.doordash	2026-11-10		paying	DoorDash
 apps	com.deere.anubhuti	2026-11-10		non-paying	John Deere
 apps	com.deere.equipmentplus	2026-11-10		non-paying	John Deere
 apps	com.deere.myoperations	2026-11-10		non-paying	John Deere
 apps	com.deribit	2026-11-10		paying	Deribit
+apps	com.divvyapp.io	2026-11-13		non-paying	Divvy Homes
 apps	com.divvypay.Divvy	2026-11-10		non-paying	BILL VDP
 apps	com.dolap.android	2026-11-10		paying	Trendyol
 apps	com.dropbox.android	2026-11-10		paying	Dropbox Bug Bounty
@@ -20452,6 +20467,7 @@ apps	https://apps.apple.com/app/id1235601864	2026-11-10		paying	TikTok
 apps	https://apps.apple.com/app/id1254292716	2026-11-10		paying	Slack
 apps	https://apps.apple.com/app/id1256027729	2026-11-10		non-paying	Bath & Body Works Vulnerability Disclosure Program
 apps	https://apps.apple.com/app/id1257222717	2026-11-10		paying	Mattermost Public Bug Bounty Engagement
+apps	https://apps.apple.com/app/id1263413087	2026-11-13		paying	DataCamp
 apps	https://apps.apple.com/app/id1265170914	2026-11-10		paying	Amazon Vulnerability Research Program
 apps	https://apps.apple.com/app/id1267896687	2026-11-10		paying	Superdrug
 apps	https://apps.apple.com/app/id1273303729	2026-11-10		paying	Keeper Security Public Bounty Program
@@ -22452,10 +22468,10 @@ github	https://github.com/cosmos/cosmos-sdk	2026-11-10		paying	Cosmos
 github	https://github.com/cosmos/evm	2026-11-10		paying	Cosmos
 github	https://github.com/cosmos/gaia	2026-11-10		paying	Cosmos
 github	https://github.com/cosmos/iavl	2026-11-10		paying	Cosmos
-github	https://github.com/cosmos/ibc-go	2026-11-10		paying	Cosmos
+github	https://github.com/cosmos/ibc-go	2026-11-10	2026-11-13	paying	Cosmos
 github	https://github.com/cosmos/ics23	2026-11-10		paying	Cosmos
 github	https://github.com/cosmos/ledger-cosmos	2026-11-10		paying	Cosmos
-github	https://github.com/cosmos/solidity-ibc-eureka	2026-11-10		paying	Cosmos
+github	https://github.com/cosmos/solidity-ibc-eureka	2026-11-10	2026-11-13	paying	Cosmos
 github	https://github.com/cosmwasm/cosmwasm	2026-11-10		paying	Cosmos
 github	https://github.com/cosmwasm/cw-storage-plus	2026-11-10		paying	Cosmos
 github	https://github.com/cosmwasm/cw-utils	2026-11-10		paying	Cosmos
@@ -22771,6 +22787,9 @@ github	https://github.com/kubernetes/utils	2026-11-10		paying	Kubernetes
 github	https://github.com/kubernetes/website	2026-11-10		paying	Kubernetes
 github	https://github.com/leather-io/mono	2026-11-10		paying	Leather
 github	https://github.com/ledgerwatch/erigon	2026-11-10		paying	Attackathon | Ethereum Protocol
+github	https://github.com/lfdt-ibc/ibc	2026-11-13		paying	Cosmos
+github	https://github.com/lfdt-ibc/ibc-contracts	2026-11-13		paying	Cosmos
+github	https://github.com/lfdt-ibc/ibc-go	2026-11-13		paying	Cosmos
 github	https://github.com/lidofinance/aave-delivery-infrastructure	2026-11-10		paying	Lido
 github	https://github.com/lidofinance/aragon-apps	2026-11-10		paying	Lido
 github	https://github.com/lidofinance/circuit-breaker	2026-11-10		paying	Lido
@@ -22836,7 +22855,7 @@ github	https://github.com/matter-labs/airbender-platform	2026-11-10		paying	ZKsy
 github	https://github.com/matter-labs/era-contracts	2026-11-10		paying	ZKsync Era; ZKsync OS
 github	https://github.com/matter-labs/zkos-wrapper	2026-11-10		paying	ZKsync OS
 github	https://github.com/matter-labs/zksync-airbender	2026-11-10		paying	ZKsync OS
-github	https://github.com/matter-labs/zksync-crypto	2026-11-10		paying	ZKsync Era; ZKsync OS
+github	https://github.com/matter-labs/zksync-crypto	2026-11-10		paying	ZKsync OS
 github	https://github.com/matter-labs/zksync-os	2026-11-10		paying	ZKsync OS
 github	https://github.com/matter-labs/zksync-protocol	2026-11-10		paying	ZKsync Era
 github	https://github.com/mattermost/mattermost-plugin-ai	2026-11-10		paying	Mattermost Public Bug Bounty Engagement
@@ -24327,7 +24346,7 @@ maybe	apidocs.aikido.dev	2026-11-10		paying	Aikido Security: Bug Bounty Program
 maybe	apidocs.bridge.xyz	2026-11-10		paying	Stripe
 maybe	app-eu.worklytics.co	2026-11-10		non-paying	Worklytics
 maybe	app.box.com	2026-11-10		paying	Box BB
-maybe	app.lansweeper.com	2026-11-10		paying	Lansweeper Bug Bounty Program
+maybe	app.lansweeper.com	2026-11-10	2026-11-13	paying	Lansweeper Bug Bounty Program
 maybe	app.snapchat.com	2026-11-10		paying	Snapchat
 maybe	app.worklytics.co	2026-11-10		non-paying	Worklytics
 maybe	app01.us.bill.com	2026-11-10		non-paying	BILL VDP
@@ -24428,7 +24447,7 @@ maybe	donorbox.org	2026-11-10		non-paying	Donorbox Vulnerability Disclosure Proj
 maybe	dust.tt	2026-11-10		non-paying	Dust
 maybe	e.e.marcus.com	2026-11-10		paying	Goldman Sachs
 maybe	ecsi.net	2026-11-10		non-paying	Global Payments
-maybe	edge.lansweeper.com	2026-11-10		paying	Lansweeper Bug Bounty Program
+maybe	edge.lansweeper.com	2026-11-10	2026-11-13	paying	Lansweeper Bug Bounty Program
 maybe	education.github.com	2026-11-10		paying	GitHub
 maybe	eis.hilton.com	2026-11-10		paying	Hilton
 maybe	elavonpaymentgateway.com	2026-11-10		non-paying	Global Payments
@@ -24654,7 +24673,7 @@ maybe	https://www.gainsight.com/security/vulnerability-disclosure-program	2026-1
 maybe	https://www.goodrx.com/care	2026-11-10		paying	GoodRx
 maybe	https://www.hilton.com/en/hilton-honors/join	2026-11-10		paying	Hilton
 maybe	https://www.kayak.com/global	2026-11-10		paying	KAYAK
-maybe	https://www.lansweeper.com/download	2026-11-10		paying	Lansweeper Bug Bounty Program
+maybe	https://www.lansweeper.com/download	2026-11-10	2026-11-13	paying	Lansweeper Bug Bounty Program
 maybe	https://www.larksuite.com/download	2026-11-10		paying	Lark Technologies
 maybe	https://www.mastercard.ch/de-ch.html	2026-11-10		paying	Mastercard Public Bug Bounty
 maybe	https://www.mastercard.ch/fr-ch.html	2026-11-10		paying	Mastercard Public Bug Bounty
@@ -27113,7 +27132,7 @@ subdomains	api.kroger.com	2026-11-10		non-paying	The Kroger Co - Vulnerability D
 subdomains	api.kruidvat.be	2026-11-10		paying	Kruidvat
 subdomains	api.kruidvat.nl	2026-11-10		paying	Kruidvat
 subdomains	api.land.com	2026-11-10		non-paying	CoStar Vulnerability Disclosure Engagement
-subdomains	api.lansweeper.com	2026-11-10		paying	Lansweeper Bug Bounty Program
+subdomains	api.lansweeper.com	2026-11-10	2026-11-13	paying	Lansweeper Bug Bounty Program
 subdomains	api.larksuite.com	2026-11-10		paying	Lark Technologies
 subdomains	api.leather.io	2026-11-10		paying	Leather
 subdomains	api.letsexchange.io	2026-11-10		paying	letsexchange-web-and-api-and-widget-swap-bridge-dex
@@ -27547,6 +27566,7 @@ subdomains	app.citushealth.ca	2026-11-10		non-paying	ResMed
 subdomains	app.citushealth.com	2026-11-10		non-paying	ResMed
 subdomains	app.connecteam.com	2026-11-10		non-paying	Connecteam Vulnerability Disclosure Engagement
 subdomains	app.dailypay.com	2026-11-10		non-paying	DailyPay VDP
+subdomains	app.datacamp.com	2026-11-13		unknown	
 subdomains	app.datadome.co	2026-11-10		paying	DataDome Bug Bounty
 subdomains	app.defisaver.com	2026-11-10		paying	DeFi Saver
 subdomains	app.delen.be	2026-11-10		paying	Delen Private Bank
@@ -27610,7 +27630,7 @@ subdomains	app.koho.ca	2026-11-10		paying	KOHO
 subdomains	app.krisp.ai	2026-11-10		paying	Krisp
 subdomains	app.kruidvat.be	2026-11-10		paying	Kruidvat
 subdomains	app.kruidvat.nl	2026-11-10		paying	Kruidvat
-subdomains	app.lansweeper.com	2026-11-10		paying	Lansweeper Bug Bounty Program
+subdomains	app.lansweeper.com	2026-11-10	2026-11-13	paying	Lansweeper Bug Bounty Program
 subdomains	app.larksuite.com	2026-11-10		paying	Lark Technologies
 subdomains	app.latitudepayapps.com	2026-11-10		paying	Latitude Financial Services Bug Bounty
 subdomains	app.launchdarkly.com	2026-11-10		paying	LaunchDarkly Managed Bug Bounty Engagement
@@ -27839,6 +27859,8 @@ subdomains	aptoramobile.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	apuacmysupplier.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	aqda3.aegeanair.com	2026-11-10		non-paying	Aegean Airlines Vulnerability Disclosure
 subdomains	aqda3uat.aegeanair.com	2026-11-10		non-paying	Aegean Airlines Vulnerability Disclosure
+subdomains	aquawardsoperate.water-link.be	2026-11-13		paying	Water-Link
+subdomains	aquawardsspatial.water-link.be	2026-11-13		paying	Water-Link
 subdomains	ar-qa.nonprod.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	ar-tm.nonprod.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	ar-uat.nonprod.cbre.com	2026-11-10		non-paying	CBRE
@@ -27986,8 +28008,11 @@ subdomains	aspirecu-dn.financial-net.com	2026-11-10		non-paying	Fiserv
 subdomains	aspirecu.originate.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	aspirefcu-dc.cert.fec-dc.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	aspirefcu-dn.financial-net.com	2026-11-10		non-paying	Fiserv
+subdomains	assessment-api.datacamp.com	2026-11-13		paying	DataCamp
+subdomains	assessment-v2.datacamp.com	2026-11-13		paying	DataCamp
 subdomains	assessment.aon.com	2026-11-10		non-paying	Aon
 subdomains	assessment.aonanalytics.tech	2026-11-10		non-paying	Aon
+subdomains	assessment.datacamp.com	2026-11-13		paying	DataCamp
 subdomains	asset-admin.cbre.se	2026-11-10		non-paying	CBRE
 subdomains	asset-api.cbre.com.au	2026-11-10		non-paying	CBRE
 subdomains	asset.cbre.cl	2026-11-10		non-paying	CBRE
@@ -28446,7 +28471,7 @@ subdomains	autotruckfcu-dc.cert.fec-dc.fiservapps.com	2026-11-10		non-paying	Fis
 subdomains	autotruckfcu-dn.financial-net.com	2026-11-10		non-paying	Fiserv
 subdomains	autotruckfcu.originate.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	autoupdate.geo.opera.com	2026-11-10		paying	Opera Public Bug Bounty
-subdomains	autoupdateapi.lansweeper.com	2026-11-10		paying	Lansweeper Bug Bounty Program
+subdomains	autoupdateapi.lansweeper.com	2026-11-10	2026-11-13	paying	Lansweeper Bug Bounty Program
 subdomains	av.indrive.com	2026-11-10		paying	inDrive
 subdomains	av.jjwws.com	2026-11-10		non-paying	CBRE
 subdomains	av1.us.baesystems.com	2026-11-10		non-paying	DIB-VDP
@@ -28604,7 +28629,7 @@ subdomains	backend.test-smsservicesnow.com	2026-11-10		non-paying	Fiserv
 subdomains	backoffice.evcharging.abb.com.cn	2026-11-10		non-paying	ABB Information Systems Ltd
 subdomains	backoffice.gallileo-frankfurt.com	2026-11-10		non-paying	CBRE
 subdomains	backoffice.gyft.com	2026-11-10		non-paying	Fiserv
-subdomains	backoffice.lansweeper.com	2026-11-10		paying	Lansweeper Bug Bounty Program
+subdomains	backoffice.lansweeper.com	2026-11-10	2026-11-13	paying	Lansweeper Bug Bounty Program
 subdomains	backoffice.sitemanager.ability.abb.com.cn	2026-11-10		non-paying	ABB Information Systems Ltd
 subdomains	backoffice.vnlat-cat.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	backoffice.vnlat.fiservapps.com	2026-11-10		non-paying	Fiserv
@@ -29921,6 +29946,7 @@ subdomains	campshelbycreditunion.vbwebservices.com	2026-11-10		non-paying	Fiserv
 subdomains	campshelbycu-dc.cert.fec-dc.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	campshelbycu-dn.financial-net.com	2026-11-10		non-paying	Fiserv
 subdomains	campus.bovis.es	2026-11-10		non-paying	CBRE
+subdomains	campus.datacamp.com	2026-11-13		paying	DataCamp
 subdomains	campus.deere.com.br	2026-11-10		non-paying	John Deere
 subdomains	campusstatebank.vbwebservices.com	2026-11-10		non-paying	Fiserv
 subdomains	camuy-uat.streamlendvelocity.net	2026-11-10		non-paying	Fiserv
@@ -33150,6 +33176,7 @@ subdomains	desk.thetradedesk.com	2026-11-10		paying	The Trade Desk
 subdomains	deskallocation.mendixcloud.com	2026-11-10		non-paying	Mendix
 subdomains	desksonar.cbre.es	2026-11-10		non-paying	CBRE
 subdomains	desktop-sit.uat.proptrack.com	2026-11-10		paying	REA Group | realestate.com.au, realcommercial.com.au, property.com.au
+subdomains	desktop.water-link.be	2026-11-13		paying	Water-Link
 subdomains	detest.pip.cbrehotels.com	2026-11-10		non-paying	CBRE
 subdomains	detroit-dev.gleague.nba.com	2026-11-10		paying	NBA Public Bug Bounty
 subdomains	detroit-qa.gleague.nba.com	2026-11-10		paying	NBA Public Bug Bounty
@@ -33920,7 +33947,7 @@ subdomains	docs.harvestprofit.com	2026-11-10		non-paying	John Deere
 subdomains	docs.host-building.com	2026-11-10		non-paying	CBRE
 subdomains	docs.institutional.ts.finance	2026-11-10		paying	IOP | Term Structure Institutional
 subdomains	docs.keeper.io	2026-11-10		unknown	
-subdomains	docs.lansweeper.com	2026-11-10		paying	Lansweeper Bug Bounty Program
+subdomains	docs.lansweeper.com	2026-11-10	2026-11-13	paying	Lansweeper Bug Bounty Program
 subdomains	docs.launchdarkly.com	2026-11-10		paying	LaunchDarkly Managed Bug Bounty Engagement
 subdomains	docs.lido.fi	2026-11-10		paying	Lido
 subdomains	docs.moneynetwork.com	2026-11-10		non-paying	Fiserv
@@ -34458,7 +34485,7 @@ subdomains	edge.blablacar.tr	2026-11-10		paying	BlaBlaCar
 subdomains	edge.bookbeat.com	2026-11-10		paying	BookBeat
 subdomains	edge.genixdatalyzer.measurementservice.abb.com	2026-11-10		non-paying	ABB Information Systems Ltd
 subdomains	edge.in.myngc.com	2026-11-10		non-paying	DIB-VDP
-subdomains	edge.lansweeper.com	2026-11-10		paying	Lansweeper Bug Bounty Program
+subdomains	edge.lansweeper.com	2026-11-10	2026-11-13	paying	Lansweeper Bug Bounty Program
 subdomains	edge.machinefinder.com	2026-11-10		non-paying	John Deere
 subdomains	edge.om-machinefinder-prod-vpn.us.e26.c01.johndeerecloud.com	2026-11-10		non-paying	John Deere
 subdomains	edge.supplieroasis.com	2026-11-10		non-paying	Bed Bath and Beyond, Inc. | Vulnerability Disclosure Program
@@ -35535,7 +35562,7 @@ subdomains	favourites.milka.de	2026-11-10		non-paying	Mondelēz International
 subdomains	fax.harvestprofit.com	2026-11-10		non-paying	John Deere
 subdomains	fb.gallileo-frankfurt.com	2026-11-10		non-paying	CBRE
 subdomains	fb.gyft.com	2026-11-10		non-paying	Fiserv
-subdomains	fb.lansweeper.com	2026-11-10		paying	Lansweeper Bug Bounty Program
+subdomains	fb.lansweeper.com	2026-11-10	2026-11-13	paying	Lansweeper Bug Bounty Program
 subdomains	fb.test.gyft.com	2026-11-10		non-paying	Fiserv
 subdomains	fbapps.aegeanair.com	2026-11-10		non-paying	Aegean Airlines Vulnerability Disclosure
 subdomains	fbdelaware.fdecs.com	2026-11-10		non-paying	Fiserv
@@ -36104,7 +36131,8 @@ subdomains	fiservtestservicepoint.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	fisher.ca.essd.northgrum.com	2026-11-10		non-paying	DIB-VDP
 subdomains	fisheye.pclender.com	2026-11-10		non-paying	Fiserv
 subdomains	fit.nba.com	2026-11-10		paying	NBA Public Bug Bounty
-subdomains	fitbit-lottery.getmoneytree.com	2026-11-10		paying	Moneytree KK
+subdomains	fitbit-lottery-staging.getmoneytree.com	2026-11-13		paying	Moneytree KK
+subdomains	fitbit-lottery.getmoneytree.com	2026-11-10	2026-11-13	paying	Moneytree KK
 subdomains	fivaa-s-te00141.fi.abb.com	2026-11-10		non-paying	ABB Information Systems Ltd
 subdomains	fixedassets.xero.com	2026-11-10		non-paying	Xero Vulnerability Disclosure Engagement
 subdomains	fjallfoss.fcc.gov	2026-11-10		non-paying	Federal Communications Commission: Vulnerability Disclosure Program
@@ -38507,6 +38535,7 @@ subdomains	indonesia-tm.nonprod.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	indonesia-uat.nonprod.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	indonesia.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	indonesiavoa.vfsevisa.id	2026-11-10		paying	VFS Global Bug Bounty Program
+subdomains	indussiibis.water-link.be	2026-11-13		paying	Water-Link
 subdomains	industrial-automation-service.abb.com	2026-11-10		non-paying	ABB Information Systems Ltd
 subdomains	industrialemployeescu-dc.cert.fec-dc.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	industrialemployeescu-dn.financial-net.com	2026-11-10		non-paying	Fiserv
@@ -39726,7 +39755,7 @@ subdomains	leasedataservice.deere.com	2026-11-10		non-paying	John Deere
 subdomains	leasemaster.cbre.es	2026-11-10		non-paying	CBRE
 subdomains	leasing.apartments.com	2026-11-10		non-paying	CoStar Vulnerability Disclosure Engagement
 subdomains	leasingproposal.cbre.com.au	2026-11-10		non-paying	CBRE
-subdomains	lecstaticcontent.lansweeper.com	2026-11-10		paying	Lansweeper Bug Bounty Program
+subdomains	lecstaticcontent.lansweeper.com	2026-11-10	2026-11-13	paying	Lansweeper Bug Bounty Program
 subdomains	leebank.onlinebank.com	2026-11-10		non-paying	Fiserv
 subdomains	legacy-blockexplorer.electroneum.com	2026-11-10		paying	Electroneum Legacy Blockchain: EOL
 subdomains	legacy-mcycle-dq.firstdataclients.com	2026-11-10		non-paying	Fiserv
@@ -40048,7 +40077,7 @@ subdomains	login.infomaniak.com	2026-11-10		paying	Infomaniak Bug Bounty program
 subdomains	login.innogames.de	2026-11-10		paying	InnoGames
 subdomains	login.insightly.com	2026-11-10		paying	Insightly
 subdomains	login.koho.ca	2026-11-10		paying	KOHO
-subdomains	login.lansweeper.com	2026-11-10		paying	Lansweeper Bug Bounty Program
+subdomains	login.lansweeper.com	2026-11-10	2026-11-13	paying	Lansweeper Bug Bounty Program
 subdomains	login.mbs-navigator.com	2026-11-10		non-paying	Daimler Truck
 subdomains	login.medscape.com	2026-11-10		paying	Internet Brands Public
 subdomains	login.my.fleetboard.com	2026-11-10		non-paying	Daimler Truck
@@ -43791,6 +43820,7 @@ subdomains	onsafety.cpsc.gov	2026-11-10		non-paying	Consumer Product Safety Comm
 subdomains	ontario.gleague.nba.com	2026-11-10		paying	NBA Public Bug Bounty
 subdomains	ontheborder.wgiftcard.com	2026-11-10		non-paying	Fiserv
 subdomains	ontheborderstore.wgiftcard.com	2026-11-10		non-paying	Fiserv
+subdomains	oos.eu-west-2.outscale.com	2026-11-13		paying	3DS OUTSCALE
 subdomains	oos.pdc.abb.com	2026-11-10		non-paying	ABB Information Systems Ltd
 subdomains	op.paymaya.com	2026-11-10		paying	Maya - Public Bug Bounty Program
 subdomains	op2-bff.rokt.com	2026-11-10		non-paying	ROKT Vulnerability Disclosure
@@ -44039,7 +44069,7 @@ subdomains	osp.opera.software	2026-11-10		paying	Opera Public Bug Bounty
 subdomains	osprzet-elektroinstalcyjny.pl.abb.com	2026-11-10		non-paying	ABB Information Systems Ltd
 subdomains	oss.moov.io	2026-11-10		non-paying	Moov
 subdomains	osts.fcc.gov	2026-11-10		non-paying	Federal Communications Commission: Vulnerability Disclosure Program
-subdomains	osu.eu-west-2.outscale.com	2026-11-10		paying	3DS OUTSCALE
+subdomains	osu.eu-west-2.outscale.com	2026-11-10	2026-11-13	paying	3DS OUTSCALE
 subdomains	ota.onecloud.harman.com	2026-11-10		paying	Harman International Lifestyle Products & Services
 subdomains	otc.in.abb.com	2026-11-10		non-paying	ABB Information Systems Ltd
 subdomains	otcweb.econfigure.abb.com	2026-11-10		non-paying	ABB Information Systems Ltd
@@ -44723,7 +44753,7 @@ subdomains	photo.gallileo-frankfurt.com	2026-11-10		non-paying	CBRE
 subdomains	photo.kruidvat.be	2026-11-10		paying	Kruidvat
 subdomains	photo.walgreens.com	2026-11-10		non-paying	Shutterfly VDP
 subdomains	photos.gallileo-frankfurt.com	2026-11-10		non-paying	CBRE
-subdomains	php-rce.cloudflare.app	2026-11-10		paying	Cloudflare Public Bug Bounty
+subdomains	php-rce.cloudflare.app	2026-11-10	2026-11-13	paying	Cloudflare Public Bug Bounty
 subdomains	phpmv.monosem-inc.com	2026-11-10		non-paying	John Deere
 subdomains	phpmyadmin.gallileo-frankfurt.com	2026-11-10		non-paying	CBRE
 subdomains	phpmyvisites.monosem-inc.com	2026-11-10		non-paying	John Deere
@@ -44797,6 +44827,7 @@ subdomains	piqplus.propertyiq.com.au	2026-11-10		non-paying	Macquarie Group Vuln
 subdomains	piscataqua-admin.originate.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	piscataqua.onlinebank.com	2026-11-10		non-paying	Fiserv
 subdomains	piscataqua.originate.fiservapps.com	2026-11-10		non-paying	Fiserv
+subdomains	pit.water-link.be	2026-11-13		paying	Water-Link
 subdomains	pitch.cbre.nl	2026-11-10		non-paying	CBRE
 subdomains	pitchse-tvkcgqggkr.dynamic-m.com	2026-11-10		non-paying	DIB-VDP
 subdomains	pitneybowes.wfg-baweb.com	2026-11-10		non-paying	Fiserv
@@ -45288,6 +45319,7 @@ subdomains	pr-qa.nba.com	2026-11-10		paying	NBA Public Bug Bounty
 subdomains	pr.abb.com	2026-11-10		non-paying	ABB Information Systems Ltd
 subdomains	pr.gallileo-frankfurt.com	2026-11-10		non-paying	CBRE
 subdomains	pr.nba.com	2026-11-10		paying	NBA Public Bug Bounty
+subdomains	practice.datacamp.com	2026-11-13		paying	DataCamp
 subdomains	practice.securevetsource.com	2026-11-10		non-paying	Mars
 subdomains	pragueofficeadvisor.cbre.cz	2026-11-10		non-paying	CBRE
 subdomains	prairiecommunitybank-admin.originate.fiservapps.com	2026-11-10		non-paying	Fiserv
@@ -45710,6 +45742,7 @@ subdomains	profile.hackthebox.com	2026-11-10		non-paying	Hack The Box
 subdomains	profile.playstation.com	2026-11-10		paying	PlayStation
 subdomains	profile.segment.com	2026-11-10		paying	Twilio
 subdomains	profile.telenor.se	2026-11-10		paying	Telenor Sweden Public Bug Bounty Program
+subdomains	profiles-api.datacamp.com	2026-11-13		paying	DataCamp
 subdomains	profiles.sports.yahoo.com	2026-11-10		paying	Yahoo Bug Bounty
 subdomains	profiles.wordpress.org	2026-11-10		paying	WordPress
 subdomains	profileservicep.deere.com	2026-11-10		non-paying	John Deere
@@ -45726,6 +45759,7 @@ subdomains	projecthyundai.cbre.eu	2026-11-10		non-paying	CBRE
 subdomains	projectinsight.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	projects.cbre.eu	2026-11-10		non-paying	CBRE
 subdomains	projects.cbre.se	2026-11-10		non-paying	CBRE
+subdomains	projects.datacamp.com	2026-11-13		paying	DataCamp
 subdomains	projects.drives.abb.com.cn	2026-11-10		non-paying	ABB Information Systems Ltd
 subdomains	projects.epam.com	2026-11-10		paying	EPAM Systems Managed Bug Bounty Program
 subdomains	projects.gallileo-frankfurt.com	2026-11-10		non-paying	CBRE
@@ -54037,6 +54071,7 @@ subdomains	www.darphin.dcp.elcompanies.com	2026-11-10		non-paying	Esteé Lauder
 subdomains	www.darphin.dcpm.elcompanies.com	2026-11-10		non-paying	Esteé Lauder
 subdomains	www.dashboard.gatekeepers.co.in	2026-11-10		non-paying	Toyota
 subdomains	www.data-center.cbre.es	2026-11-10		non-paying	CBRE
+subdomains	www.datacamp.com	2026-11-13		paying	DataCamp
 subdomains	www.datamgmt.greenqa.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	www.dataservices.cbre.eu	2026-11-10		non-paying	CBRE
 subdomains	www.dateplanner.cbre.nl	2026-11-10		non-paying	CBRE
@@ -54158,6 +54193,7 @@ subdomains	www.dimensionserverdev.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	www.discourse.cbrehost.com	2026-11-10		non-paying	CBRE
 subdomains	www.disruptech-test.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	www.disruptechapi-test.cbre.com	2026-11-10		non-paying	CBRE
+subdomains	www.divvyhomes.com	2026-11-13		non-paying	Divvy Homes
 subdomains	www.dl-global.com	2026-11-10		non-paying	CBRE
 subdomains	www.dmp.fr	2026-11-10		paying	Dossier Medical Partagé Bug Bounty Program
 subdomains	www.dmp.gouv.fr	2026-11-10		paying	Dossier Medical Partagé Bug Bounty Program
@@ -54843,7 +54879,7 @@ subdomains	www.landaulettings.com	2026-11-10		non-paying	CBRE
 subdomains	www.landmarkcinemas.com	2026-11-10		paying	Kinepolis Group
 subdomains	www.landwatch.com	2026-11-10		non-paying	CoStar Vulnerability Disclosure Engagement
 subdomains	www.languagecert.org	2026-11-10		non-paying	PeopleCert VDP
-subdomains	www.lansweeper.com	2026-11-10		paying	Lansweeper Bug Bounty Program
+subdomains	www.lansweeper.com	2026-11-10	2026-11-13	paying	Lansweeper Bug Bounty Program
 subdomains	www.laoficinadelfuturo.cbre.es	2026-11-10		non-paying	CBRE
 subdomains	www.lascana.de	2026-11-10		paying	OTTO.DE Bug Bounty
 subdomains	www.lastpass.com	2026-11-10		paying	LastPass
@@ -57052,12 +57088,15 @@ urls	https://apigw.prod.quintoandar.com.br/sales-flow-api	2026-11-10		paying	Qui
 urls	https://apis.indeed.com/graphql	2026-11-10		paying	Indeed
 urls	https://apk.wx16ml.info/apk400.apk	2026-11-10		paying	weex-web-and-app
 urls	https://app-qa.chime.com/login	2026-11-10		paying	Chime Managed Bug Bounty Engagement
+urls	https://app.datacamp.com/certification	2026-11-13		paying	DataCamp
+urls	https://app.datacamp.com/groups	2026-11-13		paying	DataCamp
+urls	https://app.datacamp.com/learn	2026-11-13		paying	DataCamp
 urls	https://app.ecwid.com/api/v3	2026-11-10		paying	Lightspeed Retail
 urls	https://app.glean.com/login	2026-11-10		paying	Glean Technologies Public Engagement
 urls	https://app.granite.world/market	2026-11-10		paying	Granite Protocol
 urls	https://app.high.powerbigov.us/view	2026-11-10		non-paying	Department of the Treasury: Vulnerability Disclosure Program
 urls	https://app.ibotta.com/sign-in	2026-11-10		paying	Ibotta
-urls	https://app.lansweeper.com/trial	2026-11-10		paying	Lansweeper Bug Bounty Program
+urls	https://app.lansweeper.com/trial	2026-11-10	2026-11-13	paying	Lansweeper Bug Bounty Program
 urls	https://app.simple-reports.com/demo	2026-11-10		paying	Agilis LT Bug Bounty
 urls	https://app.sproutsocial.com/api	2026-11-10		non-paying	Sprout Social
 urls	https://app.wisdomtreeconnect.com/api	2026-11-10		paying	WisdomTree, Inc.
@@ -57226,7 +57265,7 @@ urls	https://developer.8x8.com/connect	2026-11-10		non-paying	8x8
 urls	https://developer.arkoselabs.com/docs/arkose-labs-command-center	2026-11-10		paying	Arkose Labs
 urls	https://developer.arkoselabs.com/docs/client-api	2026-11-10		paying	Arkose Labs
 urls	https://developer.authorize.net/hello_world/sandbox.html	2026-11-10		paying	Visa
-urls	https://developer.lansweeper.com/docs/data-api/get-started/welcome	2026-11-10		paying	Lansweeper Bug Bounty Program
+urls	https://developer.lansweeper.com/docs/data-api/get-started/welcome	2026-11-10	2026-11-13	paying	Lansweeper Bug Bounty Program
 urls	https://developer.nvidia.com/cuda-downloads	2026-11-10		paying	NVIDIA Public Bug Bounty
 urls	https://developer.nvidia.com/nvcomp-downloads	2026-11-10		paying	NVIDIA Public Bug Bounty
 urls	https://developer.nvidia.com/nvidia-development-tools-solutions-err_nvgpuctrperm-permission-issue-performance-counters	2026-11-10		paying	NVIDIA Public Bug Bounty
@@ -58202,6 +58241,7 @@ urls	https://www.cyberghostvpn.com/en_US/apps/linux-vpn	2026-11-10		paying	Cyber
 urls	https://www.cyberghostvpn.com/en_US/apps/macos-vpn	2026-11-10		paying	CyberGhost - Bug Bounty Program
 urls	https://www.cyberghostvpn.com/en_US/apps/windows-vpn	2026-11-10		paying	CyberGhost - Bug Bounty Program
 urls	https://www.dancenter.dk/sommerhus/midtjylland/midtjylland/kvie-so/65573	2026-11-10		non-paying	PRISM
+urls	https://www.datacamp.com/datalab	2026-11-13		paying	DataCamp
 urls	https://www.deepcoin.com/en/apiPage	2026-11-10		paying	deepcoin-web-and-mobile
 urls	https://www.delacre.com/fr/fr/xp/jeu-concours	2026-11-10		non-paying	Ferrero
 urls	https://www.delacre.com/int/en	2026-11-10		non-paying	Ferrero
@@ -58313,7 +58353,7 @@ urls	https://www.kruidvat.be/api/v2/api-docs	2026-11-10		paying	Kruidvat
 urls	https://www.kruidvat.nl/api/v2/api-docs	2026-11-10		paying	Kruidvat
 urls	https://www.kuleuven.be/sapredir/huisvesting	2026-11-10		paying	Housing Application (huisvestingsapp) Bug Bounty Program
 urls	https://www.ladbrokes.com/en/games	2026-11-10		paying	Entain Game Logic Flaws Bug Bounty Program
-urls	https://www.lansweeper.com/product/features/integrate/flow-builder	2026-11-10		paying	Lansweeper Bug Bounty Program
+urls	https://www.lansweeper.com/product/features/integrate/flow-builder	2026-11-10	2026-11-13	paying	Lansweeper Bug Bounty Program
 urls	https://www.leukoplast.be/fr	2026-11-10		non-paying	Essity
 urls	https://www.leukoplast.ch/de	2026-11-10		non-paying	Essity
 urls	https://www.logitech.com/blog	2026-11-10		non-paying	Logitech
@@ -59053,7 +59093,7 @@ wildcards	aws.training	2026-11-10		non-paying	AWS VDP
 wildcards	awsapps.com	2026-11-10		non-paying	AWS VDP
 wildcards	awsevents.com	2026-11-10		non-paying	AWS VDP
 wildcards	awspartner.com	2026-11-10		non-paying	AWS VDP
-wildcards	aww.be	2026-11-10		non-paying	Water-Link VDP
+wildcards	aww.be	2026-11-10		paying	Water-Link; Water-Link VDP
 wildcards	axelspringer.com	2026-11-10		non-paying	Axel Springer SE Vulnerability Disclosure Program
 wildcards	axisvalue.com	2026-11-10		non-paying	CBRE
 wildcards	ayco.com	2026-11-10		paying	Goldman Sachs
@@ -59794,6 +59834,7 @@ wildcards	dashregtech.com	2026-11-10		non-paying	ION Group
 wildcards	dashtradedesk.com	2026-11-10		non-paying	ION Group
 wildcards	data.gov	2026-11-10		non-paying	U.S. General Services Administration - Vulnerability Disclosure Program
 wildcards	database.dev	2026-11-10		non-paying	Supabase
+wildcards	datacamp.com	2026-11-13		paying	DataCamp
 wildcards	datacredito.com	2026-11-10		non-paying	Equifax-vdp
 wildcards	datacredito.com.do	2026-11-10		non-paying	Equifax-vdp
 wildcards	datacredito.info	2026-11-10		non-paying	Equifax-vdp
@@ -60964,7 +61005,7 @@ wildcards	landmarkcinemas.com	2026-11-10		paying	Kinepolis Group
 wildcards	landmarkglobal-group.com	2026-11-10		non-paying	Bpost
 wildcards	lanecuador.com	2026-11-10		non-paying	LATAM Airlines
 wildcards	lanpass.aero	2026-11-10		non-paying	LATAM Airlines
-wildcards	lansweeper.com	2026-11-10		non-paying	Lansweeper Bug Bounty Program
+wildcards	lansweeper.com	2026-11-10	2026-11-13	non-paying	Lansweeper Bug Bounty Program
 wildcards	lanternpay.com	2026-11-10		non-paying	NAB's Responsible Disclosure Program
 wildcards	lantours.aero	2026-11-10		non-paying	LATAM Airlines
 wildcards	lanzamientos-loctite.com	2026-11-10		non-paying	Henkel
@@ -61292,6 +61333,7 @@ wildcards	miinsurtech.cn	2026-11-10		paying	Xiaomi
 wildcards	miinsurtech.com	2026-11-10		paying	Xiaomi
 wildcards	miinsurtech.net	2026-11-10		paying	Xiaomi
 wildcards	mijiayoupin.com	2026-11-10		paying	Xiaomi
+wildcards	mijnwater-link.be	2026-11-13		paying	Water-Link
 wildcards	mikescolombia.com	2026-11-10		non-paying	AB InBev Vulnerability Disclosure Program
 wildcards	mikesecuador.com	2026-11-10		non-paying	AB InBev Vulnerability Disclosure Program
 wildcards	mikeshard.com.br	2026-11-10		non-paying	AB InBev Vulnerability Disclosure Program
@@ -63287,7 +63329,7 @@ wildcards	wallstreettreasury.co	2026-11-10		non-paying	ION Group
 wildcards	wallstreettreasury.com	2026-11-10		non-paying	ION Group
 wildcards	wals.com.br	2026-11-10		non-paying	AB InBev Vulnerability Disclosure Program
 wildcards	wartsila.com	2026-11-10		non-paying	Wärtsilä Vulnerability Disclosure Program
-wildcards	water-link.be	2026-11-10		non-paying	Water-Link VDP
+wildcards	water-link.be	2026-11-10		paying	Water-Link; Water-Link VDP
 wildcards	watermonitor.gov	2026-11-10		non-paying	U.S. Geological Survey
 wildcards	watoday.com.au	2026-11-10		non-paying	Nine Entertainment Vulnerability Disclosure Program
 wildcards	watsons.co.id	2026-11-10		paying	Watsons

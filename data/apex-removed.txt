@@ -1,3 +1,2 @@
-optimuscards.com
-topperpay.com
-veda.tech
+cloudflare.app
+lansweeper.com

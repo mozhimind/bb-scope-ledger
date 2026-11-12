@@ -747,6 +747,7 @@ add-equipment.deere.com	unknown
 addiko-pindelivery-uat.firstdata.com	unknown		
 addiko-pindelivery.firstdata.com	unknown		
 addons.mozilla.org	unknown		
+adelta.be	unknown		
 adevinta.com	unknown		
 adfs.gallileo-frankfurt.com	unknown		
 adfs.mainstreamsasp.com	unknown		
@@ -1926,7 +1927,6 @@ api.koho.ca	unknown
 api.krisp.ai	unknown		
 api.kruidvat.be	unknown		
 api.kruidvat.nl	unknown		
-api.lansweeper.com	unknown		
 api.larksuite.com	unknown		
 api.lightspark.com	unknown		
 api.linkedin.com	unknown		
@@ -2294,6 +2294,7 @@ app.circle.com	unknown
 app.citushealth.ca	unknown		
 app.citushealth.com	unknown		
 app.dailypay.com	unknown		
+app.datacamp.com	unknown		
 app.datadome.co	unknown		
 app.deriv.com	unknown		
 app.divvy.co	unknown		
@@ -2333,7 +2334,6 @@ app.koho.ca	unknown
 app.krisp.ai	unknown		
 app.kruidvat.be	unknown		
 app.kruidvat.nl	unknown		
-app.lansweeper.com	unknown		
 app.larksuite.com	unknown		
 app.latitudepayapps.com	unknown		
 app.launchdarkly.com	unknown		
@@ -2526,6 +2526,8 @@ aqda3.aegeanair.com	unknown
 aqda3uat.aegeanair.com	unknown		
 aqtooling.com	unknown		
 aquafina.com	unknown		
+aquawardsoperate.water-link.be	unknown		
+aquawardsspatial.water-link.be	unknown		
 aquiris.com.br	unknown		
 aquiris.studio	unknown		
 aquiristech.com	unknown		
@@ -2736,8 +2738,10 @@ aspmu.net	unknown
 aspmu.org	unknown		
 aspreports.com	unknown		
 aspresolver.com	unknown		
+assessment-api.datacamp.com	unknown		
 assessment.aon.com	unknown		
 assessment.aonanalytics.tech	unknown		
+assessment.datacamp.com	unknown		
 asset-admin.cbre.se	unknown		
 asset-api.cbre.com.au	unknown		
 asset.cbre.cl	unknown		
@@ -3190,7 +3194,6 @@ autotruckfcu-dc.cert.fec-dc.fiservapps.com	unknown
 autotruckfcu-dn.financial-net.com	unknown		
 autotruckfcu.originate.fiservapps.com	unknown		
 autoupdate.geo.opera.com	unknown		
-autoupdateapi.lansweeper.com	unknown		
 av.indrive.com	unknown		
 av.jjwws.com	unknown		
 av1.us.baesystems.com	unknown		
@@ -3282,6 +3285,7 @@ awsqa7.progressfinservices.com	unknown
 awtr.ngc.com	unknown		
 awtrdev.ngc.com	unknown		
 awtrplte.ngc.com	unknown		
+aww.eu	unknown		
 awx.devops.cbre.com	unknown		
 axiompress.biz	unknown		
 axiompress.com	unknown		
@@ -3405,7 +3409,6 @@ backend.test-smsservicesnow.com	unknown
 backoffice.evcharging.abb.com.cn	unknown		
 backoffice.gallileo-frankfurt.com	unknown		
 backoffice.gyft.com	unknown		
-backoffice.lansweeper.com	unknown		
 backoffice.sitemanager.ability.abb.com.cn	unknown		
 backoffice.vnlat-cat.fiservapps.com	unknown		
 backoffice.vnlat.fiservapps.com	unknown		
@@ -5078,6 +5081,7 @@ campshelbycreditunion.vbwebservices.com	unknown
 campshelbycu-dc.cert.fec-dc.fiservapps.com	unknown		
 campshelbycu-dn.financial-net.com	unknown		
 campus.bovis.es	unknown		
+campus.datacamp.com	unknown		
 campus.deere.com.br	unknown		
 campusbrno.cz	unknown		
 campusm.co.uk	unknown		
@@ -9927,6 +9931,7 @@ deskallocation.mendixcloud.com	unknown
 deskjs.com	unknown		
 desksonar.cbre.es	unknown		
 desktop-sit.uat.proptrack.com	unknown		
+desktop.water-link.be	unknown		
 destroyvalentinesday.com	unknown		
 detest.pip.cbrehotels.com	unknown		
 detroit-dev.gleague.nba.com	unknown		
@@ -10763,7 +10768,6 @@ docs.gocardless.com	unknown
 docs.harvestprofit.com	unknown		
 docs.host-building.com	unknown		
 docs.keeper.io	unknown		
-docs.lansweeper.com	unknown		
 docs.launchdarkly.com	unknown		
 docs.moneynetwork.com	unknown		
 docs.nebius.com	unknown		
@@ -11460,7 +11464,6 @@ edge.apps-devl-vpn.us.e06.c01.johndeerecloud.com	unknown
 edge.bookbeat.com	unknown		
 edge.genixdatalyzer.measurementservice.abb.com	unknown		
 edge.in.myngc.com	unknown		
-edge.lansweeper.com	unknown		
 edge.machinefinder.com	unknown		
 edge.om-machinefinder-prod-vpn.us.e26.c01.johndeerecloud.com	unknown		
 edgeacademy.thetradedesk.com	unknown		
@@ -12788,7 +12791,6 @@ faxpat.com	unknown
 faxpatinc.com	unknown		
 fb.gallileo-frankfurt.com	unknown		
 fb.gyft.com	unknown		
-fb.lansweeper.com	unknown		
 fb.test.gyft.com	unknown		
 fbapps.aegeanair.com	unknown		
 fbdelaware.fdecs.com	unknown		
@@ -13473,7 +13475,7 @@ fisher.fr	unknown
 fisherinvestments.fr	unknown		
 fisheye.pclender.com	unknown		
 fit.nba.com	unknown		
-fitbit-lottery.getmoneytree.com	unknown		
+fitbit-lottery-staging.getmoneytree.com	unknown		
 fivaa-s-te00141.fi.abb.com	unknown		
 fivetran.com	unknown		
 fl-vr.com	unknown		
@@ -16389,6 +16391,8 @@ indonesia-uat.nonprod.cbre.com	unknown
 indonesia.cbre.com	unknown		
 indonesiavoa.vfsevisa.id	unknown		
 indrive.com	unknown		
+induss.eu	unknown		
+indussiibis.water-link.be	unknown		
 industrial-automation-service.abb.com	unknown		
 industrialemployeescu-dc.cert.fec-dc.fiservapps.com	unknown		
 industrialemployeescu-dn.financial-net.com	unknown		
@@ -18728,7 +18732,6 @@ login.gallileo-frankfurt.com	unknown
 login.infomaniak.com	unknown		
 login.insightly.com	unknown		
 login.koho.ca	unknown		
-login.lansweeper.com	unknown		
 login.mbs-navigator.com	unknown		
 login.medscape.com	unknown		
 login.my.fleetboard.com	unknown		
@@ -23401,6 +23404,7 @@ onow.com.au	unknown
 ontario.gleague.nba.com	unknown		
 ontheborder.wgiftcard.com	unknown		
 ontheborderstore.wgiftcard.com	unknown		
+oos.eu-west-2.outscale.com	unknown		
 oos.pdc.abb.com	unknown		
 op.paymaya.com	unknown		
 opavia.info	unknown		
@@ -23708,7 +23712,6 @@ osceola.gleague.nba.com	unknown
 osidealer.com	unknown		
 osprzet-elektroinstalcyjny.pl.abb.com	unknown		
 oss.moov.io	unknown		
-osu.eu-west-2.outscale.com	unknown		
 ota.onecloud.harman.com	unknown		
 otc.in.abb.com	unknown		
 otcweb.econfigure.abb.com	unknown		
@@ -24600,7 +24603,6 @@ photo.gallileo-frankfurt.com	unknown
 photo.kruidvat.be	unknown		
 photo.walgreens.com	unknown		
 photos.gallileo-frankfurt.com	unknown		
-php-rce.cloudflare.app	unknown		
 phpmv.monosem-inc.com	unknown		
 phpmyadmin.gallileo-frankfurt.com	unknown		
 phpmyvisites.monosem-inc.com	unknown		
@@ -24689,6 +24691,7 @@ piqray.ca	unknown
 piscataqua-admin.originate.fiservapps.com	unknown		
 piscataqua.onlinebank.com	unknown		
 piscataqua.originate.fiservapps.com	unknown		
+pit.water-link.be	unknown		
 pit2port.com	unknown		
 pitch.cbre.nl	unknown		
 pitchse-tvkcgqggkr.dynamic-m.com	unknown		
@@ -25239,6 +25242,7 @@ pr-qa.nba.com	unknown
 pr.abb.com	unknown		
 pr.gallileo-frankfurt.com	unknown		
 pr.nba.com	unknown		
+practice.datacamp.com	unknown		
 practice.securevetsource.com	unknown		
 pragueofficeadvisor.cbre.cz	unknown		
 prairiecommunitybank-admin.originate.fiservapps.com	unknown		
@@ -25677,6 +25681,7 @@ profile-photos-us-east-2.hackerone-user-content.com	unknown
 profile-photos.hackerone-user-content.com	unknown		
 profile.hackthebox.com	unknown		
 profile.playstation.com	unknown		
+profiles-api.datacamp.com	unknown		
 profiles.wordpress.org	unknown		
 profileservicep.deere.com	unknown		
 profreg.medscape.com	unknown		
@@ -25699,6 +25704,7 @@ projectneon.com	unknown
 projectradon.com	unknown		
 projects.cbre.eu	unknown		
 projects.cbre.se	unknown		
+projects.datacamp.com	unknown		
 projects.drives.abb.com.cn	unknown		
 projects.epam.com	unknown		
 projects.gallileo-frankfurt.com	unknown		
@@ -27292,6 +27298,7 @@ rims1.aon.com	unknown
 rincon-uat.streamlendvelocity.net	unknown		
 rincon.streamlendvelocity.net	unknown		
 ringtune.mtn.co.za	unknown		
+rio-link.be	unknown		
 rio.bank-admin.originate.fiservapps.com	unknown		
 rio.bank.originate.fiservapps.com	unknown		
 rio.caaweb.com	unknown		
@@ -34040,10 +34047,16 @@ watch-ng.nba.com	unknown
 watch.esa.int	unknown		
 watch.global.nba.com	unknown		
 watchguard.ca	unknown		
+water-kracht-levering.be	unknown		
+water-kracht-levering.eu	unknown		
 water-link-jaarverslag.be	unknown		
 waterfordbank.caaweb.com	unknown		
 waterfordbankna-p2.onlinebank.com	unknown		
 waterfordbankna.onlinebank.com	unknown		
+waterkracht-levering.be	unknown		
+waterkracht-levering.eu	unknown		
+waterlink.be	unknown		
+waterstoringen.be	unknown		
 watertownsavings-admin.originate.fiservapps.com	unknown		
 watertownsavings-p2.onlinebank.com	unknown		
 watertownsavings.originate.fiservapps.com	unknown		
@@ -35834,6 +35847,7 @@ www.darphin.dcp.elcompanies.com	unknown
 www.darphin.dcpm.elcompanies.com	unknown		
 www.dashboard.gatekeepers.co.in	unknown		
 www.data-center.cbre.es	unknown		
+www.datacamp.com	unknown		
 www.datamgmt.greenqa.cbre.com	unknown		
 www.dataservices.cbre.eu	unknown		
 www.dateplanner.cbre.nl	unknown		
@@ -35932,6 +35946,7 @@ www.dimensionserverdev.cbre.com	unknown
 www.discourse.cbrehost.com	unknown		
 www.disruptech-test.cbre.com	unknown		
 www.disruptechapi-test.cbre.com	unknown		
+www.divvyhomes.com	unknown		
 www.dl-global.com	unknown		
 www.dmp.fr	unknown		
 www.dmp.gouv.fr	unknown		
@@ -36518,7 +36533,6 @@ www.lamer.dcpm.elcompanies.com	unknown
 www.landaulettings.com	unknown		
 www.landmarkcinemas.com	unknown		
 www.languagecert.org	unknown		
-www.lansweeper.com	unknown		
 www.laoficinadelfuturo.cbre.es	unknown		
 www.lascana.de	unknown		
 www.lastpass.com	unknown		

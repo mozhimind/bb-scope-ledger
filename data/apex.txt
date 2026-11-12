@@ -384,6 +384,7 @@ adaptivesoftware.net
 adaptsw.com
 adaware.com
 adelaidebank.com.au
+adelta.be
 adevinta.com
 adex.network
 admin.ch
@@ -1290,6 +1291,7 @@ awspartner.com
 awt.nl
 awti.nl
 aww.be
+aww.eu
 axasecurity.com
 axelspringer.com
 axelspringer.de
@@ -3569,7 +3571,6 @@ cloudbees.com
 cloudcannon.com
 cloudendure.com
 cloudera.com
-cloudflare.app
 cloudflare.com
 cloudflareaccess.com
 cloudflarepartners.com
@@ -4770,6 +4771,7 @@ databank.nl
 database.dev
 databricks.com
 databronnencovid19.nl
+datacamp.com
 datachallenge.nl
 datacredito.com
 datacredito.com.do
@@ -5329,6 +5331,7 @@ dividendfinance.com
 dividendsolar.com
 division2map.com
 divvy.co
+divvyhomes.com
 dixan.it
 dixieline.org
 dji-aanbestedingen.nl
@@ -8397,6 +8400,7 @@ indriverapp.com
 indriverjob.com
 indsight-royalcanin.com
 indusappstore.com
+induss.eu
 industrialtechnologies2016.eu
 industriousoffice.com
 infiniteathlete.ai
@@ -9734,7 +9738,6 @@ languagecert.org
 languagesinview.com
 lanierfcu.org
 lanpass.aero
-lansweeper.com
 lanternpay.com
 lantours.aero
 lanvb.com
@@ -10990,6 +10993,7 @@ mijnontwikkelhuis.nl
 mijnpgb.nl
 mijnslachtofferzaak.nl
 mijnverblijfsdocument.nl
+mijnwater-link.be
 mijnwerkenzekerheid.nl
 mikescolombia.com
 mikesecuador.com
@@ -14676,6 +14680,7 @@ rijkswaterstaatstrooit.nl
 rilfavy.ca
 ring.com
 rings.solutions
+rio-link.be
 riotgames.com
 ripe.net
 ripio.com
@@ -18455,14 +18460,20 @@ washingtonfederal.com
 watchguard.ca
 watdevog.nl
 wateetnederland.nl
+water-kracht-levering.be
+water-kracht-levering.eu
 water-link-jaarverslag.be
 water-link.be
 waterasleverage.org
 waterbeschikbaarheid.nl
 waterbodemrichtlijn.nl
 waterenklimaat.nl
+waterkracht-levering.be
+waterkracht-levering.eu
+waterlink.be
 watermarkt.nl
 watermonitor.gov
+waterstoringen.be
 waterveiligheidsportaal.nl
 waterverhalen.nl
 watisdeslimmemeter.nl

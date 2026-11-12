@@ -1,0 +1,3 @@
+https://github.com/lfdt-ibc/ibc
+https://github.com/lfdt-ibc/ibc-contracts
+https://github.com/lfdt-ibc/ibc-go

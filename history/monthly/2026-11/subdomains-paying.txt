@@ -504,6 +504,7 @@ app.capyfi.com
 app.cetus.zone
 app.chime.com
 app.circle.com
+app.datacamp.com
 app.datadome.co
 app.defisaver.com
 app.delen.be
@@ -649,12 +650,17 @@ apps.portofantwerp.com
 apps.portofantwerpbruges.com
 apps.yeswehack.com
 appt.healthclinics.superdrug.com
+aquawardsoperate.water-link.be
+aquawardsspatial.water-link.be
 armourhouse.underarmour.com
 arrive-server.shopifycloud.com
 arsentomsky.indrive.com
 artifactory.marriott.com
 artists.soundcloud.com
 askpeopleteam.visa.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com
+assessment.datacamp.com
 assets-cdn.vistarmedia.com
 assets.airbnb.com
 assets.development.amazon-tacticalplanner.com
@@ -928,6 +934,7 @@ campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
+campus.datacamp.com
 cancellation.prod.ps.welt.de
 canton-dev.gleague.nba.com
 canton-qa.gleague.nba.com
@@ -1382,6 +1389,7 @@ design.gitlab.com
 design.ui.com
 desk.thetradedesk.com
 desktop-sit.uat.proptrack.com
+desktop.water-link.be
 detroit-dev.gleague.nba.com
 detroit-qa.gleague.nba.com
 detroit.gleague.nba.com
@@ -1705,6 +1713,7 @@ fire-dev.wnba.com
 fire-qa.wnba.com
 fire.wnba.com
 fit.nba.com
+fitbit-lottery-staging.getmoneytree.com
 fitbit-lottery.getmoneytree.com
 flags.expeng.optimizely.com
 flex-api.twilio.com
@@ -1981,6 +1990,7 @@ inclusion.nba.com
 indiaontrack.nba.com
 indicative-pricing.taxi.booking.com
 indonesiavoa.vfsevisa.id
+indussiibis.water-link.be
 inference.do-ai.run
 influencers.tw.coupang.com
 infohub.essity.com
@@ -2647,6 +2657,7 @@ online.srilankaevisa.lk
 onlinedoctor.superdrug.com
 onlinepharmacy.superdrug.com
 ontario.gleague.nba.com
+oos.eu-west-2.outscale.com
 op.paymaya.com
 ope-dashboard-api.optimism.io
 open-api.capital.com
@@ -2808,6 +2819,7 @@ pigeon.swiftfinancial.com
 ping.pdst.fm
 pingfederate-admin-ocp-prd-bc3574.ocpf.info53.com
 pioneer.truata.com
+pit.water-link.be
 pl.jbl.com
 planet.wordpress.org
 plannerrequest.hyatt.com
@@ -2872,6 +2884,7 @@ ppw.euce1.indriverapp.com
 pr-dev.nba.com
 pr-qa.nba.com
 pr.nba.com
+practice.datacamp.com
 prd-pub.mobilevikings.be
 prd-ring-web-us.prd.rings.solutions
 prd.aser.simplisafe.com
@@ -2941,9 +2954,11 @@ profile.cex.io
 profile.playstation.com
 profile.segment.com
 profile.telenor.se
+profiles-api.datacamp.com
 profiles.sports.yahoo.com
 profiles.wordpress.org
 profreg.medscape.com
+projects.datacamp.com
 projects.epam.com
 promo.nutella.ro
 promo.tw.coupang.com
@@ -4024,6 +4039,7 @@ www.cultbeauty.co.uk
 www.currencycloud.com
 www.cvs.com
 www.cybersource.com
+www.datacamp.com
 www.ddfcontent.com
 www.decathlon.be
 www.decathlon.ca

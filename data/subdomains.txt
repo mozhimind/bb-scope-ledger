@@ -1690,7 +1690,6 @@ api.kroger.com
 api.kruidvat.be
 api.kruidvat.nl
 api.land.com
-api.lansweeper.com
 api.larksuite.com
 api.leather.io
 api.letsexchange.io
@@ -2122,6 +2121,7 @@ app.citushealth.ca
 app.citushealth.com
 app.connecteam.com
 app.dailypay.com
+app.datacamp.com
 app.datadome.co
 app.defisaver.com
 app.delen.be
@@ -2185,7 +2185,6 @@ app.koho.ca
 app.krisp.ai
 app.kruidvat.be
 app.kruidvat.nl
-app.lansweeper.com
 app.larksuite.com
 app.latitudepayapps.com
 app.launchdarkly.com
@@ -2413,6 +2412,8 @@ aptoramobile.cbre.com
 apuacmysupplier.cbre.com
 aqda3.aegeanair.com
 aqda3uat.aegeanair.com
+aquawardsoperate.water-link.be
+aquawardsspatial.water-link.be
 ar-qa.nonprod.cbre.com
 ar-tm.nonprod.cbre.com
 ar-uat.nonprod.cbre.com
@@ -2560,8 +2561,11 @@ aspirecu-dn.financial-net.com
 aspirecu.originate.fiservapps.com
 aspirefcu-dc.cert.fec-dc.fiservapps.com
 aspirefcu-dn.financial-net.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com
 assessment.aon.com
 assessment.aonanalytics.tech
+assessment.datacamp.com
 asset-admin.cbre.se
 asset-api.cbre.com.au
 asset.cbre.cl
@@ -3020,7 +3024,6 @@ autotruckfcu-dc.cert.fec-dc.fiservapps.com
 autotruckfcu-dn.financial-net.com
 autotruckfcu.originate.fiservapps.com
 autoupdate.geo.opera.com
-autoupdateapi.lansweeper.com
 av.indrive.com
 av.jjwws.com
 av1.us.baesystems.com
@@ -3178,7 +3181,6 @@ backend.test-smsservicesnow.com
 backoffice.evcharging.abb.com.cn
 backoffice.gallileo-frankfurt.com
 backoffice.gyft.com
-backoffice.lansweeper.com
 backoffice.sitemanager.ability.abb.com.cn
 backoffice.vnlat-cat.fiservapps.com
 backoffice.vnlat.fiservapps.com
@@ -4495,6 +4497,7 @@ campshelbycreditunion.vbwebservices.com
 campshelbycu-dc.cert.fec-dc.fiservapps.com
 campshelbycu-dn.financial-net.com
 campus.bovis.es
+campus.datacamp.com
 campus.deere.com.br
 campusstatebank.vbwebservices.com
 camuy-uat.streamlendvelocity.net
@@ -7724,6 +7727,7 @@ desk.thetradedesk.com
 deskallocation.mendixcloud.com
 desksonar.cbre.es
 desktop-sit.uat.proptrack.com
+desktop.water-link.be
 detest.pip.cbrehotels.com
 detroit-dev.gleague.nba.com
 detroit-qa.gleague.nba.com
@@ -8493,7 +8497,6 @@ docs.harvestprofit.com
 docs.host-building.com
 docs.institutional.ts.finance
 docs.keeper.io
-docs.lansweeper.com
 docs.launchdarkly.com
 docs.lido.fi
 docs.moneynetwork.com
@@ -9028,7 +9031,6 @@ edge.blablacar.tr
 edge.bookbeat.com
 edge.genixdatalyzer.measurementservice.abb.com
 edge.in.myngc.com
-edge.lansweeper.com
 edge.machinefinder.com
 edge.om-machinefinder-prod-vpn.us.e26.c01.johndeerecloud.com
 edge.supplieroasis.com
@@ -10105,7 +10107,6 @@ favourites.milka.de
 fax.harvestprofit.com
 fb.gallileo-frankfurt.com
 fb.gyft.com
-fb.lansweeper.com
 fb.test.gyft.com
 fbapps.aegeanair.com
 fbdelaware.fdecs.com
@@ -10674,7 +10675,7 @@ fiservtestservicepoint.fiservapps.com
 fisher.ca.essd.northgrum.com
 fisheye.pclender.com
 fit.nba.com
-fitbit-lottery.getmoneytree.com
+fitbit-lottery-staging.getmoneytree.com
 fivaa-s-te00141.fi.abb.com
 fixedassets.xero.com
 fjallfoss.fcc.gov
@@ -13076,6 +13077,7 @@ indonesia-tm.nonprod.cbre.com
 indonesia-uat.nonprod.cbre.com
 indonesia.cbre.com
 indonesiavoa.vfsevisa.id
+indussiibis.water-link.be
 industrial-automation-service.abb.com
 industrialemployeescu-dc.cert.fec-dc.fiservapps.com
 industrialemployeescu-dn.financial-net.com
@@ -14295,7 +14297,6 @@ leasedataservice.deere.com
 leasemaster.cbre.es
 leasing.apartments.com
 leasingproposal.cbre.com.au
-lecstaticcontent.lansweeper.com
 leebank.onlinebank.com
 legacy-blockexplorer.electroneum.com
 legacy-mcycle-dq.firstdataclients.com
@@ -14617,7 +14618,6 @@ login.infomaniak.com
 login.innogames.de
 login.insightly.com
 login.koho.ca
-login.lansweeper.com
 login.mbs-navigator.com
 login.medscape.com
 login.my.fleetboard.com
@@ -18360,6 +18360,7 @@ onsafety.cpsc.gov
 ontario.gleague.nba.com
 ontheborder.wgiftcard.com
 ontheborderstore.wgiftcard.com
+oos.eu-west-2.outscale.com
 oos.pdc.abb.com
 op.paymaya.com
 op2-bff.rokt.com
@@ -18608,7 +18609,6 @@ osp.opera.software
 osprzet-elektroinstalcyjny.pl.abb.com
 oss.moov.io
 osts.fcc.gov
-osu.eu-west-2.outscale.com
 ota.onecloud.harman.com
 otc.in.abb.com
 otcweb.econfigure.abb.com
@@ -19292,7 +19292,6 @@ photo.gallileo-frankfurt.com
 photo.kruidvat.be
 photo.walgreens.com
 photos.gallileo-frankfurt.com
-php-rce.cloudflare.app
 phpmv.monosem-inc.com
 phpmyadmin.gallileo-frankfurt.com
 phpmyvisites.monosem-inc.com
@@ -19366,6 +19365,7 @@ piqplus.propertyiq.com.au
 piscataqua-admin.originate.fiservapps.com
 piscataqua.onlinebank.com
 piscataqua.originate.fiservapps.com
+pit.water-link.be
 pitch.cbre.nl
 pitchse-tvkcgqggkr.dynamic-m.com
 pitneybowes.wfg-baweb.com
@@ -19856,6 +19856,7 @@ pr-qa.nba.com
 pr.abb.com
 pr.gallileo-frankfurt.com
 pr.nba.com
+practice.datacamp.com
 practice.securevetsource.com
 pragueofficeadvisor.cbre.cz
 prairiecommunitybank-admin.originate.fiservapps.com
@@ -20278,6 +20279,7 @@ profile.hackthebox.com
 profile.playstation.com
 profile.segment.com
 profile.telenor.se
+profiles-api.datacamp.com
 profiles.sports.yahoo.com
 profiles.wordpress.org
 profileservicep.deere.com
@@ -20294,6 +20296,7 @@ projecthyundai.cbre.eu
 projectinsight.cbre.com
 projects.cbre.eu
 projects.cbre.se
+projects.datacamp.com
 projects.drives.abb.com.cn
 projects.epam.com
 projects.gallileo-frankfurt.com
@@ -28602,6 +28605,7 @@ www.darphin.dcp.elcompanies.com
 www.darphin.dcpm.elcompanies.com
 www.dashboard.gatekeepers.co.in
 www.data-center.cbre.es
+www.datacamp.com
 www.datamgmt.greenqa.cbre.com
 www.dataservices.cbre.eu
 www.dateplanner.cbre.nl
@@ -28723,6 +28727,7 @@ www.dimensionserverdev.cbre.com
 www.discourse.cbrehost.com
 www.disruptech-test.cbre.com
 www.disruptechapi-test.cbre.com
+www.divvyhomes.com
 www.dl-global.com
 www.dmp.fr
 www.dmp.gouv.fr
@@ -29407,7 +29412,6 @@ www.landaulettings.com
 www.landmarkcinemas.com
 www.landwatch.com
 www.languagecert.org
-www.lansweeper.com
 www.laoficinadelfuturo.cbre.es
 www.lascana.de
 www.lastpass.com

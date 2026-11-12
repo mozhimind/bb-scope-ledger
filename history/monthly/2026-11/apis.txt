@@ -766,6 +766,7 @@ apps.rokt.com
 apps.yeswehack.com
 apps1.seagate.com
 arlo.com
+assessment-api.datacamp.com
 asset-api.cbre.com.au
 assistants.twilio.com
 atlantis-ext.myopenpass.com
@@ -1711,6 +1712,7 @@ oauth.twilio.com
 ob-sandbox.gocardless.io
 ometa-rest.cbre.eu
 ondemand-api-prod.cbre.com
+oos.eu-west-2.outscale.com
 op.paymaya.com
 op2-bff.rokt.com
 ope-dashboard-api.optimism.io
@@ -1828,6 +1830,7 @@ production.maf.auth0.com
 productregistration-api.deere.com
 produktion.api.praxispad.de
 profile.segment.com
+profiles-api.datacamp.com
 prospectivesupplier-api.deere.com
 proxy-production.lime.bike
 proxy.momoapi.mtn.com

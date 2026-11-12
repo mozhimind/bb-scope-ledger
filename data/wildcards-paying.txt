@@ -117,6 +117,7 @@ audicagame.com
 auth.bild.de
 autobild.de
 avecspotify.com
+aww.be
 ayco.com
 backblazeb2.com
 backend-capital.com
@@ -254,6 +255,7 @@ dailyadvent.com
 dancecentral.com
 das.eu
 dash.zoop.com.br
+datacamp.com
 dbt.com
 dbtlabs.com
 dcfgateway.marriott.com
@@ -646,6 +648,7 @@ miinsurtech.cn
 miinsurtech.com
 miinsurtech.net
 mijiayoupin.com
+mijnwater-link.be
 mioffice.cn
 mios.cn
 miot-spec.org
@@ -1113,6 +1116,7 @@ vpn.hackerone.net
 vtm.be
 vtmgo.be
 wali.com
+water-link.be
 watsons.co.id
 watsons.co.th
 watsons.com.hk

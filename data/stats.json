@@ -1,64 +1,64 @@
 {
- "date": "2026-11-12",
- "generated_at": "2026-11-11T22:41:22Z",
+ "date": "2026-11-13",
+ "generated_at": "2026-11-12T22:21:15Z",
  "version": "1.5.0",
  "disk": {
-  "project_mb": 75,
-  "free_mb": 92062
+  "project_mb": 77,
+  "free_mb": 92061
  },
  "parser_version": "2026-11-10-descriptions-apis",
- "diff_note": "diffs against 2026-11-11",
+ "diff_note": "diffs against 2026-11-12",
  "have_diffs": true,
- "headline": "2026-11-12 | new: 19 (+3 apex, +6 subdomains) | removed: 54 | failed sources: 0 | warnings: 0",
- "master": 58275,
- "overlap": 297,
+ "headline": "2026-11-13 | new: 45 (+13 apex, +17 subdomains) | removed: 27 | failed sources: 0 | warnings: 0",
+ "master": 58294,
+ "overlap": 295,
  "files": {
-  "review_new_paying": 19,
-  "review_new": 19,
-  "review_removed": 54,
+  "review_new_paying": 42,
+  "review_new": 45,
+  "review_removed": 27,
   "recovered": 2229,
-  "rejected": 4913,
-  "review_by_source": 65883,
-  "programs": 3151,
-  "program_scope": 66234,
-  "program_out_of_scope": 5217,
+  "rejected": 4917,
+  "review_by_source": 65901,
+  "programs": 3153,
+  "program_scope": 66255,
+  "program_out_of_scope": 5241,
   "failed_sources": 0
  },
  "assets": [
   {
    "asset": "apex",
-   "count": 19513,
-   "paying": 3937,
-   "new": 3,
-   "removed": 3
+   "count": 19524,
+   "paying": 3950,
+   "new": 13,
+   "removed": 2
   },
   {
    "asset": "subdomains",
-   "count": 31410,
-   "paying": 4851,
-   "new": 6,
-   "removed": 17
+   "count": 31414,
+   "paying": 4854,
+   "new": 17,
+   "removed": 13
   },
   {
    "asset": "wildcards",
-   "count": 4911,
-   "paying": 1196,
-   "new": 3,
-   "removed": 3
+   "count": 4912,
+   "paying": 1200,
+   "new": 2,
+   "removed": 1
   },
   {
    "asset": "urls",
-   "count": 1757,
-   "paying": 986,
-   "new": 2,
-   "removed": 12
+   "count": 1758,
+   "paying": 987,
+   "new": 4,
+   "removed": 3
   },
   {
    "asset": "apis",
    "count": 2400,
    "paying": 902,
-   "new": 1,
-   "removed": 13
+   "new": 3,
+   "removed": 3
   },
   {
    "asset": "ips",
@@ -76,9 +76,9 @@
   },
   {
    "asset": "github",
-   "count": 983,
-   "paying": 741,
-   "new": 0,
+   "count": 984,
+   "paying": 742,
+   "new": 3,
    "removed": 2
   },
   {
@@ -90,10 +90,10 @@
   },
   {
    "asset": "apps",
-   "count": 2728,
-   "paying": 2121,
-   "new": 2,
-   "removed": 4
+   "count": 2731,
+   "paying": 2123,
+   "new": 3,
+   "removed": 0
   },
   {
    "asset": "patterns",
@@ -111,41 +111,41 @@
   },
   {
    "asset": "maybe",
-   "count": 765,
-   "paying": 447,
-   "new": 2,
-   "removed": 0
+   "count": 762,
+   "paying": 444,
+   "new": 0,
+   "removed": 3
   }
  ],
  "sources": [
   {
    "name": "arkadiyt-domains",
    "status": "ok",
-   "rows": 38422,
+   "rows": 38436,
    "rejected": 12,
-   "seconds": 0.3,
+   "seconds": 0.1,
    "note": ""
   },
   {
    "name": "arkadiyt-wildcard",
    "status": "ok",
-   "rows": 3483,
+   "rows": 3484,
    "rejected": 5,
-   "seconds": 0.2,
+   "seconds": 0.1,
    "note": ""
   },
   {
    "name": "arkadiyt-hackerone",
    "status": "ok",
-   "rows": 45644,
+   "rows": 45648,
    "rejected": 1301,
-   "seconds": 0.7,
+   "seconds": 0.4,
    "note": ""
   },
   {
    "name": "arkadiyt-bugcrowd",
    "status": "ok",
-   "rows": 4000,
+   "rows": 4001,
    "rejected": 236,
    "seconds": 0.2,
    "note": ""
@@ -153,15 +153,15 @@
   {
    "name": "arkadiyt-intigriti",
    "status": "ok",
-   "rows": 2166,
-   "rejected": 188,
-   "seconds": 0.2,
+   "rows": 2211,
+   "rejected": 190,
+   "seconds": 0.1,
    "note": ""
   },
   {
    "name": "arkadiyt-yeswehack",
    "status": "ok",
-   "rows": 892,
+   "rows": 893,
    "rejected": 44,
    "seconds": 0.1,
    "note": ""
@@ -185,9 +185,9 @@
   {
    "name": "immunefi-direct",
    "status": "ok",
-   "rows": 2931,
+   "rows": 3027,
    "rejected": 0,
-   "seconds": 0.5,
+   "seconds": 0.7,
    "note": ""
   },
   {
@@ -217,9 +217,9 @@
   {
    "name": "hackerone-direct",
    "status": "ok",
-   "rows": 46533,
+   "rows": 46066,
    "rejected": 1316,
-   "seconds": 159.9,
+   "seconds": 146.3,
    "note": ""
   },
   {
@@ -233,25 +233,25 @@
   {
    "name": "bugcrowd-direct",
    "status": "ok",
-   "rows": 9909,
+   "rows": 9910,
    "rejected": 1327,
-   "seconds": 116.1,
+   "seconds": 142.5,
    "note": "6 of 518 Bugcrowd engagements could not be read today, their hosts from the last good run are kept (no engagement-brief element in https://bugcrowd.com/engagements/usdot-vdp; the page layout changed)"
   },
   {
    "name": "intigriti-direct",
    "status": "ok",
-   "rows": 2816,
-   "rejected": 214,
-   "seconds": 21.4,
+   "rows": 2854,
+   "rejected": 216,
+   "seconds": 20.2,
    "note": ""
   },
   {
    "name": "yeswehack-direct",
    "status": "ok",
-   "rows": 892,
+   "rows": 893,
    "rejected": 44,
-   "seconds": 12.3,
+   "seconds": 13.2,
    "note": ""
   },
   {
@@ -259,7 +259,7 @@
    "status": "ok",
    "rows": 1064,
    "rejected": 225,
-   "seconds": 217.5,
+   "seconds": 241.7,
    "note": ""
   }
  ],
@@ -286,7 +286,7 @@
   "leading-dot": 1
  },
  "rejected": {
-  "free-text": 4122,
+  "free-text": 4126,
   "single-label": 711,
   "bad-idn": 24,
   "placeholder": 11,

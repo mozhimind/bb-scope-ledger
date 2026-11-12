@@ -1656,6 +1656,8 @@ arkadiyt-intigriti	free-text	app:Fortress Hong Kong Android
 arkadiyt-intigriti	free-text	app:Fortress Hong Kong iOS
 arkadiyt-intigriti	free-text	app:ICI Paris XL Android
 arkadiyt-intigriti	free-text	app:ICI Paris XL iOS
+arkadiyt-intigriti	free-text	app:Kron - Sparing og pensjon - Android
+arkadiyt-intigriti	free-text	app:Kron - Sparing og pensjon - iOS
 arkadiyt-intigriti	free-text	app:Kruidvat BE Android
 arkadiyt-intigriti	free-text	app:Kruidvat BE iOS
 arkadiyt-intigriti	free-text	app:Kruidvat NL Android
@@ -2793,8 +2795,8 @@ bugcrowd-direct	free-text	app:Opera for Android
 bugcrowd-direct	free-text	app:Opera for iOS
 bugcrowd-direct	free-text	app:Opsgenie (Android)
 bugcrowd-direct	free-text	app:Opsgenie (IoS)
-bugcrowd-direct	free-text	app:Optus android app
-bugcrowd-direct	free-text	app:Optus iOS App
+bugcrowd-direct	free-text	app:Optus Android Application
+bugcrowd-direct	free-text	app:Optus iOS Application
 bugcrowd-direct	free-text	app:PartOS Android Application
 bugcrowd-direct	free-text	app:PartOS iOS Application
 bugcrowd-direct	free-text	app:Partycasino APK
@@ -4784,6 +4786,8 @@ intigriti-direct	free-text	app:Fortress Hong Kong Android
 intigriti-direct	free-text	app:Fortress Hong Kong iOS
 intigriti-direct	free-text	app:ICI Paris XL Android
 intigriti-direct	free-text	app:ICI Paris XL iOS
+intigriti-direct	free-text	app:Kron - Sparing og pensjon - Android
+intigriti-direct	free-text	app:Kron - Sparing og pensjon - iOS
 intigriti-direct	free-text	app:Kruidvat BE Android
 intigriti-direct	free-text	app:Kruidvat BE iOS
 intigriti-direct	free-text	app:Kruidvat NL Android

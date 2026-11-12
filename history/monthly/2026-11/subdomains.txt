@@ -2126,6 +2126,7 @@ app.citushealth.ca
 app.citushealth.com
 app.connecteam.com
 app.dailypay.com
+app.datacamp.com
 app.datadome.co
 app.defisaver.com
 app.delen.be
@@ -2418,6 +2419,8 @@ aptoramobile.cbre.com
 apuacmysupplier.cbre.com
 aqda3.aegeanair.com
 aqda3uat.aegeanair.com
+aquawardsoperate.water-link.be
+aquawardsspatial.water-link.be
 ar-qa.nonprod.cbre.com
 ar-tm.nonprod.cbre.com
 ar-uat.nonprod.cbre.com
@@ -2565,8 +2568,11 @@ aspirecu-dn.financial-net.com
 aspirecu.originate.fiservapps.com
 aspirefcu-dc.cert.fec-dc.fiservapps.com
 aspirefcu-dn.financial-net.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com
 assessment.aon.com
 assessment.aonanalytics.tech
+assessment.datacamp.com
 asset-admin.cbre.se
 asset-api.cbre.com.au
 asset.cbre.cl
@@ -4500,6 +4506,7 @@ campshelbycreditunion.vbwebservices.com
 campshelbycu-dc.cert.fec-dc.fiservapps.com
 campshelbycu-dn.financial-net.com
 campus.bovis.es
+campus.datacamp.com
 campus.deere.com.br
 campusstatebank.vbwebservices.com
 camuy-uat.streamlendvelocity.net
@@ -7729,6 +7736,7 @@ desk.thetradedesk.com
 deskallocation.mendixcloud.com
 desksonar.cbre.es
 desktop-sit.uat.proptrack.com
+desktop.water-link.be
 detest.pip.cbrehotels.com
 detroit-dev.gleague.nba.com
 detroit-qa.gleague.nba.com
@@ -10683,6 +10691,7 @@ fiservtestservicepoint.fiservapps.com
 fisher.ca.essd.northgrum.com
 fisheye.pclender.com
 fit.nba.com
+fitbit-lottery-staging.getmoneytree.com
 fitbit-lottery.getmoneytree.com
 fivaa-s-te00141.fi.abb.com
 fixedassets.xero.com
@@ -13086,6 +13095,7 @@ indonesia-tm.nonprod.cbre.com
 indonesia-uat.nonprod.cbre.com
 indonesia.cbre.com
 indonesiavoa.vfsevisa.id
+indussiibis.water-link.be
 industrial-automation-service.abb.com
 industrialemployeescu-dc.cert.fec-dc.fiservapps.com
 industrialemployeescu-dn.financial-net.com
@@ -18370,6 +18380,7 @@ onsafety.cpsc.gov
 ontario.gleague.nba.com
 ontheborder.wgiftcard.com
 ontheborderstore.wgiftcard.com
+oos.eu-west-2.outscale.com
 oos.pdc.abb.com
 op.paymaya.com
 op2-bff.rokt.com
@@ -19376,6 +19387,7 @@ piqplus.propertyiq.com.au
 piscataqua-admin.originate.fiservapps.com
 piscataqua.onlinebank.com
 piscataqua.originate.fiservapps.com
+pit.water-link.be
 pitch.cbre.nl
 pitchse-tvkcgqggkr.dynamic-m.com
 pitneybowes.wfg-baweb.com
@@ -19867,6 +19879,7 @@ pr-qa.nba.com
 pr.abb.com
 pr.gallileo-frankfurt.com
 pr.nba.com
+practice.datacamp.com
 practice.securevetsource.com
 pragueofficeadvisor.cbre.cz
 prairiecommunitybank-admin.originate.fiservapps.com
@@ -20289,6 +20302,7 @@ profile.hackthebox.com
 profile.playstation.com
 profile.segment.com
 profile.telenor.se
+profiles-api.datacamp.com
 profiles.sports.yahoo.com
 profiles.wordpress.org
 profileservicep.deere.com
@@ -20305,6 +20319,7 @@ projecthyundai.cbre.eu
 projectinsight.cbre.com
 projects.cbre.eu
 projects.cbre.se
+projects.datacamp.com
 projects.drives.abb.com.cn
 projects.epam.com
 projects.gallileo-frankfurt.com
@@ -28616,6 +28631,7 @@ www.darphin.dcp.elcompanies.com
 www.darphin.dcpm.elcompanies.com
 www.dashboard.gatekeepers.co.in
 www.data-center.cbre.es
+www.datacamp.com
 www.datamgmt.greenqa.cbre.com
 www.dataservices.cbre.eu
 www.dateplanner.cbre.nl
@@ -28737,6 +28753,7 @@ www.dimensionserverdev.cbre.com
 www.discourse.cbrehost.com
 www.disruptech-test.cbre.com
 www.disruptechapi-test.cbre.com
+www.divvyhomes.com
 www.dl-global.com
 www.dmp.fr
 www.dmp.gouv.fr

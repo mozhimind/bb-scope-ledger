@@ -31,6 +31,7 @@
 *.autobild.de	paying	Axel Springer National Media & Tech	https://www.intigriti.com/programs/axelspringerse/nmt/detail
 *.aws.canadapost-postescanada.ca	non-paying	Canada Post - Responsible Disclosure Program	https://www.intigriti.com/programs/innovapost/innovapost/detail
 *.aww.be	non-paying	Water-Link VDP	https://www.intigriti.com/programs/waterlink/water-linkvdp/detail
+*.aww.be	paying	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
 *.axelspringer.com	non-paying	Axel Springer SE Vulnerability Disclosure Program	https://www.intigriti.com/programs/axelspringerse/axelspringersevulnerabilitydisclosureprogram/detail
 *.axelspringer.com	out-of-scope	Axel Springer National Media & Tech	https://www.intigriti.com/programs/axelspringerse/nmt/detail
 *.azcpggpc.ca	non-paying	Canada Post - Responsible Disclosure Program	https://www.intigriti.com/programs/innovapost/innovapost/detail
@@ -119,6 +120,7 @@
 *.das.eu	paying	EURid	https://www.intigriti.com/programs/eurid/eurid/detail
 *.dash.ai	non-paying	Dropbox Bug Bounty	https://www.intigriti.com/programs/dropbox/dropbox/detail
 *.dashlane.com	non-paying	Dashlane Vulnerability Disclosure Program	https://www.intigriti.com/programs/dashlane/dashlanevulnerabilitydisclosureprogram/detail
+*.datacamp.com	paying	DataCamp	https://www.intigriti.com/programs/datacamp/datacamp/detail
 *.db.ondigitalocean.com	out-of-scope	DigitalOcean	https://www.intigriti.com/programs/digitalocean/digitalocean/detail
 *.db1.ondigitalocean.com	out-of-scope	DigitalOcean	https://www.intigriti.com/programs/digitalocean/digitalocean/detail
 *.deliciousbrains.com	non-paying	WP Engine VDP	https://www.intigriti.com/programs/wpengine/wpengine/detail
@@ -218,6 +220,7 @@
 *.intigriti.me	paying	intigriti	https://www.intigriti.com/programs/intigriti/intigriti/detail
 *.intigriti.net	out-of-scope	intigriti	https://www.intigriti.com/programs/intigriti/intigriti/detail
 *.invoiced.com	non-paying	Flywire Vulnerability Disclose Program	https://www.intigriti.com/programs/flywire/flywirevulnerabilitydiscloseprogram/detail
+*.it.datacamp.com	out-of-scope	DataCamp	https://www.intigriti.com/programs/datacamp/datacamp/detail
 *.itcapital.io	paying	Capital.com	https://www.intigriti.com/programs/capitalcom/capitalcom/detail
 *.itscope.com	non-paying	Exact Vulnerability Disclosure Program	https://www.intigriti.com/programs/exact/exactvulnerabilitydisclosureprogram/detail
 *.itscope.de	non-paying	Exact Vulnerability Disclosure Program	https://www.intigriti.com/programs/exact/exactvulnerabilitydisclosureprogram/detail
@@ -248,7 +251,6 @@
 *.kwsdose.be	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 *.landmarkcinemas.com	paying	Kinepolis Group	https://www.intigriti.com/programs/kinepolis/website/detail
 *.landmarkglobal-group.com	non-paying	Bpost	https://www.intigriti.com/programs/bpost/dummy/detail
-*.lansweeper.com	non-paying	Lansweeper Bug Bounty Program	https://www.intigriti.com/programs/lansweeper/lansweeper1/detail
 *.latchapp.com	non-paying	Ivo: AI VDP	https://www.intigriti.com/programs/ivoai/ivovulnerabilitydisclosureprogram/detail
 *.learnhub.buhlergroup.com	out-of-scope	Bühler Group VDP	https://www.intigriti.com/programs/buhlergroup/buhlergroupvdp/detail
 *.libelle.nl	paying	Libelle	https://www.intigriti.com/programs/dpgm/libelle/detail
@@ -271,6 +273,7 @@
 *.megatix.be	paying	Kinepolis Group	https://www.intigriti.com/programs/kinepolis/website/detail
 *.metropolder.com	non-paying	Orbia Responsible Disclosure	https://www.intigriti.com/programs/orbia/orbiavdp/detail
 *.mexichem.com	non-paying	Orbia Responsible Disclosure	https://www.intigriti.com/programs/orbia/orbiavdp/detail
+*.mijnwater-link.be	paying	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
 *.mir.uzleuven.be	non-paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 *.mjrtheatres.com	paying	Kinepolis Group	https://www.intigriti.com/programs/kinepolis/website/detail
 *.mobilevikings.be	paying	Mobile Vikings	https://www.intigriti.com/programs/mv/mobilevikings/detail
@@ -483,6 +486,7 @@
 *.vtmgo.be	paying	VTM GO	https://www.intigriti.com/programs/dpgm/vtmgo/detail
 *.wartsila.com	non-paying	Wärtsilä Vulnerability Disclosure Program	https://www.intigriti.com/programs/wartsila/wartsila-vdp/detail
 *.water-link.be	non-paying	Water-Link VDP	https://www.intigriti.com/programs/waterlink/water-linkvdp/detail
+*.water-link.be	paying	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
 *.watsons.co.id	paying	Watsons	https://www.intigriti.com/programs/aswatson/watsons/detail
 *.watsons.co.th	paying	Watsons	https://www.intigriti.com/programs/aswatson/watsons/detail
 *.watsons.com.hk	paying	Watsons	https://www.intigriti.com/programs/aswatson/watsons/detail
@@ -674,8 +678,6 @@ IPv4: 134.58.0.0/16	non-paying	KU Leuven Vulnerability Disclosure Program (VDP)	
 IPv6: 2a02:2c40::/32	non-paying	KU Leuven Vulnerability Disclosure Program (VDP)	https://www.intigriti.com/programs/kuleuven/kuleuvenrdp/detail
 Identity Services	paying	Yahoo Bug Bounty	https://www.intigriti.com/programs/yahoo/yahoobugbounty/detail
 Ivo Microsoft Word add-in	non-paying	Ivo: AI VDP	https://www.intigriti.com/programs/ivoai/ivovulnerabilitydisclosureprogram/detail
-Lansweeper Classic	out-of-scope	Lansweeper Bug Bounty Program	https://www.intigriti.com/programs/lansweeper/lansweeper1/detail
-Lansweeper Discovery	out-of-scope	Lansweeper Bug Bounty Program	https://www.intigriti.com/programs/lansweeper/lansweeper1/detail
 Low Cost Access	paying	Yahoo Bug Bounty	https://www.intigriti.com/programs/yahoo/yahoobugbounty/detail
 Magnific	non-paying	MAGNIFIC VDP	https://www.intigriti.com/programs/freepik/freepikcompany/detail
 Main Scope	non-paying	QC VDP	https://www.intigriti.com/programs/quadcode/qcvdp/detail
@@ -765,6 +767,7 @@ actie.volkskrant.nl	out-of-scope	De Volkskrant	https://www.intigriti.com/program
 activities.esa.int	non-paying	European Space Agency (ESA) VDP	https://www.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail
 ad-smartour.qplanning.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
 adayevrak.watsons.com.tr	paying	Watsons	https://www.intigriti.com/programs/aswatson/watsons/detail
+adelta.be	paying	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
 admin.mymateco.de	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
 adtechnology.axelspringer.com	out-of-scope	Axel Springer SE Vulnerability Disclosure Program	https://www.intigriti.com/programs/axelspringerse/axelspringersevulnerabilitydisclosureprogram/detail
 adtechnology.axelspringer.com	paying	Axel Springer National Media & Tech	https://www.intigriti.com/programs/axelspringerse/nmt/detail
@@ -800,7 +803,6 @@ api.iciparisxl.lu	paying	ICI PARIS XL	https://www.intigriti.com/programs/aswatso
 api.iciparisxl.nl	paying	ICI PARIS XL	https://www.intigriti.com/programs/aswatson/iciparisxl/detail
 api.kruidvat.be	paying	Kruidvat	https://www.intigriti.com/programs/aswatson/kruidvat/detail
 api.kruidvat.nl	paying	Kruidvat	https://www.intigriti.com/programs/aswatson/kruidvat/detail
-api.lansweeper.com	paying	Lansweeper Bug Bounty Program	https://www.intigriti.com/programs/lansweeper/lansweeper1/detail
 api.lookatme.com.ph	paying	Watsons	https://www.intigriti.com/programs/aswatson/watsons/detail
 api.maakafspraak.karwei.nl	out-of-scope	Intergamma	https://www.intigriti.com/programs/intergamma/intergamma/detail
 api.marionnaud.at	paying	Marionnaud	https://www.intigriti.com/programs/aswatson/marionnaud/detail
@@ -837,6 +839,10 @@ api.watsons.vn	paying	Watsons	https://www.intigriti.com/programs/aswatson/watson
 apis.mail.yahoo.com	paying	Yahoo Bug Bounty	https://www.intigriti.com/programs/yahoo/yahoobugbounty/detail
 app.Reclaim.ai	paying	Dropbox Bug Bounty	https://www.intigriti.com/programs/dropbox/dropbox/detail
 app.aikido.dev	paying	Aikido Security: Bug Bounty Program	https://www.intigriti.com/programs/aikido/aikido/detail
+app.datacamp.com/certification	paying	DataCamp	https://www.intigriti.com/programs/datacamp/datacamp/detail
+app.datacamp.com/groups	paying	DataCamp	https://www.intigriti.com/programs/datacamp/datacamp/detail
+app.datacamp.com/learn	paying	DataCamp	https://www.intigriti.com/programs/datacamp/datacamp/detail
+app.datacamp.com/recruit	out-of-scope	DataCamp	https://www.intigriti.com/programs/datacamp/datacamp/detail
 app.delen.be	paying	Delen Private Bank	https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail
 app.delen.ch	paying	Delen Private Bank	https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail
 app.delen.lu	paying	Delen Private Bank	https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail
@@ -849,8 +855,6 @@ app.iciparisxl.lu	paying	ICI PARIS XL	https://www.intigriti.com/programs/aswatso
 app.iciparisxl.nl	paying	ICI PARIS XL	https://www.intigriti.com/programs/aswatson/iciparisxl/detail
 app.kruidvat.be	paying	Kruidvat	https://www.intigriti.com/programs/aswatson/kruidvat/detail
 app.kruidvat.nl	paying	Kruidvat	https://www.intigriti.com/programs/aswatson/kruidvat/detail
-app.lansweeper.com	paying	Lansweeper Bug Bounty Program	https://www.intigriti.com/programs/lansweeper/lansweeper1/detail
-app.lansweeper.com/trial	paying	Lansweeper Bug Bounty Program	https://www.intigriti.com/programs/lansweeper/lansweeper1/detail
 app.marionnaud.at	paying	Marionnaud	https://www.intigriti.com/programs/aswatson/marionnaud/detail
 app.marionnaud.ch	paying	Marionnaud	https://www.intigriti.com/programs/aswatson/marionnaud/detail
 app.marionnaud.cz	paying	Marionnaud	https://www.intigriti.com/programs/aswatson/marionnaud/detail
@@ -900,6 +904,8 @@ app:Fortress Hong Kong Android	paying	Watsons	https://www.intigriti.com/programs
 app:Fortress Hong Kong iOS	paying	Watsons	https://www.intigriti.com/programs/aswatson/watsons/detail
 app:ICI Paris XL Android	paying	ICI PARIS XL	https://www.intigriti.com/programs/aswatson/iciparisxl/detail
 app:ICI Paris XL iOS	paying	ICI PARIS XL	https://www.intigriti.com/programs/aswatson/iciparisxl/detail
+app:Kron - Sparing og pensjon - Android	non-paying	Storebrand Responsible Disclosure	https://www.intigriti.com/programs/spp-storebrand/storebrand-rd/detail
+app:Kron - Sparing og pensjon - iOS	non-paying	Storebrand Responsible Disclosure	https://www.intigriti.com/programs/spp-storebrand/storebrand-rd/detail
 app:Kruidvat BE Android	paying	Kruidvat	https://www.intigriti.com/programs/aswatson/kruidvat/detail
 app:Kruidvat BE iOS	paying	Kruidvat	https://www.intigriti.com/programs/aswatson/kruidvat/detail
 app:Kruidvat NL Android	paying	Kruidvat	https://www.intigriti.com/programs/aswatson/kruidvat/detail
@@ -974,6 +980,7 @@ app:com.bitvavo.android	non-paying	Bitvavo VDP	https://www.intigriti.com/program
 app:com.canadapost.android	non-paying	Canada Post - Responsible Disclosure Program	https://www.intigriti.com/programs/innovapost/innovapost/detail
 app:com.capital.trading	paying	Capital.com	https://www.intigriti.com/programs/capitalcom/capitalcom/detail
 app:com.cm.cashregister	non-paying	CM.com	https://www.intigriti.com/programs/cmcom/cmcom/detail
+app:com.datacamp	paying	DataCamp	https://www.intigriti.com/programs/datacamp/datacamp/detail
 app:com.dropbox.android	paying	Dropbox Bug Bounty	https://www.intigriti.com/programs/dropbox/dropbox/detail
 app:com.dropbox.dash	non-paying	Dropbox Bug Bounty	https://www.intigriti.com/programs/dropbox/dropbox/detail
 app:com.instalsoft.wavinsmartinstalsystem	non-paying	Orbia Responsible Disclosure	https://www.intigriti.com/programs/orbia/orbiavdp/detail
@@ -986,6 +993,7 @@ app:cz.skodaauto.myskoda	paying	Skoda Auto Bug Bounty Program	https://www.intigr
 app:de.bmw.connected.mobile20.row	paying	BMW Group Automotive	https://www.intigriti.com/programs/bmw/bmwgroup-automotive/detail
 app:delen/id1064839588	paying	Delen Private Bank	https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail
 app:fi.itella.posti.android	paying	Posti Bug Bounty	https://www.intigriti.com/programs/posti/postibugbounty/detail
+app:https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087	paying	DataCamp	https://www.intigriti.com/programs/datacamp/datacamp/detail
 app:https://apps.apple.com/cz/app/my%C5%A1koda/id1632202810	paying	Skoda Auto Bug Bounty Program	https://www.intigriti.com/programs/skodaauto/skodaautoprivatebugbountyprogram/detail
 app:https://apps.apple.com/nl/app/speakap/id713925262	non-paying	Speakap Responsible Disclosure	https://www.intigriti.com/programs/speakap/speakapresponsibledisclosure/detail
 app:https://apps.apple.com/us/app/donorbox-live/id1668808097	non-paying	Donorbox Vulnerability Disclosure Project	https://www.intigriti.com/programs/donorbox/donorboxvdp/detail
@@ -1010,8 +1018,16 @@ apps.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mat
 apps.randstad.in	out-of-scope	Randstad	https://www.intigriti.com/programs/randstad/randstad/detail
 appt.healthclinics.superdrug.com	paying	Superdrug	https://www.intigriti.com/programs/aswatson/superdrug/detail
 aqora.naiad.*	non-paying	Orbia Responsible Disclosure	https://www.intigriti.com/programs/orbia/orbiavdp/detail
+aquawardsoperate.water-link.be	paying	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
+aquawardsoperateacc.water-link.be	out-of-scope	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
+aquawardsspatial.water-link.be	paying	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
+aquawise.be	out-of-scope	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
+assessment-api.datacamp.com	paying	DataCamp	https://www.intigriti.com/programs/datacamp/datacamp/detail
+assessment-v2.datacamp.com	paying	DataCamp	https://www.intigriti.com/programs/datacamp/datacamp/detail
+assessment.datacamp.com	paying	DataCamp	https://www.intigriti.com/programs/datacamp/datacamp/detail
 assets.rivian.com	out-of-scope	Rivian Bug Bounty	https://www.intigriti.com/programs/rivian/rivianbugbounty/detail
 assets.rivian.com	out-of-scope	Rivian Vulnerability Disclosure Program	https://www.intigriti.com/programs/rivian/rivianvdp/detail
+ast-viewer.datacamp.com	out-of-scope	DataCamp	https://www.intigriti.com/programs/datacamp/datacamp/detail
 astronauts.esa.int	non-paying	European Space Agency (ESA) VDP	https://www.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail
 atv.peoplecert.org	non-paying	PeopleCert VDP	https://www.intigriti.com/programs/peoplecert/peoplecert/detail
 auth-service.posti.fi	paying	Posti Bug Bounty	https://www.intigriti.com/programs/posti/postibugbounty/detail
@@ -1020,10 +1036,9 @@ auth.digital.delen.lu	paying	Delen Private Bank	https://www.intigriti.com/progra
 autodiscover.innogames.de	out-of-scope	InnoGames	https://www.intigriti.com/programs/innogames/innogames/detail
 autodiscover.intigriti.com	out-of-scope	intigriti	https://www.intigriti.com/programs/intigriti/intigriti/detail
 autodiscover.uzleuven.be	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
-autoupdateapi.lansweeper.com	paying	Lansweeper Bug Bounty Program	https://www.intigriti.com/programs/lansweeper/lansweeper1/detail
 avamposto42.esa.int	non-paying	European Space Agency (ESA) VDP	https://www.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail
 award.cybersecuritycoalition.be	non-paying	Cyber Security Coalition	https://www.intigriti.com/programs/cybersecuritycoalition/cybersecuritycoalition/detail
-backoffice.lansweeper.com	paying	Lansweeper Bug Bounty Program	https://www.intigriti.com/programs/lansweeper/lansweeper1/detail
+aww.eu	paying	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
 basecamp.rivian.com	non-paying	Rivian Vulnerability Disclosure Program	https://www.intigriti.com/programs/rivian/rivianvdp/detail
 basecamp.rivian.com	paying	Rivian Bug Bounty	https://www.intigriti.com/programs/rivian/rivianbugbounty/detail
 bdes-api.marionnaud.fr	paying	Marionnaud	https://www.intigriti.com/programs/aswatson/marionnaud/detail
@@ -1074,6 +1089,7 @@ campaign.theperfumeshop.com	paying	The Perfume Shop	https://www.intigriti.com/pr
 campaign.trekpleister.nl	paying	Kruidvat	https://www.intigriti.com/programs/aswatson/kruidvat/detail
 campaign.watsons.com.tr	paying	Watsons	https://www.intigriti.com/programs/aswatson/watsons/detail
 campaigns.theperfumeshop.com	paying	The Perfume Shop	https://www.intigriti.com/programs/aswatson/theperfumeshop/detail
+campus.datacamp.com	paying	DataCamp	https://www.intigriti.com/programs/datacamp/datacamp/detail
 cancellation.prod.ps.welt.de	paying	Axel Springer National Media & Tech	https://www.intigriti.com/programs/axelspringerse/nmt/detail
 capital.com/*	paying	Capital.com	https://www.intigriti.com/programs/capitalcom/capitalcom/detail
 cardsonline.azdiest.be	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
@@ -1082,7 +1098,6 @@ career.bpost.be	non-paying	Bpost	https://www.intigriti.com/programs/bpost/dummy/
 careers.capital.com	non-paying	Capital.com	https://www.intigriti.com/programs/capitalcom/capitalcom/detail
 careers.esa.int	non-paying	European Space Agency (ESA) VDP	https://www.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail
 careers.intigriti.com	out-of-scope	intigriti	https://www.intigriti.com/programs/intigriti/intigriti/detail
-careers.lansweeper.com	out-of-scope	Lansweeper Bug Bounty Program	https://www.intigriti.com/programs/lansweeper/lansweeper1/detail
 careers.rivian.com	out-of-scope	Rivian Bug Bounty	https://www.intigriti.com/programs/rivian/rivianbugbounty/detail
 careers.rivian.com	out-of-scope	Rivian Vulnerability Disclosure Program	https://www.intigriti.com/programs/rivian/rivianvdp/detail
 cas.tomorrowland.com	paying	Tomorrowland	https://www.intigriti.com/programs/tomorrowland/tomorrowland/detail
@@ -1119,6 +1134,7 @@ components.tomorrowland.com	paying	Tomorrowland	https://www.intigriti.com/progra
 configurator.service.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
 configure.bmw.de	paying	BMW Group	https://www.intigriti.com/programs/bmw/bmwgroup/detail
 configure.mini.de	paying	BMW Group	https://www.intigriti.com/programs/bmw/bmwgroup/detail
+confluence.datacamp.com	out-of-scope	DataCamp	https://www.intigriti.com/programs/datacamp/datacamp/detail
 connect.arkane.network	paying	Venly	https://www.intigriti.com/programs/arkane/arkanenetwork/detail
 connect.posti.fi	paying	Posti Bug Bounty	https://www.intigriti.com/programs/posti/postibugbounty/detail
 connect.venly.io	paying	Venly	https://www.intigriti.com/programs/arkane/arkanenetwork/detail
@@ -1152,6 +1168,7 @@ dash.dropbox.com	non-paying	Dropbox Bug Bounty	https://www.intigriti.com/program
 data.mail.yahoo.com	paying	Yahoo Bug Bounty	https://www.intigriti.com/programs/yahoo/yahoobugbounty/detail
 datashaper.mateco-tools.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
 datashaperapi.mateco-tools.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
+dccertified.datacamp.com	out-of-scope	DataCamp	https://www.intigriti.com/programs/datacamp/datacamp/detail
 dealabs.com	non-paying	Atolls Vulnerability Disclosure Program (VDP)	https://www.intigriti.com/programs/atolls/atollsvdp/detail
 dealer.prod.ps.axelspringer.de/purchases/*	paying	Axel Springer National Media & Tech	https://www.intigriti.com/programs/axelspringerse/nmt/detail
 demo.globalticket.com/*	non-paying	CM.com	https://www.intigriti.com/programs/cmcom/cmcom/detail
@@ -1164,6 +1181,7 @@ demovehicles.rivian.com	out-of-scope	Rivian Bug Bounty	https://www.intigriti.com
 demovehicles.rivian.com	out-of-scope	Rivian Vulnerability Disclosure Program	https://www.intigriti.com/programs/rivian/rivianvdp/detail
 depliantdejouets.kruidvat.be	paying	Kruidvat	https://www.intigriti.com/programs/aswatson/kruidvat/detail
 deploy.digitalocean.com	out-of-scope	DigitalOcean	https://www.intigriti.com/programs/digitalocean/digitalocean/detail
+desktop.water-link.be	paying	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
 dev.kinepolis.com	out-of-scope	Kinepolis Group	https://www.intigriti.com/programs/kinepolis/website/detail
 devdocs.zimpler.com	non-paying	TrueLayer VDP	https://www.intigriti.com/programs/truelayer/truelayervdp/detail
 developer.posti.com	paying	Posti Bug Bounty	https://www.intigriti.com/programs/posti/postibugbounty/detail
@@ -1183,7 +1201,6 @@ dlmultimedia.esa.int	non-paying	European Space Agency (ESA) VDP	https://www.inti
 dmm.bpost.be	non-paying	Bpost	https://www.intigriti.com/programs/bpost/dummy/detail
 do.co	paying	DigitalOcean	https://www.intigriti.com/programs/digitalocean/digitalocean/detail
 dobby.masq.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
-docs.lansweeper.com	paying	Lansweeper Bug Bounty Program	https://www.intigriti.com/programs/lansweeper/lansweeper1/detail
 docsend.com	paying	Dropbox Bug Bounty	https://www.intigriti.com/programs/dropbox/dropbox/detail
 doctorb.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
 doing-business.sso.esa.int	non-paying	European Space Agency (ESA) VDP	https://www.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail
@@ -1207,7 +1224,6 @@ ecom-data.trekpleister.nl	paying	Kruidvat	https://www.intigriti.com/programs/asw
 ecom-static.kruidvat.be	paying	Kruidvat	https://www.intigriti.com/programs/aswatson/kruidvat/detail
 ecom-static.kruidvat.nl	paying	Kruidvat	https://www.intigriti.com/programs/aswatson/kruidvat/detail
 ecrf.uzleuven.be	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
-edge.lansweeper.com	paying	Lansweeper Bug Bounty Program	https://www.intigriti.com/programs/lansweeper/lansweeper1/detail
 edition.iciparisxl.nl	paying	ICI PARIS XL	https://www.intigriti.com/programs/aswatson/iciparisxl/detail
 editorial.one	paying	Axel Springer National Media & Tech	https://www.intigriti.com/programs/axelspringerse/nmt/detail
 egaming.kinepolis.es	non-paying	Kinepolis Group	https://www.intigriti.com/programs/kinepolis/website/detail
@@ -1237,10 +1253,10 @@ extranet.uzleuven.be	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20le
 extras-acc.landmarkcinemas.com	paying	Kinepolis Group	https://www.intigriti.com/programs/kinepolis/website/detail
 extras.landmarkcinemas.com	paying	Kinepolis Group	https://www.intigriti.com/programs/kinepolis/website/detail
 f29baf0e-81df-4090-a5a5-f33cb9566b0d.storebrand.no	out-of-scope	Storebrand Responsible Disclosure	https://www.intigriti.com/programs/spp-storebrand/storebrand-rd/detail
-fb.lansweeper.com	paying	Lansweeper Bug Bounty Program	https://www.intigriti.com/programs/lansweeper/lansweeper1/detail
 fe-maprics.tools.svc.cluster.local	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
 feedback.rivian.com	out-of-scope	Rivian Bug Bounty	https://www.intigriti.com/programs/rivian/rivianbugbounty/detail
 feedback.rivian.com	out-of-scope	Rivian Vulnerability Disclosure Program	https://www.intigriti.com/programs/rivian/rivianvdp/detail
+feedback.water-link.be	out-of-scope	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
 files.uzleuven.be	non-paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 financereports.esa.int	non-paying	European Space Agency (ESA) VDP	https://www.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail
 folder.iciparisxl.nl	paying	ICI PARIS XL	https://www.intigriti.com/programs/aswatson/iciparisxl/detail
@@ -1261,6 +1277,7 @@ gammalokaal.nl	non-paying	Intergamma	https://www.intigriti.com/programs/intergam
 gateway.posti.fi	paying	Posti Bug Bounty	https://www.intigriti.com/programs/posti/postibugbounty/detail
 gc.watsons.com.tr	paying	Watsons	https://www.intigriti.com/programs/aswatson/watsons/detail
 getflywheel.com	non-paying	WP Engine VDP	https://www.intigriti.com/programs/wpengine/wpengine/detail
+gisacc(*).water-link.be	out-of-scope	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
 gitlab.buhler-datascience.ch/api/v4/projects	out-of-scope	Bühler Group VDP	https://www.intigriti.com/programs/buhlergroup/buhlergroupvdp/detail
 globaljourney.tomorrowland.com	paying	Tomorrowland	https://www.intigriti.com/programs/tomorrowland/tomorrowland/detail
 go.capital.com	non-paying	Capital.com	https://www.intigriti.com/programs/capitalcom/capitalcom/detail
@@ -1414,7 +1431,6 @@ https://library.pdq.com/	paying	PDQ bug bounty program	https://www.intigriti.com
 https://link.uma.me	paying	Lightspark Public Bug Bounty	https://www.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail
 https://lite.tech	non-paying	Zabka Group Vulnerability Disclosure Program	https://www.intigriti.com/programs/zabkapolska/zabkagroup-vdp/detail
 https://livechat.citymesh.com/	non-paying	Citymesh Responsible Vulnerability Disclosure Program	https://www.intigriti.com/programs/citymesh/responsiblevulnerabilitydisclosureprogram/detail
-https://lsagentrelay.lansweeper.com/	out-of-scope	Lansweeper Bug Bounty Program	https://www.intigriti.com/programs/lansweeper/lansweeper1/detail
 https://maczfit.pl	non-paying	Zabka Group Vulnerability Disclosure Program	https://www.intigriti.com/programs/zabkapolska/zabkagroup-vdp/detail
 https://masterlifecrm.com	non-paying	Zabka Group Vulnerability Disclosure Program	https://www.intigriti.com/programs/zabkapolska/zabkagroup-vdp/detail
 https://mastersblog.vlerick.com/	out-of-scope	Vlerick Business School	https://www.intigriti.com/programs/vlerickbusinessschool/vlerickbusinessschool/detail
@@ -1540,12 +1556,15 @@ igjam.eu	out-of-scope	InnoGames	https://www.intigriti.com/programs/innogames/inn
 ik.watsons.com.tr	paying	Watsons	https://www.intigriti.com/programs/aswatson/watsons/detail
 imap.buhlergroup.cn	out-of-scope	Bühler Group VDP	https://www.intigriti.com/programs/buhlergroup/buhlergroupvdp/detail
 imove.bpost.cloud	non-paying	Bpost	https://www.intigriti.com/programs/bpost/dummy/detail
+induss.eu	paying	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
+indussiibis.water-link.be	paying	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
 industrialreturn.esa.int	non-paying	European Space Agency (ESA) VDP	https://www.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail
 inference.do-ai.run	paying	DigitalOcean	https://www.intigriti.com/programs/digitalocean/digitalocean/detail
 innovatie.vrt.be	out-of-scope	VRT	https://www.intigriti.com/programs/vrtnv/vrtnv/detail
 innovation.superdrug.com	paying	Superdrug	https://www.intigriti.com/programs/aswatson/superdrug/detail
 internalshop.rivian.com	out-of-scope	Rivian Bug Bounty	https://www.intigriti.com/programs/rivian/rivianbugbounty/detail
 internalshop.rivian.com	out-of-scope	Rivian Vulnerability Disclosure Program	https://www.intigriti.com/programs/rivian/rivianvdp/detail
+intranet.datacamp.com	out-of-scope	DataCamp	https://www.intigriti.com/programs/datacamp/datacamp/detail
 investor.digitalocean.com	out-of-scope	DigitalOcean	https://www.intigriti.com/programs/digitalocean/digitalocean/detail
 investors.digitalocean.com	out-of-scope	DigitalOcean	https://www.intigriti.com/programs/digitalocean/digitalocean/detail
 iptvdec.esoc.esa.int	non-paying	European Space Agency (ESA) VDP	https://www.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail
@@ -1558,10 +1577,12 @@ jakelu.posti.fi	paying	Posti Bug Bounty	https://www.intigriti.com/programs/posti
 jamf.innogames.com	out-of-scope	InnoGames	https://www.intigriti.com/programs/innogames/innogames/detail
 jeux-concours.marionnaud.fr	paying	Marionnaud	https://www.intigriti.com/programs/aswatson/marionnaud/detail
 jimmobile.be	paying	Mobile Vikings	https://www.intigriti.com/programs/mv/mobilevikings/detail
+jira.datacamp.com	out-of-scope	DataCamp	https://www.intigriti.com/programs/datacamp/datacamp/detail
 jobs.kinepolis.com	out-of-scope	Kinepolis Group	https://www.intigriti.com/programs/kinepolis/website/detail
 jobs.portofantwerp.com	out-of-scope	Port of Antwerp-Bruges	https://www.intigriti.com/programs/portofantwerp/portofantwerp/detail
 jobs.portofantwerpbruges.com	out-of-scope	Port of Antwerp-Bruges	https://www.intigriti.com/programs/portofantwerp/portofantwerp/detail
 jobs.uzleuven.be	out-of-scope	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
+jobs.water-link.be	out-of-scope	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
 karwei-2018.hetmooistegordijn.nl	out-of-scope	Intergamma	https://www.intigriti.com/programs/intergamma/intergamma/detail
 karwei-promotiepunt.nl	non-paying	Intergamma	https://www.intigriti.com/programs/intergamma/intergamma/detail
 kassa.gamma.be/*	paying	Intergamma	https://www.intigriti.com/programs/intergamma/intergamma/detail
@@ -1589,6 +1610,7 @@ liferay.dev	non-paying	Liferay VDP	https://www.intigriti.com/programs/liferay/li
 lightsparkdev/lightspark-crypto-uniffi	non-paying	Lightspark Public Bug Bounty	https://www.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail
 lightsparkdev/swift-wallet-sdk	non-paying	Lightspark Public Bug Bounty	https://www.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail
 limonsoda.cl	out-of-scope	The Coca-Cola Company Vulnerability Disclosure Program	https://www.intigriti.com/programs/tccc/coca-cola/detail
+links.datacamp.com	out-of-scope	DataCamp	https://www.intigriti.com/programs/datacamp/datacamp/detail
 liquidfiles.nexuzhealth.com	paying	Nexuzhealth	https://www.intigriti.com/programs/nexuzhealth/nexuzhealth/detail
 liquidfiles.uzleuven.be	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 liquidfilestest.uzleuven.be	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
@@ -1601,13 +1623,11 @@ login.delen.be	paying	Delen Private Bank	https://www.intigriti.com/programs/dele
 login.delen.ch	paying	Delen Private Bank	https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail
 login.delen.lu	paying	Delen Private Bank	https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail
 login.internal.monzo.com	out-of-scope	Monzo Public Bug Bounty Program	https://www.intigriti.com/programs/monzobank/monzopublicbugbountyprogram/detail
-login.lansweeper.com	paying	Lansweeper Bug Bounty Program	https://www.intigriti.com/programs/lansweeper/lansweeper1/detail
 login.liferay.com	out-of-scope	Liferay VDP	https://www.intigriti.com/programs/liferay/liferay-vdp/detail
 login.oyens.com	paying	Delen Private Bank	https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail
 login.venly.io	paying	Venly	https://www.intigriti.com/programs/arkane/arkanenetwork/detail
 logout.id.posti.fi	paying	Posti Bug Bounty	https://www.intigriti.com/programs/posti/postibugbounty/detail
 louvre.veriff.me	paying	Veriff Bug Bounty	https://www.intigriti.com/programs/veriff/veriffbugbounty/detail
-lsrunase2.0 and lsencrypt2.0	out-of-scope	Lansweeper Bug Bounty Program	https://www.intigriti.com/programs/lansweeper/lansweeper1/detail
 luxfilmfestfilms.megatix.be	paying	Kinepolis Group	https://www.intigriti.com/programs/kinepolis/website/detail
 luxfilmfestproducts.megatix.be	paying	Kinepolis Group	https://www.intigriti.com/programs/kinepolis/website/detail
 luxfilmfesttickets.megatix.be	paying	Kinepolis Group	https://www.intigriti.com/programs/kinepolis/website/detail
@@ -1745,6 +1765,7 @@ oprc.portofantwerpbruges.com	paying	Port of Antwerp-Bruges	https://www.intigriti
 orgadmin-ext.prd.account.posticloud.fi	paying	Posti Bug Bounty	https://www.intigriti.com/programs/posti/postibugbounty/detail
 our hubspot pages (/hs-fs/, /hubfs/, /hs/, /_hcms/, landing/, report/, webinar/, /datasheet, /customer/, /video/...)	out-of-scope	intigriti	https://www.intigriti.com/programs/intigriti/intigriti/detail
 outpost42.esa.int	non-paying	European Space Agency (ESA) VDP	https://www.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail
+oxum.be	out-of-scope	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
 paperspace.com	non-paying	DigitalOcean	https://www.intigriti.com/programs/digitalocean/digitalocean/detail
 parool.nl/inloggen	out-of-scope	Het Parool	https://www.intigriti.com/programs/dpgm/hetparool/detail
 parool.nl/login	out-of-scope	Het Parool	https://www.intigriti.com/programs/dpgm/hetparool/detail
@@ -1760,10 +1781,13 @@ pepper.pl	non-paying	Atolls Vulnerability Disclosure Program (VDP)	https://www.i
 pepperbonus.com	non-paying	Atolls Vulnerability Disclosure Program (VDP)	https://www.intigriti.com/programs/atolls/atollsvdp/detail
 pepperdeals.com	non-paying	Atolls Vulnerability Disclosure Program (VDP)	https://www.intigriti.com/programs/atolls/atollsvdp/detail
 pepperdeals.se	non-paying	Atolls Vulnerability Disclosure Program (VDP)	https://www.intigriti.com/programs/atolls/atollsvdp/detail
+peppol-a.water-link.be	out-of-scope	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
+peppol-t.water-link.be	out-of-scope	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
 personio.slack.com	out-of-scope	Personio	https://www.intigriti.com/programs/personio/personio/detail
 photo.kruidvat.be	paying	Kruidvat	https://www.intigriti.com/programs/aswatson/kruidvat/detail
 picc.posti.fi	paying	Posti Bug Bounty	https://www.intigriti.com/programs/posti/postibugbounty/detail
 pilot.digitalocean.com	out-of-scope	DigitalOcean	https://www.intigriti.com/programs/digitalocean/digitalocean/detail
+pit.water-link.be	paying	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
 platform.cloudways.com	paying	Cloudways by DigitalOcean	https://www.intigriti.com/programs/digitalocean/cloudways/detail
 player.vrt.be	paying	VRT	https://www.intigriti.com/programs/vrtnv/vrtnv/detail
 pn.innogames.com	out-of-scope	InnoGames	https://www.intigriti.com/programs/innogames/innogames/detail
@@ -1779,6 +1803,7 @@ posthog.intigriti.com	out-of-scope	intigriti	https://www.intigriti.com/programs/
 posti.com	paying	Posti Bug Bounty	https://www.intigriti.com/programs/posti/postibugbounty/detail
 postikuori.posti.fi	paying	Posti Bug Bounty	https://www.intigriti.com/programs/posti/postibugbounty/detail
 powerbi-streamer.masq.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
+practice.datacamp.com	paying	DataCamp	https://www.intigriti.com/programs/datacamp/datacamp/detail
 prddnighting01.uzleuven.be	non-paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 prddsplunkhf.uzleuven.be	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 preisjaeger.at	non-paying	Atolls Vulnerability Disclosure Program (VDP)	https://www.intigriti.com/programs/atolls/atollsvdp/detail
@@ -1786,6 +1811,8 @@ pro.nexuzhealth.hn	out-of-scope	Nexuzhealth	https://www.intigriti.com/programs/n
 procuration.bpost.be	non-paying	Bpost	https://www.intigriti.com/programs/bpost/dummy/detail
 proddata.xobni.yahoo.com	paying	Yahoo Bug Bounty	https://www.intigriti.com/programs/yahoo/yahoobugbounty/detail
 profiel.vrt.be	paying	VRT	https://www.intigriti.com/programs/vrtnv/vrtnv/detail
+profiles-api.datacamp.com	paying	DataCamp	https://www.intigriti.com/programs/datacamp/datacamp/detail
+projects.datacamp.com	paying	DataCamp	https://www.intigriti.com/programs/datacamp/datacamp/detail
 promodescuentos.com	non-paying	Atolls Vulnerability Disclosure Program (VDP)	https://www.intigriti.com/programs/atolls/atollsvdp/detail
 psp.service.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
 puml.devops.buhlergroup.com	out-of-scope	Bühler Group VDP	https://www.intigriti.com/programs/buhlergroup/buhlergroupvdp/detail
@@ -1804,6 +1831,7 @@ qusersettings.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/pro
 quva.com	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
 radins.com	non-paying	Atolls Vulnerability Disclosure Program (VDP)	https://www.intigriti.com/programs/atolls/atollsvdp/detail
 random.uzleuven.be/random/	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
+rdocumentation.datacamp.com	out-of-scope	DataCamp	https://www.intigriti.com/programs/datacamp/datacamp/detail
 rebel.houseofhr.com	out-of-scope	House of HR Vulnerability Disclosure Program	https://www.intigriti.com/programs/houseofhr/houseofhrvulnerabilitydisclosureprogram/detail
 register-accpt.portofantwerp.com	paying	Port of Antwerp-Bruges	https://www.intigriti.com/programs/portofantwerp/portofantwerp/detail
 register-accpt.portofantwerpbruges.com	paying	Port of Antwerp-Bruges	https://www.intigriti.com/programs/portofantwerp/portofantwerp/detail
@@ -1816,6 +1844,7 @@ relocate-with-us.capital.com	out-of-scope	Capital.com	https://www.intigriti.com/
 rental-pricing.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
 replay.dropbox.com	out-of-scope	Dropbox Bug Bounty	https://www.intigriti.com/programs/dropbox/dropbox/detail
 rewards.digitalocean.com	out-of-scope	DigitalOcean	https://www.intigriti.com/programs/digitalocean/digitalocean/detail
+rio-link.be	paying	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
 ripe[1-100].ripe.net	out-of-scope	RIPE NCC	https://www.intigriti.com/programs/ripencc/ripencc/detail
 rivian.com	non-paying	Rivian Vulnerability Disclosure Program	https://www.intigriti.com/programs/rivian/rivianvdp/detail
 rivian.com	paying	Rivian Bug Bounty	https://www.intigriti.com/programs/rivian/rivianbugbounty/detail
@@ -1825,6 +1854,7 @@ sandbox.striga.com	paying	Lightspark Public Bug Bounty	https://www.intigriti.com
 scan-me.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
 scp.watsons.com.tr	paying	Watsons	https://www.intigriti.com/programs/aswatson/watsons/detail
 scpapi.watsons.com.tr	paying	Watsons	https://www.intigriti.com/programs/aswatson/watsons/detail
+secrets.water-link.be	out-of-scope	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
 segment.digitalocean.com	out-of-scope	DigitalOcean	https://www.intigriti.com/programs/digitalocean/digitalocean/detail
 selt.languagecert.org	non-paying	PeopleCert VDP	https://www.intigriti.com/programs/peoplecert/peoplecert/detail
 service-company.service.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
@@ -1865,6 +1895,7 @@ shop.parool.nl	paying	Het Parool	https://www.intigriti.com/programs/dpgm/hetparo
 shop.trouw.nl	paying	Trouw	https://www.intigriti.com/programs/dpgm/trouw/detail
 shop.vtm.be	out-of-scope	VTM GO	https://www.intigriti.com/programs/dpgm/vtmgo/detail
 sign.dropbox.com	paying	Dropbox Bug Bounty	https://www.intigriti.com/programs/dropbox/dropbox/detail
+signature.datacamp.com	out-of-scope	DataCamp	https://www.intigriti.com/programs/datacamp/datacamp/detail
 signin.auth.welt.de	paying	Axel Springer National Media & Tech	https://www.intigriti.com/programs/axelspringerse/nmt/detail
 slack.innogames.de	out-of-scope	InnoGames	https://www.intigriti.com/programs/innogames/innogames/detail
 smtp.buhlergroup.cn	out-of-scope	Bühler Group VDP	https://www.intigriti.com/programs/buhlergroup/buhlergroupvdp/detail
@@ -1880,6 +1911,7 @@ static.nexuzhealth.com	out-of-scope	Nexuzhealth	https://www.intigriti.com/progra
 static.nexuzhealth.com	out-of-scope	Nexuzhealth VDP	https://www.intigriti.com/programs/nexuzhealth/nexuzhealthvdp/detail
 station.veriff.com	paying	Veriff Bug Bounty	https://www.intigriti.com/programs/veriff/veriffbugbounty/detail
 stationapi.veriff.com	paying	Veriff Bug Bounty	https://www.intigriti.com/programs/veriff/veriffbugbounty/detail
+status.datacamp.com	out-of-scope	DataCamp	https://www.intigriti.com/programs/datacamp/datacamp/detail
 status.delen.be	paying	Delen Private Bank	https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail
 status.digitalocean.com	out-of-scope	DigitalOcean	https://www.intigriti.com/programs/digitalocean/digitalocean/detail
 status.intigriti.com	out-of-scope	intigriti	https://www.intigriti.com/programs/intigriti/intigriti/detail
@@ -1888,16 +1920,19 @@ stockup.esa.int	non-paying	European Space Agency (ESA) VDP	https://www.intigriti
 store.tomorrowland.com	paying	Tomorrowland	https://www.intigriti.com/programs/tomorrowland/tomorrowland/detail
 stories.rivian.com	out-of-scope	Rivian Bug Bounty	https://www.intigriti.com/programs/rivian/rivianbugbounty/detail
 stories.rivian.com	out-of-scope	Rivian Vulnerability Disclosure Program	https://www.intigriti.com/programs/rivian/rivianvdp/detail
+storingvideo-t.water-link.be	out-of-scope	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
 sts.delen.be	paying	Delen Private Bank	https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail
 sts.uzleuven.be	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 studiopress.blog	non-paying	WP Engine VDP	https://www.intigriti.com/programs/wpengine/wpengine/detail
 suppliers-ivalua.ubisoft.com	out-of-scope	Ubisoft Responsible Disclosure Program	https://www.intigriti.com/programs/ubisoft/ubisoftvdp/detail
+support.datacamp.com	out-of-scope	DataCamp	https://www.intigriti.com/programs/datacamp/datacamp/detail
 support.liferay.com	non-paying	Liferay VDP	https://www.intigriti.com/programs/liferay/liferay-vdp/detail
 support.lightspark.com	out-of-scope	Lightspark Public Bug Bounty	https://www.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail
 support.personio.de	out-of-scope	Personio	https://www.intigriti.com/programs/personio/personio/detail
 swag.intigriti.com	out-of-scope	intigriti	https://www.intigriti.com/programs/intigriti/intigriti/detail
 swish-playground.zimpler.com	non-paying	TrueLayer VDP	https://www.intigriti.com/programs/truelayer/truelayervdp/detail
 tables.dsa.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
+talent-jobs-api.datacamp.com	out-of-scope	DataCamp	https://www.intigriti.com/programs/datacamp/datacamp/detail
 technik.autobild.de	paying	Axel Springer National Media & Tech	https://www.intigriti.com/programs/axelspringerse/nmt/detail
 technik.beta.autobild.de	paying	Axel Springer National Media & Tech	https://www.intigriti.com/programs/axelspringerse/nmt/detail
 teststs.uzleuven.be	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
@@ -1967,7 +2002,15 @@ wallet.venly.io	paying	Venly	https://www.intigriti.com/programs/arkane/arkanenet
 wasapi.watsons.com.tr	paying	Watsons	https://www.intigriti.com/programs/aswatson/watsons/detail
 watch-acc.esa.int	non-paying	European Space Agency (ESA) VDP	https://www.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail
 watch.esa.int	non-paying	European Space Agency (ESA) VDP	https://www.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail
+water-kracht-levering.be	paying	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
+water-kracht-levering.eu	paying	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
 water-link-jaarverslag.be	non-paying	Water-Link VDP	https://www.intigriti.com/programs/waterlink/water-linkvdp/detail
+water-link-jaarverslag.be	paying	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
+waterkracht-levering.be	paying	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
+waterkracht-levering.eu	paying	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
+waterlink.be	paying	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
+waterstoringen.be	paying	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
+waterwise.be	out-of-scope	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
 waves.digitalocean.com	out-of-scope	DigitalOcean	https://www.intigriti.com/programs/digitalocean/digitalocean/detail
 webapps-accpt.portofantwerp.com	paying	Port of Antwerp-Bruges	https://www.intigriti.com/programs/portofantwerp/portofantwerp/detail
 webapps-accpt.portofantwerpbruges.com	paying	Port of Antwerp-Bruges	https://www.intigriti.com/programs/portofantwerp/portofantwerp/detail
@@ -1987,6 +2030,8 @@ wiki.portofantwerpbruges.com	paying	Port of Antwerp-Bruges	https://www.intigriti
 winkels.torfs.be	paying	Torfs	https://www.intigriti.com/programs/torfs/torfs/detail
 winter.tomorrowland.com	paying	Tomorrowland	https://www.intigriti.com/programs/tomorrowland/tomorrowland/detail
 winterpackages.tomorrowland.com	paying	Tomorrowland	https://www.intigriti.com/programs/tomorrowland/tomorrowland/detail
+wl_acc.water-link.be	out-of-scope	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
+wl_dev.water-link.be	out-of-scope	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
 workorder.service.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
 workplace.randstad.in	out-of-scope	Randstad	https://www.intigriti.com/programs/randstad/randstad/detail
 wp5-truststroke.uzleuven.be	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
@@ -2012,6 +2057,8 @@ www.cewe.kruidvat.nl	paying	Kruidvat	https://www.intigriti.com/programs/aswatson
 www.cloudways.com	paying	Cloudways by DigitalOcean	https://www.intigriti.com/programs/digitalocean/cloudways/detail
 www.cm.com	paying	CM.com	https://www.intigriti.com/programs/cmcom/cmcom/detail
 www.cybersecuritycoalition.be	non-paying	Cyber Security Coalition	https://www.intigriti.com/programs/cybersecuritycoalition/cybersecuritycoalition/detail
+www.datacamp.com	paying	DataCamp	https://www.intigriti.com/programs/datacamp/datacamp/detail
+www.datacamp.com/datalab	paying	DataCamp	https://www.intigriti.com/programs/datacamp/datacamp/detail
 www.delen.bank	paying	Delen Private Bank	https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail
 www.delen.be/en	paying	Delen Private Bank	https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail
 www.demorgen.be	paying	De Morgen	https://www.intigriti.com/programs/dpgm/demorgen/detail
@@ -2062,8 +2109,6 @@ www.kruidvatkids.nl	paying	Kruidvat	https://www.intigriti.com/programs/aswatson/
 www.kuleuven.be	non-paying	KU Leuven Vulnerability Disclosure Program (VDP)	https://www.intigriti.com/programs/kuleuven/kuleuvenrdp/detail
 www.landmarkcinemas.com	paying	Kinepolis Group	https://www.intigriti.com/programs/kinepolis/website/detail
 www.languagecert.org	non-paying	PeopleCert VDP	https://www.intigriti.com/programs/peoplecert/peoplecert/detail
-www.lansweeper.com	paying	Lansweeper Bug Bounty Program	https://www.intigriti.com/programs/lansweeper/lansweeper1/detail
-www.lansweeper.com/forum	out-of-scope	Lansweeper Bug Bounty Program	https://www.intigriti.com/programs/lansweeper/lansweeper1/detail
 www.libelle.nl	paying	Libelle	https://www.intigriti.com/programs/dpgm/libelle/detail
 www.liferay.com	non-paying	Liferay VDP	https://www.intigriti.com/programs/liferay/liferay-vdp/detail
 www.lookatme.com.ph	paying	Watsons	https://www.intigriti.com/programs/aswatson/watsons/detail

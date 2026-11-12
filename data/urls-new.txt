@@ -1,2 +1,4 @@
-https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit
-https://testnet.bitmex.com/app/apiOverview
+https://app.datacamp.com/certification
+https://app.datacamp.com/groups
+https://app.datacamp.com/learn
+https://www.datacamp.com/datalab

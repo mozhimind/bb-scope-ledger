@@ -434,11 +434,13 @@ com.costco.app.android
 com.costco.costco
 com.creditkarma.mobile
 com.creditkarma.mobile.international
+com.datacamp
 com.dd.doordash
 com.deere.anubhuti
 com.deere.equipmentplus
 com.deere.myoperations
 com.deribit
+com.divvyapp.io
 com.divvypay.Divvy
 com.dolap.android
 com.dropbox.android
@@ -930,6 +932,7 @@ https://apps.apple.com/app/id1235601864
 https://apps.apple.com/app/id1254292716
 https://apps.apple.com/app/id1256027729
 https://apps.apple.com/app/id1257222717
+https://apps.apple.com/app/id1263413087
 https://apps.apple.com/app/id1265170914
 https://apps.apple.com/app/id1267896687
 https://apps.apple.com/app/id1273303729

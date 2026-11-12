@@ -1,2 +1,3 @@
-https://marketplace.atlassian.com/apps/1212078/easy-agile-teamrhythm-story-map-insights-retrospectives
-https://marketplace.atlassian.com/apps/1219491/easy-agile-programs-pi-planning-program-board-dependencies
+com.datacamp
+com.divvyapp.io
+https://apps.apple.com/app/id1263413087

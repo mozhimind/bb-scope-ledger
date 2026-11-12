@@ -473,7 +473,6 @@ api.kroger.com
 api.kruidvat.be
 api.kruidvat.nl
 api.land.com
-api.lansweeper.com
 api.larksuite.com
 api.leather.io
 api.letsexchange.io
@@ -762,6 +761,7 @@ apps.rokt.com
 apps.yeswehack.com
 apps1.seagate.com
 arlo.com
+assessment-api.datacamp.com
 asset-api.cbre.com.au
 assistants.twilio.com
 atlantis-ext.myopenpass.com
@@ -801,7 +801,6 @@ auth.seek.com
 auth.webflow.com
 autogen-api.ae-machine-learning-operations-prod-vpn.us.e18.c01.johndeerecloud.com
 autoupdate.geo.opera.com
-autoupdateapi.lansweeper.com
 avaapi.cbre.com
 averp-posnet-cert.fiservapis.com
 averp-posnet.fiservapis.com
@@ -1698,6 +1697,7 @@ oauth.twilio.com
 ob-sandbox.gocardless.io
 ometa-rest.cbre.eu
 ondemand-api-prod.cbre.com
+oos.eu-west-2.outscale.com
 op.paymaya.com
 op2-bff.rokt.com
 ope-dashboard-api.optimism.io
@@ -1732,7 +1732,6 @@ originate-api-admin.fiservapps.com
 originate-api-consumer.fiservapps.com
 osite99.com
 osp.opera.software
-osu.eu-west-2.outscale.com
 ota.onecloud.harman.com
 p2p-citizens.api.fiservapps.com
 p2p-regions.api.fiservapps.com
@@ -1815,6 +1814,7 @@ production.maf.auth0.com
 productregistration-api.deere.com
 produktion.api.praxispad.de
 profile.segment.com
+profiles-api.datacamp.com
 prospectivesupplier-api.deere.com
 proxy-production.lime.bike
 proxy.momoapi.mtn.com

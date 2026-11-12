@@ -693,6 +693,19 @@ id	asset	value
 2324fddf33	text	Anything not in scope
 2324fddf33	text	Devices
 2324fddf33	text	Services, Apps, Mobile
+2410d6996f	apex	aquawise.be
+2410d6996f	apex	oxum.be
+2410d6996f	apex	waterwise.be
+2410d6996f	subdomains	aquawardsoperateacc.water-link.be
+2410d6996f	subdomains	feedback.water-link.be
+2410d6996f	subdomains	jobs.water-link.be
+2410d6996f	subdomains	peppol-a.water-link.be
+2410d6996f	subdomains	peppol-t.water-link.be
+2410d6996f	subdomains	secrets.water-link.be
+2410d6996f	subdomains	storingvideo-t.water-link.be
+2410d6996f	subdomains	wl_acc.water-link.be
+2410d6996f	subdomains	wl_dev.water-link.be
+2410d6996f	text	gisacc(*).water-link.be
 248bcfe64a	wildcards	joralocal.com.au
 24aa045db0	text	All 3rd parties are out of scope
 24aa045db0	text	All domains not listed In-Scope
@@ -1734,13 +1747,6 @@ id	asset	value
 5c67956865	maybe	ezcpcloudiot.eziot.com
 5c67956865	maybe	pb.ys7.com
 5c67956865	maybe	test.ys7.com
-5cf47e7b49	subdomains	careers.lansweeper.com
-5cf47e7b49	subdomains	lsagentrelay.lansweeper.com
-5cf47e7b49	subdomains	store.lansweeper.com
-5cf47e7b49	text	Lansweeper Classic
-5cf47e7b49	text	Lansweeper Discovery
-5cf47e7b49	text	lsrunase2.0 and lsencrypt2.0
-5cf47e7b49	urls	https://www.lansweeper.com/forum
 5cf61e2caf	subdomains	careers.lululemon.com
 5cf61e2caf	subdomains	fr.shop.lululemon.com
 5cf61e2caf	subdomains	info.lululemon.com
@@ -1877,6 +1883,7 @@ id	asset	value
 6584eaf73f	subdomains	vgs-api.robinhood.com
 6584eaf73f	subdomains	weareallinvestors.robinhood.com
 6584eaf73f	urls	https://www.saytechnologies.com/contact/sales
+668b3b8166	subdomains	ferrero.integrityline.app
 670303b1be	text	Applications, URLs, or data that are not listed on this page are considered out of scope.
 670817a7d4	urls	https://www.gulp.ch/forum
 670817a7d4	urls	https://www.gulp.de/forum
@@ -2638,6 +2645,7 @@ id	asset	value
 80925df5e4	text	Support Live Chat
 80925df5e4	text	s3://faraday-uploads
 813aa9eb28	github	https://github.com/cloudflare/agentic-inbox
+813aa9eb28	github	https://github.com/cloudflare/boringtun
 813aa9eb28	github	https://github.com/cloudflare/cf
 813aa9eb28	github	https://github.com/cloudflare/cloudflare-os
 813aa9eb28	github	https://github.com/cloudflare/computer
@@ -2659,6 +2667,7 @@ id	asset	value
 813aa9eb28	subdomains	events.www.cloudflare.com
 813aa9eb28	subdomains	examples.realtime.cloudflare.com
 813aa9eb28	subdomains	files.plugins.realtime.cloudflare.com
+813aa9eb28	subdomains	php-rce.cloudflare.app
 813aa9eb28	subdomains	playground.ai.cloudflare.com
 813aa9eb28	subdomains	react-examples.realtime.cloudflare.com
 813aa9eb28	subdomains	support.cloudflare.com
@@ -2759,6 +2768,7 @@ id	asset	value
 83a37ac54f	wildcards	swiftype.com
 83b2071e5f	maybe	telenor.com
 83b2071e5f	subdomains	admin-stage.tv.telenor.se
+83b2071e5f	subdomains	butik.vimla.se
 83b2071e5f	subdomains	faq.vimla.se
 83b2071e5f	subdomains	stage-vimla-se.vimla.io
 83b2071e5f	subdomains	status.vimla.se
@@ -2862,6 +2872,19 @@ id	asset	value
 8c8c5fbe12	urls	https://vtmgo.be/login
 8c8c5fbe12	urls	https://vtmgo.be/registreren
 8c8c5fbe12	urls	https://vtmgo.be/service
+8caf8be264	subdomains	ast-viewer.datacamp.com
+8caf8be264	subdomains	confluence.datacamp.com
+8caf8be264	subdomains	dccertified.datacamp.com
+8caf8be264	subdomains	intranet.datacamp.com
+8caf8be264	subdomains	jira.datacamp.com
+8caf8be264	subdomains	links.datacamp.com
+8caf8be264	subdomains	rdocumentation.datacamp.com
+8caf8be264	subdomains	signature.datacamp.com
+8caf8be264	subdomains	status.datacamp.com
+8caf8be264	subdomains	support.datacamp.com
+8caf8be264	subdomains	talent-jobs-api.datacamp.com
+8caf8be264	urls	https://app.datacamp.com/recruit
+8caf8be264	wildcards	it.datacamp.com
 8d4809a4ae	text	All domains or subdomains not listed in the above list of 'Scopes'
 8db41287cb	subdomains	auth.simplisafe.com
 8db41287cb	subdomains	careers.simplisafe.com
@@ -5002,6 +5025,7 @@ f5e84f17ed	ips	59.154.64.0/20
 f5e84f17ed	ips	59.154.80.0/20
 f5e84f17ed	ips	59.154.96.0/20
 f5e84f17ed	subdomains	api-cdn.optussport.tv
+f5e84f17ed	subdomains	brand.optus.com.au
 f5e84f17ed	subdomains	chromecast-pp.optussport.tv
 f5e84f17ed	subdomains	chromecast.optussport.tv
 f5e84f17ed	subdomains	cms-qa.optussport.tv

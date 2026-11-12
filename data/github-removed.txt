@@ -1,2 +1,2 @@
-https://github.com/rubygems/rubygems
-https://github.com/uphold
+https://github.com/cosmos/ibc-go
+https://github.com/cosmos/solidity-ibc-eureka

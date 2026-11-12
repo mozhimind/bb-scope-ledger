@@ -944,10 +944,8 @@ https://github.com/cosmos/cosmos-sdk	paying	Cosmos
 https://github.com/cosmos/evm	paying	Cosmos	
 https://github.com/cosmos/gaia	paying	Cosmos	
 https://github.com/cosmos/iavl	paying	Cosmos	
-https://github.com/cosmos/ibc-go	paying	Cosmos	
 https://github.com/cosmos/ics23	paying	Cosmos	
 https://github.com/cosmos/ledger-cosmos	paying	Cosmos	
-https://github.com/cosmos/solidity-ibc-eureka	paying	Cosmos	
 https://github.com/cowprotocol/contracts/blob/6ebbd810ff2da635fb6f88e9a15fde196f8c852a/src/contracts/GPv2AllowListAuthentication.sol	paying	CoW Protocol	
 https://github.com/cowprotocol/contracts/blob/6ebbd810ff2da635fb6f88e9a15fde196f8c852a/src/contracts/GPv2Settlement.sol	paying	CoW Protocol	
 https://github.com/cowprotocol/contracts/blob/6ebbd810ff2da635fb6f88e9a15fde196f8c852a/src/contracts/GPv2VaultRelayer.sol	paying	CoW Protocol	
@@ -1673,6 +1671,9 @@ https://github.com/jito-foundation/restaking/tree/master/vault_program	paying	Au
 https://github.com/keep-network/tbtc-v2/tree/main/typescript	paying	Threshold Network	
 https://github.com/leather-io/mono	paying	Leather	
 https://github.com/ledgerwatch/erigon	paying	Attackathon | Ethereum Protocol	
+https://github.com/lfdt-ibc/ibc	paying	Cosmos	
+https://github.com/lfdt-ibc/ibc-contracts	paying	Cosmos	
+https://github.com/lfdt-ibc/ibc-go	paying	Cosmos	
 https://github.com/lidofinance/aave-delivery-infrastructure	paying	Lido	
 https://github.com/lidofinance/aragon-apps	paying	Lido	
 https://github.com/lidofinance/circuit-breaker	paying	Lido	
@@ -1822,6 +1823,88 @@ https://github.com/marsfoundation/xchain-ssr-oracle/blob/master/src/forwarders/S
 https://github.com/matter-labs/airbender-platform/tree/a350ee3e08bef4cbe2b7bc968966bee45bc98a17/crates/airbender-crypto	paying	ZKsync OS	
 https://github.com/matter-labs/airbender-platform/tree/a350ee3e08bef4cbe2b7bc968966bee45bc98a17/crates/airbender-guest	paying	ZKsync OS	
 https://github.com/matter-labs/airbender-platform/tree/a350ee3e08bef4cbe2b7bc968966bee45bc98a17/crates/airbender-rt	paying	ZKsync OS	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/da-contracts/contracts/EIP7702Checker.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/da-contracts/contracts/RollupL1DAValidator.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/da-contracts/contracts/da-layers/avail/AvailL1DAValidator.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/bridge/BridgedStandardERC20.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/bridge/L1ERC20Bridge.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/bridge/L1Nullifier.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/bridge/L2SharedBridgeLegacy.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/bridge/L2WrappedBaseToken.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/bridge/L2WrappedBaseTokenStore.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/bridge/UpgradeableBeaconDeployer.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/bridge/asset-router/L1AssetRouter.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/bridge/asset-router/L2AssetRouter.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/bridge/asset-tracker/GWAssetTracker.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/bridge/asset-tracker/L1AssetTracker.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/bridge/asset-tracker/L2AssetTracker.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/bridge/ntv/L1NativeTokenVault.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/bridge/ntv/L2NativeTokenVault.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/core/bridgehub/L1Bridgehub.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/core/bridgehub/L2Bridgehub.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/core/chain-asset-handler/L1ChainAssetHandler.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/core/chain-asset-handler/L2ChainAssetHandler.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/core/chain-registration/ChainRegistrationSender.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/core/ctm-deployment/CTMDeploymentTracker.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/core/message-root/L1MessageRoot.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/core/message-root/L2MessageRoot.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/interop/InteropCenter.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/interop/InteropHandler.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/interop/L2InteropRootStorage.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/interop/L2MessageVerification.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/l2-system/BaseTokenHolder.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/l2-system/era/L2BaseTokenEra.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/l2-upgrades/L2ComplexUpgrader.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/l2-upgrades/L2GenesisUpgrade.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/l2-upgrades/SystemContractProxy.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/l2-upgrades/SystemContractProxyAdmin.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/state-transition/EraChainTypeManager.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/state-transition/chain-deps/facets/Admin.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/state-transition/chain-deps/facets/Committer.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/state-transition/chain-deps/facets/Executor.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/state-transition/chain-deps/facets/Getters.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/state-transition/chain-deps/facets/Mailbox.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/state-transition/chain-deps/facets/Migrator.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/state-transition/data-availability/RollupDAManager.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/state-transition/data-availability/ValidiumL1DAValidator.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/state-transition/validators/EraMultisigValidator.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/state-transition/validators/MultisigCommitter.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/state-transition/validators/PermissionlessValidator.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/state-transition/validators/ValidatorTimelock.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/state-transition/verifiers/AirbenderVerifierPlonk.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/state-transition/verifiers/EraMultiProofVerifier.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/l1-contracts/contracts/state-transition/verifiers/EraVerifierFflonk.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/system-contracts/bootloader/bootloader.yul	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/system-contracts/contracts/AccountCodeStorage.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/system-contracts/contracts/BootloaderUtilities.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/system-contracts/contracts/Compressor.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/system-contracts/contracts/ContractDeployer.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/system-contracts/contracts/Create2Factory.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/system-contracts/contracts/DefaultAccount.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/system-contracts/contracts/EmptyContract.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/system-contracts/contracts/EventWriter.yul	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/system-contracts/contracts/EvmEmulator.yul	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/system-contracts/contracts/EvmGasManager.yul	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/system-contracts/contracts/EvmHashesStorage.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/system-contracts/contracts/EvmPredeploysManager.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/system-contracts/contracts/ImmutableSimulator.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/system-contracts/contracts/KnownCodesStorage.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/system-contracts/contracts/L1Messenger.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/system-contracts/contracts/MsgValueSimulator.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/system-contracts/contracts/NonceHolder.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/system-contracts/contracts/PubdataChunkPublisher.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/system-contracts/contracts/SloadContract.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/system-contracts/contracts/SystemContext.sol	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/system-contracts/contracts/precompiles/CodeOracle.yul	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/system-contracts/contracts/precompiles/EcAdd.yul	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/system-contracts/contracts/precompiles/EcMul.yul	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/system-contracts/contracts/precompiles/EcPairing.yul	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/system-contracts/contracts/precompiles/Ecrecover.yul	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/system-contracts/contracts/precompiles/Identity.yul	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/system-contracts/contracts/precompiles/Keccak256.yul	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/system-contracts/contracts/precompiles/Modexp.yul	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/system-contracts/contracts/precompiles/P256Verify.yul	paying	ZKsync Era	
+https://github.com/matter-labs/era-contracts/blob/492671af657801b6a06215453ca71408b7d25b71/system-contracts/contracts/precompiles/SHA256.yul	paying	ZKsync Era	
 https://github.com/matter-labs/era-contracts/blob/7b75e11e631936f8bd93ec7c03e7e4f4ac63f6b4/da-contracts/contracts/BlobsL1DAValidatorZKsyncOS.sol	paying	ZKsync Era	
 https://github.com/matter-labs/era-contracts/blob/7b75e11e631936f8bd93ec7c03e7e4f4ac63f6b4/da-contracts/contracts/EIP7702Checker.sol	paying	ZKsync Era	
 https://github.com/matter-labs/era-contracts/blob/7b75e11e631936f8bd93ec7c03e7e4f4ac63f6b4/da-contracts/contracts/RollupL1DAValidator.sol	paying	ZKsync Era	
@@ -2127,7 +2210,6 @@ https://github.com/matter-labs/zksync-crypto/tree/bf2797e4ca13475bf797aa43e08538
 https://github.com/matter-labs/zksync-crypto/tree/bf2797e4ca13475bf797aa43e085389cdd6732f9/crates/snark-wrapper/src/implementations/poseidon2	paying	ZKsync OS	
 https://github.com/matter-labs/zksync-crypto/tree/bf2797e4ca13475bf797aa43e085389cdd6732f9/crates/snark-wrapper/src/verifier	paying	ZKsync OS	
 https://github.com/matter-labs/zksync-crypto/tree/bf2797e4ca13475bf797aa43e085389cdd6732f9/crates/snark-wrapper/src/verifier_structs	paying	ZKsync OS	
-https://github.com/matter-labs/zksync-crypto/tree/main/crates/snark-wrapper	paying	ZKsync Era	
 https://github.com/matter-labs/zksync-os/tree/ac442e73d80f4e964476a4fc36fa267d676da449/basic_bootloader	paying	ZKsync OS	
 https://github.com/matter-labs/zksync-os/tree/ac442e73d80f4e964476a4fc36fa267d676da449/basic_system	paying	ZKsync OS	
 https://github.com/matter-labs/zksync-os/tree/ac442e73d80f4e964476a4fc36fa267d676da449/callable_oracles	paying	ZKsync OS	
@@ -2141,25 +2223,39 @@ https://github.com/matter-labs/zksync-os/tree/ac442e73d80f4e964476a4fc36fa267d67
 https://github.com/matter-labs/zksync-os/tree/ac442e73d80f4e964476a4fc36fa267d676da449/system_hooks/	paying	ZKsync OS	
 https://github.com/matter-labs/zksync-os/tree/ac442e73d80f4e964476a4fc36fa267d676da449/zk_ee/	paying	ZKsync OS	
 https://github.com/matter-labs/zksync-os/tree/ac442e73d80f4e964476a4fc36fa267d676da449/zksync_os/	paying	ZKsync OS	
-https://github.com/matter-labs/zksync-protocol/tree/main/crates/zkevm_circuits/src	paying	ZKsync Era	
-https://github.com/matter-labs/zksync-protocol/tree/main/crates/zkevm_circuits/src/code_unpacker_sha256	paying	ZKsync Era	
-https://github.com/matter-labs/zksync-protocol/tree/main/crates/zkevm_circuits/src/demux_log_queue	paying	ZKsync Era	
-https://github.com/matter-labs/zksync-protocol/tree/main/crates/zkevm_circuits/src/ecrecover	paying	ZKsync Era	
-https://github.com/matter-labs/zksync-protocol/tree/main/crates/zkevm_circuits/src/eip_4844	paying	ZKsync Era	
-https://github.com/matter-labs/zksync-protocol/tree/main/crates/zkevm_circuits/src/fsm_input_output	paying	ZKsync Era	
-https://github.com/matter-labs/zksync-protocol/tree/main/crates/zkevm_circuits/src/keccak256_round_function	paying	ZKsync Era	
-https://github.com/matter-labs/zksync-protocol/tree/main/crates/zkevm_circuits/src/linear_hasher	paying	ZKsync Era	
-https://github.com/matter-labs/zksync-protocol/tree/main/crates/zkevm_circuits/src/log_sorter	paying	ZKsync Era	
-https://github.com/matter-labs/zksync-protocol/tree/main/crates/zkevm_circuits/src/main_vm	paying	ZKsync Era	
-https://github.com/matter-labs/zksync-protocol/tree/main/crates/zkevm_circuits/src/ram_permutation	paying	ZKsync Era	
-https://github.com/matter-labs/zksync-protocol/tree/main/crates/zkevm_circuits/src/recursion	paying	ZKsync Era	
-https://github.com/matter-labs/zksync-protocol/tree/main/crates/zkevm_circuits/src/scheduler	paying	ZKsync Era	
-https://github.com/matter-labs/zksync-protocol/tree/main/crates/zkevm_circuits/src/secp256r1_verify	paying	ZKsync Era	
-https://github.com/matter-labs/zksync-protocol/tree/main/crates/zkevm_circuits/src/sha256_round_function	paying	ZKsync Era	
-https://github.com/matter-labs/zksync-protocol/tree/main/crates/zkevm_circuits/src/sort_decommittment_requests	paying	ZKsync Era	
-https://github.com/matter-labs/zksync-protocol/tree/main/crates/zkevm_circuits/src/storage_application	paying	ZKsync Era	
-https://github.com/matter-labs/zksync-protocol/tree/main/crates/zkevm_circuits/src/storage_validity_by_grand_product	paying	ZKsync Era	
-https://github.com/matter-labs/zksync-protocol/tree/main/crates/zkevm_circuits/src/transient_storage_validity_by_grand_product	paying	ZKsync Era	
+https://github.com/matter-labs/zksync-protocol/tree/2a2ecb3bfcccc46758826d3b0d11933b95e511be/crypto/crates/snark-wrapper	paying	ZKsync Era	
+https://github.com/matter-labs/zksync-protocol/tree/2a2ecb3bfcccc46758826d3b0d11933b95e511be/eravm-airbender-verifier/crates/airbender_verifier	paying	ZKsync Era	
+https://github.com/matter-labs/zksync-protocol/tree/2a2ecb3bfcccc46758826d3b0d11933b95e511be/eravm-airbender-verifier/crates/basic_types	paying	ZKsync Era	
+https://github.com/matter-labs/zksync-protocol/tree/2a2ecb3bfcccc46758826d3b0d11933b95e511be/eravm-airbender-verifier/crates/constants	paying	ZKsync Era	
+https://github.com/matter-labs/zksync-protocol/tree/2a2ecb3bfcccc46758826d3b0d11933b95e511be/eravm-airbender-verifier/crates/contracts	paying	ZKsync Era	
+https://github.com/matter-labs/zksync-protocol/tree/2a2ecb3bfcccc46758826d3b0d11933b95e511be/eravm-airbender-verifier/crates/crypto_primitives	paying	ZKsync Era	
+https://github.com/matter-labs/zksync-protocol/tree/2a2ecb3bfcccc46758826d3b0d11933b95e511be/eravm-airbender-verifier/crates/merkle_tree	paying	ZKsync Era	
+https://github.com/matter-labs/zksync-protocol/tree/2a2ecb3bfcccc46758826d3b0d11933b95e511be/eravm-airbender-verifier/crates/mini_merkle_tree	paying	ZKsync Era	
+https://github.com/matter-labs/zksync-protocol/tree/2a2ecb3bfcccc46758826d3b0d11933b95e511be/eravm-airbender-verifier/crates/multivm	paying	ZKsync Era	
+https://github.com/matter-labs/zksync-protocol/tree/2a2ecb3bfcccc46758826d3b0d11933b95e511be/eravm-airbender-verifier/crates/types	paying	ZKsync Era	
+https://github.com/matter-labs/zksync-protocol/tree/2a2ecb3bfcccc46758826d3b0d11933b95e511be/eravm-airbender-verifier/crates/vm_interface	paying	ZKsync Era	
+https://github.com/matter-labs/zksync-protocol/tree/2a2ecb3bfcccc46758826d3b0d11933b95e511be/eravm-airbender-verifier/guest	paying	ZKsync Era	
+https://github.com/matter-labs/zksync-protocol/tree/2a2ecb3bfcccc46758826d3b0d11933b95e511be/protocol/crates/zkevm_circuits/src	paying	ZKsync Era	
+https://github.com/matter-labs/zksync-protocol/tree/2a2ecb3bfcccc46758826d3b0d11933b95e511be/protocol/crates/zkevm_circuits/src/code_unpacker_sha256	paying	ZKsync Era	
+https://github.com/matter-labs/zksync-protocol/tree/2a2ecb3bfcccc46758826d3b0d11933b95e511be/protocol/crates/zkevm_circuits/src/demux_log_queue	paying	ZKsync Era	
+https://github.com/matter-labs/zksync-protocol/tree/2a2ecb3bfcccc46758826d3b0d11933b95e511be/protocol/crates/zkevm_circuits/src/ecrecover	paying	ZKsync Era	
+https://github.com/matter-labs/zksync-protocol/tree/2a2ecb3bfcccc46758826d3b0d11933b95e511be/protocol/crates/zkevm_circuits/src/eip_4844	paying	ZKsync Era	
+https://github.com/matter-labs/zksync-protocol/tree/2a2ecb3bfcccc46758826d3b0d11933b95e511be/protocol/crates/zkevm_circuits/src/fsm_input_output	paying	ZKsync Era	
+https://github.com/matter-labs/zksync-protocol/tree/2a2ecb3bfcccc46758826d3b0d11933b95e511be/protocol/crates/zkevm_circuits/src/keccak256_round_function	paying	ZKsync Era	
+https://github.com/matter-labs/zksync-protocol/tree/2a2ecb3bfcccc46758826d3b0d11933b95e511be/protocol/crates/zkevm_circuits/src/linear_hasher	paying	ZKsync Era	
+https://github.com/matter-labs/zksync-protocol/tree/2a2ecb3bfcccc46758826d3b0d11933b95e511be/protocol/crates/zkevm_circuits/src/log_sorter	paying	ZKsync Era	
+https://github.com/matter-labs/zksync-protocol/tree/2a2ecb3bfcccc46758826d3b0d11933b95e511be/protocol/crates/zkevm_circuits/src/main_vm	paying	ZKsync Era	
+https://github.com/matter-labs/zksync-protocol/tree/2a2ecb3bfcccc46758826d3b0d11933b95e511be/protocol/crates/zkevm_circuits/src/ram_permutation	paying	ZKsync Era	
+https://github.com/matter-labs/zksync-protocol/tree/2a2ecb3bfcccc46758826d3b0d11933b95e511be/protocol/crates/zkevm_circuits/src/recursion	paying	ZKsync Era	
+https://github.com/matter-labs/zksync-protocol/tree/2a2ecb3bfcccc46758826d3b0d11933b95e511be/protocol/crates/zkevm_circuits/src/scheduler	paying	ZKsync Era	
+https://github.com/matter-labs/zksync-protocol/tree/2a2ecb3bfcccc46758826d3b0d11933b95e511be/protocol/crates/zkevm_circuits/src/secp256r1_verify	paying	ZKsync Era	
+https://github.com/matter-labs/zksync-protocol/tree/2a2ecb3bfcccc46758826d3b0d11933b95e511be/protocol/crates/zkevm_circuits/src/sha256_round_function	paying	ZKsync Era	
+https://github.com/matter-labs/zksync-protocol/tree/2a2ecb3bfcccc46758826d3b0d11933b95e511be/protocol/crates/zkevm_circuits/src/sort_decommittment_requests	paying	ZKsync Era	
+https://github.com/matter-labs/zksync-protocol/tree/2a2ecb3bfcccc46758826d3b0d11933b95e511be/protocol/crates/zkevm_circuits/src/storage_application	paying	ZKsync Era	
+https://github.com/matter-labs/zksync-protocol/tree/2a2ecb3bfcccc46758826d3b0d11933b95e511be/protocol/crates/zkevm_circuits/src/storage_validity_by_grand_product	paying	ZKsync Era	
+https://github.com/matter-labs/zksync-protocol/tree/2a2ecb3bfcccc46758826d3b0d11933b95e511be/protocol/crates/zkevm_circuits/src/transient_storage_validity_by_grand_product	paying	ZKsync Era	
+https://github.com/matter-labs/zksync-protocol/tree/2a2ecb3bfcccc46758826d3b0d11933b95e511be/vm2/crates/vm2	paying	ZKsync Era	
+https://github.com/matter-labs/zksync-protocol/tree/2a2ecb3bfcccc46758826d3b0d11933b95e511be/vm2/crates/vm2-interface	paying	ZKsync Era	
 https://github.com/money-on-chain/stable-protocol-core-v2	paying	Money on Chain / RIF on Chain	
 https://github.com/open-web3-stack/open-runtime-module-library	paying	Acala	
 https://github.com/pancakeswap/infinity-core	paying	PancakeSwap	

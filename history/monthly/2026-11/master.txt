@@ -2655,6 +2655,7 @@ addiko-pindelivery-uat.firstdata.com
 addiko-pindelivery.firstdata.com
 addonpayments.com
 adelaidebank.com.au
+adelta.be
 adevinta.com
 adex.network
 adf.sigmahealthcare.com.au
@@ -4767,6 +4768,7 @@ app.citushealth.ca
 app.citushealth.com
 app.connecteam.com
 app.dailypay.com
+app.datacamp.com
 app.datadome.co
 app.defisaver.com
 app.delen.be
@@ -5107,6 +5109,8 @@ aqora.naiad.*
 aqtooling.com
 aquafina.com
 aquasec.com
+aquawardsoperate.water-link.be
+aquawardsspatial.water-link.be
 aquiris.com.br
 aquiris.studio
 aquiristech.com
@@ -5392,8 +5396,11 @@ aspreports.com
 aspresolver.com
 assaabloy.com
 assaabloy.net
+assessment-api.datacamp.com
+assessment-v2.datacamp.com
 assessment.aon.com
 assessment.aonanalytics.tech
+assessment.datacamp.com
 asset-admin.cbre.se
 asset-api.cbre.com.au
 asset.cbre.cl
@@ -6104,6 +6111,7 @@ awtr.ngc.com
 awtrdev.ngc.com
 awtrplte.ngc.com
 aww.be
+aww.eu
 awx.devops.cbre.com
 axasecurity.com
 axelspringer.com
@@ -8644,6 +8652,7 @@ campshelbycreditunion.vbwebservices.com
 campshelbycu-dc.cert.fec-dc.fiservapps.com
 campshelbycu-dn.financial-net.com
 campus.bovis.es
+campus.datacamp.com
 campus.deere.com.br
 campusbrno.cz
 campusm.co.uk
@@ -11911,11 +11920,13 @@ com.costco.app.android
 com.costco.costco
 com.creditkarma.mobile
 com.creditkarma.mobile.international
+com.datacamp
 com.dd.doordash
 com.deere.anubhuti
 com.deere.equipmentplus
 com.deere.myoperations
 com.deribit
+com.divvyapp.io
 com.divvypay.Divvy
 com.dolap.android
 com.dropbox.android
@@ -14488,6 +14499,7 @@ databank.nl
 database.dev
 databricks.com
 databronnencovid19.nl
+datacamp.com
 datacenter.motion.abb.com.cn
 datacenters.abb.com
 datachallenge.nl
@@ -15155,6 +15167,7 @@ deskpro.com
 desksonar.cbre.es
 desktop-sit.uat.proptrack.com
 desktop.github.com
+desktop.water-link.be
 deskundigengroepdierziekten.nl
 deskundigenregister.nl
 destaatvanhetonderwijs.nl
@@ -16035,6 +16048,7 @@ dividendsolar.com
 division2map.com
 divops-mcp.deere.com
 divvy.co
+divvyhomes.com
 dixan.it
 dixiecupfcu-dc.cert.fec-dc.fiservapps.com
 dixiecupfcu-dn.financial-net.com
@@ -19847,6 +19861,7 @@ fisherinvestments.fr
 fisheye.pclender.com
 fishwatch.gov
 fit.nba.com
+fitbit-lottery-staging.getmoneytree.com
 fitbit-lottery.getmoneytree.com
 fitbit.com
 fitbook.de
@@ -23303,6 +23318,9 @@ https://app.cvent.com/Subscribers/Appointments
 https://app.cvent.com/Subscribers/Events2
 https://app.cvent.com/Subscribers/Inquisium
 https://app.cvent.com/Subscribers/RFP
+https://app.datacamp.com/certification
+https://app.datacamp.com/groups
+https://app.datacamp.com/learn
 https://app.dexalot.com
 https://app.ecwid.com/api/v3
 https://app.fing.com/internet/business/devrecog/trial
@@ -23416,6 +23434,7 @@ https://apps.apple.com/app/id1235601864
 https://apps.apple.com/app/id1254292716
 https://apps.apple.com/app/id1256027729
 https://apps.apple.com/app/id1257222717
+https://apps.apple.com/app/id1263413087
 https://apps.apple.com/app/id1265170914
 https://apps.apple.com/app/id1267896687
 https://apps.apple.com/app/id1273303729
@@ -24959,6 +24978,9 @@ https://github.com/kubernetes/utils
 https://github.com/kubernetes/website
 https://github.com/leather-io/mono
 https://github.com/ledgerwatch/erigon
+https://github.com/lfdt-ibc/ibc
+https://github.com/lfdt-ibc/ibc-contracts
+https://github.com/lfdt-ibc/ibc-go
 https://github.com/lidofinance/aave-delivery-infrastructure
 https://github.com/lidofinance/aragon-apps
 https://github.com/lidofinance/circuit-breaker
@@ -27356,6 +27378,7 @@ https://www.cyberghostvpn.com/en_US/apps/windows-vpn
 https://www.dancenter.dk/sommerhus/midtjylland/midtjylland/kvie-so/65573
 https://www.dashlane.com/download-dashlane
 https://www.dashlane.com/sso
+https://www.datacamp.com/datalab
 https://www.deepcoin.com/en/apiPage
 https://www.delacre.com/fr/fr/xp/jeu-concours
 https://www.delacre.com/int/en
@@ -28628,6 +28651,8 @@ indriverapp.com
 indriverjob.com
 indsight-royalcanin.com
 indusappstore.com
+induss.eu
+indussiibis.water-link.be
 industrial-automation-service.abb.com
 industrialemployeescu-dc.cert.fec-dc.fiservapps.com
 industrialemployeescu-dn.financial-net.com
@@ -34288,6 +34313,7 @@ mijnontwikkelhuis.nl
 mijnpgb.nl
 mijnslachtofferzaak.nl
 mijnverblijfsdocument.nl
+mijnwater-link.be
 mijnwerkenzekerheid.nl
 mikescolombia.com
 mikesecuador.com
@@ -38234,6 +38260,7 @@ ontwerpwedstrijdmiljoenennota.nl
 onzedelta.nl
 onzeoverheid.nl
 ooredoo.qa
+oos.eu-west-2.outscale.com
 oos.pdc.abb.com
 op.paymaya.com
 op2-bff.rokt.com
@@ -40012,6 +40039,7 @@ piscataqua-admin.originate.fiservapps.com
 piscataqua.onlinebank.com
 piscataqua.originate.fiservapps.com
 pismo.io
+pit.water-link.be
 pit2port.com
 pitch.cbre.nl
 pitch.se
@@ -40769,6 +40797,7 @@ pr.nba.com
 practicalbusinessskills.org
 practicalmoneyskills.com
 practicalmoneyskills.org
+practice.datacamp.com
 practice.securevetsource.com
 practo.com
 pragueofficeadvisor.cbre.cz
@@ -41303,6 +41332,7 @@ profile.hackthebox.com
 profile.playstation.com
 profile.segment.com
 profile.telenor.se
+profiles-api.datacamp.com
 profiles.sports.yahoo.com
 profiles.wordpress.org
 profileservicep.deere.com
@@ -41335,6 +41365,7 @@ projectneon.com
 projectradon.com
 projects.cbre.eu
 projects.cbre.se
+projects.datacamp.com
 projects.dev
 projects.drives.abb.com.cn
 projects.epam.com
@@ -43356,6 +43387,7 @@ rincon.streamlendvelocity.net
 ring.com
 rings.solutions
 ringtune.mtn.co.za
+rio-link.be
 rio.bank-admin.originate.fiservapps.com
 rio.bank.originate.fiservapps.com
 rio.caaweb.com
@@ -52748,6 +52780,8 @@ watch.global.nba.com
 watchguard.ca
 watdevog.nl
 wateetnederland.nl
+water-kracht-levering.be
+water-kracht-levering.eu
 water-link-jaarverslag.be
 water-link.be
 waterasleverage.org
@@ -52757,8 +52791,12 @@ waterenklimaat.nl
 waterfordbank.caaweb.com
 waterfordbankna-p2.onlinebank.com
 waterfordbankna.onlinebank.com
+waterkracht-levering.be
+waterkracht-levering.eu
+waterlink.be
 watermarkt.nl
 watermonitor.gov
+waterstoringen.be
 watertownsavings-admin.originate.fiservapps.com
 watertownsavings-p2.onlinebank.com
 watertownsavings.originate.fiservapps.com
@@ -55017,6 +55055,7 @@ www.darphin.dcp.elcompanies.com
 www.darphin.dcpm.elcompanies.com
 www.dashboard.gatekeepers.co.in
 www.data-center.cbre.es
+www.datacamp.com
 www.datamgmt.greenqa.cbre.com
 www.dataservices.cbre.eu
 www.dateplanner.cbre.nl
@@ -55138,6 +55177,7 @@ www.dimensionserverdev.cbre.com
 www.discourse.cbrehost.com
 www.disruptech-test.cbre.com
 www.disruptechapi-test.cbre.com
+www.divvyhomes.com
 www.dl-global.com
 www.dmp.fr
 www.dmp.gouv.fr

@@ -52,6 +52,7 @@ ad.nl
 adafruit.com
 adafruitdaily.com
 adaptive-shield.com
+adelta.be
 adminml.com
 adsrvr.org
 adstruc.com
@@ -288,6 +289,8 @@ avax-test.network
 avax.network
 avecspotify.com
 avira.com
+aww.be
+aww.eu
 axelspringer.com
 axelspringer.de
 ayco.com
@@ -630,7 +633,6 @@ closetheplaygap.com
 cloud.com
 cloud.gov
 cloudcannon.com
-cloudflare.app
 cloudflare.com
 cloudflareaccess.com
 cloudflarepartners.com
@@ -745,6 +747,7 @@ das.eu
 dashlane.com
 data.gov
 databricks.com
+datacamp.com
 datadome.co
 datashield.co
 datastax.com
@@ -1503,6 +1506,7 @@ indriver.com
 indriver.io
 indriverapp.com
 indriverjob.com
+induss.eu
 infiniteathlete.ai
 infinitylab.com
 infocyte.com
@@ -1713,7 +1717,6 @@ lahitapiola.mobile
 lahitapiolarahoitus.fi
 landmarkcinemas.com
 langfuse.com
-lansweeper.com
 larksuite.com
 lascana.de
 lastpass.com
@@ -2008,6 +2011,7 @@ miinsurtech.cn
 miinsurtech.com
 miinsurtech.net
 mijiayoupin.com
+mijnwater-link.be
 mimusica2019.com
 mini.de
 mintmobile.com
@@ -2733,6 +2737,7 @@ ridewithvia.com
 rieker-shop.be
 ring.com
 rings.solutions
+rio-link.be
 riotgames.com
 ripe.net
 ripio.com
@@ -3682,6 +3687,14 @@ walmart.com
 walt.io
 wamba.com
 wanyol.com
+water-kracht-levering.be
+water-kracht-levering.eu
+water-link-jaarverslag.be
+water-link.be
+waterkracht-levering.be
+waterkracht-levering.eu
+waterlink.be
+waterstoringen.be
 watsons.co.id
 watsons.co.th
 watsons.com.hk

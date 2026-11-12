@@ -6,3 +6,7 @@ date	event	id	program	url	count	previous	note
 2026-11-12	shrank	9ac8fc3a6c	Uphold	https://www.intigriti.com/programs/Uphold/upholdcom/detail	1	25	values of this program fell to half or less: scope edit, or a page the parser no longer understands
 2026-11-12	appeared	fe1907341a	Maple		1	0	listed by immunefi-direct
 2026-11-12	left	562962b9d8	LiteLLM (VDP)	https://hackerone.com/litellm	0	1	last listed by arkadiyt-hackerone,hackerone-direct; every one of them answered, so it was really dropped (made private, paused or closed)
+2026-11-13	appeared	17f7e4d98a	Divvy Homes	https://hackerone.com/divvy-homes	3	0	listed by arkadiyt-hackerone,hackerone-direct
+2026-11-13	appeared	2410d6996f	Water-Link	https://app.intigriti.com/programs/waterlink/water-link/detail	19	0	listed by arkadiyt-intigriti,intigriti-direct
+2026-11-13	appeared	8caf8be264	DataCamp	https://app.intigriti.com/programs/datacamp/datacamp/detail	15	0	listed by arkadiyt-intigriti,intigriti-direct
+2026-11-13	left	886999fa1c	Veda		0	4	last listed by immunefi-direct; every one of them answered, so it was really dropped (made private, paused or closed)

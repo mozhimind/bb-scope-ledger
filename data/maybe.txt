@@ -121,7 +121,6 @@ apidocs.aikido.dev
 apidocs.bridge.xyz
 app-eu.worklytics.co
 app.box.com
-app.lansweeper.com
 app.snapchat.com
 app.worklytics.co
 app01.us.bill.com
@@ -222,7 +221,6 @@ donorbox.org
 dust.tt
 e.e.marcus.com
 ecsi.net
-edge.lansweeper.com
 education.github.com
 eis.hilton.com
 elavonpaymentgateway.com
@@ -448,7 +446,6 @@ https://www.gainsight.com/security/vulnerability-disclosure-program
 https://www.goodrx.com/care
 https://www.hilton.com/en/hilton-honors/join
 https://www.kayak.com/global
-https://www.lansweeper.com/download
 https://www.larksuite.com/download
 https://www.mastercard.ch/de-ch.html
 https://www.mastercard.ch/fr-ch.html
