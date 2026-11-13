@@ -504,6 +504,7 @@ insight.io
 instacart.com
 instacart.tools
 int.remitly.com
+integrations.vintedgo.com
 intercomassets.com
 intercomcdn.com
 interestfree.com.au

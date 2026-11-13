@@ -123,6 +123,7 @@ aguacaliente.gleague.nba.com
 ai-builder.hostinger.com
 ai.mongodb.com
 ai.portswigger.net
+aim-marketplace.vinted.com
 ak-static-dev.nba.com
 alchemy.veriff.com
 aldomain1.raffaello.hu
@@ -309,6 +310,7 @@ api.koho.ca
 api.krisp.ai
 api.kruidvat.be
 api.kruidvat.nl
+api.lansweeper.com
 api.larksuite.com
 api.leather.io
 api.letsexchange.io
@@ -353,8 +355,6 @@ api.paybox.sh
 api.paymaya.com
 api.pcrs.kape.com
 api.pdst.fm
-api.personio-dev.com
-api.personio.com
 api.pinterest.com
 api.planethoster.net
 api.playstation.com
@@ -410,7 +410,6 @@ api.steampowered.com
 api.stg.inspectorio.com
 api.stripe.com
 api.stytch.com
-api.super-id.net
 api.superdrug.com
 api.swapcard.com
 api.swiftfinancial.com
@@ -499,7 +498,6 @@ app.capyfi.com
 app.cetus.zone
 app.chime.com
 app.circle.com
-app.datacamp.com
 app.datadome.co
 app.defisaver.com
 app.delen.be
@@ -542,6 +540,7 @@ app.koho.ca
 app.krisp.ai
 app.kruidvat.be
 app.kruidvat.nl
+app.lansweeper.com
 app.larksuite.com
 app.latitudepayapps.com
 app.launchdarkly.com
@@ -576,8 +575,6 @@ app.originprotocol.com
 app.parallel.best
 app.paybox.sh
 app.pdq.com
-app.personio-dev.com
-app.personio.com
 app.pharmacy.superdrug.com
 app.playground.idos.network
 app.pullrequest.com
@@ -588,7 +585,6 @@ app.requirementyogi.com
 app.rewire.to
 app.ring.com
 app.ripio.com
-app.routerprotocol.com
 app.safeswap.io
 app.saltlabs.com
 app.savers.co.uk
@@ -651,9 +647,6 @@ arsentomsky.indrive.com
 artifactory.marriott.com
 artists.soundcloud.com
 askpeopleteam.visa.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com
-assessment.datacamp.com
 assets-cdn.vistarmedia.com
 assets.airbnb.com
 assets.development.amazon-tacticalplanner.com
@@ -742,6 +735,7 @@ authn.usaa.com
 autocomplete.booking.com
 autodiscover.uzleuven.be
 autoupdate.geo.opera.com
+autoupdateapi.lansweeper.com
 av.indrive.com
 avocado.instadapp.io
 b2bapi-a.usaa.com
@@ -753,6 +747,7 @@ backend-api.devicecloud.production.forescoutcloud.net
 backend-sdk.uat.private.unico.run
 backend.bz-berlin.de
 backend.ibotta.com
+backoffice.lansweeper.com
 backstage.avax-dev.network
 badger.it.vinted.com
 baf-gw-cf.africa.afso1.aws.indriverapp.com
@@ -925,7 +920,6 @@ campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
-campus.datacamp.com
 cancellation.prod.ps.welt.de
 canton-dev.gleague.nba.com
 canton-qa.gleague.nba.com
@@ -1024,7 +1018,6 @@ chat.eu-east-1.indriverapp.com
 chat.grindr.com
 chat.openai.com
 chat.x.com
-chatbot.super-id.net
 checkout.playstation.com
 checkout.rapyd.net
 checkout.razorpay.com
@@ -1129,7 +1122,6 @@ community.exoscale.com
 community.forescout.com
 community.oppo.com
 community.optimism.io
-community.personio.com
 community.superdrug.com
 community.ui.com
 community.watsons.co.th
@@ -1459,6 +1451,7 @@ docs.gitlab.com
 docs.gocardless.com
 docs.institutional.ts.finance
 docs.keeper.io
+docs.lansweeper.com
 docs.launchdarkly.com
 docs.lido.fi
 docs.near.org
@@ -1514,7 +1507,6 @@ ecom-static.kruidvat.be
 ecom-static.kruidvat.nl
 ecommerce.hostinger.com
 econnect-preprod.mtn.co.za
-ecosystem-experience.super-id.net
 ecosystem.berachain.com
 ecoupon.maf.ae
 ecrf.uzleuven.be
@@ -1538,6 +1530,7 @@ edge.blablacar.ro
 edge.blablacar.ru
 edge.blablacar.tr
 edge.bookbeat.com
+edge.lansweeper.com
 edgeacademy.thetradedesk.com
 edgeapi.slack.com
 edgeapis.onecloud.harman.com
@@ -1559,6 +1552,7 @@ embed.vhx.tv
 emerald.oasis.dev
 emistores.pinelabs.com
 employer.seek.com
+ems.it.vinted.com
 en.casinohuone.com
 en.kolikkopelit.com
 en.ottokasino.com
@@ -1607,8 +1601,6 @@ experiences.crypto.com
 explore-sit.uat.proptrack.com
 explore.mainnet.tempo.xyz
 explore.redoxengine.com
-explore.tempo.xyz
-explorer.aptoslabs.com
 explorer.avax.network
 explorer.ens.domains
 explorer.gobob.xyz
@@ -1650,6 +1642,7 @@ faucet-api.polygon.technology
 faucet.avax-test.network
 faucet.polygon.technology
 faucets.chain.link
+fb.lansweeper.com
 fc-r2-pos-financeconnect.deere.com
 fch-cf.euce1.indriverapp.com
 fch-gw-cf.euce1.indriverapp.com
@@ -1767,6 +1760,7 @@ gaymoji.grindr.com
 gc.watsons.com.tr
 gcsm.oppoit.com
 gemini.yahoo.com
+gemstash-integrations.vintedgo.com
 geocode-beta.bykea.net
 geofilters.snapchat.com
 germany.politico.eu
@@ -1882,7 +1876,6 @@ hub.yoti.com
 hub.zetachain.com
 hubacc.vznkul.be
 huddle.nba.com
-hug.personio.com
 humantoken.unico.app
 iam.atg.se
 iam.twilio.com
@@ -1986,6 +1979,7 @@ insights.judgeme.dev
 insights.twilio.com
 int.32red.com
 int.remitly.com
+integrations.vintedgo.com
 intelligence.twilio.com
 intercity.indrive.com
 internal-api-drive-stream.larksuite.com
@@ -2104,6 +2098,7 @@ leaflet-map.bykea.net
 learn.neogov.com
 learn.newrelic.com
 learn.wordpress.org
+lecstaticcontent.lansweeper.com
 legacy-blockexplorer.electroneum.com
 leonard.vinci.com
 liberty-dev.wnba.com
@@ -2165,6 +2160,7 @@ login.infomaniak.com
 login.innogames.de
 login.insightly.com
 login.koho.ca
+login.lansweeper.com
 login.medscape.com
 login.nba.com
 login.neogov.com
@@ -2862,7 +2858,6 @@ ppw.euce1.indriverapp.com
 pr-dev.nba.com
 pr-qa.nba.com
 pr.nba.com
-practice.datacamp.com
 prd-pub.mobilevikings.be
 prd-ring-web-us.prd.rings.solutions
 prd.aser.simplisafe.com
@@ -2932,11 +2927,9 @@ profile.cex.io
 profile.playstation.com
 profile.segment.com
 profile.telenor.se
-profiles-api.datacamp.com
 profiles.sports.yahoo.com
 profiles.wordpress.org
 profreg.medscape.com
-projects.datacamp.com
 projects.epam.com
 promo.nutella.ro
 promo.tw.coupang.com
@@ -2956,6 +2949,7 @@ pwapi.ex2b.com
 pwn.intigriti.rocks
 qa.stats.nba.com
 qaglobal-liquidity.gs.com
+qnrs.vintedgo.com
 quality-chocofresh-gratistesten-de-2025.ipaasferrero.com
 quality-dinos-de-2025.ipaasferrero.com
 quality-eatnatural-promo-2025-de-2025.ipaasferrero.com
@@ -4015,7 +4009,6 @@ www.cultbeauty.co.uk
 www.currencycloud.com
 www.cvs.com
 www.cybersource.com
-www.datacamp.com
 www.ddfcontent.com
 www.decathlon.be
 www.decathlon.ca
@@ -4245,6 +4238,7 @@ www.kruidvatkids.nl
 www.lab-recherche-environnement.org
 www.ladbrokes.com
 www.landmarkcinemas.com
+www.lansweeper.com
 www.lascana.de
 www.lastpass.com
 www.lefties.com
@@ -4391,8 +4385,6 @@ www.parool.nl
 www.partycasino.com
 www.partypoker.com
 www.paxoslabs.com
-www.personio.com
-www.personio.de
 www.pexels.com
 www.pinelabs.ae
 www.pinelabs.com
@@ -4438,7 +4430,6 @@ www.restaurant-information.com
 www.riskrecon.com
 www.rockstargames.com
 www.rootstocklabs.com
-www.routerprotocol.com
 www.royalarena.dk
 www.rtreefinance.com
 www.s-pankki.fi

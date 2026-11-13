@@ -3208,9 +3208,13 @@ VPN Account	non-paying	Ziff Davis Vulnerability Disclosure Program	https://bugcr
 Velocity & Throughput Charts for Agile, Scrum, Kanban - https://marketplace.atlassian.com/apps/607387265/velocity-throughput-charts-for-agile-scrum-kanban?hosting=cloud&tab=overview	paying	StonikByte	https://bugcrowd.com/engagements/stonikbyte
 Vendor-hosted platforms outside direct Sunrun control	out-of-scope	Sunrun Vulnerability Disclosure Pro Engagement	https://bugcrowd.com/engagements/sunrun-vdp-pro
 Vietnam IP Ranges: 103.253.88.0/22 and 103.144.84.0/23	non-paying	RMIT University Vulnerability Disclosure Program	https://bugcrowd.com/engagements/rmit-university-vdp-pro
+Vinted	paying	Vinted Bug Bounty	https://bugcrowd.com/engagements/vinted-uab-mbb
 Vinted Careers	paying	Vinted Bug Bounty	https://bugcrowd.com/engagements/vinted-uab-mbb
+Vinted Go	paying	Vinted Bug Bounty	https://bugcrowd.com/engagements/vinted-uab-mbb
 Vinted Go Escalations test	paying	Vinted Bug Bounty	https://bugcrowd.com/engagements/vinted-uab-mbb
+Vinted Go Integrations	paying	Vinted Bug Bounty	https://bugcrowd.com/engagements/vinted-uab-mbb
 Vinted Go Sandbox	paying	Vinted Bug Bounty	https://bugcrowd.com/engagements/vinted-uab-mbb
+Vinted Go g_integrations	paying	Vinted Bug Bounty	https://bugcrowd.com/engagements/vinted-uab-mbb
 Vipre	non-paying	Ziff Davis Vulnerability Disclosure Program	https://bugcrowd.com/engagements/ziffdavis-vdp-pro
 Vipre - Safesend Software	non-paying	Ziff Davis Vulnerability Disclosure Program	https://bugcrowd.com/engagements/ziffdavis-vdp-pro
 Vipre - threattrack	non-paying	Ziff Davis Vulnerability Disclosure Program	https://bugcrowd.com/engagements/ziffdavis-vdp-pro
@@ -5289,6 +5293,7 @@ https://*.indeedflex.com	paying	Indeed	https://bugcrowd.com/engagements/indeed
 https://*.infosec-iq.com	non-paying	Cengage VDP	https://bugcrowd.com/engagements/cengage-vdp
 https://*.infosec-skills.com	non-paying	Cengage VDP	https://bugcrowd.com/engagements/cengage-vdp
 https://*.infosecinstitute.com	non-paying	Cengage VDP	https://bugcrowd.com/engagements/cengage-vdp
+https://*.integrations.vintedgo.com	paying	Vinted Bug Bounty	https://bugcrowd.com/engagements/vinted-uab-mbb
 https://*.iombank.com	non-paying	The NatWest Group Vulnerability Disclosure Program	https://bugcrowd.com/engagements/natwest-vdp
 https://*.iqcentral.cengage.com.au	non-paying	Cengage VDP	https://bugcrowd.com/engagements/cengage-vdp
 https://*.jcmarketplace.com	non-paying	Department of Labor	https://bugcrowd.com/engagements/dol-vdp
@@ -5565,6 +5570,7 @@ https://agent.domain.com.au/wp-admin/admin-ajax.php	out-of-scope	Domain Vulnerab
 https://aguasanmateo.com.pe	non-paying	AB InBev Vulnerability Disclosure Program	https://bugcrowd.com/engagements/abinbev-vdp
 https://aguazalva.co	non-paying	AB InBev Vulnerability Disclosure Program	https://bugcrowd.com/engagements/abinbev-vdp
 https://ai.sunrun.com/	non-paying	Sunrun Vulnerability Disclosure Pro Engagement	https://bugcrowd.com/engagements/sunrun-vdp-pro
+https://aim-marketplace.vinted.com	paying	Vinted Bug Bounty	https://bugcrowd.com/engagements/vinted-uab-mbb
 https://aiven.io/	paying	Aiven Managed Bug Bounty	https://bugcrowd.com/engagements/aiven-mbb-og
 https://aiven.io/clickhouse	paying	Aiven Managed Bug Bounty	https://bugcrowd.com/engagements/aiven-mbb-og
 https://aiven.io/docs/products/metrics/concepts/metrics-overview	paying	Aiven Managed Bug Bounty	https://bugcrowd.com/engagements/aiven-mbb-og
@@ -6210,6 +6216,7 @@ https://eltorneoaguila.co	non-paying	AB InBev Vulnerability Disclosure Program	h
 https://emag.hu/	non-paying	eMAG Vulnerability Disclosure Engagement	https://bugcrowd.com/engagements/emag-vdp-pro
 https://emag.ro/	non-paying	eMAG Vulnerability Disclosure Engagement	https://bugcrowd.com/engagements/emag-vdp-pro
 https://emmasdiary.co.uk/	non-paying	Ziff Davis Vulnerability Disclosure Program	https://bugcrowd.com/engagements/ziffdavis-vdp-pro
+https://ems.it.vinted.com	paying	Vinted Bug Bounty	https://bugcrowd.com/engagements/vinted-uab-mbb
 https://encrypt.me	non-paying	Ziff Davis Vulnerability Disclosure Program	https://bugcrowd.com/engagements/ziffdavis-vdp-pro
 https://engage.tesla.com/	out-of-scope	Tesla	https://bugcrowd.com/engagements/tesla
 https://enterpriseefiling.fcc.gov	non-paying	Federal Communications Commission: Vulnerability Disclosure Program	https://bugcrowd.com/engagements/fcc-vdp
@@ -6312,6 +6319,7 @@ https://geek.com	non-paying	Ziff Davis Vulnerability Disclosure Program	https://
 https://gemcreditline.co.nz	paying	Latitude Financial Services Bug Bounty	https://bugcrowd.com/engagements/latitude-financial-service-bugbounty
 https://gemfinance.co.nz	paying	Latitude Financial Services Bug Bounty	https://bugcrowd.com/engagements/latitude-financial-service-bugbounty
 https://geminiadvisory.io	paying	Recorded Future Public Managed Bug Bounty Engagement	https://bugcrowd.com/engagements/recorded-future-mbb-og
+https://gemstash-integrations.vintedgo.com	paying	Vinted Bug Bounty	https://bugcrowd.com/engagements/vinted-uab-mbb
 https://gemvisa.com.au	paying	Latitude Financial Services Bug Bounty	https://bugcrowd.com/engagements/latitude-financial-service-bugbounty
 https://gender-bias.appsplus.co	out-of-scope	AI | Apps+ Marketplace Bug Bounty Program	https://bugcrowd.com/engagements/apps-plus2
 https://genius.com/signup	non-paying	Genius	https://bugcrowd.com/engagements/Genius-VDP
@@ -7715,6 +7723,7 @@ https://purple.telstra.com/	non-paying	Telstra VDP	https://bugcrowd.com/engageme
 https://pxcloud.cisco.com/	non-paying	Cisco Customer and Partner Experience Cloud	https://bugcrowd.com/engagements/cisco-cpx-vdp
 https://pyszne.pl	paying	Just Eat Takeaway.com	https://bugcrowd.com/engagements/justeattakeaway
 https://qa3-captureservices.matterport.com/	non-paying	CoStar Vulnerability Disclosure Engagement	https://bugcrowd.com/engagements/costar-vdp-pro
+https://qnrs.vintedgo.com	paying	Vinted Bug Bounty	https://bugcrowd.com/engagements/vinted-uab-mbb
 https://qr-abinbev.com/	non-paying	AB InBev Vulnerability Disclosure Program	https://bugcrowd.com/engagements/abinbev-vdp
 https://qualitynet.cms.gov/	non-paying	Centers for Medicare & Medicaid Services (CMS) - Vulnerability Disclosure Program	https://bugcrowd.com/engagements/cms-vdp
 https://quay.io/repository/sdmrepo/relay?tab=info	non-paying	StrongDM Vulnerability Disclosure Engagement	https://bugcrowd.com/engagements/strongdm

@@ -1,2 +1,1 @@
-https://github.com/cosmos/ibc-go
-https://github.com/cosmos/solidity-ibc-eureka
+https://github.com/marsfoundation/spark-dev-docs

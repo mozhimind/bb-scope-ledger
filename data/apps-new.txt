@@ -1,3 +1,2 @@
-com.datacamp
-com.divvyapp.io
-https://apps.apple.com/app/id1263413087
+https://github.com/Infomaniak/android-infomaniak-meet
+https://github.com/Infomaniak/ios-infomaniak-meet

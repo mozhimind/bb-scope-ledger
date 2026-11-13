@@ -1425,6 +1425,8 @@ https://download.bkexer.xin/app/download/android/app-release.apk
 https://download.krisp.ai/mac
 https://download.krisp.ai/win
 https://drive.google.com/file/d/17IX06JcI2Nn7hbg9kDps5iK6oVi9U71O/view?usp=sharing
+https://github.com/Infomaniak/android-infomaniak-meet
+https://github.com/Infomaniak/ios-infomaniak-meet
 https://io.getdelta.android
 https://io.getdelta.ios
 https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer

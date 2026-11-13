@@ -44,7 +44,7 @@
 *.mittforetag.telenor.se	paying	Telenor Sweden Public Bug Bounty Program	
 *.onevasco.com	paying	VFS Global Bug Bounty Program	
 *.osp.ovh.com	out-of-scope	OVHcloud	
-*.ownit.nu	out-of-scope	Telenor Sweden Public Bug Bounty Program	
+*.ownit.nu / Ownit Webmail	out-of-scope	Telenor Sweden Public Bug Bounty Program	
 *.ownit.se	paying	Telenor Sweden Public Bug Bounty Program	
 *.piaservers.com	paying	Private Internet Access - Bug Bounty Program	
 *.piaservers.net	paying	Private Internet Access - Bug Bounty Program	
@@ -127,7 +127,6 @@ Anything that has not been described as in scope in the previous section is auto
 Anything that is not explicitely listed as part of the Scope	out-of-scope	Mon Espace Santé (MES)	
 Anything that is not explicitely listed in scope section	out-of-scope	VINCI SA - Public program	
 Anything that is not explicitely listed in the ‘Scope’ section.	out-of-scope	Swiss Post - E-Voting	
-Applications, URLs, or data that are not listed on this page are considered out of scope.	out-of-scope	Superbank - Public Bug Bounty Program	
 Applications/Extensions under https://www.cyberghostvpn.com/download	paying	CyberGhost - Bug Bounty Program	
 Applications/Extensions under https://www.privateinternetaccess.com/download	paying	Private Internet Access - Bug Bounty Program	
 Assets not listed in the in scope section are to be considered as out of the scope of this program and won't be eligible for reward	out-of-scope	Infomaniak Bug Bounty program	
@@ -270,7 +269,6 @@ api.preprod.monespacesante.fr	paying	Mon Espace Santé (MES)
 api.privateinternetaccess.com	paying	Private Internet Access - Bug Bounty Program	
 api.pub1.infomaniak.cloud	paying	Infomaniak Bug Bounty program	
 api.pub2.infomaniak.cloud	paying	Infomaniak Bug Bounty program	
-api.super-id.net	paying	Superbank - Public Bug Bounty Program	
 api.swapcard.com	paying	Swapcard	
 api.tanker.io (Accessing the tanker private key is normal functioning of the Tanker protocol)	out-of-scope	Doctolib	
 app.alasco.de	paying	Alasco GmbH - Bug Bounty Program	
@@ -312,7 +310,6 @@ app:https://apps.apple.com/fr/app/louis-vuitton/id709101942	paying	Louis Vuitton
 app:https://apps.apple.com/fr/app/swapcard/id879488719	paying	Swapcard	
 app:https://apps.apple.com/gb/app/moneybox-save-and-invest/id1049797239	paying	Moneybox Bug Bounty	
 app:https://apps.apple.com/id/app/dana/id1437123008	paying	DANA Bug Bounty Program	
-app:https://apps.apple.com/id/app/superbank/id6444720285	paying	Superbank - Public Bug Bounty Program	
 app:https://apps.apple.com/ie/app/doctolib-siilo/id1083002150	paying	Doctolib	
 app:https://apps.apple.com/it/app/mediaworld-app/id1076895831	paying	MediaMarktSaturn Bug Bounty Program	
 app:https://apps.apple.com/nl/app/mediamarkt-nederland/id573907448	paying	MediaMarktSaturn Bug Bounty Program	
@@ -325,6 +322,8 @@ app:https://apps.apple.com/tr/app/mediamarkt-t%C3%BCrkiye/id908956795	paying	Med
 app:https://apps.apple.com/us/app/id583009522	paying	CyberGhost - Bug Bounty Program	
 app:https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407	paying	Private Internet Access - Bug Bounty Program	
 app:https://cdn.unicdn.net/apk/UnibetCasino.apk	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
+app:https://github.com/Infomaniak/android-infomaniak-meet	paying	Infomaniak Bug Bounty program	
+app:https://github.com/Infomaniak/ios-infomaniak-meet	paying	Infomaniak Bug Bounty program	
 app:https://itunes.apple.com/fr/app/blablacar-trusted-carpooling/id341329033?l=en&mt=8	paying	Bug Bounty Program - BlaBlaCar	
 app:https://itunes.apple.com/gb/app/unibet-casino-slots-games/id905382680	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
 app:https://itunes.apple.com/gb/app/unibet-live-sports-betting/id463335337	paying	FDJ United (Online Betting and Gaming) - Bug Bounty program	
@@ -361,7 +360,6 @@ app:https://play.google.com/store/apps/details?id=com.vuitton.android&hl=fr&gl=U
 app:https://play.google.com/store/apps/details?id=de.cellular.ottohybrid&hl=de	paying	OTTO.DE Bug Bounty	
 app:https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost	paying	CyberGhost - Bug Bounty Program	
 app:https://play.google.com/store/apps/details?id=es.mediamarkt.app	paying	MediaMarktSaturn Bug Bounty Program	
-app:https://play.google.com/store/apps/details?id=id.co.bankfama.android&hl=en	paying	Superbank - Public Bug Bounty Program	
 app:https://play.google.com/store/apps/details?id=id.dana&hl=en	paying	DANA Bug Bounty Program	
 app:https://play.google.com/store/apps/details?id=io.gonative.android.xjndrq&hl=fr	paying	Sogexia	
 app:https://play.google.com/store/apps/details?id=it.mediamarket.mediaworld	paying	MediaMarktSaturn Bug Bounty Program	
@@ -410,7 +408,6 @@ doctocommit.doctolib.fr	out-of-scope	Doctolib
 doctolib-ps-ehr-downloads.s3.amazonaws.com	out-of-scope	Doctolib	
 doctolib.atlassian.net and any *.atlassian.net path	out-of-scope	Doctolib	
 doctolib.zendesk.com | siilo.zendesk.com	out-of-scope	Doctolib	
-ecosystem-experience.super-id.net	paying	Superbank - Public Bug Bounty Program	
 edge.bookbeat.com	paying	BookBeat	
 editeur.api.monespacesante.fr	paying	Mon Espace Santé (MES)	
 editeurs.developer.monespacesante.fr	paying	Mon Espace Santé (MES)	
@@ -445,7 +442,6 @@ git.notebleue.pro	paying	ZECIBLE PUBLIC BUG BOUNTY PROGRAM
 help.swapcard.com (Zoho)	out-of-scope	Swapcard	
 hittabutik.atg.se (external supplier)	out-of-scope	ATG Public Bug Bounty Program	
 hosting-ik.com	paying	Infomaniak Bug Bounty program	
-http://chatbot.super-id.net	paying	Superbank - Public Bug Bounty Program	
 https://(navigate|engage|checkout|internal|cached-api|api).shoppingapp.decathlon.com/*	paying	DECATHLON	
 https://*.captcha-delivery.com	paying	DataDome Bug Bounty	
 https://*.dropxl.com	paying	GRW Trading FZE - Open Bug Bounty Program	
@@ -532,6 +528,7 @@ https://fi.jbl.com	paying	HARMAN International - Web Applications
 https://fr.jbl.com	paying	HARMAN International - Web Applications	
 https://github.com/Infomaniak/desktop-kChat	paying	Infomaniak Bug Bounty program	
 https://github.com/Infomaniak/desktop-kDrive	paying	Infomaniak Bug Bounty program	
+https://github.com/Infomaniak/desktop-kMeet	paying	Infomaniak Bug Bounty program	
 https://github.com/expressvpn/lightway	paying	ExpressVPN - Bug Bounty Program	
 https://github.com/expressvpn/wolfssl-rs	paying	ExpressVPN - Bug Bounty Program	
 https://glow.imoulife.com	paying	IMOU Public Bug Bounty Program	
@@ -806,7 +803,6 @@ storage*.infomaniak.com/newsletter/thumbnails/*	out-of-scope	Infomaniak Bug Boun
 store.doctolib.com	out-of-scope	Doctolib	
 studio-api.swapcard.com	paying	Swapcard	
 studio.swapcard.com	paying	Swapcard	
-superbank.id	paying	Superbank - Public Bug Bounty Program	
 support.alasco.com	out-of-scope	Alasco GmbH - Bug Bounty Program	
 support.alasco.de	out-of-scope	Alasco GmbH - Bug Bounty Program	
 support.monespacesante.fr	paying	Mon Espace Santé (MES)	

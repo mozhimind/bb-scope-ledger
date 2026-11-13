@@ -1489,6 +1489,7 @@ platform	paying	amlbot-kyt-web	https://hackenproof.com/programs/amlbot-kyt-web	2
 platform	paying	amlbot-web	https://hackenproof.com/programs/amlbot-web	2	hackenproof-direct		8549e8a399
 platform	paying	Amoeboids	https://bugcrowd.com/engagements/amoeboids	8	arkadiyt-bugcrowd,bugcrowd-direct		900baf29c9
 platform	paying	Anduril Industries	https://hackerone.com/anduril_industries	4	arkadiyt-hackerone,hackerone-direct		1f8268b655
+platform	paying	Anker	https://hackerone.com/anker	12	arkadiyt-hackerone,hackerone-direct		a5becd043a
 platform	paying	Anthropic	https://hackerone.com/anthropic	22	arkadiyt-hackerone,hackerone-direct		5d50840d90
 platform	paying	AppFox	https://bugcrowd.com/engagements/automationconsultants	5	arkadiyt-bugcrowd,bugcrowd-direct		b7f32bfa18
 platform	paying	Appliances - Barracuda Networks, Inc.	https://bugcrowd.com/engagements/barracuda	6	arkadiyt-bugcrowd,bugcrowd-direct		9857157a5f
@@ -1687,7 +1688,6 @@ platform	paying	Dailymotion	https://yeswehack.com/programs/dailymotion-public-bu
 platform	paying	DANA Bug Bounty Program	https://yeswehack.com/programs/dana-bug-bounty-program	5	arkadiyt-yeswehack,yeswehack-direct		b8759f48fd
 platform	paying	Dashlane	https://hackerone.com/dashlane	1	projectdiscovery		03659f1cb7
 platform	paying	Databricks	https://hackerone.com/databricks	12	arkadiyt-hackerone,hackerone-direct,projectdiscovery		dfca2a3983
-platform	paying	DataCamp	https://app.intigriti.com/programs/datacamp/datacamp/detail	15	arkadiyt-intigriti,intigriti-direct		8caf8be264
 platform	paying	DataDome Bot Bounty	https://yeswehack.com/programs/datadome-bot-bounty	8	arkadiyt-yeswehack,yeswehack-direct		a4bd7603bf
 platform	paying	DataDome Bug Bounty	https://yeswehack.com/programs/datadome-bug-bounty	8	arkadiyt-yeswehack,projectdiscovery,yeswehack-direct		e40e1eadc3
 platform	paying	DataStax	https://hackerone.com/datastax	1	projectdiscovery		e4b3c54d74
@@ -1755,7 +1755,6 @@ platform	paying	Eternal	https://hackerone.com/eternal	34	arkadiyt-hackerone,hack
 platform	paying	eToro	https://hackerone.com/etoro_bbp	3	projectdiscovery		74147a85ee
 platform	paying	eToro Managed Bug Bounty Engagement	https://bugcrowd.com/engagements/etoro-mbb-og	10	arkadiyt-bugcrowd,bugcrowd-direct		1df27fe927
 platform	paying	Etsy	https://bugcrowd.com/engagements/etsy	9	arkadiyt-bugcrowd,bugcrowd-direct,projectdiscovery		453ea8c350
-platform	paying	eufy Security	https://hackerone.com/eufy_security	12	arkadiyt-hackerone,hackerone-direct		2fe1028714
 platform	paying	EURid	https://app.intigriti.com/programs/eurid/eurid/detail	7	arkadiyt-intigriti,intigriti-direct		02b303669a
 platform	paying	EVAA	https://hackenproof.com/evaa	1	projectdiscovery		e2ba06a69b
 platform	paying	evaa-web	https://hackenproof.com/programs/evaa-web	2	hackenproof-direct		23d855325e
@@ -1868,7 +1867,7 @@ platform	paying	Indeed	https://bugcrowd.com/engagements/indeed	15	arkadiyt-bugcr
 platform	paying	Inditex	https://hackerone.com/inditex	36	hackerone-direct		e4beb1f274
 platform	paying	inDrive	https://hackerone.com/indrive	191	arkadiyt-hackerone,hackerone-direct,projectdiscovery		d9ddab4730
 platform	paying	Infinite Athlete	https://bugcrowd.com/engagements/tempusex-public-mbb-og	5	arkadiyt-bugcrowd,bugcrowd-direct		4631c89b3d
-platform	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program	58	arkadiyt-yeswehack,projectdiscovery,yeswehack-direct		ff88dfff96
+platform	paying	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program	61	arkadiyt-yeswehack,projectdiscovery,yeswehack-direct		ff88dfff96
 platform	paying	ING Bank	https://hackerone.com/ing	2	projectdiscovery		a0fff3f9db
 platform	paying	inheriti-r-app	https://hackenproof.com/programs/inheriti-r-app	2	hackenproof-direct		3b9268aada
 platform	paying	init-capital-web	https://hackenproof.com/programs/init-capital-web	2	hackenproof-direct		ebe71d8a7f
@@ -1921,6 +1920,7 @@ platform	paying	Kubernetes	https://hackerone.com/kubernetes	95	arkadiyt-hackeron
 platform	paying	kucoin	https://hackenproof.com/programs/kucoin	1	hackenproof-direct,projectdiscovery		d0ae5d5b9d
 platform	paying	KuCoin Managed Bug Bounty Program	https://bugcrowd.com/engagements/kucoin	3	arkadiyt-bugcrowd,bugcrowd-direct		a361ce25bf
 platform	paying	Kuna Crypto Exchange	https://hackenproof.com/kuna/kuna-crypto-exchange	1	projectdiscovery		89a0da3f8b
+platform	paying	Lansweeper Bug Bounty Program	https://app.intigriti.com/programs/lansweeper/lansweeper1/detail	15	arkadiyt-intigriti,intigriti-direct		5cf47e7b49
 platform	paying	Lark Technologies	https://hackerone.com/lark_technologies	19	arkadiyt-hackerone,hackerone-direct,projectdiscovery		862541233e
 platform	paying	LastPass	https://bugcrowd.com/engagements/lastpass	12	arkadiyt-bugcrowd,bugcrowd-direct,projectdiscovery		d7211a38ba
 platform	paying	Latitude Financial Services Bug Bounty	https://bugcrowd.com/engagements/latitude-financial-service-bugbounty	29	arkadiyt-bugcrowd,bugcrowd-direct		715924a73b
@@ -2035,6 +2035,7 @@ platform	paying	NiceHash	https://hackenproof.com/nicehash	1	projectdiscovery		07
 platform	paying	nicehash-mining-platform	https://hackenproof.com/programs/nicehash-mining-platform	8	hackenproof-direct		7976698092
 platform	paying	Ninja Kiwi	https://hackerone.com/ninja-kiwi	4	projectdiscovery		e64ecd166f
 platform	paying	Node.js	https://hackerone.com/nodejs	1	arkadiyt-hackerone,hackerone-direct		5a711103b7
+platform	paying	noirwallet	https://hackenproof.com/programs/noirwallet	3	hackenproof-direct		c82f828003
 platform	paying	nonkyc-dot-io	https://hackenproof.com/programs/nonkyc-dot-io	5	hackenproof-direct		83d15c50a3
 platform	paying	noones-web-and-mobile	https://hackenproof.com/programs/noones-web-and-mobile	1	hackenproof-direct		c238549669
 platform	paying	NordVPN	https://hackerone.com/nordsecurity	1	projectdiscovery		16312a1a2b
@@ -2088,7 +2089,6 @@ platform	paying	payhub-web	https://hackenproof.com/programs/payhub-web	2	hackenp
 platform	paying	Payoneer	https://hackerone.com/payoneer	5	arkadiyt-hackerone,hackerone-direct,projectdiscovery		a44f3567e2
 platform	paying	PayPal	https://hackerone.com/paypal	45	arkadiyt-hackerone,hackerone-direct,projectdiscovery		85b049410a
 platform	paying	PDQ bug bounty program	https://app.intigriti.com/programs/pdq/pdqcomprivate/detail	5	arkadiyt-intigriti,intigriti-direct		b948ebadac
-platform	paying	Personio	https://app.intigriti.com/programs/personio/personio/detail	16	arkadiyt-intigriti,intigriti-direct		dba98622e4
 platform	paying	Pexels	https://bugcrowd.com/engagements/pexels	2	arkadiyt-bugcrowd,bugcrowd-direct,projectdiscovery		cd37b215d1
 platform	paying	phemex-web-and-mobile	https://hackenproof.com/programs/phemex-web-and-mobile	3	hackenproof-direct		94b671901a
 platform	paying	Pine Labs Bug Bounty Program	https://yeswehack.com/programs/pine-labs-bug-bounty-program	30	arkadiyt-yeswehack,yeswehack-direct		7175ffba7d
@@ -2165,7 +2165,7 @@ platform	paying	Rivian Bug Bounty	https://app.intigriti.com/programs/rivian/rivi
 platform	paying	Robinhood Markets Bounty	https://hackerone.com/robinhood	25	arkadiyt-hackerone,hackerone-direct,projectdiscovery		6584eaf73f
 platform	paying	Roblox	https://hackerone.com/roblox	4	arkadiyt-hackerone,hackerone-direct,projectdiscovery		885c5a1660
 platform	paying	Rockstar Games	https://hackerone.com/rockstargames	9	arkadiyt-hackerone,hackerone-direct,projectdiscovery		5471978def
-platform	paying	router-web	https://hackenproof.com/programs/router-web	3	hackenproof-direct,projectdiscovery		9d043bb1d9
+platform	paying	Router	https://hackenproof.com/router/router-web	1	projectdiscovery		c859ddfaf9
 platform	paying	rtree-finance-web	https://hackenproof.com/programs/rtree-finance-web	2	hackenproof-direct		e48d4337e0
 platform	paying	RubyGems	https://hackerone.com/rubygems	1	projectdiscovery		ce2fba4539
 platform	paying	RV Softwares Marketplace Bug Bounty Program	https://bugcrowd.com/engagements/rv-softwares	4	arkadiyt-bugcrowd,bugcrowd-direct		91b729bbb8
@@ -2237,7 +2237,6 @@ platform	paying	StonikByte	https://bugcrowd.com/engagements/stonikbyte	16	arkadi
 platform	paying	Stripchat	https://hackerone.com/stripchat	2	arkadiyt-hackerone,hackerone-direct		acbdef135a
 platform	paying	Stripe	https://hackerone.com/stripe	95	arkadiyt-hackerone,hackerone-direct,projectdiscovery		e583be32e1
 platform	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol	1	hackenproof-direct		04a0ccdd7d
-platform	paying	Superbank - Public Bug Bounty Program	https://yeswehack.com/programs/superbank-public-bug-bounty-program	7	arkadiyt-yeswehack,yeswehack-direct		670303b1be
 platform	paying	Superbet	https://hackerone.com/superbet	22	arkadiyt-hackerone,hackerone-direct,projectdiscovery		63d2899f61
 platform	paying	Superdrug	https://app.intigriti.com/programs/aswatson/superdrug/detail	31	arkadiyt-intigriti,intigriti-direct		94ac3933e7
 platform	paying	superearn-web-and-smart-contracts	https://hackenproof.com/programs/superearn-web-and-smart-contracts	1	hackenproof-direct		968ef1548b
@@ -2354,7 +2353,7 @@ platform	paying	Vico Marketplace Bug Bounty	https://bugcrowd.com/engagements/vic
 platform	paying	vidaXL Services - Open Bug Bounty Program	https://yeswehack.com/programs/vidaxl-services-open-bug-bounty-program	73	arkadiyt-yeswehack,yeswehack-direct		50a94e04ac
 platform	paying	Vimeo	https://hackerone.com/vimeo	30	arkadiyt-hackerone,hackerone-direct,projectdiscovery		37662c1a3d
 platform	paying	VINCI SA - Public program	https://yeswehack.com/programs/vincisa-public-program	26	arkadiyt-yeswehack,yeswehack-direct		0da69ed911
-platform	paying	Vinted Bug Bounty	https://bugcrowd.com/engagements/vinted-uab-mbb	14	arkadiyt-bugcrowd,bugcrowd-direct		5636bb4444
+platform	paying	Vinted Bug Bounty	https://bugcrowd.com/engagements/vinted-uab-mbb	19	arkadiyt-bugcrowd,bugcrowd-direct		5636bb4444
 platform	paying	virtuswap-dex-app-1	https://hackenproof.com/programs/virtuswap-dex-app-1	1	hackenproof-direct		dfd5c0c9f0
 platform	paying	virtuswap-smart-contract	https://hackenproof.com/programs/virtuswap-smart-contract	1	hackenproof-direct		873ad993af
 platform	paying	Visa	https://hackerone.com/visa	252	arkadiyt-hackerone,hackerone-direct		c3b6734644
@@ -2564,8 +2563,7 @@ platform	non-paying	Epic Games VDP	https://hackerone.com/epicgames-vdp	59	arkadi
 platform	non-paying	Equal Employment Opportunity Commission: Vulnerability Disclosure Program	https://bugcrowd.com/engagements/eeoc-vdp	12	bugcrowd-direct		4ed3ae37a5
 platform	non-paying	Equifax-vdp	https://hackerone.com/equifax	296	arkadiyt-hackerone,hackerone-direct		190520bb7b
 platform	non-paying	ESLint	https://hackerone.com/eslint	1	projectdiscovery		ff55d317e4
-platform	non-paying	Essity	https://hackerone.com/essity	574	arkadiyt-hackerone,hackerone-direct		f1f8b8a268
-platform	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder	514	arkadiyt-hackerone		5bcf9075aa
+platform	non-paying	Essity	https://hackerone.com/essity	575	arkadiyt-hackerone,hackerone-direct		f1f8b8a268
 platform	non-paying	Etherlinx	https://bugcrowd.com/engagements/etherlinx-vdpc	1	diodb		d4e3d4da70
 platform	non-paying	European Space Agency (ESA) VDP	https://app.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail	59	arkadiyt-intigriti,intigriti-direct		faf852bf18
 platform	non-paying	Exact Vulnerability Disclosure Program	https://app.intigriti.com/programs/exact/exactvulnerabilitydisclosureprogram/detail	16	arkadiyt-intigriti,intigriti-direct		f0c3971eb1
@@ -3102,7 +3100,6 @@ unknown	paying	Money on Chain / RIF on Chain		4	immunefi-direct		cbdb44be8f
 unknown	paying	Nexus Mutual		1	immunefi-direct		6d88529c24
 unknown	paying	NUVA		3	immunefi-direct		32ee4d36f5
 unknown	paying	Obyte		12	immunefi-direct		cde19474af
-unknown	paying	Ondo Finance		13	immunefi-direct		f53fa9c65a
 unknown	paying	OnRe		2	immunefi-direct		672535167d
 unknown	paying	OpenZeppelin		5	immunefi-direct		3b319f0494
 unknown	paying	OpenZeppelin on Stellar		1	immunefi-direct		9289df2d11

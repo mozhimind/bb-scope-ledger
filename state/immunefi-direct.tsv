@@ -132,8 +132,6 @@ enterprise.optimism.io	paying	Optimism
 evm.confluxscan.net	paying	USDT0	
 exchange.synthetix.io	paying	Synthetix	
 explore.mainnet.tempo.xyz	paying	USDT0	
-explore.tempo.xyz	paying	Ondo Finance	
-explorer.aptoslabs.com	paying	Ondo Finance	
 explorer.avax.network	paying	Ava Labs	
 explorer.ens.domains	paying	ENS	
 explorer.gobob.xyz	paying	FBTC	
@@ -147,12 +145,10 @@ explorer.lyra.finance	paying	Derive
 explorer.mainnet.aurora.dev	paying	Zerion	
 explorer.mantle.xyz	paying	Ethena	
 explorer.mantle.xyz	paying	FBTC	
-explorer.mantle.xyz	paying	Ondo Finance	
 explorer.mantle.xyz	paying	mETH Protocol	
 explorer.morph.network	paying	USDT0	
 explorer.morphl2.io	paying	Aera	
 explorer.optimism.io	paying	Spark	
-explorer.plume.org	paying	Ondo Finance	
 explorer.plume.org	paying	Parallel	
 explorer.solana.com	paying	GMTrade	
 explorer.solana.com	paying	LayerZero	
@@ -1807,7 +1803,6 @@ https://github.com/marsfoundation/spark-alm-controller/blob/master/src/ForeignCo
 https://github.com/marsfoundation/spark-alm-controller/blob/master/src/MainnetController.sol	paying	Spark	
 https://github.com/marsfoundation/spark-alm-controller/blob/master/src/RateLimitHelpers.sol	paying	Spark	
 https://github.com/marsfoundation/spark-app	paying	Spark	
-https://github.com/marsfoundation/spark-dev-docs	paying	Spark	
 https://github.com/marsfoundation/spark-docs	paying	Spark	
 https://github.com/marsfoundation/spark-gov-relay/blob/master/src/Executor.sol	paying	Spark	
 https://github.com/marsfoundation/spark-psm/blob/master/src/PSM3.sol	paying	Spark	
@@ -2761,6 +2756,7 @@ https://github.com/smartcontractkit/chainlink/tree/develop/core	paying	Chainlink
 https://github.com/smartcontractkit/external-adapters-js/	paying	Chainlink	
 https://github.com/smartcontractkit/libocr	paying	Chainlink	
 https://github.com/smartcontractkit/operator-ui	paying	Chainlink	
+https://github.com/sparkdotfi/spark-dev-docs	paying	Spark	
 https://github.com/sparkdotfi/spark-vaults-v2/blob/dev/src/SparkVault.sol	paying	Spark	
 https://github.com/stacks-network/sbtc/blob/immunefi_attackaton_1.0/Cargo.toml#L31	paying	Attackathon | Stacks II	
 https://github.com/stacks-network/sbtc/tree/immunefi_attackaton_0.9/contracts/contracts	paying	Attackathon | Stacks	
@@ -2848,7 +2844,6 @@ https://tonviewer.com/EQDQ5UUyPHrLcQJlPAczd_fjxn8SLrlNQwolBznxCdSlfQwr	paying	Et
 https://wormhole.com/docs/build/reference/contract-addresses	paying	Wormhole	
 https://www.ankr.com/staking/*	paying	Ankr	
 https://www.asterdex.com/en	paying	Aster	
-https://www.mintscan.io/noble/assets/native/YXVzZHk=	paying	Ondo Finance	
 https://www.reddit.com/r/1inch/	paying	1inch - Infrastructure	
 https://www.tally.xyz/gov/zksync/proposal/39818012355511486328740463691883430307761328158522613751057493126514636439545?govId=eip155:324:0x76705327e682F2d96943280D99464Ab61219e34f	paying	ZKsync Era	
 https://yearn.fi/vaults/1/0x696d02Db93291651ED510704c9b286841d506987	paying	Yearn Finance	
@@ -2919,7 +2914,6 @@ scrollscan.com	paying	Compound Finance
 scrollscan.com	paying	Ether.fi	
 scrollscan.com	paying	Parallel	
 scrollscan.com	paying	Zerion	
-seiscan.io	paying	Ondo Finance	
 seitrace.com	paying	Parallel	
 seitrace.com	paying	USDT0	
 sepolia.basescan.org	paying	Audit Comp | Folks Finance	
@@ -2932,7 +2926,6 @@ snowscan.xyz	paying	Royco
 snowscan.xyz	paying	Spark	
 solscan.io	paying	DAWN USD.infra Vault	
 solscan.io	paying	OnRe	
-solscan.io	paying	Ondo Finance	
 solscan.io	paying	Orca	
 solscan.io	paying	Threshold Network	
 sonicscan.org	paying	Beets	
@@ -2994,7 +2987,6 @@ www.lombard.finance	paying	Audit Comp | Lombard
 www.lombard.finance	paying	Lombard Finance	
 www.metric.xyz	paying	Metric	
 www.mtpelerin.com	paying	Mt Pelerin	
-www.oklink.com	paying	Ondo Finance	
 www.oklink.com	paying	Parallel	
 www.oklink.com	paying	Spark	
 www.oklink.com	paying	USDT0	

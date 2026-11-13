@@ -7297,7 +7297,7 @@ app:Alo GCC_GCC_ANDROID_com.aloyoga.mena	non-paying	Alshaya	https://hackerone.co
 app:Alo GCC_GCC_IOS_1664702687	non-paying	Alshaya	https://hackerone.com/alshaya
 app:Android Box Mobile App	paying	Box BB	https://hackerone.com/box_private
 app:Android Playstation App	paying	PlayStation	https://hackerone.com/playstation
-app:Anker	paying	eufy Security	https://hackerone.com/eufy_security
+app:Anker	paying	Anker	https://hackerone.com/anker
 app:Any Informatica on-premise software	non-paying	Informatica	https://hackerone.com/informatica
 app:Any LoRa Software product	non-paying	Semtech	https://hackerone.com/semtech
 app:Arc on Mac	out-of-scope	The Browser Company of NYC	https://hackerone.com/bcny
@@ -7523,7 +7523,7 @@ app:air.com.buffalo_studios.newflashbingo	paying	Playtika	https://hackerone.com/
 app:air.com.playtika.cvs	paying	Playtika	https://hackerone.com/playtika
 app:air.com.playtika.slotomania	paying	Playtika	https://hackerone.com/playtika
 app:amazon.speech.sim	paying	Amazon Vulnerability Research Program	https://hackerone.com/amazonvrp
-app:anker-nebula/id1319092174	paying	eufy Security	https://hackerone.com/eufy_security
+app:anker-nebula/id1319092174	paying	Anker	https://hackerone.com/anker
 app:app.playwonderbox.com	non-paying	Epic Games VDP	https://hackerone.com/epicgames-vdp
 app:app.playwonderbox.com	out-of-scope	Epic Games	https://hackerone.com/epicgames
 app:apple.co/-HorizonChase2	non-paying	Epic Games VDP	https://hackerone.com/epicgames-vdp
@@ -7609,8 +7609,8 @@ app:com.amazon.warhol.android	paying	Amazon Vulnerability Research Program	https
 app:com.amazon.ziggy.android	paying	Amazon Vulnerability Research Program	https://hackerone.com/amazonvrp
 app:com.anchorfminc.Anchor	paying	Spotify	https://hackerone.com/spotify
 app:com.android.browser	paying	Xiaomi	https://hackerone.com/xiaomi
-app:com.anker.AnkerMake	paying	eufy Security	https://hackerone.com/eufy_security
-app:com.anker.charging	paying	eufy Security	https://hackerone.com/eufy_security
+app:com.anker.AnkerMake	paying	Anker	https://hackerone.com/anker
+app:com.anker.charging	paying	Anker	https://hackerone.com/anker
 app:com.application.zomato	paying	Eternal	https://hackerone.com/eternal
 app:com.application.zomato.district	paying	Eternal	https://hackerone.com/eternal
 app:com.application.zomato.ordering	out-of-scope	Eternal	https://hackerone.com/eternal
@@ -7858,8 +7858,8 @@ app:com.nextcloud.talk2	non-paying	Nextcloud	https://hackerone.com/nextcloud
 app:com.oaknorth.businessbanking	non-paying	OakNorth Bank	https://hackerone.com/oaknorth_bank
 app:com.oaknorth.oaknorthmobilebanking	non-paying	OakNorth Bank	https://hackerone.com/oaknorth_bank
 app:com.oanda.fxtrade	non-paying	OANDA	https://hackerone.com/oanda
-app:com.oceanwing.FDMPrint	paying	eufy Security	https://hackerone.com/eufy_security
-app:com.oceanwing.battery.cam	paying	eufy Security	https://hackerone.com/eufy_security
+app:com.oceanwing.FDMPrint	paying	Anker	https://hackerone.com/anker
+app:com.oceanwing.battery.cam	paying	Anker	https://hackerone.com/anker
 app:com.oplus.accesscard	paying	OPPO	https://hackerone.com/oppo_bbp
 app:com.oplus.account	paying	OPPO	https://hackerone.com/oppo_bbp
 app:com.oplus.aimemory	paying	OPPO	https://hackerone.com/oppo_bbp
@@ -7913,7 +7913,7 @@ app:com.schlage.overtur	non-paying	Allegion	https://hackerone.com/allegion
 app:com.scopely.monopolygo	paying	Scopely	https://hackerone.com/scopely
 app:com.scopely.startrek	paying	Scopely	https://hackerone.com/scopely
 app:com.scopely.yux	non-paying	Scopely	https://hackerone.com/scopely
-app:com.security.BatteryCam	paying	eufy Security	https://hackerone.com/eufy_security
+app:com.security.BatteryCam	paying	Anker	https://hackerone.com/anker
 app:com.shopai.apps	paying	OPPO	https://hackerone.com/oppo_bbp
 app:com.shutterfly	non-paying	Shutterfly VDP	https://hackerone.com/shutterfly_vdp
 app:com.shutterfly.ShutterflyUploader	non-paying	Shutterfly VDP	https://hackerone.com/shutterfly_vdp
@@ -8233,8 +8233,8 @@ app:id6443932656	paying	Banco Plata	https://hackerone.com/banco_plata
 app:id6472513080	out-of-scope	The Browser Company of NYC	https://hackerone.com/bcny
 app:id6472633752	non-paying	Alshaya	https://hackerone.com/alshaya
 app:id980353334	non-paying	BILL VDP	https://hackerone.com/bill_vdp
-app:id=com.oceanwing.soundcore	paying	eufy Security	https://hackerone.com/eufy_security
-app:id=com.zhixin.controller	paying	eufy Security	https://hackerone.com/eufy_security
+app:id=com.oceanwing.soundcore	paying	Anker	https://hackerone.com/anker
+app:id=com.zhixin.controller	paying	Anker	https://hackerone.com/anker
 app:in.amazon.mShop.android.business.shopping	paying	Amazon Vulnerability Research Program	https://hackerone.com/amazonvrp
 app:in.amazon.mShop.android.shopping	paying	Amazon Vulnerability Research Program	https://hackerone.com/amazonvrp
 app:int.who.WHOMyHealth	non-paying	WHO COVID-19 Mobile App	https://hackerone.com/who-covid-19-mobile-app
@@ -8278,7 +8278,7 @@ app:ro.superbet.sport	paying	Superbet	https://hackerone.com/superbet
 app:sinet.startup.inDriver	out-of-scope	inDrive	https://hackerone.com/indrive
 app:singlestore-operator	non-paying	SingleStore	https://hackerone.com/singlestore
 app:singlestoredb-server	non-paying	SingleStore	https://hackerone.com/singlestore
-app:soundcore/id1331876603	paying	eufy Security	https://hackerone.com/eufy_security
+app:soundcore/id1331876603	paying	Anker	https://hackerone.com/anker
 app:starbucks-t%C3%BCrkiye/id1100698915?l=tr	non-paying	Alshaya	https://hackerone.com/alshaya
 app:trendyol.com	paying	Trendyol	https://hackerone.com/trendyol
 app:tv.vhx	out-of-scope	Vimeo	https://hackerone.com/vimeo
@@ -8649,6 +8649,7 @@ ats.gallileo-frankfurt.com	non-paying	CBRE	https://hackerone.com/cbre
 atsapi.firstdata.com	non-paying	Fiserv	https://hackerone.com/fiserv
 atscalepoc.ae-databricks-prod-standalone.us.e18.c01.johndeerecloud.com	non-paying	John Deere	https://hackerone.com/john-deere
 atsmobileapi.firstdata.com	non-paying	Fiserv	https://hackerone.com/fiserv
+att.com.mx	out-of-scope	AT&T	https://hackerone.com/att
 att.com/acctmgmt/*/chunks/*	out-of-scope	AT&T	https://hackerone.com/att
 att.com/acctmgmt/*/stub*/*	out-of-scope	AT&T	https://hackerone.com/att
 att.suppliergateway.com	out-of-scope	AT&T	https://hackerone.com/att
@@ -14444,7 +14445,7 @@ desc:https://apps.apple.com/us/app/amazon-shopper-panel/id1494755014	paying	Amaz
 desc:https://apps.apple.com/us/app/amazon-shopping/id297606951	paying	Amazon Vulnerability Research Program	https://hackerone.com/amazonvrp
 desc:https://apps.apple.com/us/app/amazon-sidewalk-bridge-pro/id1592204907	paying	Amazon Vulnerability Research Program	https://hackerone.com/amazonvrp
 desc:https://apps.apple.com/us/app/amazon-vendor/id6444868926	paying	Amazon Vulnerability Research Program	https://hackerone.com/amazonvrp
-desc:https://apps.apple.com/us/app/anker/id1635029057	paying	eufy Security	https://hackerone.com/eufy_security
+desc:https://apps.apple.com/us/app/anker/id1635029057	paying	Anker	https://hackerone.com/anker
 desc:https://apps.apple.com/us/app/audible-audiobooks-podcasts/id379693831	paying	Audible	https://hackerone.com/audible
 desc:https://apps.apple.com/us/app/bill-ap-ar-business-payments/id980353334	non-paying	BILL VDP	https://hackerone.com/bill_vdp
 desc:https://apps.apple.com/us/app/bill-spend-expense-divvy/id1114962353	non-paying	BILL VDP	https://hackerone.com/bill_vdp
@@ -14940,7 +14941,7 @@ desc:https://www.cloudflare.com/products/cloudflare-stream/	paying	Cloudflare Pu
 desc:https://www.cloudflare.com/products/cloudflare-workers/	paying	Cloudflare Public Bug Bounty	https://hackerone.com/cloudflare
 desc:https://www.cloudflare.com/products/zero-trust/casb/	paying	Cloudflare Public Bug Bounty	https://hackerone.com/cloudflare
 desc:https://www.dancenter.dk/sommerhus/midtjylland/midtjylland/kvie-so/65573/	non-paying	PRISM	https://hackerone.com/prism_vdp
-desc:https://www.eufymake.com/eufymake-studio	paying	eufy Security	https://hackerone.com/eufy_security
+desc:https://www.eufymake.com/eufymake-studio	paying	Anker	https://hackerone.com/anker
 desc:https://www.fax.plus/fax-api	non-paying	Alohi	https://hackerone.com/alohi
 desc:https://www.grammarly.com/mobile/android	paying	Superhuman (formerly Grammarly)	https://hackerone.com/superhuman
 desc:https://www.grammarly.com/mobile/ios	paying	Superhuman (formerly Grammarly)	https://hackerone.com/superhuman
@@ -17262,7 +17263,7 @@ eucor.net	non-paying	Clarivate	https://hackerone.com/clarivate
 eucor.org	non-paying	Clarivate	https://hackerone.com/clarivate
 eucoronline.de	non-paying	Clarivate	https://hackerone.com/clarivate
 eucreas.ca	non-paying	Clarivate	https://hackerone.com/clarivate
-eufyMake Studio(2D UV)	paying	eufy Security	https://hackerone.com/eufy_security
+eufyMake Studio(2D UV)	paying	Anker	https://hackerone.com/anker
 euleioparaumacrianca.com.br	non-paying	Itaú Unibanco	https://hackerone.com/itau_unibanco
 eumotionchannelpartnerconference2023.events.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 eurobankepistrofiel.aegeanair.com	non-paying	Aegean Airlines Vulnerability Disclosure	https://hackerone.com/aegean_airlines_vdp
@@ -26403,6 +26404,7 @@ https://c.realme.com/ru/	paying	OPPO	https://hackerone.com/oppo_bbp
 https://ca-roa.medeco.com	non-paying	Assa Abloy Americas	https://hackerone.com/assa_abloy_americas
 https://cadburygifting.in	out-of-scope	Mondelēz International	https://hackerone.com/mondelez
 https://calendar.google.com/calendar/r?cid=Y2dudDM2NHZkOHM4NmhyMnBoYXBmamM2dWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ	out-of-scope	Kubernetes	https://hackerone.com/kubernetes
+https://campus.hm.essity.com	non-paying	Essity	https://hackerone.com/essity
 https://careers.abb/global/en	out-of-scope	ABB Information Systems Ltd	https://hackerone.com/abb
 https://careers.msci.com/	out-of-scope	MSCI	https://hackerone.com/msci
 https://cas.us.baesystems.com	non-paying	DIB-VDP	https://hackerone.com/dib-vdp

@@ -189,7 +189,6 @@ applevacations.com
 appmiral.com
 appspot.com
 apsis.com
-aptoslabs.com
 aqtooling.com
 aquasec.com
 aquiris.com.br
@@ -747,7 +746,6 @@ das.eu
 dashlane.com
 data.gov
 databricks.com
-datacamp.com
 datadome.co
 datashield.co
 datastax.com
@@ -1717,6 +1715,7 @@ lahitapiola.mobile
 lahitapiolarahoitus.fi
 landmarkcinemas.com
 langfuse.com
+lansweeper.com
 larksuite.com
 lascana.de
 lastpass.com
@@ -2447,12 +2446,6 @@ pdst.io
 periscope.tv
 perl.org
 personalcapital.com
-personio-dev.com
-personio-internal.de
-personio.com
-personio.de
-personio.tools
-personiowhistleblowing.com
 petbook-magazine.com
 petbook.de
 pexels.com
@@ -2838,7 +2831,6 @@ seekpass.co
 segment.com
 segment.io
 segmentapis.com
-seiscan.io
 seitrace.com
 sellerly.com
 sellzone.com
@@ -3105,11 +3097,9 @@ stylebook.de
 stytch.com
 succinct.xyz
 sunday.dk
-super-id.net
 super.xyz
 superawesome.com
 superawesome.tv
-superbank.id
 superbeatsports.com
 superbet.bet.br
 superbet.com

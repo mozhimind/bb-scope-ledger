@@ -121,6 +121,7 @@ apidocs.aikido.dev
 apidocs.bridge.xyz
 app-eu.worklytics.co
 app.box.com
+app.lansweeper.com
 app.snapchat.com
 app.worklytics.co
 app01.us.bill.com
@@ -221,6 +222,7 @@ donorbox.org
 dust.tt
 e.e.marcus.com
 ecsi.net
+edge.lansweeper.com
 education.github.com
 eis.hilton.com
 elavonpaymentgateway.com
@@ -442,10 +444,10 @@ https://www.files.com/docs/client-apps/command-line-interface-cli-app
 https://www.files.com/docs/client-apps/desktop-v6-app
 https://www.files.com/docs/client-apps/mobile-app
 https://www.files.com/docs/on-premise/agent
-https://www.gainsight.com/security/vulnerability-disclosure-program
 https://www.goodrx.com/care
 https://www.hilton.com/en/hilton-honors/join
 https://www.kayak.com/global
+https://www.lansweeper.com/download
 https://www.larksuite.com/download
 https://www.mastercard.ch/de-ch.html
 https://www.mastercard.ch/fr-ch.html
@@ -547,7 +549,6 @@ partners.shopify.com
 payandshop.com
 paygateway.com
 pcamerica.com
-personio.de
 pinterest.com
 platform.cloudways.com
 play.immutable.com
@@ -683,7 +684,6 @@ www.exodus.io
 www.exoscale.com
 www.files.com
 www.fortress.com.hk
-www.gainsight.com
 www.getroman.com
 www.hotelscombined.co.kr
 www.hotelscombined.com.au

@@ -1,3 +1,5 @@
-https://github.com/lfdt-ibc/ibc
-https://github.com/lfdt-ibc/ibc-contracts
-https://github.com/lfdt-ibc/ibc-go
+https://github.com/infomaniak/desktop-kmeet
+https://github.com/noirwallet/noir-wallet
+https://github.com/noirwallet/zcash-wallet-adapter
+https://github.com/noirwallet/zcash-wallet-wasm
+https://github.com/sparkdotfi/spark-dev-docs

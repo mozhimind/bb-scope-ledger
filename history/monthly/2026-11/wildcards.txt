@@ -2106,6 +2106,7 @@ instacart.com
 instacart.tools
 int.remitly.com
 intego.dk
+integrations.vintedgo.com
 intencity.com.au
 inter.co
 intercomassets.com

@@ -312,7 +312,6 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
-com.datacamp
 com.dd.doordash
 com.deribit
 com.dolap.android
@@ -675,7 +674,6 @@ https://apps.apple.com/app/id1233271881
 https://apps.apple.com/app/id1235601864
 https://apps.apple.com/app/id1254292716
 https://apps.apple.com/app/id1257222717
-https://apps.apple.com/app/id1263413087
 https://apps.apple.com/app/id1265170914
 https://apps.apple.com/app/id1267896687
 https://apps.apple.com/app/id1273303729
@@ -902,7 +900,6 @@ https://apps.apple.com/app/id6443938949
 https://apps.apple.com/app/id6444040977
 https://apps.apple.com/app/id6444105607
 https://apps.apple.com/app/id6444399387
-https://apps.apple.com/app/id6444720285
 https://apps.apple.com/app/id6444868926
 https://apps.apple.com/app/id6444925665
 https://apps.apple.com/app/id6446243957
@@ -1025,6 +1022,8 @@ https://download.bkexer.xin/app/download/android/app-release.apk
 https://download.krisp.ai/mac
 https://download.krisp.ai/win
 https://drive.google.com/file/d/17IX06JcI2Nn7hbg9kDps5iK6oVi9U71O/view?usp=sharing
+https://github.com/Infomaniak/android-infomaniak-meet
+https://github.com/Infomaniak/ios-infomaniak-meet
 https://io.getdelta.android
 https://io.getdelta.ios
 https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
@@ -2007,7 +2006,6 @@ https://play.google.com/store/apps/details?id=fr.assurancemaladie.monespacesante
 https://play.google.com/store/apps/details?id=fr.doctolib.www
 https://play.google.com/store/apps/details?id=fr.vinted
 https://play.google.com/store/apps/details?id=hu.marionnaud.customer
-https://play.google.com/store/apps/details?id=id.co.bankfama.android
 https://play.google.com/store/apps/details?id=id.dana
 https://play.google.com/store/apps/details?id=in.amazon.mShop.android.business.shopping
 https://play.google.com/store/apps/details?id=in.amazon.mShop.android.shopping

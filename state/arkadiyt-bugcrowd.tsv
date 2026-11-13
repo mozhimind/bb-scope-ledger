@@ -1342,6 +1342,7 @@ https://*.housetrip.com	paying	Tripadvisor	https://bugcrowd.com/engagements/trip
 https://*.indeed.net	paying	Indeed	https://bugcrowd.com/engagements/indeed
 https://*.indeed.tech	paying	Indeed	https://bugcrowd.com/engagements/indeed
 https://*.indeedflex.com	paying	Indeed	https://bugcrowd.com/engagements/indeed
+https://*.integrations.vintedgo.com	paying	Vinted Bug Bounty	https://bugcrowd.com/engagements/vinted-uab-mbb
 https://*.jobsdb.com	paying	SEEK	https://bugcrowd.com/engagements/seek
 https://*.jobstreet.com	paying	SEEK	https://bugcrowd.com/engagements/seek
 https://*.kiln.it	paying	Flourish	https://bugcrowd.com/engagements/flourish
@@ -1437,6 +1438,7 @@ https://aemdam.usaa360.com/	paying	USAA	https://bugcrowd.com/engagements/usaa
 https://agent-contact.realestate.com.au/lead-capture-page/campaign-id/8e50c3d0-0d2b-44d1-9df6-f4e02b9a690e	paying	REA Group | realestate.com.au, realcommercial.com.au, property.com.au	https://bugcrowd.com/engagements/rea-mbb-og
 https://agent.apps.monash.edu/	paying	Monash University Bug Bounty	https://bugcrowd.com/engagements/monash-mbb
 https://agent.compareandconnect.com.au/	out-of-scope	Origin Energy	https://bugcrowd.com/engagements/originenergy-og1
+https://aim-marketplace.vinted.com	paying	Vinted Bug Bounty	https://bugcrowd.com/engagements/vinted-uab-mbb
 https://aiven.io/	paying	Aiven Managed Bug Bounty	https://bugcrowd.com/engagements/aiven-mbb-og
 https://aiven.io/clickhouse	paying	Aiven Managed Bug Bounty	https://bugcrowd.com/engagements/aiven-mbb-og
 https://aiven.io/docs/products/metrics/concepts/metrics-overview	paying	Aiven Managed Bug Bounty	https://bugcrowd.com/engagements/aiven-mbb-og
@@ -1814,6 +1816,7 @@ https://edgeacademy.thetradedesk.com	paying	The Trade Desk	https://bugcrowd.com/
 https://eforms.neogov.com	paying	NEOGOV Public Assets	https://bugcrowd.com/engagements/neohrms
 https://elementor.careers	paying	Elementor: Bug Bounty Program	https://bugcrowd.com/engagements/elementor
 https://ellie.lab.epam.com/	out-of-scope	EPAM Systems Managed Bug Bounty Program	https://bugcrowd.com/engagements/epam-mbb-og
+https://ems.it.vinted.com	paying	Vinted Bug Bounty	https://bugcrowd.com/engagements/vinted-uab-mbb
 https://engage.tesla.com/	out-of-scope	Tesla	https://bugcrowd.com/engagements/tesla
 https://equella.monash.edu	paying	Monash University Bug Bounty	https://bugcrowd.com/engagements/monash-mbb
 https://erwin.volkswagen.de	out-of-scope	Volkswagen	https://bugcrowd.com/engagements/volkswagen-og
@@ -1863,6 +1866,7 @@ https://gateway.optus.com.au/api/ai-search/search/v1	paying	Optus Managed Bug Bo
 https://gemcreditline.co.nz	paying	Latitude Financial Services Bug Bounty	https://bugcrowd.com/engagements/latitude-financial-service-bugbounty
 https://gemfinance.co.nz	paying	Latitude Financial Services Bug Bounty	https://bugcrowd.com/engagements/latitude-financial-service-bugbounty
 https://geminiadvisory.io	paying	Recorded Future Public Managed Bug Bounty Engagement	https://bugcrowd.com/engagements/recorded-future-mbb-og
+https://gemstash-integrations.vintedgo.com	paying	Vinted Bug Bounty	https://bugcrowd.com/engagements/vinted-uab-mbb
 https://gemvisa.com.au	paying	Latitude Financial Services Bug Bounty	https://bugcrowd.com/engagements/latitude-financial-service-bugbounty
 https://gender-bias.appsplus.co	out-of-scope	AI | Apps+ Marketplace Bug Bounty Program	https://bugcrowd.com/engagements/apps-plus2
 https://gestordepedidos.ifood.com.br	paying	iFood: Bug Bounty Program	https://bugcrowd.com/engagements/ifood-og
@@ -2927,6 +2931,7 @@ https://projects.epam.com	paying	EPAM Systems Managed Bug Bounty Program	https:/
 https://promote.soundcloud.com	out-of-scope	SoundCloud	https://bugcrowd.com/engagements/soundcloud
 https://property.com.au	paying	REA Group | realestate.com.au, realcommercial.com.au, property.com.au	https://bugcrowd.com/engagements/rea-mbb-og
 https://pyszne.pl	paying	Just Eat Takeaway.com	https://bugcrowd.com/engagements/justeattakeaway
+https://qnrs.vintedgo.com	paying	Vinted Bug Bounty	https://bugcrowd.com/engagements/vinted-uab-mbb
 https://raywhitehomenow.com/	out-of-scope	Origin Energy	https://bugcrowd.com/engagements/originenergy-og1
 https://rc.fstr.rocks	paying	iFood: Bug Bounty Program	https://bugcrowd.com/engagements/ifood-og
 https://rc.wmaudience.com	paying	T-Mobile	https://bugcrowd.com/engagements/t-mobile

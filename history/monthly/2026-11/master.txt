@@ -3058,6 +3058,7 @@ aigc.henkel.cn
 aigc.magic-mirror.cn
 aikido.dev
 aim-int.apicon-int.daimlertruck.com
+aim-marketplace.vinted.com
 aim.apicon.cloud.daimlertruck.com
 aim.costing.cloud.daimlertruck.com
 aim.oneicon.aftersales.daimlertruck.com
@@ -8654,6 +8655,7 @@ campshelbycu-dn.financial-net.com
 campus.bovis.es
 campus.datacamp.com
 campus.deere.com.br
+campus.hm.essity.com
 campusbrno.cz
 campusm.co.uk
 campusm.com
@@ -17756,6 +17758,7 @@ empowerbluecu.originate.fiservapps.com
 emprisebank.fdecs.com
 empuls.io
 ems.centurum.com
+ems.it.vinted.com
 emscard.com
 emsgws.emessenger-fd.com
 emsoffice.cbre.com
@@ -21063,6 +21066,7 @@ gemcreditline.co.nz
 gemfinance.co.nz
 gemini.yahoo.com
 geminiadvisory.io
+gemstash-integrations.vintedgo.com
 gemvisa.com.au
 genacor.com
 genasys.tech
@@ -24483,6 +24487,8 @@ https://github.com/1inch/solana-fusion
 https://github.com/1inch/solidity-utils
 https://github.com/1inch/swap-vm
 https://github.com/1inch/token-plugins
+https://github.com/Infomaniak/android-infomaniak-meet
+https://github.com/Infomaniak/ios-infomaniak-meet
 https://github.com/aave
 https://github.com/aave-dao/aave-v3-origin
 https://github.com/aave-dao/gho-origin
@@ -24852,6 +24858,7 @@ https://github.com/immunefi-team/vaults
 https://github.com/immutable/ts-immutable-sdk
 https://github.com/infomaniak/desktop-kchat
 https://github.com/infomaniak/desktop-kdrive
+https://github.com/infomaniak/desktop-kmeet
 https://github.com/informalsystems/hermes
 https://github.com/innocraft
 https://github.com/instadapp/avocado-contracts-public
@@ -25161,6 +25168,9 @@ https://github.com/nicehash/nicehashminer
 https://github.com/nicehash/nicehashquickminer
 https://github.com/nitrojs/nitro
 https://github.com/nodejs/node
+https://github.com/noirwallet/noir-wallet
+https://github.com/noirwallet/zcash-wallet-adapter
+https://github.com/noirwallet/zcash-wallet-wasm
 https://github.com/nuxt/nuxt
 https://github.com/oasisprotocol/curve25519-voi
 https://github.com/oasisprotocol/deoxysii
@@ -25329,6 +25339,7 @@ https://github.com/snowfork/snowbridge-app
 https://github.com/solidusio/solidus
 https://github.com/solidusio/solidus_auth_devise
 https://github.com/sorare/api
+https://github.com/sparkdotfi/spark-dev-docs
 https://github.com/sparkdotfi/spark-vaults-v2
 https://github.com/spotify/android-sdk
 https://github.com/spotify/ios-sdk
@@ -29024,6 +29035,7 @@ integration-test.cbre.com
 integration.cbre.com
 integration.fmpilot2.com
 integration.icare.abb.com.cn
+integrations.vintedgo.com
 integrationsourcing-dev.cbre.fr
 integrationsourcing-uat.cbre.fr
 integrationsourcing.cbre.fr
@@ -42190,6 +42202,7 @@ qmastor.net
 qmlservices.com
 qmlservices.net
 qms.lmg.motion.abb.com.cn
+qnrs.vintedgo.com
 qntrl.com
 qoria.com
 qpconferencerooms.cbre.ca

@@ -1605,7 +1605,6 @@ arkadiyt-intigriti	free-text	Nsight Systems
 arkadiyt-intigriti	free-text	Official Oura Ring Accessories
 arkadiyt-intigriti	free-text	Other (Misc)
 arkadiyt-intigriti	free-text	Other BMW Domains
-arkadiyt-intigriti	free-text	Other assets owned by Personio
 arkadiyt-intigriti	free-text	Out of Scope
 arkadiyt-intigriti	free-text	Publicly Facing Assets Related to The Coca-Cola Company
 arkadiyt-intigriti	free-text	See the CSV file attached in the In-scope section for a full list of assets in scope
@@ -2463,8 +2462,11 @@ bugcrowd-direct	free-text	VG247 Italy
 bugcrowd-direct	free-text	VG247 Poland
 bugcrowd-direct	free-text	VPN Account
 bugcrowd-direct	free-text	Vinted Careers
+bugcrowd-direct	free-text	Vinted Go
 bugcrowd-direct	free-text	Vinted Go Escalations test
+bugcrowd-direct	free-text	Vinted Go Integrations
 bugcrowd-direct	free-text	Vinted Go Sandbox
+bugcrowd-direct	free-text	Vinted Go g_integrations
 bugcrowd-direct	free-text	Vipre - Safesend Software
 bugcrowd-direct	free-text	Vipre - threattrack
 bugcrowd-direct	free-text	Virtru Control Center (formerly Dashboard)
@@ -3034,6 +3036,7 @@ bugcrowd-direct	single-label	Theskimm
 bugcrowd-direct	single-label	VG247
 bugcrowd-direct	single-label	VOX
 bugcrowd-direct	single-label	VOX-MOBILE
+bugcrowd-direct	single-label	Vinted
 bugcrowd-direct	single-label	Vipre
 bugcrowd-direct	single-label	WIFI
 bugcrowd-direct	single-label	WLVPN
@@ -3166,9 +3169,11 @@ hackenproof-direct	free-text	"shortfallTolerance silently absorbs loss" / "short
 hackenproof-direct	free-text	"uint128 / other narrowing cast without SafeCast" inside an OOS helper
 hackenproof-direct	free-text	AI-tool typical finding pattern
 hackenproof-direct	free-text	API & Websocket
+hackenproof-direct	free-text	Affected Component
 hackenproof-direct	free-text	Already-fixed (public PR before report)
 hackenproof-direct	free-text	Any DoS (no fund loss)
 hackenproof-direct	free-text	Any Third Party Service
+hackenproof-direct	free-text	Attack Prerequisites
 hackenproof-direct	free-text	BSC Bridge
 hackenproof-direct	free-text	BSC ERC20Handler
 hackenproof-direct	free-text	BSC Feemanager
@@ -3189,14 +3194,17 @@ hackenproof-direct	free-text	DoS attacks on key servers requiring fix/hard resta
 hackenproof-direct	free-text	DoS requiring Byzantine validator
 hackenproof-direct	free-text	DualVerifier (old)
 hackenproof-direct	free-text	Extending session key beyond specified TTL
+hackenproof-direct	free-text	First Response
 hackenproof-direct	free-text	Fund theft, no auth, trivial, network-wide
 hackenproof-direct	free-text	Gas theft
 hackenproof-direct	free-text	Governance manipulation
 hackenproof-direct	free-text	Hacker Address
 hackenproof-direct	free-text	Intentional design features
+hackenproof-direct	free-text	Legacy dApp SDK
 hackenproof-direct	free-text	Mac App
 hackenproof-direct	free-text	MacOS App
 hackenproof-direct	free-text	Main website
+hackenproof-direct	free-text	Maximum Reward
 hackenproof-direct	free-text	Minor loss of funds (<$100 USD), temporary DoS, inconsistent fee calculations
 hackenproof-direct	free-text	OKX Wallet Chrome Extension
 hackenproof-direct	free-text	On-chain decryption misuse leading to forgery of encrypted decisions
@@ -3212,23 +3220,35 @@ hackenproof-direct	free-text	Prod contract address: ALPHA.e
 hackenproof-direct	free-text	Prod contract address: BAT.e
 hackenproof-direct	free-text	Prod contract address: BTC.b
 hackenproof-direct	free-text	Prod contract address: BUSD.e
+hackenproof-direct	free-text	Project Type
+hackenproof-direct	free-text	Proof of Concept
 hackenproof-direct	free-text	Protocol insolvency
 hackenproof-direct	free-text	Remote extraction of the master key from key servers
+hackenproof-direct	free-text	Resolution Time
 hackenproof-direct	free-text	Rest related to Solv
 hackenproof-direct	free-text	Retrieving a derived key without satisfying policies (or spoofing identity)
+hackenproof-direct	free-text	Reward Time
+hackenproof-direct	free-text	Rust/WASM Core
+hackenproof-direct	free-text	SLA Conditions
+hackenproof-direct	free-text	Security Impact
+hackenproof-direct	free-text	Security Scope
 hackenproof-direct	free-text	Shido Network - Beta Testnet
 hackenproof-direct	free-text	Single-node OOM, no auth, trivial, single-node
 hackenproof-direct	free-text	Smart contract precision / rounding
+hackenproof-direct	free-text	Steps to Reproduce
 hackenproof-direct	free-text	Temporary DoS/interruption on the CLOB, temporary freezing of funds up to 1 epoch, users cannot claim rebates due to DoS
 hackenproof-direct	free-text	Temporary freezing of funds
 hackenproof-direct	free-text	Theft of user funds
 hackenproof-direct	free-text	Threat Intelligence
+hackenproof-direct	free-text	Triage Time
 hackenproof-direct	free-text	Unbounded Gas consumption
 hackenproof-direct	free-text	Verifier bypass + theft, participant, low, network
 hackenproof-direct	free-text	Vulnerability Type
+hackenproof-direct	free-text	WASM Integration
 hackenproof-direct	free-text	Web Application
 hackenproof-direct	free-text	Windows App
 hackenproof-direct	free-text	WindowsOS App
+hackenproof-direct	free-text	Zcash Wallet Adapter
 hackenproof-direct	free-text	app:Android App
 hackenproof-direct	free-text	app:Android App MEW wallet
 hackenproof-direct	free-text	app:Android Wallet
@@ -3239,6 +3259,7 @@ hackenproof-direct	free-text	app:KuCoin Mobile Application for Android
 hackenproof-direct	free-text	app:KuCoin Mobile Application for iOS
 hackenproof-direct	free-text	app:iOS App
 hackenproof-direct	free-text	app:iOS Wallet
+hackenproof-direct	free-text	dApp SDK
 hackenproof-direct	free-text	iOS App
 hackenproof-direct	free-text	zkLogin cache bypass + fund theft, none, medium, network
 hackenproof-direct	single-label	0x041afe8c155997de612d69f3ff0287ae58504246
@@ -3269,6 +3290,7 @@ hackenproof-direct	single-label	C2
 hackenproof-direct	single-label	C3
 hackenproof-direct	single-label	C4
 hackenproof-direct	single-label	Category
+hackenproof-direct	single-label	Component
 hackenproof-direct	single-label	Contract
 hackenproof-direct	single-label	Critical
 hackenproof-direct	single-label	D1
@@ -3286,6 +3308,8 @@ hackenproof-direct	single-label	D7
 hackenproof-direct	single-label	D8
 hackenproof-direct	single-label	D9
 hackenproof-direct	single-label	Dashboard
+hackenproof-direct	single-label	Description
+hackenproof-direct	single-label	Disclosure
 hackenproof-direct	single-label	FP-1
 hackenproof-direct	single-label	FP-10
 hackenproof-direct	single-label	FP-11
@@ -3298,6 +3322,7 @@ hackenproof-direct	single-label	FP-6
 hackenproof-direct	single-label	FP-7
 hackenproof-direct	single-label	FP-8
 hackenproof-direct	single-label	FP-9
+hackenproof-direct	single-label	Field
 hackenproof-direct	single-label	Git
 hackenproof-direct	single-label	Griefing
 hackenproof-direct	single-label	High
@@ -3309,6 +3334,7 @@ hackenproof-direct	single-label	I4
 hackenproof-direct	single-label	ID
 hackenproof-direct	single-label	Impact
 hackenproof-direct	single-label	Informational
+hackenproof-direct	single-label	Item
 hackenproof-direct	single-label	Low
 hackenproof-direct	single-label	Medium
 hackenproof-direct	single-label	P0
@@ -3316,17 +3342,27 @@ hackenproof-direct	single-label	P1
 hackenproof-direct	single-label	P2
 hackenproof-direct	single-label	P3
 hackenproof-direct	single-label	P4
+hackenproof-direct	single-label	Platform
+hackenproof-direct	single-label	Project
 hackenproof-direct	single-label	Requirement
+hackenproof-direct	single-label	Resolution
+hackenproof-direct	single-label	Reward
 hackenproof-direct	single-label	Rule
 hackenproof-direct	single-label	Rust
 hackenproof-direct	single-label	S0
 hackenproof-direct	single-label	S1
 hackenproof-direct	single-label	S2
 hackenproof-direct	single-label	Scenario
+hackenproof-direct	single-label	Severity
+hackenproof-direct	single-label	Stage
 hackenproof-direct	single-label	TBTPmRe7Lpjka6Koxr2v7CrAocCNGZKsW5
 hackenproof-direct	single-label	TGScTPMkm3MDF8T3xpUzb7u3jXUV4qcBYm
 hackenproof-direct	single-label	TL1NRNDe3babg3zZywe8PC1tTMta1mqkTX
+hackenproof-direct	single-label	Testing
 hackenproof-direct	single-label	Tier
+hackenproof-direct	single-label	Title
+hackenproof-direct	single-label	Triage
+hackenproof-direct	single-label	Version
 hackenproof-direct	single-label	Yarn
 hackenproof-direct	single-label	ZKsyncOSDualVerifier
 hackenproof-direct	single-label	ZKsyncOSVerifierFflonk
@@ -4728,7 +4764,6 @@ intigriti-direct	free-text	On Board Battery Charger
 intigriti-direct	free-text	Other (Misc)
 intigriti-direct	free-text	Other BMW Domains
 intigriti-direct	free-text	Other Electronic Controllers
-intigriti-direct	free-text	Other assets owned by Personio
 intigriti-direct	free-text	Oura Ring (Gen 3 to current)
 intigriti-direct	free-text	Out of Scope
 intigriti-direct	free-text	Power Inverters

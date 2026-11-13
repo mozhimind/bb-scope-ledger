@@ -123,6 +123,7 @@ aguacaliente.gleague.nba.com
 ai-builder.hostinger.com
 ai.mongodb.com
 ai.portswigger.net
+aim-marketplace.vinted.com
 ak-static-dev.nba.com
 alchemy.veriff.com
 aldomain1.raffaello.hu
@@ -1573,6 +1574,7 @@ embed.vhx.tv
 emerald.oasis.dev
 emistores.pinelabs.com
 employer.seek.com
+ems.it.vinted.com
 en.casinohuone.com
 en.kolikkopelit.com
 en.ottokasino.com
@@ -1783,6 +1785,7 @@ gaymoji.grindr.com
 gc.watsons.com.tr
 gcsm.oppoit.com
 gemini.yahoo.com
+gemstash-integrations.vintedgo.com
 geocode-beta.bykea.net
 geofilters.snapchat.com
 germany.politico.eu
@@ -2003,6 +2006,7 @@ insights.judgeme.dev
 insights.twilio.com
 int.32red.com
 int.remitly.com
+integrations.vintedgo.com
 intelligence.twilio.com
 intercity.indrive.com
 internal-api-drive-stream.larksuite.com
@@ -2978,6 +2982,7 @@ pwapi.ex2b.com
 pwn.intigriti.rocks
 qa.stats.nba.com
 qaglobal-liquidity.gs.com
+qnrs.vintedgo.com
 quality-chocofresh-gratistesten-de-2025.ipaasferrero.com
 quality-dinos-de-2025.ipaasferrero.com
 quality-eatnatural-promo-2025-de-2025.ipaasferrero.com

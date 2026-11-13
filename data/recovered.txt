@@ -1744,7 +1744,6 @@ text-extract	arkadiyt-intigriti	All NVIDIA assets are in scope! Including NVIDIA
 text-extract	arkadiyt-intigriti	Any product available on https://www.solarwinds.com/products	maybe	https://www.solarwinds.com/products
 text-extract	arkadiyt-intigriti	IPv4: 134.58.0.0/16	maybe	134.58.0.0/16
 text-extract	arkadiyt-intigriti	IPv6: 2a02:2c40::/32	maybe	2a02:2c40::/32
-text-extract	arkadiyt-intigriti	https://sec-test-<intigriti handle>-<nn>.personio.de	maybe	personio.de
 text-extract	arkadiyt-intigriti	wss://ws.bitvavo.com/v2 *	maybe	wss://ws.bitvavo.com/v2
 text-extract	arkadiyt-yeswehack	*. vfsevisa.id	maybe	vfsevisa.id
 text-extract	arkadiyt-yeswehack	Any Applications under https://www.expressvpn.com/latest	maybe	https://www.expressvpn.com/latest
@@ -2213,7 +2212,6 @@ text-extract	intigriti-direct	All NVIDIA assets are in scope! Including NVIDIA.c
 text-extract	intigriti-direct	Any product available on https://www.solarwinds.com/products	maybe	https://www.solarwinds.com/products
 text-extract	intigriti-direct	IPv4: 134.58.0.0/16	maybe	134.58.0.0/16
 text-extract	intigriti-direct	IPv6: 2a02:2c40::/32	maybe	2a02:2c40::/32
-text-extract	intigriti-direct	https://sec-test-<intigriti handle>-<nn>.personio.de	maybe	personio.de
 text-extract	intigriti-direct	wss://ws.bitvavo.com/v2 *	maybe	wss://ws.bitvavo.com/v2
 text-extract	yeswehack-direct	*. vfsevisa.id	maybe	vfsevisa.id
 text-extract	yeswehack-direct	Any Applications under https://www.expressvpn.com/latest	maybe	https://www.expressvpn.com/latest

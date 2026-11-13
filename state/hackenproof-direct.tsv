@@ -141,6 +141,7 @@ API	paying	latoken-exchange	https://hackenproof.com/programs/latoken-exchange
 API & Websocket	paying	gate	https://hackenproof.com/programs/gate
 APIs	paying	lcx	https://hackenproof.com/programs/lcx
 AdminFacet	out-of-scope	adi-foundation-smart-contracts	https://hackenproof.com/programs/adi-foundation-smart-contracts
+Affected Component	paying	noirwallet	https://hackenproof.com/programs/noirwallet
 All other subdomains	out-of-scope	filmio-web-and-api	https://hackenproof.com/programs/filmio-web-and-api
 All other targets that are not mentioned in scope	out-of-scope	pumb-tacsk	https://hackenproof.com/programs/pumb-tacsk
 Already-fixed (public PR before report)	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
@@ -150,6 +151,7 @@ Api docs	out-of-scope	kucoin	https://hackenproof.com/programs/kucoin
 Apps which are listed within @tapps bot and meet TON-based criteria	out-of-scope	telegram-apps-center	https://hackenproof.com/programs/telegram-apps-center
 Arbitrary, non-Move remote code execution on unmodified validator software	out-of-scope	sui-protocol	https://hackenproof.com/programs/sui-protocol
 Arcadia Finance Hack Recovery Program	out-of-scope	arcadia-finance-hack-recovery-program	https://hackenproof.com/programs/arcadia-finance-hack-recovery-program
+Attack Prerequisites	paying	noirwallet	https://hackenproof.com/programs/noirwallet
 Avail DA Validator	out-of-scope	adi-foundation-smart-contracts	https://hackenproof.com/programs/adi-foundation-smart-contracts
 BSC Bridge	paying	router-smart-contract	https://hackenproof.com/programs/router-smart-contract
 BSC ERC20Handler	paying	router-smart-contract	https://hackenproof.com/programs/router-smart-contract
@@ -182,13 +184,16 @@ Category ID	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
 ChainAdminOwnable (ADI chain)	out-of-scope	adi-foundation-smart-contracts	https://hackenproof.com/programs/adi-foundation-smart-contracts
 ChainAdminOwnable (ecosystem)	out-of-scope	adi-foundation-smart-contracts	https://hackenproof.com/programs/adi-foundation-smart-contracts
 Chrome Extension	paying	coingecko	https://hackenproof.com/programs/coingecko
+Chrome Extension	paying	noirwallet	https://hackenproof.com/programs/noirwallet
 Chrome Extention	paying	enkrypt-wallet	https://hackenproof.com/programs/enkrypt-wallet
+Component	paying	noirwallet	https://hackenproof.com/programs/noirwallet
 Consensus halt, Byzantine validator, medium, network	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
 Contract	out-of-scope	adi-foundation-smart-contracts	https://hackenproof.com/programs/adi-foundation-smart-contracts
 Contract	paying	adi-foundation-zkvm-verification	https://hackenproof.com/programs/adi-foundation-zkvm-verification
 Core Browser Extension	paying	core	https://hackenproof.com/programs/core
 Core Web Wallet	paying	core	https://hackenproof.com/programs/core
 Critical	out-of-scope	sui-protocol	https://hackenproof.com/programs/sui-protocol
+Critical	paying	noirwallet	https://hackenproof.com/programs/noirwallet
 Critical	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
 D1	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
 D10	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
@@ -208,7 +213,9 @@ Dashboard	paying	hackenproof	https://hackenproof.com/programs/hackenproof
 Decryption of an encrypted blob without knowing the associated derived key or symmetric key	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
 DeepBook rounding, participant, trivial, network	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
 Default Upgrade	out-of-scope	adi-foundation-smart-contracts	https://hackenproof.com/programs/adi-foundation-smart-contracts
+Description	paying	noirwallet	https://hackenproof.com/programs/noirwallet
 Diamond Proxy (ADI chain, ID 36900)	out-of-scope	adi-foundation-smart-contracts	https://hackenproof.com/programs/adi-foundation-smart-contracts
+Disclosure	paying	noirwallet	https://hackenproof.com/programs/noirwallet
 DoS Sub-type	out-of-scope	sui-protocol	https://hackenproof.com/programs/sui-protocol
 DoS attacks on bridge node that require a protocol upgrade to fix	out-of-scope	sui-protocol	https://hackenproof.com/programs/sui-protocol
 DoS attacks on key servers requiring fix/hard restart (permissioned servers only; open mode/public goods servers are out of scope)	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
@@ -233,6 +240,8 @@ FP-6	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
 FP-7	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
 FP-8	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
 FP-9	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
+Field	paying	noirwallet	https://hackenproof.com/programs/noirwallet
+First Response	paying	noirwallet	https://hackenproof.com/programs/noirwallet
 Fix patch provided	out-of-scope	sui-protocol	https://hackenproof.com/programs/sui-protocol
 Forging of Native Bridge Messages enabling theft or illegitimate minting of assets greater than $3M with fully working PoC	out-of-scope	sui-protocol	https://hackenproof.com/programs/sui-protocol
 Fund theft, no auth, trivial, network-wide	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
@@ -247,6 +256,7 @@ Griefing	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
 HIGH	out-of-scope	sui-protocol	https://hackenproof.com/programs/sui-protocol
 Hacker Address	paying	bitmart-post-incident-forensics-bounty-hunt	https://hackenproof.com/programs/bitmart-post-incident-forensics-bounty-hunt
 High	out-of-scope	sui-protocol	https://hackenproof.com/programs/sui-protocol
+High	paying	noirwallet	https://hackenproof.com/programs/noirwallet
 High	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
 I0	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
 I1	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
@@ -259,6 +269,7 @@ Impact	out-of-scope	sui-protocol	https://hackenproof.com/programs/sui-protocol
 Impact	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
 Informational	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
 Intentional design features	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
+Item	paying	noirwallet	https://hackenproof.com/programs/noirwallet
 KuCoin store	out-of-scope	kucoin	https://hackenproof.com/programs/kucoin
 L1AssetRouter	out-of-scope	adi-foundation-smart-contracts	https://hackenproof.com/programs/adi-foundation-smart-contracts
 L1Bridgehub	out-of-scope	adi-foundation-smart-contracts	https://hackenproof.com/programs/adi-foundation-smart-contracts
@@ -270,14 +281,18 @@ L1NativeTokenVault	out-of-scope	adi-foundation-smart-contracts	https://hackenpro
 L1Nullifier	out-of-scope	adi-foundation-smart-contracts	https://hackenproof.com/programs/adi-foundation-smart-contracts
 LOW	out-of-scope	sui-protocol	https://hackenproof.com/programs/sui-protocol
 Legacy Web wallet	out-of-scope	core	https://hackenproof.com/programs/core
+Legacy dApp SDK	paying	noirwallet	https://hackenproof.com/programs/noirwallet
 Low	out-of-scope	sui-protocol	https://hackenproof.com/programs/sui-protocol
+Low	paying	noirwallet	https://hackenproof.com/programs/noirwallet
 Low	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
 MEDIUM	out-of-scope	sui-protocol	https://hackenproof.com/programs/sui-protocol
 Mac App	paying	gate	https://hackenproof.com/programs/gate
 MacOS App	paying	okx	https://hackenproof.com/programs/okx
 MailboxFacet	out-of-scope	adi-foundation-smart-contracts	https://hackenproof.com/programs/adi-foundation-smart-contracts
 Main website	paying	hackenproof	https://hackenproof.com/programs/hackenproof
+Maximum Reward	paying	noirwallet	https://hackenproof.com/programs/noirwallet
 Medium	out-of-scope	sui-protocol	https://hackenproof.com/programs/sui-protocol
+Medium	paying	noirwallet	https://hackenproof.com/programs/noirwallet
 Medium	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
 Minor loss of funds (<$100 USD), temporary DoS, inconsistent fee calculations	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
 Network unable to confirm new transactions (total shutdown) requiring a hard fork to resolve	out-of-scope	sui-protocol	https://hackenproof.com/programs/sui-protocol
@@ -298,6 +313,7 @@ Permanent freezing of funds	paying	rhea-finance-smart-contracts	https://hackenpr
 Permanent freezing of funds, or permanent DoS/interruption on the CLOB requiring a protocol upgrade	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
 Permanent freezing of rewards	paying	rhea-finance-smart-contracts	https://hackenproof.com/programs/rhea-finance-smart-contracts
 Persistent XSS on Bridge Frontend that can lead to loss of user funds	out-of-scope	sui-protocol	https://hackenproof.com/programs/sui-protocol
+Platform	paying	noirwallet	https://hackenproof.com/programs/noirwallet
 Polygon Mainnet Voter	paying	router-smart-contract	https://hackenproof.com/programs/router-smart-contract
 Post-auth network-wide DoS	out-of-scope	sui-protocol	https://hackenproof.com/programs/sui-protocol
 Pre-auth network-wide DoS	out-of-scope	sui-protocol	https://hackenproof.com/programs/sui-protocol
@@ -308,6 +324,9 @@ Prod contract address: BAT.e	paying	avalanche-bridge	https://hackenproof.com/pro
 Prod contract address: BTC.b	paying	avalanche-bridge	https://hackenproof.com/programs/avalanche-bridge
 Prod contract address: BUSD.e	paying	avalanche-bridge	https://hackenproof.com/programs/avalanche-bridge
 Production infrastructure	out-of-scope	parity-polkadot-release-infrastructure	https://hackenproof.com/programs/parity-polkadot-release-infrastructure
+Project	paying	noirwallet	https://hackenproof.com/programs/noirwallet
+Project Type	paying	noirwallet	https://hackenproof.com/programs/noirwallet
+Proof of Concept	paying	noirwallet	https://hackenproof.com/programs/noirwallet
 Protocol insolvency	paying	rhea-finance-smart-contracts	https://hackenproof.com/programs/rhea-finance-smart-contracts
 ProxyAdmin #1	out-of-scope	adi-foundation-smart-contracts	https://hackenproof.com/programs/adi-foundation-smart-contracts
 ProxyAdmin #2	out-of-scope	adi-foundation-smart-contracts	https://hackenproof.com/programs/adi-foundation-smart-contracts
@@ -315,25 +334,36 @@ Remote Code Execution on Bridge Nodes	out-of-scope	sui-protocol	https://hackenpr
 Remote call that crashes a Sui fullnode	out-of-scope	sui-protocol	https://hackenproof.com/programs/sui-protocol
 Remote extraction of the master key from key servers	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
 Requirement	paying	bluefin-dex-contracts	https://hackenproof.com/programs/bluefin-dex-contracts
+Resolution	paying	noirwallet	https://hackenproof.com/programs/noirwallet
+Resolution Time	paying	noirwallet	https://hackenproof.com/programs/noirwallet
 Rest related to Solv	paying	solv-web-and-infrastructure	https://hackenproof.com/programs/solv-web-and-infrastructure
 Restart-recoverable DoS	out-of-scope	sui-protocol	https://hackenproof.com/programs/sui-protocol
 Retrieving a derived key without satisfying policies (or spoofing identity)	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
+Reward	paying	noirwallet	https://hackenproof.com/programs/noirwallet
+Reward Time	paying	noirwallet	https://hackenproof.com/programs/noirwallet
 Rollup DA Validator	out-of-scope	adi-foundation-smart-contracts	https://hackenproof.com/programs/adi-foundation-smart-contracts
 Rule	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
 Rust	paying	bluefin-dex-contracts	https://hackenproof.com/programs/bluefin-dex-contracts
+Rust/WASM Core	paying	noirwallet	https://hackenproof.com/programs/noirwallet
 S0	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
 S1	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
 S2	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
 SG Forge websites and other assets	out-of-scope	sg-forge-smart-contracts	https://hackenproof.com/programs/sg-forge-smart-contracts
+SLA Conditions	paying	noirwallet	https://hackenproof.com/programs/noirwallet
 SandBox	out-of-scope	kucoin	https://hackenproof.com/programs/kucoin
 Scenario	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
+Security Impact	paying	noirwallet	https://hackenproof.com/programs/noirwallet
+Security Scope	paying	noirwallet	https://hackenproof.com/programs/noirwallet
 ServerNotifier	out-of-scope	adi-foundation-smart-contracts	https://hackenproof.com/programs/adi-foundation-smart-contracts
+Severity	paying	noirwallet	https://hackenproof.com/programs/noirwallet
 Shido Network - Beta Testnet	paying	shido-network-protocol	https://hackenproof.com/programs/shido-network-protocol
 Shutdown of >= 30% of network processing nodes without brute force, but does not shut down the network	out-of-scope	sui-protocol	https://hackenproof.com/programs/sui-protocol
 Significant Loss of Funds	out-of-scope	sui-protocol	https://hackenproof.com/programs/sui-protocol
 Single-node OOM, no auth, trivial, single-node	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
 Single-validator DoS	out-of-scope	sui-protocol	https://hackenproof.com/programs/sui-protocol
 Smart contract precision / rounding	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
+Stage	paying	noirwallet	https://hackenproof.com/programs/noirwallet
+Steps to Reproduce	paying	noirwallet	https://hackenproof.com/programs/noirwallet
 Support.bittrex.com (Zendesk)	out-of-scope	bittrex	https://hackenproof.com/programs/bittrex
 TBTPmRe7Lpjka6Koxr2v7CrAocCNGZKsW5	paying	bitmart-post-incident-forensics-bounty-hunt	https://hackenproof.com/programs/bitmart-post-incident-forensics-bounty-hunt
 TGScTPMkm3MDF8T3xpUzb7u3jXUV4qcBYm	paying	bitmart-post-incident-forensics-bounty-hunt	https://hackenproof.com/programs/bitmart-post-incident-forensics-bounty-hunt
@@ -343,12 +373,16 @@ Temporary DoS/interruption on the CLOB, temporary freezing of funds up to 1 epoc
 Temporary freezing of funds	paying	rhea-finance-smart-contracts	https://hackenproof.com/programs/rhea-finance-smart-contracts
 Temporary locking of user funds that are part of the native bridge	out-of-scope	sui-protocol	https://hackenproof.com/programs/sui-protocol
 Temporary total network shutdown or unintended chain split (duration greater than 10 minutes)	out-of-scope	sui-protocol	https://hackenproof.com/programs/sui-protocol
+Testing	paying	noirwallet	https://hackenproof.com/programs/noirwallet
 Theft of user funds	paying	rhea-finance-smart-contracts	https://hackenproof.com/programs/rhea-finance-smart-contracts
 Threat Intelligence	paying	bitunix-web	https://hackenproof.com/programs/bitunix-web
 Tier	out-of-scope	sui-protocol	https://hackenproof.com/programs/sui-protocol
 Tier	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
+Title	paying	noirwallet	https://hackenproof.com/programs/noirwallet
 Transaction digests from local network	out-of-scope	sui-protocol	https://hackenproof.com/programs/sui-protocol
 Transaction that triggers an invariant violation error code in unmodified validator software	out-of-scope	sui-protocol	https://hackenproof.com/programs/sui-protocol
+Triage	paying	noirwallet	https://hackenproof.com/programs/noirwallet
+Triage Time	paying	noirwallet	https://hackenproof.com/programs/noirwallet
 Unbounded Gas consumption	paying	rhea-finance-smart-contracts	https://hackenproof.com/programs/rhea-finance-smart-contracts
 Unintended, permanent burning of SUI under the max cap	out-of-scope	sui-protocol	https://hackenproof.com/programs/sui-protocol
 User fund exploits causing permanent locking, loss, or theft of funds greater than $20M	out-of-scope	sui-protocol	https://hackenproof.com/programs/sui-protocol
@@ -357,9 +391,11 @@ ValidatorTimelock	out-of-scope	adi-foundation-smart-contracts	https://hackenproo
 ValidatorTimelock (old)	out-of-scope	adi-foundation-smart-contracts	https://hackenproof.com/programs/adi-foundation-smart-contracts
 Validium DA Validator	out-of-scope	adi-foundation-smart-contracts	https://hackenproof.com/programs/adi-foundation-smart-contracts
 Verifier bypass + theft, participant, low, network	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
+Version	paying	noirwallet	https://hackenproof.com/programs/noirwallet
 Violating BFT assumptions, acquiring voting power vastly disproportionate (20x) to stake, or any issue that can meaningfully compromise proof-of-stake governance integrity	out-of-scope	sui-protocol	https://hackenproof.com/programs/sui-protocol
 Vulnerabilities in Circuit Construction that can lead to Loss of funds	out-of-scope	sui-protocol	https://hackenproof.com/programs/sui-protocol
 Vulnerability Type	paying	rhea-finance-smart-contracts	https://hackenproof.com/programs/rhea-finance-smart-contracts
+WASM Integration	paying	noirwallet	https://hackenproof.com/programs/noirwallet
 Web Application	paying	lcx	https://hackenproof.com/programs/lcx
 Windows App	paying	gate	https://hackenproof.com/programs/gate
 WindowsOS App	paying	okx	https://hackenproof.com/programs/okx
@@ -369,6 +405,7 @@ ZKsyncOSDualVerifier	out-of-scope	adi-foundation-smart-contracts	https://hackenp
 ZKsyncOSDualVerifier	paying	adi-foundation-zkvm-verification	https://hackenproof.com/programs/adi-foundation-zkvm-verification
 ZKsyncOSVerifierFflonk	paying	adi-foundation-zkvm-verification	https://hackenproof.com/programs/adi-foundation-zkvm-verification
 ZKsyncOSVerifierPlonk	paying	adi-foundation-zkvm-verification	https://hackenproof.com/programs/adi-foundation-zkvm-verification
+Zcash Wallet Adapter	paying	noirwallet	https://hackenproof.com/programs/noirwallet
 [AIP-103] Permissioned Signer	out-of-scope	aptos-network	https://hackenproof.com/programs/aptos-network
 [AIP-104] Account Abstraction	out-of-scope	aptos-network	https://hackenproof.com/programs/aptos-network
 academy.noones.com	out-of-scope	noones-web-and-mobile	https://hackenproof.com/programs/noones-web-and-mobile
@@ -576,6 +613,7 @@ corporate.tickets.kz	out-of-scope	tickets-travel-network-slash-updated-ui	https:
 cryptographic_theft	paying	sui-protocol	https://hackenproof.com/programs/sui-protocol
 cryptology.com	paying	cryptology	https://hackenproof.com/programs/cryptology
 ctn.tickets.kz	out-of-scope	tickets-travel-network-slash-updated-ui	https://hackenproof.com/programs/tickets-travel-network-slash-updated-ui
+dApp SDK	paying	noirwallet	https://hackenproof.com/programs/noirwallet
 dapp.stbl.com	paying	stbl-web	https://hackenproof.com/programs/stbl-web
 dev.*.status.im	out-of-scope	status	https://hackenproof.com/programs/status
 dev.chainstack.com and all subdomains	out-of-scope	chainstack	https://hackenproof.com/programs/chainstack
@@ -630,7 +668,6 @@ https://app.monday.trade/	paying	monday-trade-web	https://hackenproof.com/progra
 https://app.multipli.fi	out-of-scope	multipli-web	https://hackenproof.com/programs/multipli-web
 https://app.playground.idos.network	paying	idos-apps-and-sc-1	https://hackenproof.com/programs/idos-apps-and-sc-1
 https://app.redstone.finance	paying	redstone-web	https://hackenproof.com/programs/redstone-web
-https://app.routerprotocol.com/	paying	router-web	https://hackenproof.com/programs/router-web
 https://app.safeswap.io	paying	safeswap-app	https://hackenproof.com/programs/safeswap-app
 https://app.snowbridge.network	paying	snowbridge-web	https://hackenproof.com/programs/snowbridge-web
 https://app.solv.finance	paying	solv-web-and-infrastructure	https://hackenproof.com/programs/solv-web-and-infrastructure
@@ -742,6 +779,10 @@ https://github.com/MystenLabs/sui/tree/testnet/external-crates/move	paying	sui-p
 https://github.com/MystenLabs/walrus/tree/main/crates/walrus-core	paying	walrus-protocol	https://hackenproof.com/programs/walrus-protocol
 https://github.com/MystenLabs/walrus/tree/main/crates/walrus-sdk	paying	walrus-protocol	https://hackenproof.com/programs/walrus-protocol
 https://github.com/MystenLabs/walrus/tree/main/crates/walrus-service	paying	walrus-protocol	https://hackenproof.com/programs/walrus-protocol
+https://github.com/NoirWallet/noir-wallet	paying	noirwallet	https://hackenproof.com/programs/noirwallet
+https://github.com/NoirWallet/noir-wallet/tree/main/packages/sdk	paying	noirwallet	https://hackenproof.com/programs/noirwallet
+https://github.com/NoirWallet/zcash-wallet-adapter	paying	noirwallet	https://hackenproof.com/programs/noirwallet
+https://github.com/NoirWallet/zcash-wallet-wasm	paying	noirwallet	https://hackenproof.com/programs/noirwallet
 https://github.com/P2B-team/p2b-api-docs	paying	p2b-exchange	https://hackenproof.com/programs/p2b-exchange
 https://github.com/Snowfork/snowbridge-app	paying	snowbridge-web	https://hackenproof.com/programs/snowbridge-web
 https://github.com/Snowfork/snowbridge/tree/main/web	paying	snowbridge-web	https://hackenproof.com/programs/snowbridge-web
@@ -966,7 +1007,6 @@ https://www.kcex.com/	paying	kcex	https://hackenproof.com/programs/kcex
 https://www.pionex.com/	paying	pionex-app-and-api	https://hackenproof.com/programs/pionex-app-and-api
 https://www.pionex.com/blog	out-of-scope	pionex-app-and-api	https://hackenproof.com/programs/pionex-app-and-api
 https://www.redstone.finance/	paying	redstone-web	https://hackenproof.com/programs/redstone-web
-https://www.routerprotocol.com/	paying	router-web	https://hackenproof.com/programs/router-web
 https://www.rtreefinance.com	paying	rtree-finance-web	https://hackenproof.com/programs/rtree-finance-web
 https://www.staygold.app	paying	bitkub-capital-group-holdings	https://hackenproof.com/programs/bitkub-capital-group-holdings
 https://www.stbl.com/	paying	stbl-web	https://hackenproof.com/programs/stbl-web

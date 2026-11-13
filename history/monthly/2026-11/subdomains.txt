@@ -865,6 +865,7 @@ aiche.myaonaccount.aon.com
 aigc.henkel.cn
 aigc.magic-mirror.cn
 aim-int.apicon-int.daimlertruck.com
+aim-marketplace.vinted.com
 aim.apicon.cloud.daimlertruck.com
 aim.costing.cloud.daimlertruck.com
 aim.oneicon.aftersales.daimlertruck.com
@@ -4508,6 +4509,7 @@ campshelbycu-dn.financial-net.com
 campus.bovis.es
 campus.datacamp.com
 campus.deere.com.br
+campus.hm.essity.com
 campusstatebank.vbwebservices.com
 camuy-uat.streamlendvelocity.net
 camuy.streamlendvelocity.net
@@ -9398,6 +9400,7 @@ empowerbluecu-dn.financial-net.com
 empowerbluecu.originate.fiservapps.com
 emprisebank.fdecs.com
 ems.centurum.com
+ems.it.vinted.com
 emsgws.emessenger-fd.com
 emsoffice.cbre.com
 en.about.aegeanair.com
@@ -11499,6 +11502,7 @@ ge.wfg-baweb.com
 ge63-ferreropp.web.oxv.fr
 gelfhttp.logging.electrificationtools.abb.com
 gemini.yahoo.com
+gemstash-integrations.vintedgo.com
 gencofcu-admin.originate.fiservapps.com
 gencofcu.originate.fiservapps.com
 generic-anonymous.cbre.eu
@@ -13257,6 +13261,7 @@ integration-test.cbre.com
 integration.cbre.com
 integration.fmpilot2.com
 integration.icare.abb.com.cn
+integrations.vintedgo.com
 integrationsourcing-dev.cbre.fr
 integrationsourcing-uat.cbre.fr
 integrationsourcing.cbre.fr
@@ -20815,6 +20820,7 @@ qliksense-qa.dtbsa.co.za
 qliksense.dtbsa.co.za
 qlocator.qone.mateco.eu
 qms.lmg.motion.abb.com.cn
+qnrs.vintedgo.com
 qpconferencerooms.cbre.ca
 qpconferencerooms.glb.cbre.com
 qplanning.qone.mateco.eu

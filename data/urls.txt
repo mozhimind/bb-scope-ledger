@@ -196,14 +196,12 @@ https://apigw.prod.quintoandar.com.br/sales-flow-api
 https://apis.indeed.com/graphql
 https://apk.wx16ml.info/apk400.apk
 https://app-qa.chime.com/login
-https://app.datacamp.com/certification
-https://app.datacamp.com/groups
-https://app.datacamp.com/learn
 https://app.ecwid.com/api/v3
 https://app.glean.com/login
 https://app.granite.world/market
 https://app.high.powerbigov.us/view
 https://app.ibotta.com/sign-in
+https://app.lansweeper.com/trial
 https://app.simple-reports.com/demo
 https://app.sproutsocial.com/api
 https://app.wisdomtreeconnect.com/api
@@ -372,6 +370,7 @@ https://developer.8x8.com/connect
 https://developer.arkoselabs.com/docs/arkose-labs-command-center
 https://developer.arkoselabs.com/docs/client-api
 https://developer.authorize.net/hello_world/sandbox.html
+https://developer.lansweeper.com/docs/data-api/get-started/welcome
 https://developer.nvidia.com/cuda-downloads
 https://developer.nvidia.com/nvcomp-downloads
 https://developer.nvidia.com/nvidia-development-tools-solutions-err_nvgpuctrperm-permission-issue-performance-counters
@@ -1342,7 +1341,6 @@ https://www.cyberghostvpn.com/en_US/apps/linux-vpn
 https://www.cyberghostvpn.com/en_US/apps/macos-vpn
 https://www.cyberghostvpn.com/en_US/apps/windows-vpn
 https://www.dancenter.dk/sommerhus/midtjylland/midtjylland/kvie-so/65573
-https://www.datacamp.com/datalab
 https://www.deepcoin.com/en/apiPage
 https://www.delacre.com/fr/fr/xp/jeu-concours
 https://www.delacre.com/int/en
@@ -1454,6 +1452,7 @@ https://www.kruidvat.be/api/v2/api-docs
 https://www.kruidvat.nl/api/v2/api-docs
 https://www.kuleuven.be/sapredir/huisvesting
 https://www.ladbrokes.com/en/games
+https://www.lansweeper.com/product/features/integrate/flow-builder
 https://www.leukoplast.be/fr
 https://www.leukoplast.ch/de
 https://www.logitech.com/blog
@@ -1472,7 +1471,6 @@ https://www.mercadopago.com.br/crypto
 https://www.mercadopago.com.mx/crypto
 https://www.microsoft.com/en-us/p/hey-mail/9pf08ljw7gw2
 https://www.microsoft.com/en-us/p/keeperchat/9pdqtcpn4kxn
-https://www.mintscan.io/noble/assets/native/YXVzZHk=
 https://www.mongodb.com/docs/agentengine
 https://www.mongodb.com/docs/atlas/infinite/atlas-infinite-landing
 https://www.mongodb.com/products/platform/atlas-data-federation
@@ -1575,8 +1573,6 @@ https://www.outsourcing.optus.net.au/eFRAMS3
 https://www.outsourcing2.optus.net.au/eFRAMS3
 https://www.parool.nl/abonnementen
 https://www.pbgc.gov/mypba
-https://www.personio.com/free-trial
-https://www.personio.de/kostenlos-testen
 https://www.phonepe.com/press/phonepe-launches-upi-payments-for-indias-feature-phone-users
 https://www.pingidentity.com/en/cloud/pingid.html
 https://www.priceline.com/penny

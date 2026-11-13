@@ -389,6 +389,7 @@ https://github.com/immunefi-team/vaults
 https://github.com/immutable/ts-immutable-sdk
 https://github.com/infomaniak/desktop-kchat
 https://github.com/infomaniak/desktop-kdrive
+https://github.com/infomaniak/desktop-kmeet
 https://github.com/informalsystems/hermes
 https://github.com/innocraft
 https://github.com/instadapp/avocado-contracts-public
@@ -698,6 +699,9 @@ https://github.com/nicehash/nicehashminer
 https://github.com/nicehash/nicehashquickminer
 https://github.com/nitrojs/nitro
 https://github.com/nodejs/node
+https://github.com/noirwallet/noir-wallet
+https://github.com/noirwallet/zcash-wallet-adapter
+https://github.com/noirwallet/zcash-wallet-wasm
 https://github.com/nuxt/nuxt
 https://github.com/oasisprotocol/curve25519-voi
 https://github.com/oasisprotocol/deoxysii
@@ -866,6 +870,7 @@ https://github.com/snowfork/snowbridge-app
 https://github.com/solidusio/solidus
 https://github.com/solidusio/solidus_auth_devise
 https://github.com/sorare/api
+https://github.com/sparkdotfi/spark-dev-docs
 https://github.com/sparkdotfi/spark-vaults-v2
 https://github.com/spotify/android-sdk
 https://github.com/spotify/ios-sdk

@@ -1,0 +1,300 @@
+{
+ "date": "2026-11-14",
+ "generated_at": "2026-11-13T22:19:05Z",
+ "version": "1.5.0",
+ "disk": {
+  "project_mb": 79,
+  "free_mb": 92059
+ },
+ "parser_version": "2026-11-10-descriptions-apis",
+ "diff_note": "diffs against 2026-11-13",
+ "have_diffs": true,
+ "headline": "2026-11-14 | new: 34 (+1 apex, +16 subdomains) | removed: 595 | failed sources: 0 | warnings: 0",
+ "master": 57759,
+ "overlap": 296,
+ "files": {
+  "review_new_paying": 32,
+  "review_new": 34,
+  "review_removed": 595,
+  "recovered": 2227,
+  "rejected": 4952,
+  "review_by_source": 65340,
+  "programs": 3150,
+  "program_scope": 65689,
+  "program_out_of_scope": 5229,
+  "failed_sources": 0
+ },
+ "assets": [
+  {
+   "asset": "apex",
+   "count": 19456,
+   "paying": 3940,
+   "new": 1,
+   "removed": 69
+  },
+  {
+   "asset": "subdomains",
+   "count": 30950,
+   "paying": 4845,
+   "new": 16,
+   "removed": 480
+  },
+  {
+   "asset": "wildcards",
+   "count": 4907,
+   "paying": 1194,
+   "new": 2,
+   "removed": 7
+  },
+  {
+   "asset": "urls",
+   "count": 1754,
+   "paying": 983,
+   "new": 3,
+   "removed": 7
+  },
+  {
+   "asset": "apis",
+   "count": 2378,
+   "paying": 899,
+   "new": 2,
+   "removed": 24
+  },
+  {
+   "asset": "ips",
+   "count": 929,
+   "paying": 267,
+   "new": 0,
+   "removed": 0
+  },
+  {
+   "asset": "asn",
+   "count": 2,
+   "paying": 2,
+   "new": 0,
+   "removed": 0
+  },
+  {
+   "asset": "github",
+   "count": 988,
+   "paying": 746,
+   "new": 5,
+   "removed": 1
+  },
+  {
+   "asset": "repos-other",
+   "count": 6,
+   "paying": 6,
+   "new": 0,
+   "removed": 0
+  },
+  {
+   "asset": "apps",
+   "count": 2729,
+   "paying": 2121,
+   "new": 2,
+   "removed": 4
+  },
+  {
+   "asset": "patterns",
+   "count": 444,
+   "paying": 191,
+   "new": 0,
+   "removed": 0
+  },
+  {
+   "asset": "internal-hosts",
+   "count": 35,
+   "paying": 23,
+   "new": 0,
+   "removed": 0
+  },
+  {
+   "asset": "maybe",
+   "count": 762,
+   "paying": 444,
+   "new": 3,
+   "removed": 3
+  }
+ ],
+ "sources": [
+  {
+   "name": "arkadiyt-domains",
+   "status": "ok",
+   "rows": 37958,
+   "rejected": 12,
+   "seconds": 0.2,
+   "note": ""
+  },
+  {
+   "name": "arkadiyt-wildcard",
+   "status": "ok",
+   "rows": 3478,
+   "rejected": 5,
+   "seconds": 0.2,
+   "note": ""
+  },
+  {
+   "name": "arkadiyt-hackerone",
+   "status": "ok",
+   "rows": 45179,
+   "rejected": 1301,
+   "seconds": 0.6,
+   "note": ""
+  },
+  {
+   "name": "arkadiyt-bugcrowd",
+   "status": "ok",
+   "rows": 4006,
+   "rejected": 236,
+   "seconds": 0.3,
+   "note": ""
+  },
+  {
+   "name": "arkadiyt-intigriti",
+   "status": "ok",
+   "rows": 2180,
+   "rejected": 189,
+   "seconds": 0.2,
+   "note": ""
+  },
+  {
+   "name": "arkadiyt-yeswehack",
+   "status": "ok",
+   "rows": 889,
+   "rejected": 44,
+   "seconds": 0.2,
+   "note": ""
+  },
+  {
+   "name": "projectdiscovery",
+   "status": "ok",
+   "rows": 4112,
+   "rejected": 1,
+   "seconds": 0.2,
+   "note": ""
+  },
+  {
+   "name": "diodb",
+   "status": "ok",
+   "rows": 1326,
+   "rejected": 0,
+   "seconds": 0.3,
+   "note": ""
+  },
+  {
+   "name": "immunefi-direct",
+   "status": "ok",
+   "rows": 3019,
+   "rejected": 0,
+   "seconds": 0.7,
+   "note": ""
+  },
+  {
+   "name": "self-hosted-manual",
+   "status": "skipped",
+   "rows": 0,
+   "rejected": 0,
+   "seconds": 0.0,
+   "note": "config/self-hosted-programs.tsv has no active line"
+  },
+  {
+   "name": "self-hosted-pages",
+   "status": "skipped",
+   "rows": 0,
+   "rejected": 0,
+   "seconds": 0.0,
+   "note": "config/self-hosted-pages.tsv has no active line"
+  },
+  {
+   "name": "self-hosted-text",
+   "status": "skipped",
+   "rows": 0,
+   "rejected": 0,
+   "seconds": 0.0,
+   "note": "config/self-hosted-text has no .txt file"
+  },
+  {
+   "name": "hackerone-direct",
+   "status": "ok",
+   "rows": 46068,
+   "rejected": 1316,
+   "seconds": 145.3,
+   "note": ""
+  },
+  {
+   "name": "hackerone-api",
+   "status": "skipped",
+   "rows": 0,
+   "rejected": 0,
+   "seconds": 0.0,
+   "note": "needs H1_USERNAME and H1_TOKEN (HackerOne -> Settings -> API Token)"
+  },
+  {
+   "name": "bugcrowd-direct",
+   "status": "ok",
+   "rows": 9919,
+   "rejected": 1331,
+   "seconds": 144.9,
+   "note": "6 of 518 Bugcrowd engagements could not be read today, their hosts from the last good run are kept (no engagement-brief element in https://bugcrowd.com/engagements/oshrc-vdp; the page layout changed)"
+  },
+  {
+   "name": "intigriti-direct",
+   "status": "ok",
+   "rows": 2828,
+   "rejected": 215,
+   "seconds": 20.0,
+   "note": ""
+  },
+  {
+   "name": "yeswehack-direct",
+   "status": "ok",
+   "rows": 889,
+   "rejected": 44,
+   "seconds": 13.3,
+   "note": ""
+  },
+  {
+   "name": "hackenproof-direct",
+   "status": "ok",
+   "rows": 1104,
+   "rejected": 258,
+   "seconds": 124.6,
+   "note": ""
+  }
+ ],
+ "failed": [],
+ "warnings": [],
+ "recovered": {
+  "pattern": 679,
+  "text-extract": 597,
+  "alternatives": 356,
+  "pattern-tail": 212,
+  "multi-entry": 124,
+  "package-id": 86,
+  "comment-stripped": 57,
+  "app-extracted": 39,
+  "alternatives;punctuation": 38,
+  "cidr-normalised": 18,
+  "alternatives;comment-stripped": 6,
+  "text-extract;punctuation": 5,
+  "comment-stripped;pattern-tail": 2,
+  "ellipsis-wildcard": 2,
+  "ip-range": 2,
+  "multi-entry;punctuation": 2,
+  "double-dot": 1,
+  "leading-dot": 1
+ },
+ "rejected": {
+  "free-text": 4145,
+  "single-label": 727,
+  "bad-idn": 24,
+  "placeholder": 11,
+  "store-host": 10,
+  "bad-chars": 10,
+  "public-suffix": 9,
+  "file-ext": 8,
+  "bad-label": 7,
+  "not-a-project": 1
+ }
+}

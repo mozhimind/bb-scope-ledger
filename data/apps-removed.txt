@@ -1,0 +1,4 @@
+com.datacamp
+https://apps.apple.com/app/id1263413087
+https://apps.apple.com/app/id6444720285
+https://play.google.com/store/apps/details?id=id.co.bankfama.android

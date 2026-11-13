@@ -310,8 +310,6 @@ apnic.foundation
 apnic.net
 app.asana.com
 app.hyland.eu
-app.personio-dev.com
-app.personio.com
 app.spacelift.dev
 appbar.com.ar
 appdynamics.com
@@ -1176,7 +1174,6 @@ dashregtech.com
 dashtradedesk.com
 data.gov
 database.dev
-datacamp.com
 datacredito.com
 datacredito.com.do
 datacredito.info
@@ -2106,6 +2103,7 @@ instacart.com
 instacart.tools
 int.remitly.com
 intego.dk
+integrations.vintedgo.com
 intencity.com.au
 inter.co
 intercomassets.com
@@ -2347,6 +2345,7 @@ landmarkcinemas.com
 landmarkglobal-group.com
 lanecuador.com
 lanpass.aero
+lansweeper.com
 lanternpay.com
 lantours.aero
 lanzamientos-loctite.com
@@ -3266,10 +3265,6 @@ perfectinformation.com
 performance.gov
 persil.de
 persillaundry.com
-personio-internal.de
-personio.de
-personio.tools
-personiowhistleblowing.com
 persuader-reports.gov
 perwoll.de
 petbook-magazine.com

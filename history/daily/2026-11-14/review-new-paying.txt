@@ -1,0 +1,33 @@
+bounty	assets	host	sources	programs	program_urls	raw_entries
+paying	apex	lansweeper.com	arkadiyt-domains,arkadiyt-intigriti,arkadiyt-wildcard,intigriti-direct	Lansweeper Bug Bounty Program	https://app.intigriti.com/programs/lansweeper/lansweeper1/detail	*.lansweeper.com; api.lansweeper.com (+9 more)
+paying	apis	api.lansweeper.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Lansweeper Bug Bounty Program	https://app.intigriti.com/programs/lansweeper/lansweeper1/detail	
+paying	apis	autoupdateapi.lansweeper.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Lansweeper Bug Bounty Program	https://app.intigriti.com/programs/lansweeper/lansweeper1/detail	
+paying	apps	https://github.com/Infomaniak/android-infomaniak-meet	arkadiyt-yeswehack,yeswehack-direct	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program	app:https://github.com/Infomaniak/android-infomaniak-meet
+paying	apps	https://github.com/Infomaniak/ios-infomaniak-meet	arkadiyt-yeswehack,yeswehack-direct	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program	app:https://github.com/Infomaniak/ios-infomaniak-meet
+paying	github	https://github.com/infomaniak/desktop-kmeet	arkadiyt-yeswehack,yeswehack-direct	Infomaniak Bug Bounty program	https://yeswehack.com/programs/infomaniak-bug-bounty-program	https://github.com/Infomaniak/desktop-kMeet
+paying	github	https://github.com/noirwallet/noir-wallet	hackenproof-direct	noirwallet	https://hackenproof.com/programs/noirwallet	https://github.com/NoirWallet/noir-wallet; https://github.com/NoirWallet/noir-wallet/tree/main/packages/sdk
+paying	github	https://github.com/noirwallet/zcash-wallet-adapter	hackenproof-direct	noirwallet	https://hackenproof.com/programs/noirwallet	https://github.com/NoirWallet/zcash-wallet-adapter
+paying	github	https://github.com/noirwallet/zcash-wallet-wasm	hackenproof-direct	noirwallet	https://hackenproof.com/programs/noirwallet	https://github.com/NoirWallet/zcash-wallet-wasm
+paying	github	https://github.com/sparkdotfi/spark-dev-docs	immunefi-direct	Spark		
+paying	maybe	app.lansweeper.com	intigriti-direct	Lansweeper Bug Bounty Program	https://app.intigriti.com/programs/lansweeper/lansweeper1/detail	guess:app.lansweeper.com
+paying	maybe	edge.lansweeper.com	intigriti-direct	Lansweeper Bug Bounty Program	https://app.intigriti.com/programs/lansweeper/lansweeper1/detail	guess:edge.lansweeper.com
+paying	maybe	https://www.lansweeper.com/download	intigriti-direct	Lansweeper Bug Bounty Program	https://app.intigriti.com/programs/lansweeper/lansweeper1/detail	guess:https://www.lansweeper.com/download/
+paying	subdomains	aim-marketplace.vinted.com	arkadiyt-bugcrowd,bugcrowd-direct	Vinted Bug Bounty	https://bugcrowd.com/engagements/vinted-uab-mbb	https://aim-marketplace.vinted.com
+paying	subdomains	api.lansweeper.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Lansweeper Bug Bounty Program	https://app.intigriti.com/programs/lansweeper/lansweeper1/detail	
+paying	subdomains	app.lansweeper.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Lansweeper Bug Bounty Program	https://app.intigriti.com/programs/lansweeper/lansweeper1/detail	
+paying	subdomains	autoupdateapi.lansweeper.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Lansweeper Bug Bounty Program	https://app.intigriti.com/programs/lansweeper/lansweeper1/detail	
+paying	subdomains	backoffice.lansweeper.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Lansweeper Bug Bounty Program	https://app.intigriti.com/programs/lansweeper/lansweeper1/detail	
+paying	subdomains	docs.lansweeper.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Lansweeper Bug Bounty Program	https://app.intigriti.com/programs/lansweeper/lansweeper1/detail	
+paying	subdomains	edge.lansweeper.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Lansweeper Bug Bounty Program	https://app.intigriti.com/programs/lansweeper/lansweeper1/detail	
+paying	subdomains	ems.it.vinted.com	arkadiyt-bugcrowd,bugcrowd-direct	Vinted Bug Bounty	https://bugcrowd.com/engagements/vinted-uab-mbb	https://ems.it.vinted.com
+paying	subdomains	fb.lansweeper.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Lansweeper Bug Bounty Program	https://app.intigriti.com/programs/lansweeper/lansweeper1/detail	
+paying	subdomains	gemstash-integrations.vintedgo.com	arkadiyt-bugcrowd,bugcrowd-direct	Vinted Bug Bounty	https://bugcrowd.com/engagements/vinted-uab-mbb	https://gemstash-integrations.vintedgo.com
+paying	subdomains	integrations.vintedgo.com	arkadiyt-bugcrowd,bugcrowd-direct	Vinted Bug Bounty	https://bugcrowd.com/engagements/vinted-uab-mbb	https://*.integrations.vintedgo.com
+paying	subdomains	lecstaticcontent.lansweeper.com	intigriti-direct	Lansweeper Bug Bounty Program	https://app.intigriti.com/programs/lansweeper/lansweeper1/detail	desc:lecstaticcontent.lansweeper.com
+paying	subdomains	login.lansweeper.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Lansweeper Bug Bounty Program	https://app.intigriti.com/programs/lansweeper/lansweeper1/detail	
+paying	subdomains	qnrs.vintedgo.com	arkadiyt-bugcrowd,bugcrowd-direct	Vinted Bug Bounty	https://bugcrowd.com/engagements/vinted-uab-mbb	https://qnrs.vintedgo.com
+paying	subdomains	www.lansweeper.com	arkadiyt-domains,arkadiyt-intigriti,intigriti-direct	Lansweeper Bug Bounty Program	https://app.intigriti.com/programs/lansweeper/lansweeper1/detail	
+paying	urls	https://app.lansweeper.com/trial	arkadiyt-intigriti,intigriti-direct	Lansweeper Bug Bounty Program	https://app.intigriti.com/programs/lansweeper/lansweeper1/detail	app.lansweeper.com/trial
+paying	urls	https://developer.lansweeper.com/docs/data-api/get-started/welcome	intigriti-direct	Lansweeper Bug Bounty Program	https://app.intigriti.com/programs/lansweeper/lansweeper1/detail	desc:https://developer.lansweeper.com/docs/data-api/get-started/welcome
+paying	urls	https://www.lansweeper.com/product/features/integrate/flow-builder	intigriti-direct	Lansweeper Bug Bounty Program	https://app.intigriti.com/programs/lansweeper/lansweeper1/detail	desc:https://www.lansweeper.com/product/features/integrate/flow-builder/
+paying	wildcards	integrations.vintedgo.com	arkadiyt-bugcrowd,bugcrowd-direct	Vinted Bug Bounty	https://bugcrowd.com/engagements/vinted-uab-mbb	https://*.integrations.vintedgo.com

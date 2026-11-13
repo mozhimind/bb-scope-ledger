@@ -82,8 +82,6 @@ apigatewayc.marriott.com
 apigwc.marriott.com
 apis.telenor.se
 app.asana.com
-app.personio-dev.com
-app.personio.com
 arc.io
 arlo.com
 arlocloud.com
@@ -255,7 +253,6 @@ dailyadvent.com
 dancecentral.com
 das.eu
 dash.zoop.com.br
-datacamp.com
 dbt.com
 dbtlabs.com
 dcfgateway.marriott.com
@@ -504,6 +501,7 @@ insight.io
 instacart.com
 instacart.tools
 int.remitly.com
+integrations.vintedgo.com
 intercomassets.com
 intercomcdn.com
 interestfree.com.au
@@ -772,10 +770,6 @@ paypal.com
 paypalcorp.com
 pci.shopifyinc.com
 pennmedicine.connect-visit.com
-personio-internal.de
-personio.de
-personio.tools
-personiowhistleblowing.com
 petbook-magazine.com
 petbook.de
 pexels.com

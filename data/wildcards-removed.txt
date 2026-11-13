@@ -1,1 +1,7 @@
-lansweeper.com
+app.personio-dev.com
+app.personio.com
+datacamp.com
+personio-internal.de
+personio.de
+personio.tools
+personiowhistleblowing.com

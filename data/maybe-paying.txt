@@ -73,6 +73,7 @@ api.verily.com
 apidocs.aikido.dev
 apidocs.bridge.xyz
 app.box.com
+app.lansweeper.com
 app.snapchat.com
 asiakastiedot.posti.fi
 atl-paas.net
@@ -130,6 +131,7 @@ digili.s-cloud.fi
 docs.databricks.com
 docs.doppler.com
 e.e.marcus.com
+edge.lansweeper.com
 education.github.com
 eis.hilton.com
 electronjs.org
@@ -265,10 +267,10 @@ https://www.files.com/docs/client-apps/command-line-interface-cli-app
 https://www.files.com/docs/client-apps/desktop-v6-app
 https://www.files.com/docs/client-apps/mobile-app
 https://www.files.com/docs/on-premise/agent
-https://www.gainsight.com/security/vulnerability-disclosure-program
 https://www.goodrx.com/care
 https://www.hilton.com/en/hilton-honors/join
 https://www.kayak.com/global
+https://www.lansweeper.com/download
 https://www.larksuite.com/download
 https://www.mastercard.ch/de-ch.html
 https://www.mastercard.ch/fr-ch.html
@@ -323,7 +325,6 @@ ott.vimeo.com
 p.grabtaxi.com
 partner.urbancompany.com
 partners.shopify.com
-personio.de
 pinterest.com
 platform.cloudways.com
 play.immutable.com
@@ -397,7 +398,6 @@ www.exodus.com
 www.exodus.io
 www.exoscale.com
 www.files.com
-www.gainsight.com
 www.hotelscombined.co.kr
 www.hotelscombined.com.au
 www.iciparisxl.be

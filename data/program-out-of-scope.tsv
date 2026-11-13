@@ -1747,6 +1747,13 @@ id	asset	value
 5c67956865	maybe	ezcpcloudiot.eziot.com
 5c67956865	maybe	pb.ys7.com
 5c67956865	maybe	test.ys7.com
+5cf47e7b49	subdomains	careers.lansweeper.com
+5cf47e7b49	subdomains	lsagentrelay.lansweeper.com
+5cf47e7b49	subdomains	store.lansweeper.com
+5cf47e7b49	text	Lansweeper Classic
+5cf47e7b49	text	Lansweeper Discovery
+5cf47e7b49	text	lsrunase2.0 and lsencrypt2.0
+5cf47e7b49	urls	https://www.lansweeper.com/forum
 5cf61e2caf	subdomains	careers.lululemon.com
 5cf61e2caf	subdomains	fr.shop.lululemon.com
 5cf61e2caf	subdomains	info.lululemon.com
@@ -1884,7 +1891,6 @@ id	asset	value
 6584eaf73f	subdomains	weareallinvestors.robinhood.com
 6584eaf73f	urls	https://www.saytechnologies.com/contact/sales
 668b3b8166	subdomains	ferrero.integrityline.app
-670303b1be	text	Applications, URLs, or data that are not listed on this page are considered out of scope.
 670817a7d4	urls	https://www.gulp.ch/forum
 670817a7d4	urls	https://www.gulp.de/forum
 67deb05316	apex	achom.ir
@@ -2766,6 +2772,7 @@ id	asset	value
 83a37ac54f	wildcards	kbndev.co
 83a37ac54f	wildcards	keephq.dev
 83a37ac54f	wildcards	swiftype.com
+83b2071e5f	maybe	ownit.nu
 83b2071e5f	maybe	telenor.com
 83b2071e5f	subdomains	admin-stage.tv.telenor.se
 83b2071e5f	subdomains	butik.vimla.se
@@ -2780,7 +2787,6 @@ id	asset	value
 83b2071e5f	wildcards	cust.ownit.se
 83b2071e5f	wildcards	cust.telenor.se
 83b2071e5f	wildcards	customers.ownit.se
-83b2071e5f	wildcards	ownit.nu
 83b2071e5f	wildcards	sme.telenor.se
 83c1951a9a	apex	alasco.com
 83c1951a9a	apex	alasco.de
@@ -2872,19 +2878,6 @@ id	asset	value
 8c8c5fbe12	urls	https://vtmgo.be/login
 8c8c5fbe12	urls	https://vtmgo.be/registreren
 8c8c5fbe12	urls	https://vtmgo.be/service
-8caf8be264	subdomains	ast-viewer.datacamp.com
-8caf8be264	subdomains	confluence.datacamp.com
-8caf8be264	subdomains	dccertified.datacamp.com
-8caf8be264	subdomains	intranet.datacamp.com
-8caf8be264	subdomains	jira.datacamp.com
-8caf8be264	subdomains	links.datacamp.com
-8caf8be264	subdomains	rdocumentation.datacamp.com
-8caf8be264	subdomains	signature.datacamp.com
-8caf8be264	subdomains	status.datacamp.com
-8caf8be264	subdomains	support.datacamp.com
-8caf8be264	subdomains	talent-jobs-api.datacamp.com
-8caf8be264	urls	https://app.datacamp.com/recruit
-8caf8be264	wildcards	it.datacamp.com
 8d4809a4ae	text	All domains or subdomains not listed in the above list of 'Scopes'
 8db41287cb	subdomains	auth.simplisafe.com
 8db41287cb	subdomains	careers.simplisafe.com
@@ -4116,6 +4109,7 @@ c998eec8dc	subdomains	webinars.segment.com
 c998eec8dc	subdomains	webinars.twilio.com
 c998eec8dc	text	All Twilio acquisitions unless explicitly listed as in-scope
 ca4fc42dc0	apex	jirachecklist.com
+cb005f80c6	apex	att.com.mx
 cb005f80c6	apex	attpurchasing.com
 cb005f80c6	apex	attsuppliers.com
 cb005f80c6	apex	rcloud.social
@@ -4550,12 +4544,6 @@ db643d185d	apex	moneytree.jp
 db643d185d	text	Any production asset of Moneytree KK (excepting the iOS app)
 db908162d2	subdomains	foia.ssa.gov
 db908162d2	text	Targets not expressly listed as In Scope are Out of Scope
-dba98622e4	subdomains	personio.slack.com
-dba98622e4	subdomains	statuspage.personio.de
-dba98622e4	subdomains	support.personio.de
-dba98622e4	subdomains	www.personio.com
-dba98622e4	subdomains	www.personio.de
-dba98622e4	subdomains	www.personio.es
 dbc335fdb5	subdomains	blog.slex.io
 dbc335fdb5	urls	https://slex-exchange.github.io/slex-api-swagger
 dbc335fdb5	urls	https://support.slex.io/hc/en-us

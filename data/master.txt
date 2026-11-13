@@ -2303,7 +2303,6 @@ abtbank.originate.fiservapps.com
 abtools.deere.com
 abwebpay-mbod-qa.bankofamerica.com
 abwebpay-mbod.bankofamerica.com
-ac.elcompanies.cn
 ac1-mymtn-app01.mtngh.root.net
 ac1-mymtn-app02.mtngh.root.net
 ac1-mymtn-app03.mtngh.root.net
@@ -2540,7 +2539,6 @@ achmea.nl
 acintra.appslatam.com
 acl.gov
 aclasta.ca
-acm.elcompanies.cn
 acmeautotest.treasure.daimlertruck.com
 acmeccu-dc.cert.fec-dc.fiservapps.com
 acmeccu-dn.financial-net.com
@@ -2735,7 +2733,6 @@ admin.moneyboxapp.org
 admin.monosem.com
 admin.monosemusa.com
 admin.montgomerybankoriginate.com
-admin.mybbu.com
 admin.mymateco.de
 admin.newmember.servicefirstfcu.org
 admin.offcampuspartners.com
@@ -2842,8 +2839,6 @@ advisoryexplorer.com
 advisoryworld.com
 advocacy.sproutsocial.com
 adx.opera.com
-adyen-uk-dev-report-notifications.elcompanies.com
-adyen-uk-prod-report-notifications.elcompanies.com
 adyen.com
 adyen.help
 adzonetest.deere.com
@@ -3058,6 +3053,7 @@ aigc.henkel.cn
 aigc.magic-mirror.cn
 aikido.dev
 aim-int.apicon-int.daimlertruck.com
+aim-marketplace.vinted.com
 aim.apicon.cloud.daimlertruck.com
 aim.costing.cloud.daimlertruck.com
 aim.oneicon.aftersales.daimlertruck.com
@@ -3387,7 +3383,6 @@ alvalle.com
 alwaysdata.com
 am-be.cbre.eu
 am-fdel-pre1-ul.fiservapps.com
-am-qa.elcompanies.com
 am.abb.com
 am.developer.monespacesante.fr
 am.editeur.preprod.monespacesante.fr
@@ -3546,7 +3541,6 @@ ampmhotels.com
 amr-data.com
 amr-europe.com
 amr.net
-amretailactivesync02.elcompanies.com
 amrkmonitor.com
 amrresourcecompass.com
 ams.buses.daimlertruck.com
@@ -3836,7 +3830,6 @@ apacresearch-qa.nonprod.cbre.com
 apacresearch-tm.nonprod.cbre.com
 apacresearch-uat.nonprod.cbre.com
 apacresearch.cbre.com
-apacretail-otm.elcompanies.com
 apartmentfinder.com
 apartmenthomeliving.com
 apartments.com
@@ -3869,8 +3862,6 @@ apgfcu-admin.originate.fiservapps.com
 apgfcu.originate.fiservapps.com
 apgrada.ca
 aphelion.se
-aphub.elcompanies.cn
-aphubuat.elcompanies.cn
 api*.hubapi.com
 api*.hubspot.com
 api*.netflix.com
@@ -3923,7 +3914,6 @@ api-dev.cbre.com
 api-dev.cbre.fr
 api-dev.cbrehost.com
 api-dev.daimlertruck.com
-api-dev.elc.academy
 api-dev.gallileo-frankfurt.com
 api-dev.na.ciam.daimlertruck.com
 api-dev.smartfm.cbre.com
@@ -3976,7 +3966,6 @@ api-met-kg-genai.tal.deere.com
 api-meubanco.deere.com
 api-mtls-itg-vip.it.hpe.com
 api-mtls-itg.it.hpe.com
-api-nalx.elcompanies.com
 api-next.flatmates.com.au
 api-ngbp-btat2.fiservapps.com
 api-nonp.cbrehost.com
@@ -4009,7 +3998,6 @@ api-prx-stg-sgw.it.hpe.com
 api-prx-stg-sgw.itcs.hpe.com
 api-qa-payeezy-use4.ns1.fiservapis.com
 api-qa.cbrehost.com
-api-qa.elc.academy
 api-qa.na.ciam.daimlertruck.com
 api-qa.smartfm.cbre.com
 api-qual-casemanagement-financeconnect.deere.com
@@ -4043,13 +4031,11 @@ api-tops2.cbre.com
 api-trade-mgmt.supplymgmt-tariffs-devl-vpn.use1.e15.c01.johndeerecloud.com
 api-u.spaziodati.eu
 api-uat-bugbounty.nonprod.syfe.com
-api-uat-nalx.elcompanies.com
 api-uat.cardconnect.com
 api-uat.cardpointe.com
 api-uat.cbre.com
 api-uat.cbre.fr
 api-uat.cbrehost.com
-api-uat.elc.academy
 api-uat.smartfm.cbre.com
 api-uat.spacespot.com
 api-ukdataplatform.cbre.com
@@ -4236,7 +4222,6 @@ api.dysoncanada.ca
 api.e-valuation.cbre.com
 api.ea.login.cbre.com
 api.editeur.preprod.monespacesante.fr
-api.elcacademy.com
 api.enc.kape.com
 api.epicgames.dev
 api.essity.com
@@ -4313,6 +4298,7 @@ api.kroger.com
 api.kruidvat.be
 api.kruidvat.nl
 api.land.com
+api.lansweeper.com
 api.larksuite.com
 api.leather.io
 api.letsexchange.io
@@ -4387,8 +4373,6 @@ api.pcrs.kape.com
 api.pdst.fm
 api.performanceiq.cbre.com
 api.permissionsmanagement.cbre.com
-api.personio-dev.com
-api.personio.com
 api.picsart.com
 api.picsart.io
 api.pinterest.com
@@ -4508,7 +4492,6 @@ api.streak.com
 api.stripe.com
 api.stytch.com
 api.supabase.com
-api.super-id.net
 api.superdrug.com
 api.support.hpe.com
 api.swapcard.com
@@ -4763,7 +4746,6 @@ app.citushealth.ca
 app.citushealth.com
 app.connecteam.com
 app.dailypay.com
-app.datacamp.com
 app.datadome.co
 app.defisaver.com
 app.delen.be
@@ -4827,6 +4809,7 @@ app.koho.ca
 app.krisp.ai
 app.kruidvat.be
 app.kruidvat.nl
+app.lansweeper.com
 app.larksuite.com
 app.latitudepayapps.com
 app.launchdarkly.com
@@ -4873,8 +4856,6 @@ app.originprotocol.com
 app.parallel.best
 app.paybox.sh
 app.pdq.com
-app.personio-dev.com
-app.personio.com
 app.pharmacy.superdrug.com
 app.playground.idos.network
 app.playwonderbox.com
@@ -4891,7 +4872,6 @@ app.rewire.to
 app.ring.com
 app.ripio.com
 app.riteaid.fmpilot.com
-app.routerprotocol.com
 app.s02.callsign.com
 app.safeswap.io
 app.saltlabs.com
@@ -5033,12 +5013,9 @@ appriteaid.fmpilot.com
 approvedfast.com
 apps-accpt.portofantwerp.com
 apps-accpt.portofantwerpbruges.com
-apps-dev.cliniquecomputer.com
-apps-test.cliniquecomputer.com
 apps.8x8.com
 apps.caci.com
 apps.cbre.eu
-apps.cliniquecomputer.com
 apps.cn.mybuildings.abb.com
 apps.connect.monash.edu
 apps.deere.com
@@ -5092,7 +5069,6 @@ apsis.com
 apspatents.com
 aptible.com
 aptoramobile.cbre.com
-aptoslabs.com
 apuacmysupplier.cbre.com
 apweb.nl
 aqbeerfest.com
@@ -5123,7 +5099,6 @@ ara.tops.cbre.com.hk
 ara.tops.cbre.com.sg
 aragon.org
 aramarksurvey.com
-aramis.co.uk
 arararar.co.za
 arbeidsinspectiecn.com
 arbi.skytef.com.br
@@ -5212,7 +5187,6 @@ argo01-opencheck.fiservapps.com
 argusweb.cbre.com
 arguswebgi-test.cbre.com
 arguswebgi.cbre.com
-arh.elcompanies.com
 ariacoustics.com
 arity.com
 ark.io
@@ -5282,11 +5256,7 @@ arup.com
 arupdg017.staging.cloveronline.com
 arvest.com
 arzerra.ca
-as-dev.elc.academy
 as-nmt.de
-as-qa.elc.academy
-as-uat.elc.academy
-as.elcacademy.com
 as.myim.cbre.com
 asadcdn.com
 asahi.cl.iongroup.com
@@ -5389,11 +5359,8 @@ aspreports.com
 aspresolver.com
 assaabloy.com
 assaabloy.net
-assessment-api.datacamp.com
-assessment-v2.datacamp.com
 assessment.aon.com
 assessment.aonanalytics.tech
-assessment.datacamp.com
 asset-admin.cbre.se
 asset-api.cbre.com.au
 asset.cbre.cl
@@ -5887,7 +5854,6 @@ autodiscover.commercialloanservices.com
 autodiscover.corporateproperty.com.au
 autodiscover.cybermyte.io
 autodiscover.die-wirtgen-group-auf-der-bauma.com
-autodiscover.estee.com
 autodiscover.facilitysource.com
 autodiscover.fameco.com
 autodiscover.famecoretail.com
@@ -5968,6 +5934,7 @@ autotruckfcu-dc.cert.fec-dc.fiservapps.com
 autotruckfcu-dn.financial-net.com
 autotruckfcu.originate.fiservapps.com
 autoupdate.geo.opera.com
+autoupdateapi.lansweeper.com
 autovu.cloud
 autovu.com
 auvik.com
@@ -6041,15 +6008,9 @@ avcjtaiwan.com
 avcjusa.com
 avcjvietnam.com
 avecspotify.com
-aveda.co.uk
-aveda.it
-avedakorea.co.kr
 avedas.com
 avedas.de
 avedas.org
-avedasoapapp.com
-avedasoapapp.uat.be.elcompanies.com
-avedasoapapp.uat.fe.elcompanies.com
 aven.com
 avenir.cbre.eu
 averoachmea.nl
@@ -6261,6 +6222,7 @@ backend.test-smsservicesnow.com
 backoffice.evcharging.abb.com.cn
 backoffice.gallileo-frankfurt.com
 backoffice.gyft.com
+backoffice.lansweeper.com
 backoffice.sitemanager.ability.abb.com.cn
 backoffice.vnlat-cat.fiservapps.com
 backoffice.vnlat.fiservapps.com
@@ -6304,7 +6266,6 @@ bahamabucks.wgiftcard.com
 baidu.com
 baileys.wgiftcard.com
 bairdwealth.com
-bais.elcompanies.com
 bajafresh.wgiftcard.com
 bakerdomains.co.uk
 bakerdomains.com
@@ -6336,7 +6297,6 @@ ballastcalc.thorntontomasetti.com
 balldayton.com
 ballistic.com
 ballistic.com.br
-balmainbeauty.co.uk
 baltic.ferrerorocher.com
 baltic.inside.abb.com
 baltic.kinder.com
@@ -6738,7 +6698,6 @@ bbamericasbank.streamlendvelocity.net
 bbanalysis.com
 bbc.com
 bbccerveceria.com
-bbmanestream.com
 bbncu-dc.cert.fec-dc.fiservapps.com
 bbncu-dn.financial-net.com
 bbok.fdecs.com
@@ -6784,8 +6743,6 @@ bdese.marionnaud.fr
 bdmuseum.nl
 bdp-connectors-u.spaziodati.eu
 bdp-connectors.spaziodati.eu
-bdpm-prod.elcompanies.cn
-bdpm-uat.elcompanies.cn
 bdsas2003.cbre.ca
 bdu-cf.euce1.indriverapp.com
 bdu-gw-cf.euce1.indriverapp.com
@@ -6844,7 +6801,6 @@ bearflagrobotics.com
 beatsoficial.com.br
 beatsoficial.pe
 beauty-and-you.iciparisxl.nl
-beautyqr.com
 bebabelkuwait.com
 becker.cl
 beckhoff.com
@@ -7336,8 +7292,6 @@ bioworld.org
 bioworlddata.com
 bioworldmedtech.com
 bioworldperspectives.com
-biportal-uat.elcompanies.cn
-biportal.elcompanies.cn
 biportalcv-dev.dtbsa.co.za
 biportalcv-qa.dtbsa.co.za
 biportalcv.dtbsa.co.za
@@ -7671,7 +7625,6 @@ boavistascpc.com.br
 boavistaservicos.com.br
 boba.network
 bobascan.com
-bobbibrown.co.uk
 bobevansstore.wgiftcard.com
 bocokonline-admin.originate.fiservapps.com
 bocokonline.originate.fiservapps.com
@@ -7891,11 +7844,6 @@ bptools.businesstrack.com
 bpweb-snd-next.choiceportal.xyz
 bpworkplacetoolkit.cbre.com
 bq.cbre.com
-br-api-dev.estee.com
-br-api-qa.estee.com
-br-api-stage.estee.com
-br-api-uat.estee.com
-br-api.estee.com
 br-automation.com
 br-qa.nonprod.cbre.com
 br-ssoca-cat.fiservapp.com
@@ -8271,7 +8219,6 @@ bullish.com
 bulten.watsons.com.tr
 bumba.global
 bumble.com
-bumbleandbumble.co.uk
 bun-k.nl
 bundakraft.com
 bunningsportfolio.com.au
@@ -8438,7 +8385,6 @@ bybit.eu
 bybit.tr
 bykea.com
 bykea.net
-bykilian.co.uk
 bynder.com
 bynocrit.com
 byp.abb.com
@@ -8643,8 +8589,8 @@ campshelbycreditunion.vbwebservices.com
 campshelbycu-dc.cert.fec-dc.fiservapps.com
 campshelbycu-dn.financial-net.com
 campus.bovis.es
-campus.datacamp.com
 campus.deere.com.br
+campus.hm.essity.com
 campusbrno.cz
 campusm.co.uk
 campusm.com
@@ -9590,23 +9536,6 @@ cdna.lystit.com
 cdno.news.e.abb.com
 cdns.grindr.com
 cdo.gov
-cdp-am-consumption-layer-uat.elcompanies.com
-cdp-am-consumption-layer.elcompanies.com
-cdp-apac-consumption-layer-uat.elcompanies.com
-cdp-apac-consumption-layer.elcompanies.com
-cdp-apacsm-consumption-layer-uat.elcompanies.com
-cdp-apacsm-consumption-layer.elcompanies.com
-cdp-brazil-consumption-layer-uat.elcompanies.com
-cdp-brazil-consumption-layer.elcompanies.com
-cdp-consumption-layer.elcompanies.com
-cdp-latam-consumption-layer-uat.elcompanies.com
-cdp-latam-consumption-layer.elcompanies.com
-cdp-latam-gcc-connector-uat.elcompanies.com
-cdp-latam-gcc-connector.elcompanies.com
-cdp-latam-surveys-connector-uat.elcompanies.com
-cdp-latam-surveys-connector.elcompanies.com
-cdp-uk-consumption-layer-uat.elcompanies.com
-cdp-uk-consumption-layer.elcompanies.com
 cdp.services.wirtgen-group.com
 cds-snc.ca
 cds.mintel.com
@@ -10279,7 +10208,6 @@ chat.x.com
 chatapps.8x8.com
 chatbob.spaziodati.eu
 chatbot.cbre.com
-chatbot.super-id.net
 chatbotdatacon.wechat-henkel-adhesives.cn
 chatdate.app
 chatelfcu-admin.originate.fiservapps.com
@@ -10401,8 +10329,6 @@ chimecard.com
 chimepayments.com
 china-dev.migrationlistener.miq.cbre.com
 china-dev.migrationresponse.miq.cbre.com
-chinaapi-uat.elcompanies.cn
-chinaapi.elcompanies.cn
 chinacacd-prod-floating.us.e10.c01.johndeerecloud.com
 chinamergers.net
 chinaservice.abb.com.cn
@@ -10457,7 +10383,6 @@ ci-propertyconversionportal.marriott.com
 ci.checkout-lane.com
 ci.ft.cashedge.com
 ci.gallileo-frankfurt.com
-cia-dev.elcompanies.com
 ciam.tui.transunion.com
 ciarivate.com
 cibc.oneportal24.com
@@ -10496,17 +10421,6 @@ cinder.app.essity.com
 cinnovationscireg.org
 cio.gov
 cipsp.net
-ciq-orch-dev.elcompanies.com
-ciq-orch-uat.elcompanies.com
-ciq-skill1-dev.elcompanies.com
-ciq-skill1.elcompanies.com
-ciq-skill2-dev.elcompanies.com
-ciq-skill2.elcompanies.com
-ciq-skill3-dev.elcompanies.com
-ciq-skill3.elcompanies.com
-ciq-skill4-dev.elcompanies.com
-ciq-skill4.elcompanies.com
-ciq-skill5.elcompanies.com
 ciqtops2-prod.cbre.com
 ciqtops2-test.cbre.com
 cir.cashedge.com
@@ -11215,10 +11129,6 @@ clinical.study
 clinicalresearchadvisor.com
 clinicalresearchtools.com
 clinicalsystemsconnector.com
-clinique.co.uk
-clinique.com
-cliniquecomputer.com
-cliniqueplay.com
 clio.com
 clipperz.is
 clistageftadmin.cashedge.com
@@ -11322,7 +11232,6 @@ clubferreropro.com
 clubhouse.io
 clublager.com
 clubpremium.com.ec
-clubshop.elcompanies.com
 clubsocial.com.br
 clubtada.com
 clv-uc.com
@@ -11347,7 +11256,6 @@ cmccreditunion-dc.cert.fec-dc.fiservapps.com
 cmccreditunion-dn.financial-net.com
 cmccreditunion.org
 cmcom.atlassian.net
-cmdfunctionapp-devapi.am.elcompanies.com
 cmecreditunion-dc.cert.fec-dc.fiservapps.com
 cmecreditunion-dn.financial-net.com
 cmetoolkit.com
@@ -11392,7 +11300,6 @@ cms-aygt-fr-2025.ferrerorocherpromo.com
 cms-aygt-it-2025.ferrerorocherpromo.com
 cms-aygt-master-2025.ferrerorocherpromo.com
 cms-aygt-mx-2025.ferrerorocherpromo.com
-cms-dev.cliniquecomputer.com
 cms-kinderriegel-love-de-2025.ipaasferrero.com
 cms-kinderviaggiesercenti2025-ferreroprofessional-it-2025.ipaasferrero.com
 cms-kjeldsens-com-2025.ipaasferrero.com
@@ -11401,12 +11308,8 @@ cms-ne.momo.africa
 cms-nutella-academy-fr-2025.ferreropromo.com
 cms-personalised-nutella-jar-int-2025.ipaasferrero.com
 cms-pingui-win-uk-2026.ipaasferrero.com
-cms-prod.cliniquecomputer.com
-cms-stage.cliniquecomputer.com
-cms-test.cliniquecomputer.com
 cms-wonka-com-2026.ipaasferrero.com
 cms.adx.opera.com
-cms.avedasoapapp.com
 cms.ayoba.me
 cms.cbre.cl
 cms.cbre.co.jp
@@ -11447,7 +11350,6 @@ cmtelecom.com
 cn-director.jp
 cn-ftp.abb.com.cn
 cn-ftps01.abb.com.cn
-cn-innovation-labs-vms.elcompanies.cn
 cn-negotiator.jp
 cn-qa.nonprod.cbre.com
 cn-registrar.jp
@@ -11509,7 +11411,6 @@ cnpphv-scm.abb.com.cn
 cnppsm.abb.com.cn
 cns-admin-qa.aegeanair.com
 cns-admin.aegeanair.com
-cnslqa.elcompanies.cn
 cnxec-pm.abb.com.cn
 co-gw-scf.sa.apse1.aws.indriverapp.com
 co-in-cf.mena.meso1.aws.indriverapp.com
@@ -11910,7 +11811,6 @@ com.costco.app.android
 com.costco.costco
 com.creditkarma.mobile
 com.creditkarma.mobile.international
-com.datacamp
 com.dd.doordash
 com.deere.anubhuti
 com.deere.equipmentplus
@@ -12410,7 +12310,6 @@ community.logitech.com
 community.olbanking.com
 community.oppo.com
 community.optimism.io
-community.personio.com
 community.spiceworks.com
 community.superdrug.com
 community.ui.com
@@ -12571,9 +12470,6 @@ concorso.sottilette.it
 concrete5.org
 condition-monitoring.mining.ability.abb.com
 conditionmonitoring.traction.abb.com
-condor-dev-azfunc.am.elcompanies.com
-condor-prod-azfunc.am.elcompanies.com
-condor-qa-azfunc.am.elcompanies.com
 conductor.cbreesi.com
 conductor2.cbreesi.com
 conecta-facil-cat.fiservapp.com
@@ -12754,7 +12650,6 @@ consumercreditunion-admin.originate.fiservapps.com
 consumercreditunion.originate.fiservapps.com
 consumercu-dc.cert.fec-dc.fiservapps.com
 consumercu-dn.financial-net.com
-consumereformuat.elcompanies.com
 consumerfinance.gov
 consumers-cu-billpay.fiservapps.com
 consumersentinel.gov
@@ -13670,7 +13565,6 @@ creis-cbre.com
 creis-cbre.jp
 creis-test.cbre.co.jp
 creis.cbre.co.jp
-cremedelamer.co.uk
 creo-viewer.mfg-mpp-nextgen-devl-vpn.use1.e11.c01.johndeerecloud.com
 crestfoods.gift.solutions
 crestfoods.wgiftcard.com
@@ -13906,8 +13800,6 @@ ctl.io
 ctmsh.co
 cto-si.zebra.com
 cto.mil
-ctp.elcompanies.cn
-ctpbi.elcompanies.cn
 ctpveldzicht.nl
 ctr.a.exodus.io
 cts.cbre.com
@@ -14272,62 +14164,6 @@ d.gallileo-frankfurt.com
 d1.utv.usaa.com
 d1tc1mewfeld95.cloudfront.net
 d2.utv.usaa.com
-d2c-balmainbeauty.elcompanies.co.uk
-d2c-lelabofragrances.elcompanies.co.uk
-d2c-mb.elcompanies.co.uk
-d2c-middleware.elcompanies.co.uk
-d2c-register-balmainbeauty.elcompanies.co.uk
-d2c-register-lelabofragrances.elcompanies.co.uk
-d2c-register-mb.elcompanies.co.uk
-d2c-register-middleware.elcompanies.co.uk
-d2c-register.aveda.co.uk
-d2c-register.balmainbeauty.co.uk
-d2c-register.bobbibrown.co.uk
-d2c-register.bumbleandbumble.co.uk
-d2c-register.bykilian.co.uk
-d2c-register.clinique.co.uk
-d2c-register.cremedelamer.co.uk
-d2c-register.esteelauder.co.uk
-d2c-register.fredericmalle.co.uk
-d2c-register.jomalone.co.uk
-d2c-register.maccosmetics.co.uk
-d2c-register.origins.co.uk
-d2c-register.smashbox.co.uk
-d2c-register.tomfordbeauty.co.uk
-d2c-register.toofaced.co.uk
-d2c-stage-client-av.elcompanies.co.uk
-d2c-stage-client-bb.elcompanies.co.uk
-d2c-stage-client-bl.elcompanies.co.uk
-d2c-stage-client-bu.elcompanies.co.uk
-d2c-stage-client-cl.elcompanies.co.uk
-d2c-stage-client-cm.elcompanies.co.uk
-d2c-stage-client-el.elcompanies.co.uk
-d2c-stage-client-fm.elcompanies.co.uk
-d2c-stage-client-jm.elcompanies.co.uk
-d2c-stage-client-kl.elcompanies.co.uk
-d2c-stage-client-ll.elcompanies.co.uk
-d2c-stage-client-mb.elcompanies.co.uk
-d2c-stage-client-mc.elcompanies.co.uk
-d2c-stage-client-or.elcompanies.co.uk
-d2c-stage-client-sx.elcompanies.co.uk
-d2c-stage-client-tf.elcompanies.co.uk
-d2c-stage-client-to.elcompanies.co.uk
-d2c-stage-mw.estee-lauder.co.uk
-d2c.aveda.co.uk
-d2c.balmainbeauty.co.uk
-d2c.bobbibrown.co.uk
-d2c.bumbleandbumble.co.uk
-d2c.bykilian.co.uk
-d2c.clinique.co.uk
-d2c.cremedelamer.co.uk
-d2c.esteelauder.co.uk
-d2c.fredericmalle.co.uk
-d2c.jomalone.co.uk
-d2c.maccosmetics.co.uk
-d2c.origins.co.uk
-d2c.smashbox.co.uk
-d2c.tomfordbeauty.co.uk
-d2c.toofaced.co.uk
 d2evh2mef3r450.cloudfront.net
 d66.nl
 da-direkt.de
@@ -14389,8 +14225,6 @@ dapp.stbl.com
 darden.wgiftcard.com
 dardenstore.wgiftcard.com
 darpa.mil
-darphin.co.kr
-darphin.co.uk
 dart-portal.org
 darts-ip.app
 darts-ip.cloud
@@ -14489,7 +14323,6 @@ databank.nl
 database.dev
 databricks.com
 databronnencovid19.nl
-datacamp.com
 datacenter.motion.abb.com.cn
 datacenters.abb.com
 datachallenge.nl
@@ -14529,8 +14362,6 @@ datapod-2-druid-ingest.production.forescoutcloud.net
 datapod-2-druid-query.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 datapod-2-query.acceptance.forescoutcloud.net
-dataportal-uat.elcompanies.cn
-dataportal.elcompanies.cn
 dataportal.originenergy.com.au
 dataprivacy.comerica.com
 dataprivacy.mendixcloud.com
@@ -15175,10 +15006,8 @@ deutsches-handelsregister-online.de
 deutsches-schutzrechte-portal.de
 deutscheunquote.com
 deuyilkqqzxfy.cloudfront.net.cbreglobalinvestors.com
-dev-ac.elcompanies.cn
 dev-accesscontrol.gbs.fiserv.com
 dev-accounts.businesstrack.com
-dev-acm.elcompanies.cn
 dev-admin.fiserv.com
 dev-agile.cbre.com
 dev-aip.henkel-adhesives.com.cn
@@ -15244,17 +15073,12 @@ dev-east-miam.businesstrack.com
 dev-east-proxy.businesstrack.com
 dev-east-www.businesstrack.com
 dev-edge01.cymy.io
-dev-eis-wm-na.elcompanies.com
 dev-emailtagging.cbre.com
 dev-endnote.com
 dev-enterprise.serviceinsight.cbre.com
 dev-eos.cbre.com
 dev-erix-research.cbre.eu
-dev-esignapp.elcompanies.cn
-dev-esignoss.elcompanies.cn
-dev-esignwebapp.elcompanies.cn
 dev-fhs-onlinestore.businesstrack.com
-dev-frontiers-approval.elcompanies.com
 dev-gateway.serviceinsight.cbre.com
 dev-gfender.wgiftcard.com
 dev-gsg-api.gift.solutions
@@ -15280,15 +15104,12 @@ dev-merchantselfboarding.businesstrack.com
 dev-miam.businesstrack.com
 dev-mriasia.cbre.com
 dev-mripacific.cbre.com.au
-dev-ms-api.elcompanies.com
 dev-ms-vendors1.agrisync.com
-dev-noam-xstore-adyenpbl.elcompanies.com
 dev-noti.serviceinsightlocal.cbre.eu
 dev-oneplatform.com
 dev-onlinebanking.firstdata.com
 dev-onlinestore.businesstrack.com
 dev-onlinestore.fiserv.com
-dev-otm-pnp.elcompanies.com
 dev-perspectives.cbre.com
 dev-pmservice.serviceinsightlocal.cbre.eu
 dev-potentialrealized.cbre.com
@@ -15325,14 +15146,12 @@ dev-tempest-gateway.serviceinsight.cbre.com
 dev-tempest.serviceinsight.cbre.com
 dev-test-studio.marketplace.fiserv.com
 dev-tfs.cbre.com
-dev-tr-otm-pnp.elcompanies.com
 dev-training.ui.com
 dev-ukplatform.cbre.com
 dev-vaws.serviceinsightlocal.cbre.eu
 dev-vhb.agrisync.com
 dev-view-api.cbre.com
 dev-vnd.agrisync.com
-dev-vto-files.elcompanies.com
 dev-web.agrisync.com
 dev-west-accounts.businesstrack.com
 dev-west-api.businesstrack.com
@@ -15464,7 +15283,6 @@ dev.stats.gleague.nba.com
 dev.stats.nba.com
 dev.stats.wnba.com
 dev.storybook.emerald.cbre.com
-dev.supplierportal.elcompanies.com
 dev.surveycreator.brokerhub.cbre.com
 dev.sweedpos.com
 dev.tether.cbre.com
@@ -16113,7 +15931,6 @@ dmmv2prodn.firstdataclients.com
 dmoj.ca
 dmp.fr
 dmp.gouv.fr
-dms-external.elcompanies.com
 dmtest.cbreglobalinvestors.com
 dmtest.cbreinvestors.com
 dmxleo.com
@@ -16201,6 +16018,7 @@ docs.harvestprofit.com
 docs.host-building.com
 docs.institutional.ts.finance
 docs.keeper.io
+docs.lansweeper.com
 docs.launchdarkly.com
 docs.lido.fi
 docs.moneynetwork.com
@@ -16442,7 +16260,6 @@ dpfriday.com
 dpgmedia.be
 dpgmedia.nl
 dpm.53.com
-dppocdbxgeniebot.elcompanies.com
 dqbc.firstdataclients.com
 dqen.firstdataclients.com
 dr-aonfinanciamiento.com.mx
@@ -16475,7 +16292,6 @@ dr.developer.cbre.com
 dr.intelligentworkplace.app.fiserv.com
 dr.mainstreamsasp.com
 dr.pclender.com
-dr.supplierportal.elcompanies.com
 dr.virtualapp.com
 dr1.secureinternetbank.com
 dr11.secureinternetbank.com
@@ -16602,7 +16418,6 @@ drivetime-ui-prod.cbre.com
 drivetrust.seagate.com
 driveuconnect.com
 driveuconnect.eu
-drjart.co.uk
 drmyapps.cbre.com
 drogas.lt
 drogas.lv
@@ -16744,7 +16559,6 @@ dwellhomes.com
 dwhreports.nba.com
 dwightfsb-p2.onlinebank.com
 dwightfsb.onlinebank.com
-dwp.elcompanies.cn
 dwy.visa.com
 dx-divops-dependency-track-ui.apps-devl-vpn.us.e29.c01.johndeerecloud.com
 dx.olbanking.com
@@ -17127,7 +16941,6 @@ econsumer.gov
 ecorrelations.com
 ecorrelations.net
 ecorrelations.org
-ecosystem-experience.super-id.net
 ecosystem.berachain.com
 ecotourism-science.info
 ecoupon.maf.ae
@@ -17195,6 +17008,7 @@ edge.blablacar.tr
 edge.bookbeat.com
 edge.genixdatalyzer.measurementservice.abb.com
 edge.in.myngc.com
+edge.lansweeper.com
 edge.machinefinder.com
 edge.om-machinefinder-prod-vpn.us.e26.c01.johndeerecloud.com
 edge.supplieroasis.com
@@ -17240,7 +17054,6 @@ edp-emea-int-consumption.cbre.com
 edp-emea-qa-consumption.cbre.com
 edp-emea-staging-consumption.cbre.com
 edp-emea-uat-consumption.cbre.com
-edp-fredericmalle.elcompanies.com
 edp-nonprod-jenkins-training.cbre.com
 edp-nonprod-jenkins.cbre.com
 edp-nonprod.cbre.com
@@ -17312,7 +17125,6 @@ efm.serviceinsight.cbre.eu
 efms.fiservapp.com
 efms.servicing.mohela.com
 efnb-p2.onlinebank.com
-eform.ap.elcompanies.com
 eforms.neogov.com
 eft-test-azure.cbre.com
 eft.cbre.com
@@ -17378,9 +17190,6 @@ eip.abb.com.cn
 eip.cbre.com
 eip.twistlock.gcso.cbre.com
 eipcard.com
-eis-wm-cn.elcompanies.cn
-eis-wm-na.elcompanies.com
-eis-wm-sg.elcompanies.com
 eis.hilton.com
 eiti.nl
 ejackson.co.uk
@@ -17441,25 +17250,7 @@ elavonconfig.technologi.co.uk
 elavonmerchant.technologi.co.uk
 elavonpaymentgateway.com
 elawmonitor.com
-elc-cep-api-am-qa.elcompanies.com
-elc-clglobal-sg-qa.elcompanies.com
-elc-clglobal-uk-prod.elcompanies.com
-elc-clglobal-uk-qa.elcompanies.com
-elc-clglobal-us-prod.elcompanies.com
-elc-clglobal-us-qa.elcompanies.com
-elc-clienteling-am-bucket.elcompanies.com
-elc-clienteling-am-dev.elcompanies.com
-elc-clienteling-am-prod.elcompanies.com
-elc.academy
 elca.org
-elcacademy.com
-elccaresfund.org
-elcgoodworks.com
-elcgoodworks.elcompanies.com
-elchackathon.com
-elcompanies.cn
-elcompanies.co.uk
-elcompanies.com
 elcuscare.abb.com.cn
 ele.me
 eleai.cloudintegration.abb.com
@@ -17739,6 +17530,7 @@ empowerbluecu.originate.fiservapps.com
 emprisebank.fdecs.com
 empuls.io
 ems.centurum.com
+ems.it.vinted.com
 emscard.com
 emsgws.emessenger-fd.com
 emsoffice.cbre.com
@@ -18178,7 +17970,6 @@ esi-flask-okta-demo.cbreesi.com
 esi-topics.com
 esi.ac.cn
 esi.mil
-esignapp.elcompanies.cn
 esisweb.com.au
 esitef-ec.softwareexpress.com.br
 esitef-homologacao.softwareexpress.com.br
@@ -18279,12 +18070,6 @@ estathebacktowork26.estathe.it
 estathecanoa26.estathe.it
 estathefornopizza26.estathe.it
 estccdn.com
-estee-lauder.co.uk
-estee.com
-esteelauder.co.nz
-esteelauder.co.uk
-esteelauder.com
-esteelauder.com.au
 estimator-api-dev.cbre.com
 estimator-api-qa.cbre.com
 estimator-api-uat.cbre.com
@@ -18668,10 +18453,8 @@ explore.deere.com
 explore.l3harris.com
 explore.mainnet.tempo.xyz
 explore.redoxengine.com
-explore.tempo.xyz
 exploreasource.com
 exploregenetherapy.ca
-explorer.aptoslabs.com
 explorer.avax.network
 explorer.ens.domains
 explorer.gobob.xyz
@@ -18710,8 +18493,6 @@ expressvpn.com
 expressvpn.jobs
 exs-dtu-gw-cf.africa.afso1.aws.indriverapp.com
 exs-dtu-gw-scf.sa.apse1.aws.indriverapp.com
-ext-cdp-am-qa.elcompanies.com
-ext-cdp-am.elcompanies.com
 ext-ebsods.caci.com
 ext-ebsodsoauth.caci.com
 ext-equifax.cl
@@ -18762,7 +18543,6 @@ extranet-uat.fiservapp.com
 extranet.aegeanair.com
 extranet.cbre.eu
 extranet.cbreinvestors.com
-extranet.estee-lauder.co.uk
 extranet.fiservapp.com
 extranet.fiservapps.com
 extranet.gallileo-frankfurt.com
@@ -18776,7 +18556,6 @@ extraparts.deere.com
 extras-acc.landmarkcinemas.com
 extras.landmarkcinemas.com
 extremetech.com
-extsso.elcompanies.cn
 extvdesk.abb.com
 extversion.pitch.se
 exxonmobil.wfg-baweb.com
@@ -18991,6 +18770,7 @@ faxpatinc.com
 fb.com
 fb.gallileo-frankfurt.com
 fb.gyft.com
+fb.lansweeper.com
 fb.me
 fb.test.gyft.com
 fbapps.aegeanair.com
@@ -19203,10 +18983,6 @@ fenfcu-dc.cert.fec-dc.fiservapps.com
 fenfcu-dn.financial-net.com
 fenfcu.com
 fenfcu.vbwebservices.com
-fep.suppliernet-hotfix.elcompanies.com
-fep.suppliernet-qa.elcompanies.com
-fep.suppliernet-uat.elcompanies.com
-fep.suppliernet.elcompanies.com
 fepas-cardse.softwareexpress.com.br
 fepas-sgf.softwareexpress.com.br
 fepascardse-cat.fiserv.com.br
@@ -19555,7 +19331,6 @@ finxact.io
 finzfin.com
 fiod.nl
 fiori.abb.com
-fiori.elcompanies.com
 fipnews.com
 fipo.abb.com
 fire-cu-admin.originate.fiservapps.com
@@ -19902,7 +19677,6 @@ fletch2.elis.abb.com
 flex-api.twilio.com
 flex-sparen.nl
 flex.keystonefunding.com
-flex01.elcompanies.com
 flexchange.nl
 flexport.com
 flexsparen.nl
@@ -20184,7 +19958,6 @@ forgeofempires.com
 forgotpass.johndeere.com
 forhosting.pro
 form.asana.com
-form.digitalcapture.elcompanies.com
 formant.dev.bearflagrobotics.com
 formassembly.com
 formationcu-admin.originate.fiservapps.com
@@ -20365,7 +20138,6 @@ frbfcu.org
 frbfcu.originate.fiservapps.com
 frederickfelman.com
 frederickfelman.net
-fredericmalle.co.uk
 fredmeyer.com
 fredmeyerjewelers.com
 free.law
@@ -20418,20 +20190,6 @@ frontiera-tst.cbre.eu
 frontiera.cbre.eu
 frontierbank-p2.onlinebank.com
 frontierbk.com
-frontiers-approval-sit-sea.elcompanies.com
-frontiers-approval-uat-sea.elcompanies.com
-frontiers-approval.elcompanies.com
-frontiers-aus.elcompanies.com
-frontiers-prod-aus-eform.elcompanies.com
-frontiers-prod-sg-eform.elcompanies.com
-frontiers-sit-aus.elcompanies.com
-frontiers-sit-hk-eform.elcompanies.com
-frontiers-sit-tw-eform.elcompanies.com
-frontiers-uat-aus-eform.elcompanies.com
-frontiers-uat-aus.elcompanies.com
-frontiers-uat-hk-eform.elcompanies.com
-frontiers-uat-tw-eform.elcompanies.com
-frontiers.elcompanies.com
 frontline-api.twilio.com
 frontspin.com
 frost.icm-uat.fiservapps.com
@@ -20439,8 +20197,6 @@ frost.icm.fiservapps.com
 frostbank-corpoint.fiservapps.com
 frostbank.caaweb.com
 frostbankuat.caaweb.com
-frt-prod-hk-eform.elcompanies.com
-frt-prod-tw-eform.elcompanies.com
 frtib.gov
 frtr.gov
 frysfood.com
@@ -20831,7 +20587,6 @@ gamernetworkvictoryroad.com
 gamerplus.mtn.co.za
 games-force.com
 games.ayoba.me
-games.cliniqueplay.com
 gamesacookies.com
 gamesanchor.com
 gamesindustry.biz
@@ -21042,6 +20797,7 @@ gemcreditline.co.nz
 gemfinance.co.nz
 gemini.yahoo.com
 geminiadvisory.io
+gemstash-integrations.vintedgo.com
 gemvisa.com.au
 genacor.com
 genasys.tech
@@ -21268,7 +21024,6 @@ github.io
 github.net
 githubapp.com
 githubassets.com
-githubhooks.elcompanies.com
 githubusercontent.com
 githubwebhooks.net
 gitlab.au.abb.com
@@ -21300,7 +21055,6 @@ gl.cbre.com
 glacierhills-dc.cert.fec-dc.fiservapps.com
 glacierhills-dn.financial-net.com
 glacierhills.com
-glamglow.co.uk
 glamourous-me.staging.cloveronline.com
 glamst.com
 glance.net
@@ -21435,7 +21189,6 @@ gms-prev.nba.com
 gms.app.essity.com
 gms.nba.com
 gmtrade.xyz
-gmw.elcompanies.com
 gmx.de
 gmx.io
 gn-anthem.com
@@ -21696,15 +21449,12 @@ graphql.seek.com
 graphsync-cons.services.wirtgen-group.com
 graphsync.services.wirtgen-group.com
 graphus.ai
-gratisawards12.elcompanies.com
 gratisschenken.milka.de
 gratisvog.nl
 gravatar.com
 gravitational.co
 gravitational.com
 gravitational.io
-grax-uat.estee.com
-grax.estee.com
 grc-aacg.mtn.com
 grc-ccg.mtn.com
 greatergiving.com
@@ -23288,9 +23038,6 @@ https://app.cvent.com/Subscribers/Appointments
 https://app.cvent.com/Subscribers/Events2
 https://app.cvent.com/Subscribers/Inquisium
 https://app.cvent.com/Subscribers/RFP
-https://app.datacamp.com/certification
-https://app.datacamp.com/groups
-https://app.datacamp.com/learn
 https://app.dexalot.com
 https://app.ecwid.com/api/v3
 https://app.fing.com/internet/business/devrecog/trial
@@ -23298,6 +23045,7 @@ https://app.glean.com/login
 https://app.granite.world/market
 https://app.high.powerbigov.us/view
 https://app.ibotta.com/sign-in
+https://app.lansweeper.com/trial
 https://app.simple-reports.com/demo
 https://app.sproutsocial.com/api
 https://app.wisdomtreeconnect.com/api
@@ -23403,7 +23151,6 @@ https://apps.apple.com/app/id1235601864
 https://apps.apple.com/app/id1254292716
 https://apps.apple.com/app/id1256027729
 https://apps.apple.com/app/id1257222717
-https://apps.apple.com/app/id1263413087
 https://apps.apple.com/app/id1265170914
 https://apps.apple.com/app/id1267896687
 https://apps.apple.com/app/id1273303729
@@ -23739,7 +23486,6 @@ https://apps.apple.com/app/id6444040977
 https://apps.apple.com/app/id6444105607
 https://apps.apple.com/app/id6444399387
 https://apps.apple.com/app/id6444640366
-https://apps.apple.com/app/id6444720285
 https://apps.apple.com/app/id6444868926
 https://apps.apple.com/app/id6444925665
 https://apps.apple.com/app/id6446202561
@@ -24062,6 +23808,7 @@ https://developer.arkoselabs.com/docs/arkose-labs-command-center
 https://developer.arkoselabs.com/docs/client-api
 https://developer.arkoselabs.com/docs/verify-api-v4
 https://developer.authorize.net/hello_world/sandbox.html
+https://developer.lansweeper.com/docs/data-api/get-started/welcome
 https://developer.nvidia.com/cuda-downloads
 https://developer.nvidia.com/nvcomp-downloads
 https://developer.nvidia.com/nvidia-development-tools-solutions-err_nvgpuctrperm-permission-issue-performance-counters
@@ -24449,6 +24196,8 @@ https://github.com/1inch/solana-fusion
 https://github.com/1inch/solidity-utils
 https://github.com/1inch/swap-vm
 https://github.com/1inch/token-plugins
+https://github.com/Infomaniak/android-infomaniak-meet
+https://github.com/Infomaniak/ios-infomaniak-meet
 https://github.com/aave
 https://github.com/aave-dao/aave-v3-origin
 https://github.com/aave-dao/gho-origin
@@ -24815,6 +24564,7 @@ https://github.com/immunefi-team/vaults
 https://github.com/immutable/ts-immutable-sdk
 https://github.com/infomaniak/desktop-kchat
 https://github.com/infomaniak/desktop-kdrive
+https://github.com/infomaniak/desktop-kmeet
 https://github.com/informalsystems/hermes
 https://github.com/innocraft
 https://github.com/instadapp/avocado-contracts-public
@@ -24994,7 +24744,6 @@ https://github.com/marinade-finance/liquid-staking-program
 https://github.com/marsfoundation/aave-v3-core
 https://github.com/marsfoundation/spark-alm-controller
 https://github.com/marsfoundation/spark-app
-https://github.com/marsfoundation/spark-dev-docs
 https://github.com/marsfoundation/spark-docs
 https://github.com/marsfoundation/spark-gov-relay
 https://github.com/marsfoundation/spark-psm
@@ -25124,6 +24873,9 @@ https://github.com/nicehash/nicehashminer
 https://github.com/nicehash/nicehashquickminer
 https://github.com/nitrojs/nitro
 https://github.com/nodejs/node
+https://github.com/noirwallet/noir-wallet
+https://github.com/noirwallet/zcash-wallet-adapter
+https://github.com/noirwallet/zcash-wallet-wasm
 https://github.com/nuxt/nuxt
 https://github.com/oasisprotocol/curve25519-voi
 https://github.com/oasisprotocol/deoxysii
@@ -25291,6 +25043,7 @@ https://github.com/snowfork/snowbridge-app
 https://github.com/solidusio/solidus
 https://github.com/solidusio/solidus_auth_devise
 https://github.com/sorare/api
+https://github.com/sparkdotfi/spark-dev-docs
 https://github.com/sparkdotfi/spark-vaults-v2
 https://github.com/spotify/android-sdk
 https://github.com/spotify/ios-sdk
@@ -26799,7 +26552,6 @@ https://play.google.com/store/apps/details?id=fr.assurancemaladie.monespacesante
 https://play.google.com/store/apps/details?id=fr.doctolib.www
 https://play.google.com/store/apps/details?id=fr.vinted
 https://play.google.com/store/apps/details?id=hu.marionnaud.customer
-https://play.google.com/store/apps/details?id=id.co.bankfama.android
 https://play.google.com/store/apps/details?id=id.dana
 https://play.google.com/store/apps/details?id=in.amazon.mShop.android.business.shopping
 https://play.google.com/store/apps/details?id=in.amazon.mShop.android.shopping
@@ -27332,7 +27084,6 @@ https://www.cyberghostvpn.com/en_US/apps/windows-vpn
 https://www.dancenter.dk/sommerhus/midtjylland/midtjylland/kvie-so/65573
 https://www.dashlane.com/download-dashlane
 https://www.dashlane.com/sso
-https://www.datacamp.com/datalab
 https://www.deepcoin.com/en/apiPage
 https://www.delacre.com/fr/fr/xp/jeu-concours
 https://www.delacre.com/int/en
@@ -27379,7 +27130,6 @@ https://www.files.com/docs/client-apps/command-line-interface-cli-app
 https://www.files.com/docs/client-apps/desktop-v6-app
 https://www.files.com/docs/client-apps/mobile-app
 https://www.files.com/docs/on-premise/agent
-https://www.gainsight.com/security/vulnerability-disclosure-program
 https://www.ghafwoods.com/en
 https://www.giotto.de/potluck
 https://www.glassdoor.com/Compare
@@ -27459,6 +27209,8 @@ https://www.kruidvat.be/api/v2/api-docs
 https://www.kruidvat.nl/api/v2/api-docs
 https://www.kuleuven.be/sapredir/huisvesting
 https://www.ladbrokes.com/en/games
+https://www.lansweeper.com/download
+https://www.lansweeper.com/product/features/integrate/flow-builder
 https://www.larksuite.com/download
 https://www.leukoplast.be/fr
 https://www.leukoplast.ch/de
@@ -27478,7 +27230,6 @@ https://www.mercadopago.com.br/crypto
 https://www.mercadopago.com.mx/crypto
 https://www.microsoft.com/en-us/p/hey-mail/9pf08ljw7gw2
 https://www.microsoft.com/en-us/p/keeperchat/9pdqtcpn4kxn
-https://www.mintscan.io/noble/assets/native/YXVzZHk=
 https://www.mongodb.com/docs/agentengine
 https://www.mongodb.com/docs/atlas/billing
 https://www.mongodb.com/docs/atlas/infinite/atlas-infinite-landing
@@ -27584,8 +27335,6 @@ https://www.outsourcing.optus.net.au/eFRAMS3
 https://www.outsourcing2.optus.net.au/eFRAMS3
 https://www.parool.nl/abonnementen
 https://www.pbgc.gov/mypba
-https://www.personio.com/free-trial
-https://www.personio.de/kostenlos-testen
 https://www.phonepe.com/press/phonepe-launches-upi-payments-for-indias-feature-phone-users
 https://www.pingidentity.com/en/cloud/pingid.html
 https://www.posti.fi/en/customer-support/company-information/invoicing-and-changing/change-of-invoicing-address
@@ -27836,7 +27585,6 @@ hudfcu.originate.fiservapps.com
 hudocfo.caci.com
 hudsonsbay.gift.solutions
 hudsonsbay.wgiftcard.com
-hug.personio.com
 hughes.com
 hughesfcu.architect-cert.fiservapps.com
 hughesfcu.org
@@ -28163,7 +27911,6 @@ idex.io
 idfcats.firstdata.com
 idfcbank.com
 idg.ch.abb.com
-idm-qa.elcompanies.com
 idmanagement.gov
 idmatrix.com.au
 idmemberbenefits.com
@@ -28976,6 +28723,7 @@ integration-test.cbre.com
 integration.cbre.com
 integration.fmpilot2.com
 integration.icare.abb.com.cn
+integrations.vintedgo.com
 integrationsourcing-dev.cbre.fr
 integrationsourcing-uat.cbre.fr
 integrationsourcing.cbre.fr
@@ -28986,7 +28734,6 @@ integrisfcu-admin.originate.fiservapps.com
 integrisfcu-dc.cert.fec-dc.fiservapps.com
 integrisfcu-dn.financial-net.com
 integrisfcu.originate.fiservapps.com
-integrity.elcompanies.com
 integritybankva.onlinebank.com
 intel.com
 intelex.jjwws.com
@@ -29094,7 +28841,6 @@ intigriti.com
 intigriti.me
 intigriti.rocks
 intl.worklytics.co
-intlmktg.elcompanies.com
 intqa.ft.cashedge.com
 intqaciti.ft.cashedge.com
 intqacompass.ft.cashedge.com
@@ -29817,9 +29563,6 @@ jacomcu-admin.originate.fiservapps.com
 jacomcu-dc.cert.fec-dc.fiservapps.com
 jacomcu-dn.financial-net.com
 jacomcu.originate.fiservapps.com
-jade-dev.elcompanies.com
-jade-qa.elcompanies.com
-jade.elcompanies.com
 jadenu.ca
 jakavi.ca
 jakelu.posti.fi
@@ -30185,7 +29928,6 @@ jointeffortsrheum.ca
 jointhemoment.net
 jojo.exchange
 jokesmitprijs.nl
-jomalone.co.uk
 jonesbank.onlinebank.com
 jonglereneten.nl
 jontest.signaturescience.com
@@ -30359,8 +30101,6 @@ kaiser.bypassmobile.com
 kaleido.ai
 kali.org
 kamervoordebinnenvisserij.nl
-kanaresponse.elcompanies.com
-kanaresponseqa.elcompanies.com
 kandkclaimsportal.com
 kandkinsurance.com
 kansrijkestartnl.nl
@@ -30814,7 +30554,6 @@ krogerwireless.com
 kron.no
 kronor.io
 kronos*.bykea.net
-krslqa.elcompanies.com
 kruidvat.be
 kruidvat.nl
 kruidvatkids.nl
@@ -31079,6 +30818,7 @@ languagecert.org
 languagesinview.com
 lanierfcu.org
 lanpass.aero
+lansweeper.com
 lanternpay.com
 lantours.aero
 lanvb.com
@@ -31225,8 +30965,6 @@ leagueoflegend.fr
 leanoffice.pl.abb.com
 leantime.io
 leap.biz
-learn-pilot.elcompanies.com
-learn.elcompanies.com
 learn.gallileo-frankfurt.com
 learn.harvestprofit.com
 learn.liferay.com
@@ -31256,6 +30994,7 @@ leaseweb.com
 leasing.apartments.com
 leasingproposal.cbre.com.au
 leather.io
+lecstaticcontent.lansweeper.com
 ledger.com
 ledn.io
 leebank.onlinebank.com
@@ -31304,7 +31043,6 @@ leicabiosystems.com
 leidraadse.nl
 leisure-partners.net
 lejiaconejo.es
-lelabo.co.uk
 lemcal.com
 lemlist.com
 lemonsqueezy.com
@@ -31588,7 +31326,6 @@ linkedin.com
 linkisi.com
 linkisi.info
 links.baldor.com
-links.estee.com
 links.geneva-staging.chat
 links.geneva-staging.com
 links.help.agrisync.com
@@ -31699,9 +31436,6 @@ lloydsbankcardnetmerchantportal.fiservapp.com
 lloydsbankcardnetportal.firstdata.com
 lloydsbanking.co.uk
 lloydsbanking.com
-lm-apacretail-otm.elcompanies.com
-lm-arh.elcompanies.com
-lm.mylmx.com
 lma.nl
 lmapi.cbre.com
 lmefcu-dc.cert.fec-dc.fiservapps.com
@@ -31891,6 +31625,7 @@ login.infomaniak.com
 login.innogames.de
 login.insightly.com
 login.koho.ca
+login.lansweeper.com
 login.mbs-navigator.com
 login.medscape.com
 login.my.fleetboard.com
@@ -32282,9 +32017,6 @@ lporeview.com
 lps.dmp.gouv.fr
 lps2.dmp.gouv.fr
 lpsdxp.com
-lpwb.suppliernet-hotfix.elcompanies.com
-lpwb.suppliernet-uat.elcompanies.com
-lpwb.suppliernet.elcompanies.com
 lqm.53.com
 lsbhank-p2.onlinebank.com
 lsexternalapps.uat.cbre.com
@@ -32522,9 +32254,6 @@ mac-ai-devl.deere.com
 macabacus.com
 macaronigrill.gift.solutions
 macatawa2.caaweb.com
-maccosmetics.co.uk
-maccosmetics.com
-maccosmeticstravels.com
 machiassavings-admin.originate.fiservapps.com
 machiassavings.caaweb.com
 machiassavings.originate.fiservapps.com
@@ -34182,7 +33911,6 @@ micropat.com
 micropat.us
 micropatent.com
 micropats.com
-microsite.digitalcapture.elcompanies.com
 microsites.baldor.abb.com
 microsoft.com
 microstrategy.com
@@ -34559,7 +34287,6 @@ mobile-ordering.bypassmobile.com
 mobile-phantom.com
 mobile-prod.fleetboard.com
 mobile-staging.aegeanair.com
-mobile-standby.am.elcompanies.com
 mobile-tst.fleetboard.com
 mobile.3090.loctite.es
 mobile.3090.loctite.it
@@ -35007,7 +34734,6 @@ mrlc.gov
 mrp1.cunetbranch.com
 mrscdc.cbre.com
 mrsrom.cbre.com
-ms-api.elcompanies.com
 ms-brasil-cat.fiservapp.com
 ms-brasil.fiservapp.com
 ms-calculator.rental-pricing.qone.mateco.eu
@@ -35025,9 +34751,6 @@ msc-parser-host.ghns-web-platform-prod-standalone4.us.e00.c01.johndeerecloud.com
 msclinicaltrials.ca
 msd.com
 msd.govt.nz
-msds.suppliernet-hotfix.elcompanies.com
-msds.suppliernet-uat.elcompanies.com
-msds.suppliernet.elcompanies.com
 mse.telos.com
 msftonlinerepro.com
 msg-cf.euce1.indriverapp.com
@@ -35549,7 +35272,6 @@ myapi.arlo.com
 myapp.monash.edu
 myapp.somnoware.com
 myappdr.cbre.com
-myapps-qa.elcompanies.com
 myapps-secure.cbre.eu
 myapps-secure.gslb.cbre.eu
 myapps.53.com
@@ -35586,7 +35308,6 @@ mybankwell.originate.fiservapps.com
 mybankwelluat.caaweb.com
 mybattlecards.abb.com
 mybb.com
-mybbu.com
 mybcfcu-admin.originate.fiservapps.com
 mybcfcu.originate.fiservapps.com
 mybcfcuaccount.com
@@ -35741,10 +35462,6 @@ mygenbank.onlinebank.com
 mygenesisbank.com
 mygiftcard.gyft.com
 myglaucomasupport.ca
-myglobalhr-dr.elcompanies.com
-myglobalhr.elcompanies.com
-myglobalhrtst.elcompanies.com
-myglobalhruat.elcompanies.com
 myharmony.com
 myhbank.onlinebank.com
 myhcfcu.org
@@ -35808,7 +35525,6 @@ mylibertytrust-p2.onlinebank.com
 mylifeatkroger.com
 mylightspeed.app
 mylink.page
-mylmx.com
 mylncu-dc.cert.fec-dc.fiservapps.com
 mylncu-dn.financial-net.com
 mylncu.com
@@ -35817,7 +35533,6 @@ mylock.dk
 mylsb.caaweb.com
 mylync.cbre.com
 mylync.cbreglobalinvestors.com
-mymacactivity.maccosmetics.com
 mymateco.cz
 mymateco.de
 mymateco.hu
@@ -36109,7 +35824,6 @@ naheola.streamlendvelocity.net
 naiad.cloud
 naiad.ninja
 naimuri.com
-nalx.elcompanies.com
 nam.abb.com
 namazu.org
 namejet.com
@@ -36980,7 +36694,6 @@ no.harmankardon.com
 no.inside.abb.com
 no.jbl.com
 noaa.gov
-noam-xstore-adyenpbl.elcompanies.com
 nobilist.com
 noctula.org
 noddji.nl
@@ -37844,7 +37557,6 @@ omnipodapps.com
 omnipodcloud.com
 omnitrope.ca
 omniture.com
-oms-as-portal.elcompanies.cn
 omtrdc.net
 on-app-backend.on-running.com
 on-app-backend.on.com
@@ -38506,8 +38218,6 @@ origin-5s2zmc8i7u-mapptst.abb.com.cn
 origin-65igqkk6ho-online.abb.com.cn
 origin-6hkj6izgqx-drivehelp.abb.com.cn
 origin-9g0txghrin-rulestaging.drives-document-generator.abb.com
-origin-files-nalx.elcompanies.com
-origin-files-uat-nalx.elcompanies.com
 origin-fplebg8e7m-ws.abb.com.cn
 origin-h1etu47ya3-qbox.ch.abb.com
 origin-jv4dkyrym6-myvaccine.us.abb.com
@@ -38515,11 +38225,6 @@ origin-kfd21mg05h-wstst.abb.com.cn
 origin-o3ohwl2w2b-tools.electrification.us.abb.com
 origin-p74eyz6faf-drives.abb.com.cn
 origin-secure-prod-radware.getbento.com
-origin-st-apacretail-otm.elcompanies.com
-origin-st-arh.elcompanies.com
-origin-st-dev-apacretail-otm-pnp.elcompanies.com
-origin-st-uat-apacretail-otm-pnp.elcompanies.com
-origin-st-uat-apacretail-otm.elcompanies.com
 origin-staging-radware.bentosandbox.com
 origin-w9qmurftgl-stg.condition-monitoring.mining.ability.abb.com
 origin-www.tal.deere.com
@@ -38602,8 +38307,6 @@ originateloanscc.streamlendvelocity.net
 origindigital-pac.com.au
 originenergy.com.au
 originprotocol.com
-origins-productservices.elcompanies.com
-origins.co.uk
 originzero.com.au
 orionhealth.com
 orionlabs.io
@@ -38657,7 +38360,6 @@ oteam.nl
 oteenvafcu-dc.cert.fec-dc.fiservapps.com
 oteenvafcu-dn.financial-net.com
 otherside.xyz
-otm-pnp.elcompanies.com
 otodom.pl
 otomoto.pl
 otp.catalyst.clover.com
@@ -38738,13 +38440,6 @@ ovo.id
 ovofinansial.com
 ovpn.bearflagrobotics.com
 ow.ly
-owa-auth1.am.elcompanies.com
-owa-auth1.eu.elcompanies.com
-owa-auth2.am.elcompanies.com
-owa-auth2.eu.elcompanies.com
-owa-standby.am.elcompanies.com
-owa-standby.eu.elcompanies.com
-owa.am.elcompanies.com
 owa.cbre.co.in
 owa.cbre.co.jp
 owa.cbre.com
@@ -38756,7 +38451,6 @@ owa.cbre.fr
 owa.cbreapps.com
 owa.cbrekorea.com
 owa.cbrevietnam.com
-owa.eu.elcompanies.com
 owa.facilitysource.com
 owa.gallileo-frankfurt.com
 owa.gslb.cbre.eu
@@ -39519,11 +39213,6 @@ pdfroster.nba.com
 pdi.deere.com
 pdq.com
 pdqs.mobi
-pdr.suppliernet-dev.elcompanies.com
-pdr.suppliernet-hotfix.elcompanies.com
-pdr.suppliernet-qa.elcompanies.com
-pdr.suppliernet-uat.elcompanies.com
-pdr.suppliernet.elcompanies.com
 pds-term1.ca.essd.northgrum.com
 pds.cbre.com
 pds.norlandprojects.co.uk
@@ -39615,7 +39304,6 @@ peopleandplaces.cbre.com
 peopleandplacesadmin.cbre.com
 peoplecert.org
 peoplefirstbank-p2.onlinebank.com
-peoplehub-build.elcompanies.com
 peoplemetro.com.au
 peopleorgchart.cbre.com
 peopleorgchartcloud.cbre.com
@@ -39737,12 +39425,6 @@ personalpay.onlinepayments.regions.com
 personalpay.onlinepayments.regionstest.com
 personenregisterkinderopvang.nl
 personetics-test.fiserv.io
-personio-dev.com
-personio-internal.de
-personio.com
-personio.de
-personio.tools
-personiowhistleblowing.com
 personix.com
 personnalite.com.br
 personnaliteinvestnet.com.br
@@ -40622,8 +40304,6 @@ porttoplant.com
 porttoplant.net
 portugal.zebra.com
 portugues.zebra.com
-pos-uat.elcompanies.cn
-pos.elcompanies.cn
 posh.pitch.se
 pospayweb.secureaps.com
 pospaywebdr.secureaps.com
@@ -40741,7 +40421,6 @@ pr.nba.com
 practicalbusinessskills.org
 practicalmoneyskills.com
 practicalmoneyskills.org
-practice.datacamp.com
 practice.securevetsource.com
 practo.com
 pragueofficeadvisor.cbre.cz
@@ -40871,7 +40550,6 @@ preprod.gallileo-frankfurt.com
 preprod.monespacesante.fr
 preprod.nutella.ai
 preprod.performanceiq.cbre.com
-preprod.supplierportal.elcompanies.com
 preprod1.grindr.com
 preprod1.monespacesante.fr
 preprod2-accounts.firstdata.com
@@ -41256,7 +40934,6 @@ products.deere.com
 products.electrificationtools.abb.com
 products.harvestprofit.com
 products.mo.cloudintegration.abb.com
-productservices.elcompanies.com
 productsizer.nutanix.com
 productviewer.deere.com
 produktion.api.praxispad.de
@@ -41276,7 +40953,6 @@ profile.hackthebox.com
 profile.playstation.com
 profile.segment.com
 profile.telenor.se
-profiles-api.datacamp.com
 profiles.sports.yahoo.com
 profiles.wordpress.org
 profileservicep.deere.com
@@ -41294,7 +40970,6 @@ progressiveozarkbank.onlinebank.com
 progressivetech.holdings
 progrowth-p2.onlinebank.com
 proimg.nl
-projdev.supplierportal.elcompanies.com
 project.cbre.dk
 project.gallileo-frankfurt.com
 projectbaseline.com
@@ -41309,7 +40984,6 @@ projectneon.com
 projectradon.com
 projects.cbre.eu
 projects.cbre.se
-projects.datacamp.com
 projects.dev
 projects.drives.abb.com.cn
 projects.epam.com
@@ -41318,7 +40992,6 @@ projects.nextcloud.com
 projects.proptech.cbre.eu
 projectspace.abb.com
 projecttimeentry.industrial-automation-service.abb.com
-projqa.supplierportal.elcompanies.com
 prolaborate.services.wirtgen-group.com
 prolife.nl
 prolinx.co.uk
@@ -41907,10 +41580,6 @@ qa-api.businesstrack.com
 qa-api.marketplace.fiserv.com
 qa-apigee-fiservapps-use4.ns1.fiservapis.com
 qa-apigee-fiservapps.ns1.fiservapis.com
-qa-apps-dev.cliniquecomputer.com
-qa-apps-stage.cliniquecomputer.com
-qa-apps-test.cliniquecomputer.com
-qa-apps.cliniquecomputer.com
 qa-assets.aon-hugeops.uk
 qa-billpay.goldman.com
 qa-ccc.businesstrack.com
@@ -41922,15 +41591,11 @@ qa-depositreturns.fiservsco.com
 qa-developer.fiserv.com
 qa-developerstudio.fiserv.com
 qa-dma.fiserv.com
-qa-dms-external.elcompanies.com
 qa-east-accounts.businesstrack.com
 qa-east-api.businesstrack.com
 qa-east-miam.businesstrack.com
 qa-east-proxy.businesstrack.com
 qa-east-www.businesstrack.com
-qa-eis-wm-cn.elcompanies.cn
-qa-eis-wm-na.elcompanies.com
-qa-eis-wm-sg.elcompanies.com
 qa-enterprise.serviceinsight.cbre.com
 qa-gateway.serviceinsight.cbre.com
 qa-gp-api-fiservapps-ause1.ns1.fiservapis.com
@@ -41948,12 +41613,10 @@ qa-media.cbreone.cbre.com
 qa-merchantselfboarding.businesstrack.com
 qa-miam.businesstrack.com
 qa-mktgdocs.nonprod.cbre.com
-qa-ms-api.elcompanies.com
 qa-oneplatform.com
 qa-onlinebanking.firstdata.com
 qa-onlinestore.businesstrack.com
 qa-onlinestore.fiserv.com
-qa-otm-pnp.elcompanies.com
 qa-previous.pclender.com
 qa-production.pclender.com
 qa-proxy.businesstrack.com
@@ -41969,9 +41632,6 @@ qa-server-inventory.mintel.com
 qa-serviceinsight.cbre.com
 qa-serviceinsight.cbreapps.com
 qa-test-studio.marketplace.fiserv.com
-qa-tml.elcompanies.com
-qa-tr-otm-pnp.elcompanies.com
-qa-tr-otm.elcompanies.com
 qa-transfernow.usbank.com
 qa-ukplatform.cbre.com
 qa-west-accounts.businesstrack.com
@@ -42032,7 +41692,6 @@ qa.rewards.deere.com
 qa.smartfm.cbre.com
 qa.spaces.cbre.com
 qa.stats.nba.com
-qa.supplierportal.elcompanies.com
 qa.surveycreator.brokerhub.cbre.com
 qa.vantage-analytics.cbre.com
 qa.vantageanalytics.cbre.com
@@ -42070,7 +41729,6 @@ qaapi-ukplatform.cbre.com
 qaapi.flow.cbre.com
 qaapi.officeready-np.cbre.com
 qaapi.pjmtech-np.cbre.com
-qaarchives.elcompanies.com
 qaceft.intqa.fundstransfer.cashedge.com
 qaceft.transfers.bankofamerica.com
 qacitizensbankonline.com
@@ -42134,6 +41792,7 @@ qmastor.net
 qmlservices.com
 qmlservices.net
 qms.lmg.motion.abb.com.cn
+qnrs.vintedgo.com
 qntrl.com
 qoria.com
 qpconferencerooms.cbre.ca
@@ -42152,9 +41811,6 @@ qrcode.motion.abb.com.cn
 qrcodeelo-mtls.softwareexpress.com.br
 qrent.qone.mateco.eu
 qrep.qone.mateco.eu
-qrp-dev.elcompanies.com
-qrp-uat.elcompanies.com
-qrp.elcompanies.com
 qt.boots.com
 qt.fdecs.com
 qtcat.fdecs.com
@@ -42936,8 +42592,6 @@ rentcycleapi-uat.cbre.com
 rentcycleapi.cbre.com
 rentcycleui-dev.cbre.com
 renttracker-dev.cbre.com
-rep-files.elcompanies.com
-rep-frederic-malle.elcompanies.com
 repi.mil
 repl.it
 replay.sh
@@ -43681,9 +43335,6 @@ ru.staging.about.aegeanair.com
 ru.staging.aegeanair.com
 rubble-api.mfg-branch-and-parts-prod-vpn.us.e11.c01.johndeerecloud.com
 rubson.com
-ruby-dev.elcompanies.com
-ruby-qa.elcompanies.com
-ruby.elcompanies.com
 rubygems.org
 rubyhouse.cbresi.com.au
 ruffles.com
@@ -43928,8 +43579,6 @@ salesuat.caaweb.com
 salliemae.architect-cert.fiservapps.com
 salliemae.com
 salliemae.fdecs.com
-salon.avedakorea.co.kr
-salon.darphin.co.kr
 salonory.com
 saltcityfcu-admin.originate.fiservapps.com
 saltcityfcu.originate.fiservapps.com
@@ -44055,8 +43704,6 @@ sapdp-perf.snappayglobal.com
 sapdp-stage.snappayglobal.com
 sapdp.snappayglobal.com
 saphotonics.com
-sapphire-qa.elcompanies.com
-sapphire.elcompanies.com
 sapphire.oasis.io
 sapr.mil
 saprodweu01ecpdps01ui.z6.web.core.windows.net
@@ -44328,9 +43975,6 @@ scrollscan.com
 scrs.mainstreamsasp.com
 scrutiny.swiftfinancial.com
 scs-tariff-mgmt.supplymgmt-tariffs-devl-vpn.use1.e15.c01.johndeerecloud.com
-scswb.suppliernet-hotfix.elcompanies.com
-scswb.suppliernet-uat.elcompanies.com
-scswb.suppliernet.elcompanies.com
 scvotes.gov
 sd3fcu-admin.originate.fiservapps.com
 sd3fcu-dc.cert.fec-dc.fiservapps.com
@@ -44624,7 +44268,6 @@ seilingsb-p2.onlinebank.com
 seilingsb.architect-cert.fiservapps.com
 seilingsb.onlinebank.com
 seilingsb.originate.fiservapps.com
-seiscan.io
 seital.fr
 seitrace.com
 select.logitech.com
@@ -44679,26 +44322,6 @@ selfpublishedauthor.biz
 selfpublishedauthor.com
 selfpublishedauthor.info
 selfpublishedauthor.mobi
-selfservice.aramis.co.uk
-selfservice.aveda.co.uk
-selfservice.balmainbeauty.co.uk
-selfservice.bobbibrown.co.uk
-selfservice.bumbleandbumble.co.uk
-selfservice.bykilian.co.uk
-selfservice.clinique.co.uk
-selfservice.cremedelamer.co.uk
-selfservice.darphin.co.uk
-selfservice.drjart.co.uk
-selfservice.estee-lauder.co.uk
-selfservice.fredericmalle.co.uk
-selfservice.glamglow.co.uk
-selfservice.jomalone.co.uk
-selfservice.lelabo.co.uk
-selfservice.maccosmetics.co.uk
-selfservice.origins.co.uk
-selfservice.smashbox.co.uk
-selfservice.tomfordbeauty.co.uk
-selfservice.toofaced.co.uk
 selfstoragesoftware.com.au
 selkirkfinancial.com
 selkirkfinancial.net
@@ -44926,10 +44549,8 @@ services-merchant.staging.cloveronline.com
 services-prod.onefiserv.com
 services-test.gyft.com
 services-test.onefiserv.com
-services-uat.elcompanies.com
 services.aig.co.il
 services.chipotle.com
-services.elcompanies.com
 services.gallileo-frankfurt.com
 services.gyft.com
 services.klaviyo.com
@@ -45017,7 +44638,6 @@ sgnl.ai
 sgnl.cloud
 sgnl.team
 sgnlapis.cloud
-sgslqa.elcompanies.com
 sgts.firstdata.com
 sgtspos.firstdata.com
 sh.reddit.com
@@ -45152,12 +44772,6 @@ shop.sentera.com
 shop.tena.co.uk
 shop.tena.de
 shop.tena.fr
-shop.thecompanystore.asia
-shop.thecompanystore.com.my
-shop.thecompanystore.com.sg
-shop.thecompanystore.com.tw
-shop.thecompanystore.jp
-shop.theonlinecompanystore.com.au
 shop.tiktok.com
 shop.trouw.nl
 shop.tw.coupang.com
@@ -45461,8 +45075,6 @@ sit-crsp.serviceinsightlocal.cbre.eu
 sit-di.serviceinsightlocal.cbre.eu
 sit-dyin.serviceinsightlocal.cbre.eu
 sit-enterprise.serviceinsight.cbre.com
-sit-frontiers-approval.elcompanies.com
-sit-frontiers.elcompanies.com
 sit-lightbox.cbre.com
 sit-noti.serviceinsightlocal.cbre.eu
 sit-pmservice.serviceinsightlocal.cbre.eu
@@ -45743,7 +45355,6 @@ sloveniansavingsandloan.com
 sloveniansavingsandloan.vbwebservices.com
 slpcu-dc.cert.fec-dc.fiservapps.com
 slpcu-dn.financial-net.com
-slqa.elcompanies.com
 slrortho.com
 slvfed.architect-cert.fiservapps.com
 slvfed.architect-cert.onlinebank.com
@@ -45797,7 +45408,6 @@ smarttrader.deriv.com
 smartview-acpt.fiservapps.com
 smartview.fiservapps.com
 smashbattleslive.com
-smashbox.co.uk
 smb-cert.solspark.com
 smb.solspark.com
 smblogin.com
@@ -46293,9 +45903,6 @@ sparkspread.com
 spatialbuzz.com
 spawish.wgiftcard.com
 spaziodati.eu
-spc.estee-lauder.co.uk
-spc.esteelauder.co.nz
-spc.esteelauder.com.au
 spd15revision.gov
 speakap.com
 speakap.io
@@ -46533,7 +46140,6 @@ sso-p2p-bmo.fiservapps.com
 sso-p2p-citizens.fiservapps.com
 sso-p2p-regions.fiservapps.com
 sso-p2p-td.fiservapps.com
-sso-qa.elcompanies.com
 sso-sco2.fiservsco.com
 sso-signing.cbre.com
 sso-signing.cbre.eu
@@ -46586,9 +46192,6 @@ ssowp-cat.firstdata.com
 ssp.aegeanair.com
 ssp.fiservapp.com
 ssp.navient.com
-sspec.suppliernet-hotfix.elcompanies.com
-sspec.suppliernet-uat.elcompanies.com
-sspec.suppliernet.elcompanies.com
 sspr.us.baesystems.com
 sss.gov
 sst.cbre.com
@@ -47468,13 +47071,11 @@ supamac.au
 supamac.com.au
 supamacmarketing.com.au
 supamlapi.cbre.com
-super-id.net
 super.xyz
 super6.skysports.com
 superamerica.fdecs.com
 superawesome.com
 superawesome.tv
-superbank.id
 superbeatsports.com
 superbet.bet.br
 superbet.com
@@ -47514,14 +47115,8 @@ supplier.underarmour.com
 supplier.viator.com
 suppliercompare.deere.com
 supplierevent.cbre.co.uk
-suppliernet-dev.elcompanies.com
-suppliernet-hotfix.elcompanies.com
-suppliernet-qa.elcompanies.com
-suppliernet-uat.elcompanies.com
-suppliernet.elcompanies.com
 supplieroasis.com
 supplierportal.drs.com
-supplierportal.elcompanies.com
 supplierportal.us.baesystems.com
 supplierportale.it.hpe.com
 supplierportale.wip.it.hpe.com
@@ -47843,8 +47438,6 @@ taalakkoord.nl
 tabac-info-service.fr
 tabbank.caaweb.com
 tabela-doboru-klejow.pl
-tableau-cn-uat.elcompanies.cn
-tableau-cn.elcompanies.cn
 tableau-saml-btat2.fiservapps.com
 tableau-saml.fiservapps.com
 tableau.fareharbor.engineering
@@ -47877,7 +47470,6 @@ takeheartcme.ca
 taking-the-pulse.com
 talent.canada.ca
 talent.lowes.com
-talenthub.elcompanies.com
 talentisbelangrijker.nl
 talentwall.io
 talkdemo.pitch.se
@@ -48781,15 +48373,7 @@ thecnb-p2.onlinebank.com
 thecnb.onlinebank.com
 thecnb.originate.fiservapps.com
 thecoalition.com
-thecompanystore.asia
-thecompanystore.co.kr
-thecompanystore.com.hk
-thecompanystore.com.my
-thecompanystore.com.sg
-thecompanystore.com.tw
-thecompanystore.jp
 thecoolins.com
-thecosmeticscompanystore.com
 thecurrent.com
 thedataspecialist.com.au
 thedialogcorporation.com
@@ -48813,8 +48397,6 @@ thefork.com
 thefork.io
 thefork.tech
 theforkmanager.com
-thefoundation-clinique-api.elcompanies.com
-thefoundation.clinique.com
 thegenealogydatabase.com
 thegenealogydatabase.net
 thegenealogydatabase.org
@@ -48890,7 +48472,6 @@ thenodbuysblack.com
 thenorthface.com
 thenutshell.com
 theofferclub.in
-theonlinecompanystore.com.au
 theossteam.com
 thepatentcompany.com
 thepatentcompany.net
@@ -49207,7 +48788,6 @@ tmhfcu-dc.cert.fec-dc.fiservapps.com
 tmhfcu-dn.financial-net.com
 tmhfcu.org
 tmipce1.northgrum.com
-tml.elcompanies.com
 tmp-qc.aoncatweb.com
 tms-uat.cardconnect.com
 tms.cardconnect.com
@@ -49296,8 +48876,6 @@ tokopedia.com
 tokopedia.net
 tokopediax.com
 tom.cbre.com
-tomfordbeauty.co.uk
-tomfordbeauty.com
 tommyhilfiger.fr
 tommyhilfiger.gift.solutions
 tommyhilfiger.wgiftcard.com
@@ -49314,9 +48892,6 @@ toneskincare.com
 tonicaantarctica.com.br
 tonscan.org
 toobit.com
-toofaced.co.uk
-toofacedcosmetic.com
-toofaceddigitalwallet.com
 toolbox-editor.mbs-navigator.com
 toolbox.com
 toolbox.mbs-navigator.com
@@ -49487,7 +49062,6 @@ tr-cf.euce1.indriverapp.com
 tr-dev.intrepid.cbre.com
 tr-gw-cf.euce1.indriverapp.com
 tr-gw-scf.euce1.indriverapp.com
-tr-otm.elcompanies.com
 tr-qa.nonprod.cbre.com
 tr-scf.euce1.indriverapp.com
 tr-tm.nonprod.cbre.com
@@ -49633,8 +49207,6 @@ traefik.gallileo-frankfurt.com
 trail.gallileo-frankfurt.com
 trailer-dev.witos.wirtgen-group.com
 trailer.witos.wirtgen-group.com
-train.supplierportal.elcompanies.com
-train2.supplierportal.elcompanies.com
 trainercentral.com
 training-core.cbre.com
 training-core.cbre.eu
@@ -49746,7 +49318,6 @@ traveloka.com
 travelokapay.com
 travelpackages.aegeanair.com
 travelrookie.aegeanair.com
-travelsmart.elcompanies.com
 travix.com
 travix.io
 trdusa.com
@@ -50259,8 +49830,6 @@ uat-config.carat-platforms.fiserv.com
 uat-contactpoint.fiservapps.com
 uat-crsm.serviceinsightlocal.cbre.eu
 uat-crsp.serviceinsightlocal.cbre.eu
-uat-ctp.elcompanies.cn
-uat-ctpbi.elcompanies.cn
 uat-depositary.cbreglobalinvestors.com
 uat-di.serviceinsightlocal.cbre.eu
 uat-dyin.serviceinsightlocal.cbre.eu
@@ -50277,8 +49846,6 @@ uat-erix-research.cbre.eu
 uat-exta.cbreglobalinvestors.com
 uat-fimu-x-usc1.ns1.fiservapis.com
 uat-fimu-x-use4.ns1.fiservapis.com
-uat-frontiers-approval.elcompanies.com
-uat-frontiers.elcompanies.com
 uat-function-email-sender.cbreapps.com
 uat-fundq.cbreglobalinvestors.com
 uat-fundq.cbreim.com
@@ -50309,13 +49876,10 @@ uat-merchant-services.fiservapp.com
 uat-mktgdocs.nonprod.cbre.com
 uat-mriasia.cbre.com
 uat-mripacific.cbre.com.au
-uat-nalx.elcompanies.com
 uat-noti.serviceinsightlocal.cbre.eu
 uat-ol-tops2.cbre.com
-uat-otm-pnp.elcompanies.com
 uat-ovo.net
 uat-pakistan.cbre.com
-uat-pds-am-eastus.elcompanies.com
 uat-perspectives.cbre.com
 uat-philippines.cbre.com
 uat-pmservice.serviceinsightlocal.cbre.eu
@@ -50342,7 +49906,6 @@ uat-sitech.serviceinsightlocal.cbre.eu
 uat-smc-analyzer.henkel-consumer-brands.cn
 uat-spsitesetup.cbre.com
 uat-teams.cbreglobalinvestors.com
-uat-tr-otm-pnp.elcompanies.com
 uat-tyl-connect.technologi.co.uk
 uat-tyl.technologi.co.uk
 uat-uat.nonprod.cbre.com
@@ -50870,24 +50433,6 @@ ukplatform-stage.cbre.com
 ukplatform-test.cbre.com
 ukplatform-uat.cbre.com
 ukplatform.cbre.com
-uksouth-d2c-aks-client-register-av-stage.elcompanies.co.uk
-uksouth-d2c-aks-client-register-bb-stage.elcompanies.co.uk
-uksouth-d2c-aks-client-register-bu-stage.elcompanies.co.uk
-uksouth-d2c-aks-client-register-cl-stage.elcompanies.co.uk
-uksouth-d2c-aks-client-register-cm-stage.elcompanies.co.uk
-uksouth-d2c-aks-client-register-el-stage.elcompanies.co.uk
-uksouth-d2c-aks-client-register-fm-stage.elcompanies.co.uk
-uksouth-d2c-aks-client-register-jm-stage.elcompanies.co.uk
-uksouth-d2c-aks-client-register-kl-stage.elcompanies.co.uk
-uksouth-d2c-aks-client-register-ll-stage.elcompanies.co.uk
-uksouth-d2c-aks-client-register-mb-stage.elcompanies.co.uk
-uksouth-d2c-aks-client-register-mc-stage.elcompanies.co.uk
-uksouth-d2c-aks-client-register-or-stage.elcompanies.co.uk
-uksouth-d2c-aks-client-register-sx-stage.elcompanies.co.uk
-uksouth-d2c-aks-client-register-tf-stage.elcompanies.co.uk
-uksouth-d2c-aks-client-register-to-stage.elcompanies.co.uk
-uksouth-d2c-register-aks-middleware-stage.elcompanies.com
-uksouth-d2c-register-aks-middleware.elcompanies.com
 ul-admin-qa-test.fiserv.io
 ul-admin-qa.fiserv.io
 ul-dev-test.fiserv.io
@@ -51147,8 +50692,6 @@ unreal-agents.jitsi.net
 unrealengine.com
 unrealtournament.com
 unscreen.com
-unsubscribe-elc.elcompanies.com
-unsubscribe.elcompanies.com
 unterweisung.services.wirtgen-group.com
 unterweisung.wirtgen.de
 unycloud.com
@@ -51555,7 +51098,6 @@ vahlyonsefcu-admin.originate.fiservapps.com
 vahlyonsefcu-dc.cert.fec-dc.fiservapps.com
 vahlyonsefcu-dn.financial-net.com
 vahlyonsefcu.originate.fiservapps.com
-val-ms-api.elcompanies.com
 valebtpdepopgtm-c01.northropgrumman.com
 valentines.aegeanair.com
 valeporenvases.com.ar
@@ -51829,9 +51371,6 @@ veeam.com
 veeamgov.com
 veer.fr
 veerstockphoto.fr
-veevaclaims-dev-azfunc.am.elcompanies.com
-veevaclaims-prod-azfunc.am.elcompanies.com
-veevaclaims-qa-azfunc.am.elcompanies.com
 veezi.com
 veiligepubliekedienstverlening.nl
 veiligheidbegintbijvoorkomen.nl
@@ -52518,25 +52057,6 @@ vth.nba.com
 vtlseurope.com
 vtm.be
 vtmgo.be
-vto-bac.elcompanies.cn
-vto-bac.elcompanies.com
-vto-bobbi-brown.elcompanies.com
-vto-by-kilian.elcompanies.com
-vto-clinique-tr.elcompanies.com
-vto-clinique.elcompanies.com
-vto-demo.elcompanies.com
-vto-estee-lauder.elcompanies.cn
-vto-estee-lauder.elcompanies.com
-vto-files.elcompanies.cn
-vto-files.elcompanies.com
-vto-kilian-paris.elcompanies.cn
-vto-kilian-paris.elcompanies.com
-vto-la-mer.elcompanies.cn
-vto-la-mer.elcompanies.com
-vto-mac.elcompanies.com
-vto-tom-ford.elcompanies.cn
-vto-tom-ford.elcompanies.com
-vto.clinique.com
 vtt.deere.com
 vttp.nba.com
 vtv2018.nl
@@ -54399,7 +53919,6 @@ www.appgt-dev.cbre.fr
 www.appgt.cbre.fr
 www.applevacations.com
 www.apps.norlandmanagedservices.com
-www.aramis.dcp.elcompanies.com
 www.arcgiscenter.cbre.eu
 www.arguswebgi-test.cbre.com
 www.arguswebgi.cbre.com
@@ -54451,8 +53970,6 @@ www.ava.cbre.com
 www.availproject.org
 www.avalabs.org
 www.avax.network
-www.aveda.dcp.elcompanies.com
-www.aveda.dcpm.elcompanies.com
 www.avertas.com.au
 www.avios.com
 www.avm.cbre.com
@@ -54482,7 +53999,6 @@ www.bathandbodyworks.com
 www.bathandbodyworks.ro
 www.beachbound.com
 www.bearflagrobotics.com
-www.beautyqr.com
 www.bebabelkuwait.com
 www.bedbathandbeyond.com
 www.belong.com.au
@@ -54552,8 +54068,6 @@ www.blueskytours.com
 www.bmw-motorrad.de
 www.bmw.de
 www.bnz.co.nz
-www.bobbibrown.dcp.elcompanies.com
-www.bobbibrown.dcpm.elcompanies.com
 www.bodegasindustrialescbre.com
 www.boem.gov
 www.bolsasymercados.es
@@ -54607,8 +54121,6 @@ www.buut.com
 www.buzz.industriousoffice.com
 www.bwin.com
 www.bybit.com
-www.bykilian.dcp.elcompanies.com
-www.bykilian.dcpm.elcompanies.com
 www.byreal.io
 www.c-hunter.cbre.eu
 www.c-huntertest.cbre.eu
@@ -54845,8 +54357,6 @@ www.clienteitau.co
 www.clifbar.ca
 www.clifbar.com
 www.clifbar.com.au
-www.clinique.dcp.elcompanies.com
-www.clinique.dcpm.elcompanies.com
 www.close-to-our-customers.com
 www.cloud.sequentra.net
 www.cloudops-atlantis.cbre.com
@@ -54990,11 +54500,8 @@ www.cyprus.dev.cbre.eu
 www.cyprus.uat.cbre.eu
 www.daimler-ag.sh
 www.danke.de
-www.darphin.dcp.elcompanies.com
-www.darphin.dcpm.elcompanies.com
 www.dashboard.gatekeepers.co.in
 www.data-center.cbre.es
-www.datacamp.com
 www.datamgmt.greenqa.cbre.com
 www.dataservices.cbre.eu
 www.dateplanner.cbre.nl
@@ -55067,11 +54574,9 @@ www.design-uat.project.cbre.fr
 www.design.project.cbre.fr
 www.designify.com
 www.dev-api-tops2-analytics.cbre.com
-www.dev-eform.ap.elcompanies.com
 www.dev-lightbox.cbre.com
 www.dev-mriasia.cbre.com
 www.dev-mripacific.cbre.com.au
-www.dev-registration.elcompanies.com
 www.dev.alshaya.com
 www.dev.authapi.cbre.com.au
 www.dev.cbre.com.kh
@@ -55139,7 +54644,6 @@ www.drcsg.cbre.com
 www.dremeainsightreporting.cbre.eu
 www.dres-fvi.cbreglobalinvestors.com
 www.driessen.nl
-www.drjart.dcpm.elcompanies.com
 www.drogas.lt
 www.drogas.lv
 www.drsrada.com
@@ -55213,14 +54717,10 @@ www.efficy.cbre.be
 www.efficy.cbre.ch
 www.efficynew.cbre.eu
 www.efilingportal.pbgc.gov
-www.eform.ap.elcompanies.com
 www.eftbam.cbre.com
 www.efttest.cbre.com
 www.egypt.cbre.com
 www.ehr.gov
-www.elccaresfund.org
-www.elcgoodworks.com
-www.elchackathon.com
 www.elearnresources.cbre.com
 www.elevi.net
 www.elite-powerbi.trammellcrow.com
@@ -55257,8 +54757,6 @@ www.esa.int
 www.esmdrnacn1.cbre.eu
 www.esmdrnacn2.cbre.eu
 www.ess.cbre.com
-www.esteelauder.dcp.elcompanies.com
-www.esteelauder.dcpm.elcompanies.com
 www.estimator-uat.cbre.com
 www.estimator.cbre.com
 www.esurance.com
@@ -55352,7 +54850,6 @@ www.fondation-vinci.com
 www.food4less.com
 www.foodsco.net
 www.forescout.com
-www.form.digitalcapture.elcompanies.com
 www.formassembly.com
 www.formulaire-jeu-concours.ferrero.fr
 www.forrent.com
@@ -55362,8 +54859,6 @@ www.forumanalytics.com
 www.fountainbridgesouth.com
 www.fountainbridgesouth.net
 www.fountainbridgesouth.org
-www.fredericmalle.dcp.elcompanies.com
-www.fredericmalle.dcpm.elcompanies.com
 www.fredmeyer.com
 www.fredmeyerjewelers.com
 www.frysfood.com
@@ -55390,7 +54885,6 @@ www.fundq.cbreim.com
 www.funjet.com
 www.fuzemeeting.com
 www.gainsboroughhardware.com.au
-www.gainsight.com
 www.galabingo.com
 www.galacasino.com
 www.gallileo-frankfurt.com
@@ -55728,8 +55222,6 @@ www.joico.com.au
 www.joico.com.br
 www.joico.eu
 www.joico.lat
-www.jomalone.dcp.elcompanies.com
-www.jomalone.dcpm.elcompanies.com
 www.jordan.cbre.com
 www.jpworkflowuat.cbre.com
 www.jsonar.cbre.com
@@ -55804,20 +55296,18 @@ www.kuwait.cbre.com
 www.l3driver.com
 www.lab-recherche-environnement.org
 www.labcorp.com
-www.labseries.dcpm.elcompanies.com
 www.lad-dev.cbre.com
 www.lad-qa.cbre.com
 www.lad-uat.cbre.com
 www.lad.cbre.com
 www.ladbrokes.com
-www.lamer.dcp.elcompanies.com
-www.lamer.dcpm.elcompanies.com
 www.land.com
 www.landandfarm.com
 www.landaulettings.com
 www.landmarkcinemas.com
 www.landwatch.com
 www.languagecert.org
+www.lansweeper.com
 www.laoficinadelfuturo.cbre.es
 www.lascana.de
 www.lastpass.com
@@ -55831,8 +55321,6 @@ www.leadcloud.us
 www.leaseabstractor.cbre.com
 www.leaseaccountingtool.cbre.com
 www.lefties.com
-www.lelabo.dcp.elcompanies.com
-www.lelabo.dcpm.elcompanies.com
 www.leo-leiden.com
 www.leonardodrs.com
 www.lepainquotidienme.com
@@ -55913,8 +55401,6 @@ www.lusingingpacks.be
 www.lyon.cbre.fr
 www.m.cbre.fr
 www.ma.cbre.se
-www.mac.dcp.elcompanies.com
-www.maccosmetics.dcpm.elcompanies.com
 www.macquarie.aero
 www.macquarie.com
 www.macquarieim.com
@@ -56034,7 +55520,6 @@ www.mgm.mo
 www.mgmmacau.com
 www.michaelhorwitz.com
 www.micnic.com
-www.microsite.digitalcapture.elcompanies.com
 www.microsoft.com
 www.miitauviajes.co
 www.milanuncios.com
@@ -56290,8 +55775,6 @@ www.oreo.com
 www.oreofun.se
 www.originenergy.com.au
 www.originprotocol.com
-www.origins.dcp.elcompanies.com
-www.origins.dcpm.elcompanies.com
 www.osl.com
 www.ostium.com
 www.otto.de
@@ -56340,8 +55823,6 @@ www.pequenin.com.bo
 www.pequenin.com.co
 www.pequenin.com.do
 www.pequenin.com.ec
-www.personio.com
-www.personio.de
 www.pexels.com
 www.pfchangsme.com
 www.philippines.cbre.com
@@ -56559,7 +56040,6 @@ www.redoxengine.com
 www.redstone.finance
 www.register.telfordhomes.london
 www.registration.cbre.com
-www.registration.elcompanies.com
 www.rei.com
 www.remediation.telfordhomes.london
 www.remote.cbre.com
@@ -56605,7 +56085,6 @@ www.romonet.com
 www.romonet.net
 www.rootstocklabs.com
 www.roundys.com
-www.routerprotocol.com
 www.royalarena.dk
 www.roybank.cbre.eu
 www.roybank.uat.cbre.eu
@@ -56948,11 +56427,7 @@ www.tgoyemek.com
 www.thebayamersfoort.com
 www.thebevenden.com
 www.thebevendenlettings.com
-www.thecompanystore.com.hk
 www.thecoolins.com
-www.thecosmeticscompanystore.com
-www.thecosmeticscompanystore.dcpm.elcompanies.com
-www.thecosmeticscompanystore.elcompanies.com
 www.thecurrent.com
 www.thefork.com
 www.theforkmanager.com
@@ -56960,8 +56435,6 @@ www.theinfotechbeat.com
 www.thekrogerco.com
 www.thekrogercozerohungerzerowastefoundation.com
 www.thelittleclinic.com
-www.theordinary.dcp.elcompanies.com
-www.theordinary.dcpm.elcompanies.com
 www.thepayplace.com
 www.theperfumeshop.com
 www.theskimm.com
@@ -56987,11 +56460,8 @@ www.tink.com
 www.tnconductor01.cbre.eu
 www.toimitilat.cbre.fi
 www.tom.cbre.com
-www.tomford.dcp.elcompanies.com
-www.tomford.dcpm.elcompanies.com
 www.tomorrowland.com
 www.toobit.com
-www.toofacedcosmetic.com
 www.topdesk.cbre.eu
 www.topechelon.com
 www.tops2-lb-prod.cbre.com
@@ -57805,11 +57275,6 @@ xs1.forgeofempires.com
 xs1.grepolis.com
 xs2a.com
 xsp.arrow.com
-xstore-ru-prod.eu.elcompanies.com
-xstore-ru-sit.eu.elcompanies.com
-xstr-ru-inventory-dev.eu.elcompanies.com
-xstr-ru-inventory-prod.eu.elcompanies.com
-xstr-ru-inventory-uat.eu.elcompanies.com
 xt.com
 xter.io
 xtp-aus.fiservclients.com

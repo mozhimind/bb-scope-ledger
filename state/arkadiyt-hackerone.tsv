@@ -5485,7 +5485,6 @@ abricu.originate.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 abs.uat.affinity.kentico.aon.com	non-paying	Aon	https://hackerone.com/aon
 abtools.deere.com	non-paying	John Deere	https://hackerone.com/john-deere
 abwebpay-mbod-qa.bankofamerica.com	non-paying	Fiserv	https://hackerone.com/fiserv
-ac.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 ac1-mymtn-app01.mtngh.root.net	non-paying	MTN Group	https://hackerone.com/mtn_group
 ac1-mymtn-app02.mtngh.root.net	non-paying	MTN Group	https://hackerone.com/mtn_group
 ac1-mymtn-app03.mtngh.root.net	non-paying	MTN Group	https://hackerone.com/mtn_group
@@ -5626,7 +5625,6 @@ achlink.santanderbank.com	non-paying	Fiserv	https://hackerone.com/fiserv
 achom.ir	out-of-scope	MTN Group	https://hackerone.com/mtn_group
 acintra.appslatam.com	non-paying	LATAM Airlines	https://hackerone.com/latamairlines
 aclasta.ca	non-paying	Clarivate	https://hackerone.com/clarivate
-acm.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 acmeautotest.treasure.daimlertruck.com	non-paying	Daimler Truck	https://hackerone.com/daimler_truck
 acmeccu-dc.cert.fec-dc.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 acmecontinentalcu-admin.originate.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
@@ -5739,7 +5737,6 @@ admin.meesho.io	out-of-scope	Meesho	https://hackerone.com/meesho_bbp
 admin.meeshosupply.com	paying	Meesho	https://hackerone.com/meesho_bbp
 admin.monosem.com	non-paying	John Deere	https://hackerone.com/john-deere
 admin.monosemusa.com	non-paying	John Deere	https://hackerone.com/john-deere
-admin.mybbu.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 admin.olympicair.com	non-paying	Aegean Airlines Vulnerability Disclosure	https://hackerone.com/aegean_airlines_vdp
 admin.pes.dealstream.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 admin.pingone.com	out-of-scope	Ping Identity	https://hackerone.com/pingidentity
@@ -5804,8 +5801,6 @@ advisortimetracker.kkr.com	non-paying	KKR-VDP	https://hackerone.com/kkr_vdp
 advisoryexplorer.com	non-paying	ION Group	https://hackerone.com/ion
 advisoryworld.com	non-paying	LPL Financial VDP	https://hackerone.com/lpl_financial-vdp
 advocates.semrush.com	out-of-scope	Semrush	https://hackerone.com/semrush
-adyen-uk-dev-report-notifications.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-adyen-uk-prod-report-notifications.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 adzone.deere.com	out-of-scope	John Deere	https://hackerone.com/john-deere
 adzonetest.deere.com	non-paying	John Deere	https://hackerone.com/john-deere
 ae-qa.nonprod.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -6120,7 +6115,6 @@ alumni.fidelity.com	out-of-scope	Fidelity	https://hackerone.com/fidelity
 alvalle.com	non-paying	PepsiCo VDP	https://hackerone.com/pepsico_vdp
 am-be.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 am-fdel-pre1-ul.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
-am-qa.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 am.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 ama-dev.witos.wirtgen-group.com	non-paying	John Deere	https://hackerone.com/john-deere
 ama.witos.wirtgen-group.com	non-paying	John Deere	https://hackerone.com/john-deere
@@ -6176,7 +6170,6 @@ amp-nba.nba.com	paying	NBA Public Bug Bounty	https://hackerone.com/nba-public
 amp.reddit.com	paying	Reddit	https://hackerone.com/reddit
 amr-data.com	non-paying	Clarivate	https://hackerone.com/clarivate
 amr-europe.com	non-paying	Clarivate	https://hackerone.com/clarivate
-amretailactivesync02.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 amrkmonitor.com	non-paying	Clarivate	https://hackerone.com/clarivate
 amrresourcecompass.com	non-paying	Clarivate	https://hackerone.com/clarivate
 ams.buses.daimlertruck.com	non-paying	Daimler Truck	https://hackerone.com/daimler_truck
@@ -6361,7 +6354,6 @@ apacresearch-qa.nonprod.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 apacresearch-tm.nonprod.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 apacresearch-uat.nonprod.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 apacresearch.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
-apacretail-otm.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 apbrazil-api-dev.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 apbrazil-api-qa.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 apbrazil-api-uat.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -6377,8 +6369,6 @@ apcgateway.marriott.com	paying	Marriott Bug Bounty Program	https://hackerone.com
 apcocu.architect-cert.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 apgrada.ca	non-paying	Clarivate	https://hackerone.com/clarivate
 aphelion.se	non-paying	ION Group	https://hackerone.com/ion
-aphub.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-aphubuat.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 api*.hubapi.com	paying	HubSpot	https://hackerone.com/hubspot
 api*.hubspot.com	paying	HubSpot	https://hackerone.com/hubspot
 api*.netflix.com	paying	Netflix	https://hackerone.com/netflix
@@ -6419,7 +6409,6 @@ api-dev.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 api-dev.cbre.fr	non-paying	CBRE	https://hackerone.com/cbre
 api-dev.cbrehost.com	non-paying	CBRE	https://hackerone.com/cbre
 api-dev.daimlertruck.com	non-paying	Daimler Truck	https://hackerone.com/daimler_truck
-api-dev.elc.academy	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 api-dev.gallileo-frankfurt.com	non-paying	CBRE	https://hackerone.com/cbre
 api-dev.na.ciam.daimlertruck.com	non-paying	Daimler Truck	https://hackerone.com/daimler_truck
 api-dev.smartfm.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -6470,7 +6459,6 @@ api-met-kg-genai.tal.deere.com	non-paying	John Deere	https://hackerone.com/john-
 api-meubanco.deere.com	non-paying	John Deere	https://hackerone.com/john-deere
 api-mtls-itg-vip.it.hpe.com	non-paying	HPE VDP	https://hackerone.com/hpe_vdp
 api-mtls-itg.it.hpe.com	non-paying	HPE VDP	https://hackerone.com/hpe_vdp
-api-nalx.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 api-nonp.cbrehost.com	non-paying	CBRE	https://hackerone.com/cbre
 api-northeu.cbrehost.com	non-paying	CBRE	https://hackerone.com/cbre
 api-openbanking.starlingbank.com	non-paying	Starling Bank VDP	https://hackerone.com/starling_bank
@@ -6499,7 +6487,6 @@ api-prx-stg-sgw.it.hpe.com	non-paying	HPE VDP	https://hackerone.com/hpe_vdp
 api-prx-stg-sgw.itcs.hpe.com	non-paying	HPE VDP	https://hackerone.com/hpe_vdp
 api-qa-payeezy-use4.ns1.fiservapis.com	non-paying	Fiserv	https://hackerone.com/fiserv
 api-qa.cbrehost.com	non-paying	CBRE	https://hackerone.com/cbre
-api-qa.elc.academy	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 api-qa.na.ciam.daimlertruck.com	non-paying	Daimler Truck	https://hackerone.com/daimler_truck
 api-qa.smartfm.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 api-qual-casemanagement-financeconnect.deere.com	non-paying	John Deere	https://hackerone.com/john-deere
@@ -6531,13 +6518,11 @@ api-tops2.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 api-trade-mgmt.supplymgmt-tariffs-devl-vpn.use1.e15.c01.johndeerecloud.com	non-paying	John Deere	https://hackerone.com/john-deere
 api-u.spaziodati.eu	non-paying	ION Group	https://hackerone.com/ion
 api-uat-bugbounty.nonprod.syfe.com	paying	Syfe	https://hackerone.com/syfe_bbp
-api-uat-nalx.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 api-uat.cardconnect.com	non-paying	Fiserv	https://hackerone.com/fiserv
 api-uat.cardpointe.com	non-paying	Fiserv	https://hackerone.com/fiserv
 api-uat.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 api-uat.cbre.fr	non-paying	CBRE	https://hackerone.com/cbre
 api-uat.cbrehost.com	non-paying	CBRE	https://hackerone.com/cbre
-api-uat.elc.academy	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 api-uat.smartfm.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 api-uat.spacespot.com	non-paying	CBRE	https://hackerone.com/cbre
 api-ukdataplatform.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -6654,7 +6639,6 @@ api.dyson.se	paying	Dyson	https://hackerone.com/dyson
 api.dysoncanada.ca	paying	Dyson	https://hackerone.com/dyson
 api.e-valuation.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 api.ea.login.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
-api.elcacademy.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 api.epicgames.dev	non-paying	Epic Games VDP	https://hackerone.com/epicgames-vdp
 api.evernote.com	paying	Evernote	https://hackerone.com/evernote
 api.excalls.mobi	paying	EXNESS	https://hackerone.com/exness
@@ -7275,7 +7259,7 @@ app:Alo GCC_GCC_ANDROID_com.aloyoga.mena	non-paying	Alshaya	https://hackerone.co
 app:Alo GCC_GCC_IOS_1664702687	non-paying	Alshaya	https://hackerone.com/alshaya
 app:Android Box Mobile App	paying	Box BB	https://hackerone.com/box_private
 app:Android Playstation App	paying	PlayStation	https://hackerone.com/playstation
-app:Anker	paying	eufy Security	https://hackerone.com/eufy_security
+app:Anker	paying	Anker	https://hackerone.com/anker
 app:Any Informatica on-premise software	non-paying	Informatica	https://hackerone.com/informatica
 app:Any LoRa Software product	non-paying	Semtech	https://hackerone.com/semtech
 app:Arc on Mac	out-of-scope	The Browser Company of NYC	https://hackerone.com/bcny
@@ -7501,7 +7485,7 @@ app:air.com.buffalo_studios.newflashbingo	paying	Playtika	https://hackerone.com/
 app:air.com.playtika.cvs	paying	Playtika	https://hackerone.com/playtika
 app:air.com.playtika.slotomania	paying	Playtika	https://hackerone.com/playtika
 app:amazon.speech.sim	paying	Amazon Vulnerability Research Program	https://hackerone.com/amazonvrp
-app:anker-nebula/id1319092174	paying	eufy Security	https://hackerone.com/eufy_security
+app:anker-nebula/id1319092174	paying	Anker	https://hackerone.com/anker
 app:app.playwonderbox.com	non-paying	Epic Games VDP	https://hackerone.com/epicgames-vdp
 app:app.playwonderbox.com	out-of-scope	Epic Games	https://hackerone.com/epicgames
 app:apple.co/-HorizonChase2	non-paying	Epic Games VDP	https://hackerone.com/epicgames-vdp
@@ -7587,8 +7571,8 @@ app:com.amazon.warhol.android	paying	Amazon Vulnerability Research Program	https
 app:com.amazon.ziggy.android	paying	Amazon Vulnerability Research Program	https://hackerone.com/amazonvrp
 app:com.anchorfminc.Anchor	paying	Spotify	https://hackerone.com/spotify
 app:com.android.browser	paying	Xiaomi	https://hackerone.com/xiaomi
-app:com.anker.AnkerMake	paying	eufy Security	https://hackerone.com/eufy_security
-app:com.anker.charging	paying	eufy Security	https://hackerone.com/eufy_security
+app:com.anker.AnkerMake	paying	Anker	https://hackerone.com/anker
+app:com.anker.charging	paying	Anker	https://hackerone.com/anker
 app:com.application.zomato	paying	Eternal	https://hackerone.com/eternal
 app:com.application.zomato.district	paying	Eternal	https://hackerone.com/eternal
 app:com.application.zomato.ordering	out-of-scope	Eternal	https://hackerone.com/eternal
@@ -7836,8 +7820,8 @@ app:com.nextcloud.talk2	non-paying	Nextcloud	https://hackerone.com/nextcloud
 app:com.oaknorth.businessbanking	non-paying	OakNorth Bank	https://hackerone.com/oaknorth_bank
 app:com.oaknorth.oaknorthmobilebanking	non-paying	OakNorth Bank	https://hackerone.com/oaknorth_bank
 app:com.oanda.fxtrade	non-paying	OANDA	https://hackerone.com/oanda
-app:com.oceanwing.FDMPrint	paying	eufy Security	https://hackerone.com/eufy_security
-app:com.oceanwing.battery.cam	paying	eufy Security	https://hackerone.com/eufy_security
+app:com.oceanwing.FDMPrint	paying	Anker	https://hackerone.com/anker
+app:com.oceanwing.battery.cam	paying	Anker	https://hackerone.com/anker
 app:com.oplus.accesscard	paying	OPPO	https://hackerone.com/oppo_bbp
 app:com.oplus.account	paying	OPPO	https://hackerone.com/oppo_bbp
 app:com.oplus.aimemory	paying	OPPO	https://hackerone.com/oppo_bbp
@@ -7891,7 +7875,7 @@ app:com.schlage.overtur	non-paying	Allegion	https://hackerone.com/allegion
 app:com.scopely.monopolygo	paying	Scopely	https://hackerone.com/scopely
 app:com.scopely.startrek	paying	Scopely	https://hackerone.com/scopely
 app:com.scopely.yux	non-paying	Scopely	https://hackerone.com/scopely
-app:com.security.BatteryCam	paying	eufy Security	https://hackerone.com/eufy_security
+app:com.security.BatteryCam	paying	Anker	https://hackerone.com/anker
 app:com.shopai.apps	paying	OPPO	https://hackerone.com/oppo_bbp
 app:com.shutterfly	non-paying	Shutterfly VDP	https://hackerone.com/shutterfly_vdp
 app:com.shutterfly.ShutterflyUploader	non-paying	Shutterfly VDP	https://hackerone.com/shutterfly_vdp
@@ -8211,8 +8195,8 @@ app:id6443932656	paying	Banco Plata	https://hackerone.com/banco_plata
 app:id6472513080	out-of-scope	The Browser Company of NYC	https://hackerone.com/bcny
 app:id6472633752	non-paying	Alshaya	https://hackerone.com/alshaya
 app:id980353334	non-paying	BILL VDP	https://hackerone.com/bill_vdp
-app:id=com.oceanwing.soundcore	paying	eufy Security	https://hackerone.com/eufy_security
-app:id=com.zhixin.controller	paying	eufy Security	https://hackerone.com/eufy_security
+app:id=com.oceanwing.soundcore	paying	Anker	https://hackerone.com/anker
+app:id=com.zhixin.controller	paying	Anker	https://hackerone.com/anker
 app:in.amazon.mShop.android.business.shopping	paying	Amazon Vulnerability Research Program	https://hackerone.com/amazonvrp
 app:in.amazon.mShop.android.shopping	paying	Amazon Vulnerability Research Program	https://hackerone.com/amazonvrp
 app:int.who.WHOMyHealth	non-paying	WHO COVID-19 Mobile App	https://hackerone.com/who-covid-19-mobile-app
@@ -8256,7 +8240,7 @@ app:ro.superbet.sport	paying	Superbet	https://hackerone.com/superbet
 app:sinet.startup.inDriver	out-of-scope	inDrive	https://hackerone.com/indrive
 app:singlestore-operator	non-paying	SingleStore	https://hackerone.com/singlestore
 app:singlestoredb-server	non-paying	SingleStore	https://hackerone.com/singlestore
-app:soundcore/id1331876603	paying	eufy Security	https://hackerone.com/eufy_security
+app:soundcore/id1331876603	paying	Anker	https://hackerone.com/anker
 app:starbucks-t%C3%BCrkiye/id1100698915?l=tr	non-paying	Alshaya	https://hackerone.com/alshaya
 app:trendyol.com	paying	Trendyol	https://hackerone.com/trendyol
 app:tv.vhx	out-of-scope	Vimeo	https://hackerone.com/vimeo
@@ -8295,11 +8279,8 @@ apply.starbucks.com	out-of-scope	Starbucks	https://hackerone.com/starbucks
 appmarket-test.fiserv.io	non-paying	Fiserv	https://hackerone.com/fiserv
 appnexus.fr	non-paying	Clarivate	https://hackerone.com/clarivate
 appriteaid.fmpilot.com	non-paying	CBRE	https://hackerone.com/cbre
-apps-dev.cliniquecomputer.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-apps-test.cliniquecomputer.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 apps.8x8.com	paying	8x8	https://hackerone.com/8x8-bounty
 apps.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
-apps.cliniquecomputer.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 apps.cn.mybuildings.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 apps.deere.com	non-paying	John Deere	https://hackerone.com/john-deere
 apps.eu.mybuildings.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
@@ -8425,7 +8406,6 @@ argo01-opencheck.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 argusweb.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 arguswebgi-test.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 arguswebgi.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
-arh.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 arkansassuperiorfcu-dc.cert.fec-dc.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 arkansassuperiorfcu-dn.financial-net.com	non-paying	Fiserv	https://hackerone.com/fiserv
 arkmonitor.com	non-paying	Clarivate	https://hackerone.com/clarivate
@@ -8464,10 +8444,6 @@ artportal.epicgames.com	out-of-scope	Epic Games	https://hackerone.com/epicgames
 arupdg017.staging.cloveronline.com	non-paying	Fiserv	https://hackerone.com/fiserv
 arw-pte.unionbank.com	out-of-scope	MUFG VDP	https://hackerone.com/mufg-vdp
 arzerra.ca	non-paying	Clarivate	https://hackerone.com/clarivate
-as-dev.elc.academy	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-as-qa.elc.academy	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-as-uat.elc.academy	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-as.elcacademy.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 as.myim.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 asahi.cl.iongroup.com	non-paying	ION Group	https://hackerone.com/ion
 asahiasp.iongroup.com	non-paying	ION Group	https://hackerone.com/ion
@@ -8639,6 +8615,7 @@ ats.gallileo-frankfurt.com	non-paying	CBRE	https://hackerone.com/cbre
 atsapi.firstdata.com	non-paying	Fiserv	https://hackerone.com/fiserv
 atscalepoc.ae-databricks-prod-standalone.us.e18.c01.johndeerecloud.com	non-paying	John Deere	https://hackerone.com/john-deere
 atsmobileapi.firstdata.com	non-paying	Fiserv	https://hackerone.com/fiserv
+att.com.mx	out-of-scope	AT&T	https://hackerone.com/att
 att.com/acctmgmt/*/chunks/*	out-of-scope	AT&T	https://hackerone.com/att
 att.com/acctmgmt/*/stub*/*	out-of-scope	AT&T	https://hackerone.com/att
 att.suppliergateway.com	out-of-scope	AT&T	https://hackerone.com/att
@@ -8873,7 +8850,6 @@ autodiscover.commercialloanservices.com	non-paying	CBRE	https://hackerone.com/cb
 autodiscover.corporateproperty.com.au	non-paying	CBRE	https://hackerone.com/cbre
 autodiscover.cybermyte.io	non-paying	DIB-VDP	https://hackerone.com/dib-vdp
 autodiscover.die-wirtgen-group-auf-der-bauma.com	non-paying	John Deere	https://hackerone.com/john-deere
-autodiscover.estee.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 autodiscover.facilitysource.com	non-paying	CBRE	https://hackerone.com/cbre
 autodiscover.fameco.com	non-paying	CBRE	https://hackerone.com/cbre
 autodiscover.famecoretail.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -8989,13 +8965,9 @@ avcjsouthkorea.com	non-paying	ION Group	https://hackerone.com/ion
 avcjtaiwan.com	non-paying	ION Group	https://hackerone.com/ion
 avcjusa.com	non-paying	ION Group	https://hackerone.com/ion
 avcjvietnam.com	non-paying	ION Group	https://hackerone.com/ion
-aveda.it	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 avedas.com	non-paying	Clarivate	https://hackerone.com/clarivate
 avedas.de	non-paying	Clarivate	https://hackerone.com/clarivate
 avedas.org	non-paying	Clarivate	https://hackerone.com/clarivate
-avedasoapapp.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-avedasoapapp.uat.be.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-avedasoapapp.uat.fe.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 aven.com	non-paying	Aven (Response)	https://hackerone.com/aven_response
 avenir.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 averp-posnet-cert.fiservapis.com	non-paying	Fiserv	https://hackerone.com/fiserv
@@ -9150,7 +9122,6 @@ bahamabucks.gift.solutions	non-paying	Fiserv	https://hackerone.com/fiserv
 bahamabucks.wgiftcard.com	non-paying	Fiserv	https://hackerone.com/fiserv
 baileys.wgiftcard.com	non-paying	Fiserv	https://hackerone.com/fiserv
 bairdwealth.com	non-paying	Baird	https://hackerone.com/baird_vdp
-bais.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 bajafresh.wgiftcard.com	non-paying	Fiserv	https://hackerone.com/fiserv
 bakerdomains.co.uk	non-paying	Clarivate	https://hackerone.com/clarivate
 bakerdomains.com	non-paying	Clarivate	https://hackerone.com/clarivate
@@ -9423,7 +9394,6 @@ bbPress Core	paying	WordPress	https://hackerone.com/wordpress
 bbamericasbank-uat.streamlendvelocity.net	non-paying	Fiserv	https://hackerone.com/fiserv
 bbamericasbank.streamlendvelocity.net	non-paying	Fiserv	https://hackerone.com/fiserv
 bbanalysis.com	non-paying	Clarivate	https://hackerone.com/clarivate
-bbmanestream.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 bbncu-dc.cert.fec-dc.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 bbok.fdecs.com	non-paying	Fiserv	https://hackerone.com/fiserv
 bbokcat.fdecs.com	non-paying	Fiserv	https://hackerone.com/fiserv
@@ -9446,8 +9416,6 @@ bdc3d-dev.cbre.es	non-paying	CBRE	https://hackerone.com/cbre
 bdc3d.cbre.es	non-paying	CBRE	https://hackerone.com/cbre
 bdp-connectors-u.spaziodati.eu	non-paying	ION Group	https://hackerone.com/ion
 bdp-connectors.spaziodati.eu	non-paying	ION Group	https://hackerone.com/ion
-bdpm-prod.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-bdpm-uat.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 bdsas2003.cbre.ca	non-paying	CBRE	https://hackerone.com/cbre
 bdu-cf.euce1.indriverapp.com	paying	inDrive	https://hackerone.com/indrive
 bdu-gw-cf.euce1.indriverapp.com	paying	inDrive	https://hackerone.com/indrive
@@ -9480,7 +9448,6 @@ beam.nutanix.com	non-paying	Nutanix	https://hackerone.com/nutanix
 beamitmobile.com	paying	Remitly	https://hackerone.com/remitly
 beapi-cert.fiservapis.com	non-paying	Fiserv	https://hackerone.com/fiserv
 bearflagrobotics.com	non-paying	John Deere	https://hackerone.com/john-deere
-beautyqr.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 bedandbreakfast.wgiftcard.com	non-paying	Fiserv	https://hackerone.com/fiserv
 bedfed-admin.originate.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 bedfed-p2.onlinebank.com	non-paying	Fiserv	https://hackerone.com/fiserv
@@ -9711,8 +9678,6 @@ bioworld.org	non-paying	Clarivate	https://hackerone.com/clarivate
 bioworlddata.com	non-paying	Clarivate	https://hackerone.com/clarivate
 bioworldmedtech.com	non-paying	Clarivate	https://hackerone.com/clarivate
 bioworldperspectives.com	non-paying	Clarivate	https://hackerone.com/clarivate
-biportal-uat.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-biportal.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 biportalcv-dev.dtbsa.co.za	non-paying	Daimler Truck	https://hackerone.com/daimler_truck
 biportalcv-qa.dtbsa.co.za	non-paying	Daimler Truck	https://hackerone.com/daimler_truck
 biportalcv.dtbsa.co.za	non-paying	Daimler Truck	https://hackerone.com/daimler_truck
@@ -10007,11 +9972,6 @@ bpfcu-galaxy-admin.originate.fiservapps.com	non-paying	Fiserv	https://hackerone.
 bpfcu-galaxy.originate.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 bpworkplacetoolkit.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 bq.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
-br-api-dev.estee.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-br-api-qa.estee.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-br-api-stage.estee.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-br-api-uat.estee.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-br-api.estee.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 br-qa.nonprod.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 br-ssoca.fiservapp.com	non-paying	Fiserv	https://hackerone.com/fiserv
 br-tm.nonprod.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -11035,23 +10995,6 @@ cdn.uk.host-building.com	non-paying	CBRE	https://hackerone.com/cbre
 cdn.us.host-building.com	non-paying	CBRE	https://hackerone.com/cbre
 cdna.lystit.com	paying	Lyst	https://hackerone.com/lyst
 cdno.news.e.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
-cdp-am-consumption-layer-uat.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-cdp-am-consumption-layer.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-cdp-apac-consumption-layer-uat.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-cdp-apac-consumption-layer.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-cdp-apacsm-consumption-layer-uat.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-cdp-apacsm-consumption-layer.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-cdp-brazil-consumption-layer-uat.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-cdp-brazil-consumption-layer.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-cdp-consumption-layer.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-cdp-latam-consumption-layer-uat.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-cdp-latam-consumption-layer.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-cdp-latam-gcc-connector-uat.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-cdp-latam-gcc-connector.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-cdp-latam-surveys-connector-uat.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-cdp-latam-surveys-connector.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-cdp-uk-consumption-layer-uat.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-cdp-uk-consumption-layer.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 cdp.services.wirtgen-group.com	non-paying	John Deere	https://hackerone.com/john-deere
 cdpweek.com	out-of-scope	Twilio	https://hackerone.com/twilio
 ce-reportwriter.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
@@ -11412,8 +11355,6 @@ chilisstore.wgiftcard.com	non-paying	Fiserv	https://hackerone.com/fiserv
 china-dev.migrationlistener.miq.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 china-dev.migrationresponse.miq.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 china.fidelity.com	out-of-scope	Fidelity	https://hackerone.com/fidelity
-chinaapi-uat.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-chinaapi.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 chinamergers.net	non-paying	ION Group	https://hackerone.com/ion
 chinaservice.abb.com.cn	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 chinataxplus.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -11445,7 +11386,6 @@ chuys.gift.solutions	non-paying	Fiserv	https://hackerone.com/fiserv
 ci-erix-api.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 ci-propertyconversionportal.marriott.com	paying	Marriott Bug Bounty Program	https://hackerone.com/marriott
 ci.gallileo-frankfurt.com	non-paying	CBRE	https://hackerone.com/cbre
-cia-dev.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 ciam.tui.transunion.com	non-paying	TransUnion LLC	https://hackerone.com/transunion
 ciarivate.com	non-paying	Clarivate	https://hackerone.com/clarivate
 cibc.oneportal24.com	non-paying	Fiserv	https://hackerone.com/fiserv
@@ -11459,17 +11399,6 @@ cima.asp.iongroup.com	non-paying	ION Group	https://hackerone.com/ion
 cincinnatussl-p2.onlinebank.com	non-paying	Fiserv	https://hackerone.com/fiserv
 cincinnatussl.onlinebank.com	non-paying	Fiserv	https://hackerone.com/fiserv
 cinnovationscireg.org	non-paying	Clarivate	https://hackerone.com/clarivate
-ciq-orch-dev.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-ciq-orch-uat.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-ciq-skill1-dev.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-ciq-skill1.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-ciq-skill2-dev.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-ciq-skill2.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-ciq-skill3-dev.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-ciq-skill3.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-ciq-skill4-dev.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-ciq-skill4.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-ciq-skill5.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 ciqtops2-prod.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 ciqtops2-test.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 circle.logi.com	paying	Logitech	https://hackerone.com/logitech
@@ -12053,7 +11982,6 @@ clinchfieldcu-dc.cert.fec-dc.fiservapps.com	non-paying	Fiserv	https://hackerone.
 clinical.study	non-paying	Clarivate	https://hackerone.com/clarivate
 clinicalresearchadvisor.com	non-paying	Clarivate	https://hackerone.com/clarivate
 clinicalresearchtools.com	non-paying	Clarivate	https://hackerone.com/clarivate
-cliniquecomputer.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 clltreatments.com	non-paying	Clarivate	https://hackerone.com/clarivate
 clmagtest.marriott.com	out-of-scope	Marriott Bug Bounty Program	https://hackerone.com/marriott
 clo-i.com	non-paying	ION Group	https://hackerone.com/ion
@@ -12108,7 +12036,6 @@ cloversecurity.com	non-paying	Fiserv	https://hackerone.com/fiserv
 clraivate.com	non-paying	Clarivate	https://hackerone.com/clarivate
 cls-qa.dtbsa.co.za	non-paying	Daimler Truck	https://hackerone.com/daimler_truck
 cls.dtbsa.co.za	non-paying	Daimler Truck	https://hackerone.com/daimler_truck
-clubshop.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 clubsocial.com.br	non-paying	Mondelēz International	https://hackerone.com/mondelez
 clv-uc.com	non-paying	Clarivate	https://hackerone.com/clarivate
 cm-alerthub-uat.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
@@ -12123,7 +12050,6 @@ cm.alerthub.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 cm1.test-smsservicesnow.com	non-paying	Fiserv	https://hackerone.com/fiserv
 cmapi.tw.coupang.com	paying	Coupang Taiwan	https://hackerone.com/coupang_tw
 cmcchittenden.fdecs.com	non-paying	Fiserv	https://hackerone.com/fiserv
-cmdfunctionapp-devapi.am.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 cmecreditunion-dc.cert.fec-dc.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 cmecreditunion-dn.financial-net.com	non-paying	Fiserv	https://hackerone.com/fiserv
 cmf-cf.euce1.indriverapp.com	paying	inDrive	https://hackerone.com/indrive
@@ -12162,14 +12088,9 @@ cmpint.norlandmanagedservices.com	non-paying	CBRE	https://hackerone.com/cbre
 cmps.re	non-paying	Clarivate	https://hackerone.com/clarivate
 cmr.org	non-paying	Clarivate	https://hackerone.com/clarivate
 cmrinteract.com	non-paying	Clarivate	https://hackerone.com/clarivate
-cms-dev.cliniquecomputer.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 cms-dev.nba.com	out-of-scope	NBA Public Bug Bounty	https://hackerone.com/nba-public
 cms-int.nba.com	out-of-scope	NBA Public Bug Bounty	https://hackerone.com/nba-public
-cms-prod.cliniquecomputer.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 cms-qa.nba.com	out-of-scope	NBA Public Bug Bounty	https://hackerone.com/nba-public
-cms-stage.cliniquecomputer.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-cms-test.cliniquecomputer.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-cms.avedasoapapp.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 cms.ayoba.me	non-paying	MTN Group	https://hackerone.com/mtn_group
 cms.cbre.cl	non-paying	CBRE	https://hackerone.com/cbre
 cms.cbre.co.jp	non-paying	CBRE	https://hackerone.com/cbre
@@ -12194,7 +12115,6 @@ cmsstage.transunioncentralamerica.com	non-paying	TransUnion LLC	https://hackeron
 cn-director.jp	non-paying	Clarivate	https://hackerone.com/clarivate
 cn-ftp.abb.com.cn	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 cn-ftps01.abb.com.cn	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
-cn-innovation-labs-vms.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 cn-negotiator.jp	non-paying	Clarivate	https://hackerone.com/clarivate
 cn-qa.nonprod.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 cn-registrar.jp	non-paying	Clarivate	https://hackerone.com/clarivate
@@ -12243,7 +12163,6 @@ cnpphv-scm.abb.com.cn	non-paying	ABB Information Systems Ltd	https://hackerone.c
 cnppsm.abb.com.cn	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 cns-admin-qa.aegeanair.com	non-paying	Aegean Airlines Vulnerability Disclosure	https://hackerone.com/aegean_airlines_vdp
 cns-admin.aegeanair.com	non-paying	Aegean Airlines Vulnerability Disclosure	https://hackerone.com/aegean_airlines_vdp
-cnslqa.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 cnxec-pm.abb.com.cn	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 co-gw-scf.sa.apse1.aws.indriverapp.com	paying	inDrive	https://hackerone.com/indrive
 co-in-cf.mena.meso1.aws.indriverapp.com	paying	inDrive	https://hackerone.com/indrive
@@ -12568,9 +12487,6 @@ concierge.clearme.com	paying	CLEAR	https://hackerone.com/clear
 concorso.sottilette.it	non-paying	Mondelēz International	https://hackerone.com/mondelez
 condition-monitoring.mining.ability.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 conditionmonitoring.traction.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
-condor-dev-azfunc.am.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-condor-prod-azfunc.am.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-condor-qa-azfunc.am.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 conductor.cbreesi.com	non-paying	CBRE	https://hackerone.com/cbre
 conductor2.cbreesi.com	non-paying	CBRE	https://hackerone.com/cbre
 conecta-facil-cat.fiservapp.com	non-paying	Fiserv	https://hackerone.com/fiserv
@@ -12698,7 +12614,6 @@ consultingservicesdocuments.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 consumer-mobile-bff.doordash.com	out-of-scope	DoorDash	https://hackerone.com/doordash
 consumercreditunion-admin.originate.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 consumercreditunion.originate.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
-consumereformuat.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 consumers-cu-billpay.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 contact-dev.nba.com	paying	NBA Public Bug Bounty	https://hackerone.com/nba-public
 contact-qa.nba.com	paying	NBA Public Bug Bounty	https://hackerone.com/nba-public
@@ -13544,8 +13459,6 @@ ctbcbankcert.olbanking.com	non-paying	Fiserv	https://hackerone.com/fiserv
 ctf.hacker101.com	paying	HackerOne	https://hackerone.com/security
 ctkip-dev.unionbank.com	out-of-scope	MUFG VDP	https://hackerone.com/mufg-vdp
 ctkip.unionbank.com	out-of-scope	MUFG VDP	https://hackerone.com/mufg-vdp
-ctp.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-ctpbi.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 ctr.a.exodus.io	paying	Exodus	https://hackerone.com/exodus
 cts.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 cttriems.ts.northropgrumman.com	non-paying	DIB-VDP	https://hackerone.com/dib-vdp
@@ -13748,62 +13661,6 @@ d-track.com	non-paying	Clarivate	https://hackerone.com/clarivate
 d-z076ywkf28.execute-api.ap-south-1.amazonaws.com	non-paying	John Deere	https://hackerone.com/john-deere
 d.gallileo-frankfurt.com	non-paying	CBRE	https://hackerone.com/cbre
 d1tc1mewfeld95.cloudfront.net	non-paying	ION Group	https://hackerone.com/ion
-d2c-balmainbeauty.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-lelabofragrances.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-mb.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-middleware.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-register-balmainbeauty.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-register-lelabofragrances.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-register-mb.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-register-middleware.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-register.aveda.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-register.balmainbeauty.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-register.bobbibrown.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-register.bumbleandbumble.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-register.bykilian.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-register.clinique.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-register.cremedelamer.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-register.esteelauder.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-register.fredericmalle.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-register.jomalone.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-register.maccosmetics.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-register.origins.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-register.smashbox.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-register.tomfordbeauty.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-register.toofaced.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-stage-client-av.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-stage-client-bb.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-stage-client-bl.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-stage-client-bu.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-stage-client-cl.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-stage-client-cm.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-stage-client-el.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-stage-client-fm.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-stage-client-jm.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-stage-client-kl.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-stage-client-ll.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-stage-client-mb.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-stage-client-mc.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-stage-client-or.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-stage-client-sx.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-stage-client-tf.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-stage-client-to.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c-stage-mw.estee-lauder.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c.aveda.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c.balmainbeauty.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c.bobbibrown.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c.bumbleandbumble.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c.bykilian.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c.clinique.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c.cremedelamer.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c.esteelauder.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c.fredericmalle.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c.jomalone.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c.maccosmetics.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c.origins.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c.smashbox.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c.tomfordbeauty.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-d2c.toofaced.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 daas.abb.com.cn	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 dachpecongress.com	non-paying	ION Group	https://hackerone.com/ion
 dachpeforum.com	non-paying	ION Group	https://hackerone.com/ion
@@ -13925,8 +13782,6 @@ datapod-1-query.production.forescoutcloud.net	paying	ForeScout Technologies	http
 datapod-2-druid-ingest.production.forescoutcloud.net	paying	ForeScout Technologies	https://hackerone.com/forescout_technologies
 datapod-2-ingest.acceptance.forescoutcloud.net	paying	ForeScout Technologies	https://hackerone.com/forescout_technologies
 datapod-2-query.acceptance.forescoutcloud.net	paying	ForeScout Technologies	https://hackerone.com/forescout_technologies
-dataportal-uat.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-dataportal.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 dataprivacy.mendixcloud.com	non-paying	Mendix	https://hackerone.com/mendix
 dataprotection-qs.applications.wirtgen-group.com	non-paying	John Deere	https://hackerone.com/john-deere
 dataprotection.applications.wirtgen-group.com	non-paying	John Deere	https://hackerone.com/john-deere
@@ -14378,10 +14233,8 @@ deutsches-handelsregister-online.de	non-paying	Clarivate	https://hackerone.com/c
 deutsches-schutzrechte-portal.de	non-paying	Clarivate	https://hackerone.com/clarivate
 deutscheunquote.com	non-paying	ION Group	https://hackerone.com/ion
 deuyilkqqzxfy.cloudfront.net.cbreglobalinvestors.com	non-paying	CBRE	https://hackerone.com/cbre
-dev-ac.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 dev-accesscontrol.gbs.fiserv.com	non-paying	Fiserv	https://hackerone.com/fiserv
 dev-accounts.businesstrack.com	non-paying	Fiserv	https://hackerone.com/fiserv
-dev-acm.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 dev-admin.fiserv.com	non-paying	Fiserv	https://hackerone.com/fiserv
 dev-agile.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 dev-aip.henkel-adhesives.com.cn	non-paying	Henkel	https://hackerone.com/henkel_vdp
@@ -14430,17 +14283,12 @@ dev-dma.fiserv.com	non-paying	Fiserv	https://hackerone.com/fiserv
 dev-dsf.dlrsol-dss-r3-devl-vpn.us.e34.c01.johndeerecloud.com	non-paying	John Deere	https://hackerone.com/john-deere
 dev-dyin.serviceinsightlocal.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 dev-edge01.cymy.io	non-paying	DIB-VDP	https://hackerone.com/dib-vdp
-dev-eis-wm-na.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 dev-emailtagging.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 dev-endnote.com	non-paying	Clarivate	https://hackerone.com/clarivate
 dev-enterprise.serviceinsight.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 dev-eos.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 dev-erix-research.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
-dev-esignapp.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-dev-esignoss.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-dev-esignwebapp.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 dev-fhs-onlinestore.businesstrack.com	non-paying	Fiserv	https://hackerone.com/fiserv
-dev-frontiers-approval.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 dev-gateway.serviceinsight.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 dev-gsg-api.gift.solutions	non-paying	Fiserv	https://hackerone.com/fiserv
 dev-gsg-east.gift.solutions	non-paying	Fiserv	https://hackerone.com/fiserv
@@ -14462,12 +14310,9 @@ dev-media.cbreone.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 dev-miam.businesstrack.com	non-paying	Fiserv	https://hackerone.com/fiserv
 dev-mriasia.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 dev-mripacific.cbre.com.au	non-paying	CBRE	https://hackerone.com/cbre
-dev-ms-api.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 dev-ms-vendors1.agrisync.com	non-paying	John Deere	https://hackerone.com/john-deere
-dev-noam-xstore-adyenpbl.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 dev-noti.serviceinsightlocal.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 dev-oneplatform.com	non-paying	Clarivate	https://hackerone.com/clarivate
-dev-otm-pnp.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 dev-perspectives.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 dev-pmservice.serviceinsightlocal.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 dev-potentialrealized.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -14500,14 +14345,12 @@ dev-tempest-gateway.serviceinsight.cbre.com	non-paying	CBRE	https://hackerone.co
 dev-tempest.serviceinsight.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 dev-test-studio.marketplace.fiserv.com	non-paying	Fiserv	https://hackerone.com/fiserv
 dev-tfs.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
-dev-tr-otm-pnp.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 dev-training.ui.com	non-paying	Ubiquiti Inc.	https://hackerone.com/ui
 dev-ukplatform.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 dev-vaws.serviceinsightlocal.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 dev-vhb.agrisync.com	non-paying	John Deere	https://hackerone.com/john-deere
 dev-view-api.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 dev-vnd.agrisync.com	non-paying	John Deere	https://hackerone.com/john-deere
-dev-vto-files.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 dev-web.agrisync.com	non-paying	John Deere	https://hackerone.com/john-deere
 dev-workplace.cbre.at	non-paying	CBRE	https://hackerone.com/cbre
 dev-workplace.cbre.co.uk	non-paying	CBRE	https://hackerone.com/cbre
@@ -14627,7 +14470,6 @@ dev.stats.gleague.nba.com	paying	NBA Public Bug Bounty	https://hackerone.com/nba
 dev.stats.nba.com	paying	NBA Public Bug Bounty	https://hackerone.com/nba-public
 dev.stats.wnba.com	paying	NBA Public Bug Bounty	https://hackerone.com/nba-public
 dev.storybook.emerald.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
-dev.supplierportal.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 dev.surveycreator.brokerhub.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 dev.tether.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 dev.transaction.capitalflows.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -15046,7 +14888,6 @@ dmmprodc.fiservapp.com	non-paying	Fiserv	https://hackerone.com/fiserv
 dmmprodd.fiservapp.com	non-paying	Fiserv	https://hackerone.com/fiserv
 dmmprode.fiservapp.com	non-paying	Fiserv	https://hackerone.com/fiserv
 dmmprodn.fiservapp.com	non-paying	Fiserv	https://hackerone.com/fiserv
-dms-external.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 dmt.fidelity.com	out-of-scope	Fidelity	https://hackerone.com/fidelity
 dmtest.cbreglobalinvestors.com	non-paying	CBRE	https://hackerone.com/cbre
 dmtest.cbreinvestors.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -15252,7 +15093,6 @@ download2.fleetboard.com	non-paying	Daimler Truck	https://hackerone.com/daimler_
 downloads-global.3cx.com	paying	3CX	https://hackerone.com/3cx
 downloads.varonis.com	paying	Varonis	https://hackerone.com/varonis
 dpes.abb.com.cn	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
-dppocdbxgeniebot.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 dr-aonfinanciamiento.com.mx/	non-paying	Aon	https://hackerone.com/aon
 dr-gw-cf.euce1.indriverapp.com	paying	inDrive	https://hackerone.com/indrive
 dr-insightreporting.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -15269,7 +15109,6 @@ dr.boibusinesscards.ie	non-paying	Fiserv	https://hackerone.com/fiserv
 dr.dcalonline.com	non-paying	Fiserv	https://hackerone.com/fiserv
 dr.developer.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 dr.mainstreamsasp.com	non-paying	CBRE	https://hackerone.com/cbre
-dr.supplierportal.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 dra.uat.cbreapps.com	non-paying	CBRE	https://hackerone.com/cbre
 draftingwillstrusts.com	non-paying	Clarivate	https://hackerone.com/clarivate
 draken.aero	non-paying	MOD Supply Chain VDP	https://hackerone.com/mod_supply_chain_vdp
@@ -15436,7 +15275,6 @@ dwedevl.deere.com	non-paying	John Deere	https://hackerone.com/john-deere
 dwhreports.nba.com	paying	NBA Public Bug Bounty	https://hackerone.com/nba-public
 dwightfsb-p2.onlinebank.com	non-paying	Fiserv	https://hackerone.com/fiserv
 dwightfsb.onlinebank.com	non-paying	Fiserv	https://hackerone.com/fiserv
-dwp.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 dwss-ptp.disney.com	out-of-scope	The Walt Disney Company	https://hackerone.com/disney
 dwy.visa.com	paying	Visa	https://hackerone.com/visa
 dx-divops-dependency-track-ui.apps-devl-vpn.us.e29.c01.johndeerecloud.com	non-paying	John Deere	https://hackerone.com/john-deere
@@ -15712,7 +15550,6 @@ edp-emea-int-consumption.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 edp-emea-qa-consumption.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 edp-emea-staging-consumption.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 edp-emea-uat-consumption.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
-edp-fredericmalle.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 edp-nonprod-jenkins-training.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 edp-nonprod-jenkins.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 edp-nonprod.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -15758,7 +15595,6 @@ efileip.com	non-paying	Clarivate	https://hackerone.com/clarivate
 efm.serviceinsight.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 efms.servicing.mohela.com	non-paying	Fiserv	https://hackerone.com/fiserv
 efnb-p2.onlinebank.com	non-paying	Fiserv	https://hackerone.com/fiserv
-eform.ap.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 eft-test-azure.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 eft.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 eftbam.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -15801,9 +15637,6 @@ eip-webhook.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 eip.abb.com.cn	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 eip.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 eip.twistlock.gcso.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
-eis-wm-cn.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-eis-wm-na.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-eis-wm-sg.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 eis.hilton.com	out-of-scope	Hilton	https://hackerone.com/hilton
 ejackson.co.uk	non-paying	Mondelēz International	https://hackerone.com/mondelez
 ejendomme.cbre.dk	non-paying	CBRE	https://hackerone.com/cbre
@@ -15828,19 +15661,6 @@ el.staging.aegeanair.com	non-paying	Aegean Airlines Vulnerability Disclosure	htt
 elastic.k8s.electrificationtools.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 elavon.fr	non-paying	Clarivate	https://hackerone.com/clarivate
 elawmonitor.com	non-paying	Clarivate	https://hackerone.com/clarivate
-elc-cep-api-am-qa.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-elc-clglobal-sg-qa.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-elc-clglobal-uk-prod.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-elc-clglobal-uk-qa.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-elc-clglobal-us-prod.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-elc-clglobal-us-qa.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-elc-clienteling-am-bucket.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-elc-clienteling-am-dev.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-elc-clienteling-am-prod.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-elccaresfund.org	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-elcgoodworks.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 elcuscare.abb.com.cn	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 eld.tenna.com	out-of-scope	John Deere	https://hackerone.com/john-deere
 eleai.cloudintegration.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
@@ -16387,7 +16207,6 @@ esi-ae-portal.cbreesi.com	non-paying	CBRE	https://hackerone.com/cbre
 esi-flask-okta-demo.cbreesi.com	non-paying	CBRE	https://hackerone.com/cbre
 esi-topics.com	non-paying	Clarivate	https://hackerone.com/clarivate
 esi.ac.cn	non-paying	Clarivate	https://hackerone.com/clarivate
-esignapp.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 esisweb.com.au	non-paying	Equifax-vdp	https://hackerone.com/equifax
 esitemonitor.com	non-paying	Clarivate	https://hackerone.com/clarivate
 esluat.caaweb.com	non-paying	Fiserv	https://hackerone.com/fiserv
@@ -16448,7 +16267,6 @@ essentialscience.info	non-paying	Clarivate	https://hackerone.com/clarivate
 estalis.ca	non-paying	Clarivate	https://hackerone.com/clarivate
 estate2026.fonzies.it	non-paying	Mondelēz International	https://hackerone.com/mondelez
 estatetool.cbre.dk	non-paying	CBRE	https://hackerone.com/cbre
-esteelauder.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 estimator-api-dev.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 estimator-api-qa.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 estimator-api-uat.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -16507,7 +16325,7 @@ eucor.net	non-paying	Clarivate	https://hackerone.com/clarivate
 eucor.org	non-paying	Clarivate	https://hackerone.com/clarivate
 eucoronline.de	non-paying	Clarivate	https://hackerone.com/clarivate
 eucreas.ca	non-paying	Clarivate	https://hackerone.com/clarivate
-eufyMake Studio(2D UV)	paying	eufy Security	https://hackerone.com/eufy_security
+eufyMake Studio(2D UV)	paying	Anker	https://hackerone.com/anker
 euleioparaumacrianca.com.br	non-paying	Itaú Unibanco	https://hackerone.com/itau_unibanco
 eumotionchannelpartnerconference2023.events.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 eurobankepistrofiel.aegeanair.com	non-paying	Aegean Airlines Vulnerability Disclosure	https://hackerone.com/aegean_airlines_vdp
@@ -16697,8 +16515,6 @@ expresspos-test.firstdata.com	non-paying	Fiserv	https://hackerone.com/fiserv
 expresspos.fiservapp.com	non-paying	Fiserv	https://hackerone.com/fiserv
 exs-dtu-gw-cf.africa.afso1.aws.indriverapp.com	paying	inDrive	https://hackerone.com/indrive
 exs-dtu-gw-scf.sa.apse1.aws.indriverapp.com	paying	inDrive	https://hackerone.com/indrive
-ext-cdp-am-qa.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-ext-cdp-am.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 ext-equifax.cl	non-paying	Equifax-vdp	https://hackerone.com/equifax
 ext-lb.cloudintegration.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 ext-pro-webserv-corona.wip.it.hpe.com	non-paying	HPE VDP	https://hackerone.com/hpe_vdp
@@ -16739,13 +16555,11 @@ extranet-uat.fiservapp.com	non-paying	Fiserv	https://hackerone.com/fiserv
 extranet.aegeanair.com	non-paying	Aegean Airlines Vulnerability Disclosure	https://hackerone.com/aegean_airlines_vdp
 extranet.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 extranet.cbreinvestors.com	non-paying	CBRE	https://hackerone.com/cbre
-extranet.estee-lauder.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 extranet.fiservapp.com	non-paying	Fiserv	https://hackerone.com/fiserv
 extranet.gallileo-frankfurt.com	non-paying	CBRE	https://hackerone.com/cbre
 extranet.getaroom.com	out-of-scope	Priceline	https://hackerone.com/priceline
 extranet.s-pankki.fi	paying	S-Pankki	https://hackerone.com/s-pankki
 extraparts.deere.com	non-paying	John Deere	https://hackerone.com/john-deere
-extsso.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 extvdesk.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 ezc-itg.wip.it.hpe.com	non-paying	HPE VDP	https://hackerone.com/hpe_vdp
 ezc-itglb1-vip.it.hpe.com	non-paying	HPE VDP	https://hackerone.com/hpe_vdp
@@ -16996,10 +16810,6 @@ feldentertainment.fr	non-paying	Clarivate	https://hackerone.com/clarivate
 femara.ca	non-paying	Clarivate	https://hackerone.com/clarivate
 femmesenaction.ca	non-paying	Clarivate	https://hackerone.com/clarivate
 fenfcu.com	non-paying	Fiserv	https://hackerone.com/fiserv
-fep.suppliernet-hotfix.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-fep.suppliernet-qa.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-fep.suppliernet-uat.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-fep.suppliernet.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 fepascardse-cat.fiserv.com.br	non-paying	Fiserv	https://hackerone.com/fiserv
 ferrero.integrityline.app	out-of-scope	Ferrero	https://hackerone.com/ferrero
 ferry.aegeanair.com	non-paying	Aegean Airlines Vulnerability Disclosure	https://hackerone.com/aegean_airlines_vdp
@@ -17211,7 +17021,6 @@ finsoftware.com	non-paying	ION Group	https://hackerone.com/ion
 fintech-aml-kyc-tw.coupang.com	paying	Coupang Taiwan	https://hackerone.com/coupang_tw
 finuatren.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 fiori.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
-fiori.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 fipnews.com	non-paying	Clarivate	https://hackerone.com/clarivate
 fipo.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 fire-cu-admin.originate.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
@@ -17392,7 +17201,6 @@ flemingsstore.wgiftcard.com	non-paying	Fiserv	https://hackerone.com/fiserv
 fletch.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 fletch2.elis.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 flex-api.twilio.com	paying	Twilio	https://hackerone.com/twilio
-flex01.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 flickrhelp.com	out-of-scope	Flickr	https://hackerone.com/flickr
 flightlog.aegeanair.com	non-paying	Aegean Airlines Vulnerability Disclosure	https://hackerone.com/aegean_airlines_vdp
 flightloguat.aegeanair.com	non-paying	Aegean Airlines Vulnerability Disclosure	https://hackerone.com/aegean_airlines_vdp
@@ -17528,7 +17336,6 @@ forextrader.fidelity.com	out-of-scope	Fidelity	https://hackerone.com/fidelity
 forgecu-admin.originate.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 forgecu.originate.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 forgotpass.johndeere.com	non-paying	John Deere	https://hackerone.com/john-deere
-form.digitalcapture.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 formant.dev.bearflagrobotics.com	non-paying	John Deere	https://hackerone.com/john-deere
 formassembly.com	non-paying	FormAssembly	https://hackerone.com/formassembly
 formationcu-admin.originate.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
@@ -17662,25 +17469,9 @@ frontiera-dr.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 frontiera-tst.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 frontiera.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 frontierbank-p2.onlinebank.com	non-paying	Fiserv	https://hackerone.com/fiserv
-frontiers-approval-sit-sea.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-frontiers-approval-uat-sea.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-frontiers-approval.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-frontiers-aus.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-frontiers-prod-aus-eform.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-frontiers-prod-sg-eform.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-frontiers-sit-aus.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-frontiers-sit-hk-eform.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-frontiers-sit-tw-eform.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-frontiers-uat-aus-eform.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-frontiers-uat-aus.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-frontiers-uat-hk-eform.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-frontiers-uat-tw-eform.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-frontiers.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 frontline-api.twilio.com	paying	Twilio	https://hackerone.com/twilio
 frost.icm-uat.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 frost.icm.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
-frt-prod-hk-eform.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-frt-prod-tw-eform.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 fs-prdfus.mtn.com	non-paying	MTN Group	https://hackerone.com/mtn_group
 fs.ucr.com	non-paying	CBRE	https://hackerone.com/cbre
 fsamsd.businesstrack.com	non-paying	Fiserv	https://hackerone.com/fiserv
@@ -17971,7 +17762,6 @@ gameplus.mtnonline.com	out-of-scope	MTN Group	https://hackerone.com/mtn_group
 gamerplus.mtn.co.za	non-paying	MTN Group	https://hackerone.com/mtn_group
 games-force.com	non-paying	Clarivate	https://hackerone.com/clarivate
 games.ayoba.me	non-paying	MTN Group	https://hackerone.com/mtn_group
-games.cliniqueplay.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 games.mtnonline.com	out-of-scope	MTN Group	https://hackerone.com/mtn_group
 games.nbaacademy.nba.com	out-of-scope	NBA Public Bug Bounty	https://hackerone.com/nba-public
 gamesacookies.com	non-paying	PepsiCo VDP	https://hackerone.com/pepsico_vdp
@@ -18273,7 +18063,6 @@ github.com/tucows	out-of-scope	Tucows (VDP)	https://hackerone.com/tucows_vdp
 github.com/twilio	paying	Twilio	https://hackerone.com/twilio
 github.com/twilio-labs	paying	Twilio	https://hackerone.com/twilio
 github.fr	non-paying	Clarivate	https://hackerone.com/clarivate
-githubhooks.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 gitlab.au.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 gitlab.bearflagrobotics.com	non-paying	John Deere	https://hackerone.com/john-deere
 gitlab.biterg.io	out-of-scope	GitLab	https://hackerone.com/gitlab
@@ -18385,7 +18174,6 @@ gmetrics.industriousoffice.com	non-paying	CBRE	https://hackerone.com/cbre
 gms-prev.nba.com	paying	NBA Public Bug Bounty	https://hackerone.com/nba-public
 gms.app.essity.com	non-paying	Essity	https://hackerone.com/essity
 gms.nba.com	paying	NBA Public Bug Bounty	https://hackerone.com/nba-public
-gmw.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 gnbbank-p2.onlinebank.com	non-paying	Fiserv	https://hackerone.com/fiserv
 gnltn.com	out-of-scope	Fertitta Entertainment	https://hackerone.com/fertitta_entertainment
 gnocchi-www.buffalo-ggn.net	paying	Playtika	https://hackerone.com/playtika
@@ -18528,11 +18316,8 @@ grantcountybank.onlinebank.com	non-paying	Fiserv	https://hackerone.com/fiserv
 grantcountystatebank-p2.onlinebank.com	non-paying	Fiserv	https://hackerone.com/fiserv
 graphsync-cons.services.wirtgen-group.com	non-paying	John Deere	https://hackerone.com/john-deere
 graphsync.services.wirtgen-group.com	non-paying	John Deere	https://hackerone.com/john-deere
-gratisawards12.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 gratisschenken.milka.de	non-paying	Mondelēz International	https://hackerone.com/mondelez
 gravatar.com	paying	Automattic	https://hackerone.com/automattic
-grax-uat.estee.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-grax.estee.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 grc-aacg.mtn.com	non-paying	MTN Group	https://hackerone.com/mtn_group
 grc-ccg.mtn.com	non-paying	MTN Group	https://hackerone.com/mtn_group
 greatergothambank.onlinebank.com	non-paying	Fiserv	https://hackerone.com/fiserv
@@ -25226,6 +25011,7 @@ https://c.realme.com/in/	paying	OPPO	https://hackerone.com/oppo_bbp
 https://c.realme.com/ru/	paying	OPPO	https://hackerone.com/oppo_bbp
 https://ca-roa.medeco.com	non-paying	Assa Abloy Americas	https://hackerone.com/assa_abloy_americas
 https://cadburygifting.in	out-of-scope	Mondelēz International	https://hackerone.com/mondelez
+https://campus.hm.essity.com	non-paying	Essity	https://hackerone.com/essity
 https://careers.abb/global/en	out-of-scope	ABB Information Systems Ltd	https://hackerone.com/abb
 https://careers.msci.com/	out-of-scope	MSCI	https://hackerone.com/msci
 https://cas.us.baesystems.com	non-paying	DIB-VDP	https://hackerone.com/dib-vdp
@@ -27400,7 +27186,6 @@ identityprotection.eset.com	non-paying	TransUnion LLC	https://hackerone.com/tran
 identitywatch.com.au	non-paying	Equifax-vdp	https://hackerone.com/equifax
 idfcats.firstdata.com	non-paying	Fiserv	https://hackerone.com/fiserv
 idg.ch.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
-idm-qa.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 idmatrix.com.au	non-paying	Equifax-vdp	https://hackerone.com/equifax
 idmemberbenefits.com	non-paying	TransUnion LLC	https://hackerone.com/transunion
 idp-cf.euce1.indriverapp.com	paying	inDrive	https://hackerone.com/indrive
@@ -28004,7 +27789,6 @@ integrator-portal-api.getyourguide.com	non-paying	GetYourGuide VDP	https://hacke
 integrator.getyourguide.com	non-paying	GetYourGuide VDP	https://hackerone.com/getyourguide_vdp
 integrisfcu-admin.originate.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 integrisfcu.originate.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
-integrity.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 integritybankva.onlinebank.com	non-paying	Fiserv	https://hackerone.com/fiserv
 intelex.jjwws.com	non-paying	CBRE	https://hackerone.com/cbre
 intelforma.com	non-paying	Clarivate	https://hackerone.com/clarivate
@@ -28056,7 +27840,6 @@ interstitials.travelproducts.jetblue.com	out-of-scope	JetBlue	https://hackerone.
 interstudydata.com	non-paying	Clarivate	https://hackerone.com/clarivate
 interstudypublications.com	non-paying	Clarivate	https://hackerone.com/clarivate
 interwikirecon.spaziodati.eu	non-paying	ION Group	https://hackerone.com/ion
-intlmktg.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 intra.h2m.se	non-paying	CBRE	https://hackerone.com/cbre
 intra.intego.dk	non-paying	CBRE	https://hackerone.com/cbre
 intracoastal.caaweb.com	non-paying	Fiserv	https://hackerone.com/fiserv
@@ -28612,9 +28395,6 @@ ja.gallileo-frankfurt.com	non-paying	CBRE	https://hackerone.com/cbre
 jaarlanggratis.milka.nl	non-paying	Mondelēz International	https://hackerone.com/mondelez
 jabpool.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 jacklinksfritolay.com	non-paying	PepsiCo VDP	https://hackerone.com/pepsico_vdp
-jade-dev.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-jade-qa.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-jade.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 jadenu.ca	non-paying	Clarivate	https://hackerone.com/clarivate
 jakavi.ca	non-paying	Clarivate	https://hackerone.com/clarivate
 jalexanders.wgiftcard.com	non-paying	Fiserv	https://hackerone.com/fiserv
@@ -28936,8 +28716,6 @@ kahukufcu-dc.cert.fec-dc.fiservapps.com	non-paying	Fiserv	https://hackerone.com/
 kaiser-integration.bypassmobile.com	non-paying	Fiserv	https://hackerone.com/fiserv
 kaiser.bpm-int.io	non-paying	Fiserv	https://hackerone.com/fiserv
 kaiser.bypassmobile.com	non-paying	Fiserv	https://hackerone.com/fiserv
-kanaresponse.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-kanaresponseqa.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 karbon.nutanix.com	out-of-scope	Nutanix	https://hackerone.com/nutanix
 kariera.cbre.pl	non-paying	CBRE	https://hackerone.com/cbre
 karl-koellner.com	non-paying	Aon	https://hackerone.com/aon
@@ -29140,7 +28918,6 @@ krispykreme.gift.solutions	non-paying	Fiserv	https://hackerone.com/fiserv
 krispykreme.wgiftcard.com	non-paying	Fiserv	https://hackerone.com/fiserv
 krispykremestore.wgiftcard.com	non-paying	Fiserv	https://hackerone.com/fiserv
 kronor.io	paying	Boozt Fashion AB	https://hackerone.com/boozt
-krslqa.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 krysandchris.co.ke	out-of-scope	MTN Group	https://hackerone.com/mtn_group
 ksam.com	non-paying	KKR-VDP	https://hackerone.com/kkr_vdp
 ksbcbscu-admin.originate.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
@@ -29359,10 +29136,8 @@ leagueoflegend.fr	non-paying	Clarivate	https://hackerone.com/clarivate
 leaguepass.wnba.com	out-of-scope	NBA Public Bug Bounty	https://hackerone.com/nba-public
 leanoffice.pl.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 leap.biz	non-paying	Clarivate	https://hackerone.com/clarivate
-learn-pilot.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 learn.acronis.com	out-of-scope	Acronis	https://hackerone.com/acronis
 learn.elastic.co	out-of-scope	Elastic	https://hackerone.com/elastic
-learn.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 learn.gallileo-frankfurt.com	non-paying	CBRE	https://hackerone.com/cbre
 learn.gocardless.com	out-of-scope	GoCardless Bug Bounty Program	https://hackerone.com/gocardless_bbp
 learn.harvestprofit.com	non-paying	John Deere	https://hackerone.com/john-deere
@@ -29536,7 +29311,6 @@ linkisi.com	non-paying	Clarivate	https://hackerone.com/clarivate
 linkisi.info	non-paying	Clarivate	https://hackerone.com/clarivate
 links.deals.priceline.com	out-of-scope	Priceline	https://hackerone.com/priceline
 links.email.oportun.com	out-of-scope	Oportun	https://hackerone.com/oportun_vdp
-links.estee.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 links.flickr.com	out-of-scope	Flickr	https://hackerone.com/flickr
 links.geneva-staging.chat	paying	Bumble	https://hackerone.com/bumble
 links.geneva-staging.com	paying	Bumble	https://hackerone.com/bumble
@@ -29610,9 +29384,6 @@ ljc.tw.coupang.com	paying	Coupang Taiwan	https://hackerone.com/coupang_tw
 llm-webui.spaziodati.eu	non-paying	ION Group	https://hackerone.com/ion
 llmgw.codefest2026.marriott.com	out-of-scope	Marriott Bug Bounty Program	https://hackerone.com/marriott
 lloydsbankcardnetmerchantportal.fiservapp.com	non-paying	Fiserv	https://hackerone.com/fiserv
-lm-apacretail-otm.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-lm-arh.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-lm.mylmx.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 lmapi.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 lmefcu-dc.cert.fec-dc.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 lmefcu-dn.financial-net.com	non-paying	Fiserv	https://hackerone.com/fiserv
@@ -30065,9 +29836,6 @@ lp3.cbreinvestors.com	non-paying	CBRE	https://hackerone.com/cbre
 lpl.com	non-paying	LPL Financial VDP	https://hackerone.com/lpl_financial-vdp
 lpoglobal.com	non-paying	Clarivate	https://hackerone.com/clarivate
 lporeview.com	non-paying	Clarivate	https://hackerone.com/clarivate
-lpwb.suppliernet-hotfix.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-lpwb.suppliernet-uat.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-lpwb.suppliernet.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 lsbhank-p2.onlinebank.com	non-paying	Fiserv	https://hackerone.com/fiserv
 lsexternalapps.uat.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 lsfcu-admin.originate.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
@@ -30216,7 +29984,6 @@ maarkmonitor.com	non-paying	Clarivate	https://hackerone.com/clarivate
 mabkmonitor.com	non-paying	Clarivate	https://hackerone.com/clarivate
 mac-ai-devl.deere.com	non-paying	John Deere	https://hackerone.com/john-deere
 macaronigrill.gift.solutions	non-paying	Fiserv	https://hackerone.com/fiserv
-maccosmeticstravels.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 machiassavingsbankuat.caaweb.com	non-paying	Fiserv	https://hackerone.com/fiserv
 machine-analyzer.deere.com	non-paying	John Deere	https://hackerone.com/john-deere
 machinefinderdevlaws.tal.deere.com	non-paying	John Deere	https://hackerone.com/john-deere
@@ -31257,7 +31024,6 @@ micropat.com	non-paying	Clarivate	https://hackerone.com/clarivate
 micropat.us	non-paying	Clarivate	https://hackerone.com/clarivate
 micropatent.com	non-paying	Clarivate	https://hackerone.com/clarivate
 micropats.com	non-paying	Clarivate	https://hackerone.com/clarivate
-microsite.digitalcapture.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 microsites.baldor.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 micsb-p2.onlinebank.com	non-paying	Fiserv	https://hackerone.com/fiserv
 micsb.onlinebank.com	non-paying	Fiserv	https://hackerone.com/fiserv
@@ -31445,7 +31211,6 @@ mobile-ordering.bpm-int.io	non-paying	Fiserv	https://hackerone.com/fiserv
 mobile-ordering.bypassmobile.com	non-paying	Fiserv	https://hackerone.com/fiserv
 mobile-prod.fleetboard.com	non-paying	Daimler Truck	https://hackerone.com/daimler_truck
 mobile-staging.aegeanair.com	non-paying	Aegean Airlines Vulnerability Disclosure	https://hackerone.com/aegean_airlines_vdp
-mobile-standby.am.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 mobile-tst.fleetboard.com	non-paying	Daimler Truck	https://hackerone.com/daimler_truck
 mobile.aegeanair.com	non-paying	Aegean Airlines Vulnerability Disclosure	https://hackerone.com/aegean_airlines_vdp
 mobile.benninghoven-gm.com	non-paying	John Deere	https://hackerone.com/john-deere
@@ -31704,7 +31469,6 @@ mrkmonitor.net	non-paying	Clarivate	https://hackerone.com/clarivate
 mrkmonitor.org	non-paying	Clarivate	https://hackerone.com/clarivate
 mrscdc.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 mrsrom.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
-ms-api.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 ms-brasil-cat.fiservapp.com	non-paying	Fiserv	https://hackerone.com/fiserv
 ms-brasil.fiservapp.com	non-paying	Fiserv	https://hackerone.com/fiserv
 ms-df.com	non-paying	MTN Group	https://hackerone.com/mtn_group
@@ -31715,9 +31479,6 @@ ms-voicehub.agrisync.com	non-paying	John Deere	https://hackerone.com/john-deere
 msa.businesstrack.com	non-paying	Fiserv	https://hackerone.com/fiserv
 msc-parser-host.ghns-web-platform-prod-standalone4.us.e00.c01.johndeerecloud.com	non-paying	John Deere	https://hackerone.com/john-deere
 msclinicaltrials.ca	non-paying	Clarivate	https://hackerone.com/clarivate
-msds.suppliernet-hotfix.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-msds.suppliernet-uat.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-msds.suppliernet.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 msftonlinerepro.com	non-paying	Clarivate	https://hackerone.com/clarivate
 msg-cf.euce1.indriverapp.com	paying	inDrive	https://hackerone.com/indrive
 msg-gw-cf.euce1.indriverapp.com	paying	inDrive	https://hackerone.com/indrive
@@ -32133,7 +31894,6 @@ myamex-uat.fiserv.io	non-paying	Fiserv	https://hackerone.com/fiserv
 myanmar.visa.com	paying	Visa	https://hackerone.com/visa
 myaon.aon.fr	non-paying	Aon	https://hackerone.com/aon
 myappdr.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
-myapps-qa.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 myapps-secure.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 myapps-secure.gslb.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 myapps.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -32261,10 +32021,6 @@ mygc.onlinebank.com	non-paying	Fiserv	https://hackerone.com/fiserv
 mygc.originate.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 mygiftcard.gyft.com	non-paying	Fiserv	https://hackerone.com/fiserv
 myglaucomasupport.ca	non-paying	Clarivate	https://hackerone.com/clarivate
-myglobalhr-dr.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-myglobalhr.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-myglobalhrtst.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-myglobalhruat.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 myhbank.onlinebank.com	non-paying	Fiserv	https://hackerone.com/fiserv
 myhcm.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 myhcmadgwy.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -32315,7 +32071,6 @@ mylearningworks.org	non-paying	Clarivate	https://hackerone.com/clarivate
 mylibertytrust-p2.onlinebank.com	non-paying	Fiserv	https://hackerone.com/fiserv
 mylync.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 mylync.cbreglobalinvestors.com	non-paying	CBRE	https://hackerone.com/cbre
-mymacactivity.maccosmetics.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 mymeeting.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 mymobilemoneyng.com	non-paying	MTN Group	https://hackerone.com/mtn_group
 mymonosem.com	non-paying	John Deere	https://hackerone.com/john-deere
@@ -32490,7 +32245,6 @@ naefcu-admin.originate.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fi
 naefcu.originate.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 naheola-uat.streamlendvelocity.net	non-paying	Fiserv	https://hackerone.com/fiserv
 naheola.streamlendvelocity.net	non-paying	Fiserv	https://hackerone.com/fiserv
-nalx.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 nam.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 namethename.info	non-paying	Clarivate	https://hackerone.com/clarivate
 nammysupplier.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -32854,7 +32608,6 @@ no-sbc2.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 no-uat.nonprod.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 no.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 no.inside.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
-noam-xstore-adyenpbl.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 nobilist.com	non-paying	Clarivate	https://hackerone.com/clarivate
 node.bhp.myvirtualsuper.com	non-paying	John Deere	https://hackerone.com/john-deere
 node.e2ro.com/*	non-paying	AWS VDP	https://hackerone.com/aws_vdp
@@ -33324,7 +33077,6 @@ omni.firstdataclients.com	non-paying	Fiserv	https://hackerone.com/fiserv
 omnihub-gateway-cat.fiservapp.com	non-paying	Fiserv	https://hackerone.com/fiserv
 omnihub-gateway-prod.fiservapp.com	non-paying	Fiserv	https://hackerone.com/fiserv
 omnitrope.ca	non-paying	Clarivate	https://hackerone.com/clarivate
-oms-as-portal.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 omtrdc.net	out-of-scope	Audible	https://hackerone.com/audible
 on-app-backend.on-running.com	non-paying	On	https://hackerone.com/on
 on-app-backend.on.com	non-paying	On	https://hackerone.com/on
@@ -33572,8 +33324,6 @@ origin-5s2zmc8i7u-mapptst.abb.com.cn	non-paying	ABB Information Systems Ltd	http
 origin-65igqkk6ho-online.abb.com.cn	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 origin-6hkj6izgqx-drivehelp.abb.com.cn	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 origin-9g0txghrin-rulestaging.drives-document-generator.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
-origin-files-nalx.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-origin-files-uat-nalx.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 origin-fplebg8e7m-ws.abb.com.cn	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 origin-h1etu47ya3-qbox.ch.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 origin-jv4dkyrym6-myvaccine.us.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
@@ -33581,11 +33331,6 @@ origin-kfd21mg05h-wstst.abb.com.cn	non-paying	ABB Information Systems Ltd	https:
 origin-o3ohwl2w2b-tools.electrification.us.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 origin-p74eyz6faf-drives.abb.com.cn	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 origin-secure-prod-radware.getbento.com	non-paying	Fiserv	https://hackerone.com/fiserv
-origin-st-apacretail-otm.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-origin-st-arh.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-origin-st-dev-apacretail-otm-pnp.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-origin-st-uat-apacretail-otm-pnp.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-origin-st-uat-apacretail-otm.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 origin-staging-radware.bentosandbox.com	non-paying	Fiserv	https://hackerone.com/fiserv
 origin-w9qmurftgl-stg.condition-monitoring.mining.ability.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 origin-www.tal.deere.com	non-paying	John Deere	https://hackerone.com/john-deere
@@ -33597,7 +33342,6 @@ originate-admin.reliancebankmn.com	non-paying	Fiserv	https://hackerone.com/fiser
 originate.bsb.bank	non-paying	Fiserv	https://hackerone.com/fiserv
 originate.reliabank.com	non-paying	Fiserv	https://hackerone.com/fiserv
 originate.reliancebankmn.com	non-paying	Fiserv	https://hackerone.com/fiserv
-origins-productservices.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 orizen.com	non-paying	Clarivate	https://hackerone.com/clarivate
 orizensolutions.com	non-paying	Clarivate	https://hackerone.com/clarivate
 orlando.northgrum.com	non-paying	DIB-VDP	https://hackerone.com/dib-vdp
@@ -33615,7 +33359,6 @@ otc.in.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 otcweb.econfigure.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 oteenvafcu-dc.cert.fec-dc.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 other	non-paying	John Deere	https://hackerone.com/john-deere
-otm-pnp.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 otp.catalyst.clover.com	non-paying	Fiserv	https://hackerone.com/fiserv
 ots.technology.tenna.com	out-of-scope	John Deere	https://hackerone.com/john-deere
 ouipop.fr	non-paying	Clarivate	https://hackerone.com/clarivate
@@ -33642,13 +33385,6 @@ oversea.qe231.genix.abb.com	non-paying	ABB Information Systems Ltd	https://hacke
 oversea.uat.genix.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 overstock.fr	non-paying	Clarivate	https://hackerone.com/clarivate
 ovpn.bearflagrobotics.com	non-paying	John Deere	https://hackerone.com/john-deere
-owa-auth1.am.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-owa-auth1.eu.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-owa-auth2.am.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-owa-auth2.eu.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-owa-standby.am.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-owa-standby.eu.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-owa.am.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 owa.cbre.co.in	non-paying	CBRE	https://hackerone.com/cbre
 owa.cbre.co.jp	non-paying	CBRE	https://hackerone.com/cbre
 owa.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -33660,7 +33396,6 @@ owa.cbre.fr	non-paying	CBRE	https://hackerone.com/cbre
 owa.cbreapps.com	non-paying	CBRE	https://hackerone.com/cbre
 owa.cbrekorea.com	non-paying	CBRE	https://hackerone.com/cbre
 owa.cbrevietnam.com	non-paying	CBRE	https://hackerone.com/cbre
-owa.eu.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 owa.facilitysource.com	non-paying	CBRE	https://hackerone.com/cbre
 owa.gallileo-frankfurt.com	non-paying	CBRE	https://hackerone.com/cbre
 owa.gslb.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
@@ -34133,11 +33868,6 @@ pdfroster-dev.nba.com	paying	NBA Public Bug Bounty	https://hackerone.com/nba-pub
 pdfroster-qa.nba.com	paying	NBA Public Bug Bounty	https://hackerone.com/nba-public
 pdfroster.nba.com	paying	NBA Public Bug Bounty	https://hackerone.com/nba-public
 pdi.deere.com	non-paying	John Deere	https://hackerone.com/john-deere
-pdr.suppliernet-dev.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-pdr.suppliernet-hotfix.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-pdr.suppliernet-qa.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-pdr.suppliernet-uat.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-pdr.suppliernet.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 pds-term1.ca.essd.northgrum.com	non-paying	DIB-VDP	https://hackerone.com/dib-vdp
 pds.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 pds.norlandprojects.co.uk	non-paying	CBRE	https://hackerone.com/cbre
@@ -34189,7 +33919,6 @@ peopleanalyticsportal.nba.com	paying	NBA Public Bug Bounty	https://hackerone.com
 peopleandplaces.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 peopleandplacesadmin.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 peoplefirstbank-p2.onlinebank.com	non-paying	Fiserv	https://hackerone.com/fiserv
-peoplehub-build.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 peoplemetro.com.au	non-paying	Equifax-vdp	https://hackerone.com/equifax
 peopleorgchart.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 peopleorgchartcloud.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -34754,8 +34483,6 @@ porttoplant.com	non-paying	ION Group	https://hackerone.com/ion
 porttoplant.net	non-paying	ION Group	https://hackerone.com/ion
 portugal.zebra.com	non-paying	Zebra VDP	https://hackerone.com/zebra_vdp
 portugues.zebra.com	non-paying	Zebra VDP	https://hackerone.com/zebra_vdp
-pos-uat.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-pos.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 pospayweb.secureaps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 pospaywebdr.secureaps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 possgts.firstdata.com	non-paying	Fiserv	https://hackerone.com/fiserv
@@ -34869,7 +34596,6 @@ preprod-ukplatform.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 preprod.fmpilot2.com	non-paying	CBRE	https://hackerone.com/cbre
 preprod.gallileo-frankfurt.com	non-paying	CBRE	https://hackerone.com/cbre
 preprod.performanceiq.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
-preprod.supplierportal.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 preprod1.grindr.com	non-paying	Grindr	https://hackerone.com/grindr
 preprodapi-ukplatform.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 prequal.swiftfinancial.com	paying	PayPal	https://hackerone.com/paypal
@@ -35146,7 +34872,6 @@ products.deere.com	non-paying	John Deere	https://hackerone.com/john-deere
 products.electrificationtools.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 products.harvestprofit.com	non-paying	John Deere	https://hackerone.com/john-deere
 products.mo.cloudintegration.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
-productservices.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 productsizer.nutanix.com	non-paying	Nutanix	https://hackerone.com/nutanix
 productviewer.deere.com	non-paying	John Deere	https://hackerone.com/john-deere
 produktion.api.praxispad.de/	non-paying	ResMed	https://hackerone.com/resmed
@@ -35163,7 +34888,6 @@ progressiveozarkbank-p2.onlinebank.com	non-paying	Fiserv	https://hackerone.com/f
 progressiveozarkbank.onlinebank.com	non-paying	Fiserv	https://hackerone.com/fiserv
 progressivetech.holdings	non-paying	MTN Group	https://hackerone.com/mtn_group
 progrowth-p2.onlinebank.com	non-paying	Fiserv	https://hackerone.com/fiserv
-projdev.supplierportal.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 project.cbre.dk	non-paying	CBRE	https://hackerone.com/cbre
 project.gallileo-frankfurt.com	non-paying	CBRE	https://hackerone.com/cbre
 projectcoal.cbre.fi	non-paying	CBRE	https://hackerone.com/cbre
@@ -35183,7 +34907,6 @@ projects.nextcloud.com	non-paying	Nextcloud	https://hackerone.com/nextcloud
 projects.proptech.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 projectspace.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
 projecttimeentry.industrial-automation-service.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
-projqa.supplierportal.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 prolaborate.services.wirtgen-group.com	non-paying	John Deere	https://hackerone.com/john-deere
 promis.cbre.co.th	non-paying	CBRE	https://hackerone.com/cbre
 promiseone-p2.onlinebank.com	non-paying	Fiserv	https://hackerone.com/fiserv
@@ -35661,10 +35384,6 @@ qa-api-ipg-online-use4.ns1.fiservapis.com	non-paying	Fiserv	https://hackerone.co
 qa-api.businesstrack.com	non-paying	Fiserv	https://hackerone.com/fiserv
 qa-apigee-fiservapps-use4.ns1.fiservapis.com	non-paying	Fiserv	https://hackerone.com/fiserv
 qa-apigee-fiservapps.ns1.fiservapis.com	non-paying	Fiserv	https://hackerone.com/fiserv
-qa-apps-dev.cliniquecomputer.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-qa-apps-stage.cliniquecomputer.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-qa-apps-test.cliniquecomputer.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-qa-apps.cliniquecomputer.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 qa-assets.aon-hugeops.uk/	non-paying	Aon	https://hackerone.com/aon
 qa-billpay.goldman.com	out-of-scope	Goldman Sachs	https://hackerone.com/goldmansachs
 qa-ccc.businesstrack.com	non-paying	Fiserv	https://hackerone.com/fiserv
@@ -35673,10 +35392,6 @@ qa-cmms-auth.serviceinsight.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 qa-cmms.serviceinsight.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 qa-cms.aon-hugeops.uk/	non-paying	Aon	https://hackerone.com/aon
 qa-dma.fiserv.com	non-paying	Fiserv	https://hackerone.com/fiserv
-qa-dms-external.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-qa-eis-wm-cn.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-qa-eis-wm-na.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-qa-eis-wm-sg.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 qa-enterprise.serviceinsight.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 qa-gateway.serviceinsight.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 qa-gp-api-fiservapps-ause1.ns1.fiservapis.com	non-paying	Fiserv	https://hackerone.com/fiserv
@@ -35692,10 +35407,8 @@ qa-marketingcommunication.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 qa-media.cbreone.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 qa-miam.businesstrack.com	non-paying	Fiserv	https://hackerone.com/fiserv
 qa-mktgdocs.nonprod.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
-qa-ms-api.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 qa-oneplatform.com	non-paying	Clarivate	https://hackerone.com/clarivate
 qa-onlinebanking.firstdata.com	non-paying	Fiserv	https://hackerone.com/fiserv
-qa-otm-pnp.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 qa-proxy.businesstrack.com	non-paying	Fiserv	https://hackerone.com/fiserv
 qa-proxy.commercecontrol.com	non-paying	Fiserv	https://hackerone.com/fiserv
 qa-qa.nonprod.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -35705,9 +35418,6 @@ qa-searchapi.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 qa-self-serve-ui.catalyst.clover.com	non-paying	Fiserv	https://hackerone.com/fiserv
 qa-serviceinsight.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 qa-serviceinsight.cbreapps.com	non-paying	CBRE	https://hackerone.com/cbre
-qa-tml.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-qa-tr-otm-pnp.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-qa-tr-otm.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 qa-ukplatform.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 qa-west-onlinebanking.firstdata.com	non-paying	Fiserv	https://hackerone.com/fiserv
 qa.airvantage.io	non-paying	Semtech	https://hackerone.com/semtech
@@ -35749,7 +35459,6 @@ qa.rewards.deere.com	non-paying	John Deere	https://hackerone.com/john-deere
 qa.smartfm.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 qa.spaces.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 qa.stats.nba.com	paying	NBA Public Bug Bounty	https://hackerone.com/nba-public
-qa.supplierportal.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 qa.surveycreator.brokerhub.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 qa.vantage-analytics.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 qa.vantageanalytics.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -35782,7 +35491,6 @@ qaapi-ukplatform.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 qaapi.flow.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 qaapi.officeready-np.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 qaapi.pjmtech-np.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
-qaarchives.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 qamailbox2012.net	non-paying	Clarivate	https://hackerone.com/clarivate
 qat-api-email-sender.cbreapps.com	non-paying	CBRE	https://hackerone.com/cbre
 qat-function-email-sender.cbreapps.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -35836,9 +35544,6 @@ qr.moonpay.com	out-of-scope	MoonPay	https://hackerone.com/moonpay
 qrcode-ms-cat.fiservapp.com	non-paying	Fiserv	https://hackerone.com/fiserv
 qrcode-ms.fiservapp.com	non-paying	Fiserv	https://hackerone.com/fiserv
 qrcode.motion.abb.com.cn	non-paying	ABB Information Systems Ltd	https://hackerone.com/abb
-qrp-dev.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-qrp-uat.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-qrp.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 qt.boots.com	non-paying	Alshaya	https://hackerone.com/alshaya
 qt.fdecs.com	non-paying	Fiserv	https://hackerone.com/fiserv
 qtcat.fdecs.com	non-paying	Fiserv	https://hackerone.com/fiserv
@@ -36278,8 +35983,6 @@ rentcycleapi-uat.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 rentcycleapi.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 rentcycleui-dev.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 renttracker-dev.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
-rep-files.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-rep-frederic-malle.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 repo.3cx.com	paying	3CX	https://hackerone.com/3cx
 repo.nextcapital.com	out-of-scope	Goldman Sachs	https://hackerone.com/goldmansachs
 reponses-ia.alpha.canada.ca	out-of-scope	Treasury Board of Canada Secretariat/Secrétariat du Conseil du Trésor du Canada	https://hackerone.com/tbs-sct
@@ -36722,9 +36425,6 @@ ru.gallileo-frankfurt.com	non-paying	CBRE	https://hackerone.com/cbre
 ru.staging.about.aegeanair.com	non-paying	Aegean Airlines Vulnerability Disclosure	https://hackerone.com/aegean_airlines_vdp
 ru.staging.aegeanair.com	non-paying	Aegean Airlines Vulnerability Disclosure	https://hackerone.com/aegean_airlines_vdp
 rubble-api.mfg-branch-and-parts-prod-vpn.us.e11.c01.johndeerecloud.com	non-paying	John Deere	https://hackerone.com/john-deere
-ruby-dev.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-ruby-qa.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-ruby.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 rubygems.nextcapital.com	out-of-scope	Goldman Sachs	https://hackerone.com/goldmansachs
 rubyhouse.cbresi.com.au	non-paying	CBRE	https://hackerone.com/cbre
 ruffles.com	non-paying	PepsiCo VDP	https://hackerone.com/pepsico_vdp
@@ -36844,8 +36544,6 @@ salestool.ch.abb.com	non-paying	ABB Information Systems Ltd	https://hackerone.co
 salestraining-wirtgen.applications.wirtgen-group.com	non-paying	John Deere	https://hackerone.com/john-deere
 salestraining.applications.wirtgen-group.com	non-paying	John Deere	https://hackerone.com/john-deere
 salliemae.fdecs.com	non-paying	Fiserv	https://hackerone.com/fiserv
-salon.avedakorea.co.kr	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-salon.darphin.co.kr	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 saltcityfcu-admin.originate.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 saltcityfcu.originate.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 saltlakecity-dev.gleague.nba.com	paying	NBA Public Bug Bounty	https://hackerone.com/nba-public
@@ -36913,8 +36611,6 @@ sapauthorization.ch.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 sapdp-perf.snappayglobal.com	non-paying	Fiserv	https://hackerone.com/fiserv
 sapdp-stage.snappayglobal.com	non-paying	Fiserv	https://hackerone.com/fiserv
 sapdp.snappayglobal.com	non-paying	Fiserv	https://hackerone.com/fiserv
-sapphire-qa.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-sapphire.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 sarlaft.itauseguros.co	non-paying	Itaú Unibanco	https://hackerone.com/itau_unibanco
 sasshoes.wgiftcard.com	non-paying	Fiserv	https://hackerone.com/fiserv
 sasshoesstore.wgiftcard.com	non-paying	Fiserv	https://hackerone.com/fiserv
@@ -37057,9 +36753,6 @@ scrollkit.com,*.scrollkit.com	out-of-scope	Automattic	https://hackerone.com/auto
 scrs.mainstreamsasp.com	non-paying	CBRE	https://hackerone.com/cbre
 scrutiny.swiftfinancial.com	paying	PayPal	https://hackerone.com/paypal
 scs-tariff-mgmt.supplymgmt-tariffs-devl-vpn.use1.e15.c01.johndeerecloud.com	non-paying	John Deere	https://hackerone.com/john-deere
-scswb.suppliernet-hotfix.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-scswb.suppliernet-uat.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-scswb.suppliernet.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 sd3fcu-admin.originate.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 sd3fcu.originate.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 sddb.com	non-paying	Clarivate	https://hackerone.com/clarivate
@@ -37215,27 +36908,7 @@ selfpublishedauthor.biz	non-paying	Clarivate	https://hackerone.com/clarivate
 selfpublishedauthor.com	non-paying	Clarivate	https://hackerone.com/clarivate
 selfpublishedauthor.info	non-paying	Clarivate	https://hackerone.com/clarivate
 selfpublishedauthor.mobi	non-paying	Clarivate	https://hackerone.com/clarivate
-selfservice.aramis.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-selfservice.aveda.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-selfservice.balmainbeauty.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-selfservice.bobbibrown.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-selfservice.bumbleandbumble.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-selfservice.bykilian.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-selfservice.clinique.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-selfservice.cremedelamer.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-selfservice.darphin.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-selfservice.drjart.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-selfservice.estee-lauder.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-selfservice.fredericmalle.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-selfservice.glamglow.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 selfservice.grindr.com	out-of-scope	Grindr	https://hackerone.com/grindr
-selfservice.jomalone.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-selfservice.lelabo.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-selfservice.maccosmetics.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-selfservice.origins.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-selfservice.smashbox.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-selfservice.tomfordbeauty.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-selfservice.toofaced.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 selkirkfinancial.com	non-paying	ION Group	https://hackerone.com/ion
 selkirkfinancial.net	non-paying	ION Group	https://hackerone.com/ion
 sell.moonpay.com	paying	MoonPay	https://hackerone.com/moonpay
@@ -37395,7 +37068,6 @@ serviceportal-cons.services.wirtgen-group.com	non-paying	John Deere	https://hack
 serviceportal-dev.services.wirtgen-group.com	non-paying	John Deere	https://hackerone.com/john-deere
 serviceportal.services.wirtgen-group.com	non-paying	John Deere	https://hackerone.com/john-deere
 services-merchant.staging.cloveronline.com	non-paying	Fiserv	https://hackerone.com/fiserv
-services-uat.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 services.aig.co.il	non-paying	AIG	https://hackerone.com/aig
 services.api.demo.cloud.tenna.com	out-of-scope	John Deere	https://hackerone.com/john-deere
 services.api.dv2.cloud.tenna.com	out-of-scope	John Deere	https://hackerone.com/john-deere
@@ -37404,7 +37076,6 @@ services.api.prd.cloud.tenna.com	out-of-scope	John Deere	https://hackerone.com/j
 services.api.qa1.cloud.tenna.com	out-of-scope	John Deere	https://hackerone.com/john-deere
 services.api.stg.cloud.tenna.com	out-of-scope	John Deere	https://hackerone.com/john-deere
 services.api.us-east-1.public.prd.cloud.tenna.com	out-of-scope	John Deere	https://hackerone.com/john-deere
-services.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 services.gallileo-frankfurt.com	non-paying	CBRE	https://hackerone.com/cbre
 services.oportun.com	non-paying	Oportun	https://hackerone.com/oportun_vdp
 services.wirtgen-group.com	non-paying	John Deere	https://hackerone.com/john-deere
@@ -37457,7 +37128,6 @@ sgnl.ai	paying	Crowdstrike	https://hackerone.com/crowdstrike
 sgnl.cloud	paying	Crowdstrike	https://hackerone.com/crowdstrike
 sgnl.team	paying	Crowdstrike	https://hackerone.com/crowdstrike
 sgnlapis.cloud	paying	Crowdstrike	https://hackerone.com/crowdstrike
-sgslqa.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 sgtspos.firstdata.com	non-paying	Fiserv	https://hackerone.com/fiserv
 sh.reddit.com	paying	Reddit	https://hackerone.com/reddit
 sha1.staging.aegeanair.com	non-paying	Aegean Airlines Vulnerability Disclosure	https://hackerone.com/aegean_airlines_vdp
@@ -37524,12 +37194,6 @@ shop.robinhood.com	out-of-scope	Robinhood Markets	https://hackerone.com/robinhoo
 shop.robinhood.com	out-of-scope	Robinhood Markets Bounty	https://hackerone.com/robinhood
 shop.semtech.com	non-paying	Semtech	https://hackerone.com/semtech
 shop.sentera.com	non-paying	John Deere	https://hackerone.com/john-deere
-shop.thecompanystore.asia	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-shop.thecompanystore.com.my	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-shop.thecompanystore.com.sg	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-shop.thecompanystore.com.tw	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-shop.thecompanystore.jp	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-shop.theonlinecompanystore.com.au	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 shop.tiktok.com	paying	TikTok	https://hackerone.com/tiktok
 shop.tw.coupang.com	paying	Coupang Taiwan	https://hackerone.com/coupang_tw
 shop.wealthsimple.com	out-of-scope	Wealthsimple	https://hackerone.com/wealthsimple
@@ -37745,8 +37409,6 @@ sit-crsp.serviceinsightlocal.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 sit-di.serviceinsightlocal.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 sit-dyin.serviceinsightlocal.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 sit-enterprise.serviceinsight.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
-sit-frontiers-approval.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-sit-frontiers.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 sit-lightbox.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 sit-noti.serviceinsightlocal.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 sit-pmservice.serviceinsightlocal.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
@@ -37923,7 +37585,6 @@ slinfo.com	non-paying	Clarivate	https://hackerone.com/clarivate
 slm.store.mendix.com	non-paying	Mendix	https://hackerone.com/mendix
 slogan-and-claims.com	non-paying	Clarivate	https://hackerone.com/clarivate
 slogan.org	non-paying	Clarivate	https://hackerone.com/clarivate
-slqa.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 slvfed.architect-cert.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 slvfed.architect-cert.onlinebank.com	non-paying	Fiserv	https://hackerone.com/fiserv
 slvfed.onlinebank.com	non-paying	Fiserv	https://hackerone.com/fiserv
@@ -38269,9 +37930,6 @@ sparks-qa2.wnba.com	paying	NBA Public Bug Bounty	https://hackerone.com/nba-publi
 sparks.wnba.com	paying	NBA Public Bug Bounty	https://hackerone.com/nba-public
 sparkspread.com	non-paying	ION Group	https://hackerone.com/ion
 spawish.wgiftcard.com	non-paying	Fiserv	https://hackerone.com/fiserv
-spc.estee-lauder.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-spc.esteelauder.co.nz	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-spc.esteelauder.com.au	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 speakmigraine.ca	non-paying	Clarivate	https://hackerone.com/clarivate
 speakyourmigraine.ca	non-paying	Clarivate	https://hackerone.com/clarivate
 spectacles.com	paying	Snapchat	https://hackerone.com/snapchat
@@ -38369,7 +38027,6 @@ sso-p2p-citizens.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 sso-p2p-regions.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 sso-p2p-td.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 sso-pte.unionbank.com	out-of-scope	MUFG VDP	https://hackerone.com/mufg-vdp
-sso-qa.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 sso-signing.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 sso-signing.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 sso-test-signing.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -38406,9 +38063,6 @@ ssopip.cbrehotels.com	non-paying	CBRE	https://hackerone.com/cbre
 ssoprod.pip.cbrehotels.com	non-paying	CBRE	https://hackerone.com/cbre
 ssotest.pip.cbrehotels.com	non-paying	CBRE	https://hackerone.com/cbre
 ssp.aegeanair.com	non-paying	Aegean Airlines Vulnerability Disclosure	https://hackerone.com/aegean_airlines_vdp
-sspec.suppliernet-hotfix.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-sspec.suppliernet-uat.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-sspec.suppliernet.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 sst.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 sst.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 st.gallileo-frankfurt.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -38983,12 +38637,6 @@ supplier.meesho.com	paying	Meesho	https://hackerone.com/meesho_bbp
 suppliercheck.com	out-of-scope	Experian	https://hackerone.com/experian
 suppliercompare.deere.com	non-paying	John Deere	https://hackerone.com/john-deere
 supplierevent.cbre.co.uk	non-paying	CBRE	https://hackerone.com/cbre
-suppliernet-dev.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-suppliernet-hotfix.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-suppliernet-qa.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-suppliernet-uat.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-suppliernet.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-supplierportal.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 supplierportale.it.hpe.com	non-paying	HPE VDP	https://hackerone.com/hpe_vdp
 supplierportale.wip.it.hpe.com	non-paying	HPE VDP	https://hackerone.com/hpe_vdp
 supplierservices.acss.l3harris.com	non-paying	MOD Supply Chain VDP	https://hackerone.com/mod_supply_chain_vdp
@@ -39214,8 +38862,6 @@ t2d2.thorntontomasetti.com	non-paying	MOD Supply Chain VDP	https://hackerone.com
 t3cert.firstdata.com	non-paying	Fiserv	https://hackerone.com/fiserv
 t4.thorntontomasetti.com	non-paying	MOD Supply Chain VDP	https://hackerone.com/mod_supply_chain_vdp
 t5relmbl-qa.fiserv.io	non-paying	Fiserv	https://hackerone.com/fiserv
-tableau-cn-uat.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-tableau-cn.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 tableau-saml-btat2.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 tableau-saml.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 tableau.fareharbor.engineering	paying	Booking.com	https://hackerone.com/bookingcom
@@ -39240,7 +38886,6 @@ takeheartcme.ca	non-paying	Clarivate	https://hackerone.com/clarivate
 taking-the-pulse.com	non-paying	Clarivate	https://hackerone.com/clarivate
 talent.canada.ca	non-paying	Treasury Board of Canada Secretariat/Secrétariat du Conseil du Trésor du Canada	https://hackerone.com/tbs-sct
 talentcommunity.fidelity.com	out-of-scope	Fidelity	https://hackerone.com/fidelity
-talenthub.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 talkingcancerclinicaltrials.com	non-paying	Clarivate	https://hackerone.com/clarivate
 talks.twilio.com	out-of-scope	Twilio	https://hackerone.com/twilio
 talkspms.ca	non-paying	Clarivate	https://hackerone.com/clarivate
@@ -39765,9 +39410,7 @@ thebournvitaquiz.in	non-paying	Mondelēz International	https://hackerone.com/mon
 thebrowser.company	paying	The Browser Company of NYC	https://hackerone.com/bcny
 thecfgbank.olbanking.com	non-paying	Fiserv	https://hackerone.com/fiserv
 thecnb-p2.onlinebank.com	non-paying	Fiserv	https://hackerone.com/fiserv
-thecompanystore.co.kr	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 thecoolins.com	non-paying	CBRE	https://hackerone.com/cbre
-thecosmeticscompanystore.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 thedataspecialist.com.au	non-paying	Equifax-vdp	https://hackerone.com/equifax
 thedialogcorporation.com	non-paying	Clarivate	https://hackerone.com/clarivate
 thedirectvmarketingzone.com	out-of-scope	AT&T	https://hackerone.com/att
@@ -39775,8 +39418,6 @@ thefamilytreedatabase.com	non-paying	Clarivate	https://hackerone.com/clarivate
 thefederalsavingsbank-p2.onlinebank.com	non-paying	Fiserv	https://hackerone.com/fiserv
 thefixedincomegroup.com	non-paying	ION Group	https://hackerone.com/ion
 thefnbsc-p2.onlinebank.com	non-paying	Fiserv	https://hackerone.com/fiserv
-thefoundation-clinique-api.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-thefoundation.clinique.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 thegenealogydatabase.com	non-paying	Clarivate	https://hackerone.com/clarivate
 thegenealogydatabase.net	non-paying	Clarivate	https://hackerone.com/clarivate
 thegenealogydatabase.org	non-paying	Clarivate	https://hackerone.com/clarivate
@@ -40038,7 +39679,6 @@ tmguard.com	non-paying	Clarivate	https://hackerone.com/clarivate
 tmguard.info	non-paying	Clarivate	https://hackerone.com/clarivate
 tmhfcu-dc.cert.fec-dc.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 tmipce1.northgrum.com	non-paying	DIB-VDP	https://hackerone.com/dib-vdp
-tml.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 tmp-qc.aoncatweb.com	non-paying	Aon	https://hackerone.com/aon
 tms.l3commercialaviation.com	out-of-scope	MOD Supply Chain VDP	https://hackerone.com/mod_supply_chain_vdp
 tmtfcu-admin.originate.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
@@ -40072,14 +39712,11 @@ token.staging.clover.com	non-paying	Fiserv	https://hackerone.com/fiserv
 tokenfactory.nebius.com	non-paying	Nebius AI Vulnerability Disclosure	https://hackerone.com/nebius_ai_vdp
 tokyodisneyresort.jp	out-of-scope	The Walt Disney Company	https://hackerone.com/disney
 tom.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
-tomfordbeauty.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 tommyhilfiger.fr	non-paying	Clarivate	https://hackerone.com/clarivate
 tommyhilfiger.gift.solutions	non-paying	Fiserv	https://hackerone.com/fiserv
 tommyhilfiger.wgiftcard.com	non-paying	Fiserv	https://hackerone.com/fiserv
 tomoe.bykea.net	paying	Bykea	https://hackerone.com/bykea
 toncenter.walletbot.me	out-of-scope	Walt.io	https://hackerone.com/walt_io
-toofacedcosmetic.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-toofaceddigitalwallet.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 toolbox-editor.mbs-navigator.com	non-paying	Daimler Truck	https://hackerone.com/daimler_truck
 toolbox.mbs-navigator.com	non-paying	Daimler Truck	https://hackerone.com/daimler_truck
 toolbox.surefireag.com	non-paying	John Deere	https://hackerone.com/john-deere
@@ -40180,7 +39817,6 @@ tr-cf.euce1.indriverapp.com	paying	inDrive	https://hackerone.com/indrive
 tr-dev.intrepid.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 tr-gw-cf.euce1.indriverapp.com	paying	inDrive	https://hackerone.com/indrive
 tr-gw-scf.euce1.indriverapp.com	paying	inDrive	https://hackerone.com/indrive
-tr-otm.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 tr-qa.nonprod.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 tr-scf.euce1.indriverapp.com	paying	inDrive	https://hackerone.com/indrive
 tr-tm.nonprod.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -40309,8 +39945,6 @@ traefik.gallileo-frankfurt.com	non-paying	CBRE	https://hackerone.com/cbre
 trail.gallileo-frankfurt.com	non-paying	CBRE	https://hackerone.com/cbre
 trailer-dev.witos.wirtgen-group.com	non-paying	John Deere	https://hackerone.com/john-deere
 trailer.witos.wirtgen-group.com	non-paying	John Deere	https://hackerone.com/john-deere
-train.supplierportal.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-train2.supplierportal.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 training-core.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 training-core.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 training-hub.aegeanair.com	non-paying	Aegean Airlines Vulnerability Disclosure	https://hackerone.com/aegean_airlines_vdp
@@ -40368,7 +40002,6 @@ travelocityincentives.wgiftcard.com	non-paying	Fiserv	https://hackerone.com/fise
 travelpackages.aegeanair.com	non-paying	Aegean Airlines Vulnerability Disclosure	https://hackerone.com/aegean_airlines_vdp
 travelproducts.jetblue.com	out-of-scope	JetBlue	https://hackerone.com/jetblue
 travelrookie.aegeanair.com	non-paying	Aegean Airlines Vulnerability Disclosure	https://hackerone.com/aegean_airlines_vdp
-travelsmart.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 treasura.com	non-paying	ION Group	https://hackerone.com/ion
 treasuracash.com	non-paying	ION Group	https://hackerone.com/ion
 treasuranow.com	non-paying	ION Group	https://hackerone.com/ion
@@ -40685,8 +40318,6 @@ uat-coins.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 uat-contactpoint.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 uat-crsm.serviceinsightlocal.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 uat-crsp.serviceinsightlocal.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
-uat-ctp.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-uat-ctpbi.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 uat-depositary.cbreglobalinvestors.com	non-paying	CBRE	https://hackerone.com/cbre
 uat-di.serviceinsightlocal.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 uat-dyin.serviceinsightlocal.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
@@ -40701,8 +40332,6 @@ uat-erix-research.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 uat-exta.cbreglobalinvestors.com	non-paying	CBRE	https://hackerone.com/cbre
 uat-fimu-x-usc1.ns1.fiservapis.com	non-paying	Fiserv	https://hackerone.com/fiserv
 uat-fimu-x-use4.ns1.fiservapis.com	non-paying	Fiserv	https://hackerone.com/fiserv
-uat-frontiers-approval.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-uat-frontiers.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 uat-function-email-sender.cbreapps.com	non-paying	CBRE	https://hackerone.com/cbre
 uat-fundq.cbreglobalinvestors.com	non-paying	CBRE	https://hackerone.com/cbre
 uat-fundq.cbreim.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -40731,12 +40360,9 @@ uat-media.cbreone.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 uat-mktgdocs.nonprod.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 uat-mriasia.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 uat-mripacific.cbre.com.au	non-paying	CBRE	https://hackerone.com/cbre
-uat-nalx.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 uat-noti.serviceinsightlocal.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 uat-ol-tops2.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
-uat-otm-pnp.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 uat-pakistan.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
-uat-pds-am-eastus.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 uat-perspectives.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 uat-philippines.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 uat-pmservice.serviceinsightlocal.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
@@ -40761,7 +40387,6 @@ uat-sitech.serviceinsightlocal.cbre.eu	non-paying	CBRE	https://hackerone.com/cbr
 uat-smc-analyzer.henkel-consumer-brands.cn	non-paying	Henkel	https://hackerone.com/henkel_vdp
 uat-spsitesetup.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 uat-teams.cbreglobalinvestors.com	non-paying	CBRE	https://hackerone.com/cbre
-uat-tr-otm-pnp.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 uat-uat.nonprod.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 uat-uk-service-harbour-api.cbreapps.com	non-paying	CBRE	https://hackerone.com/cbre
 uat-ukplatform.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -41173,24 +40798,6 @@ ukplatform-stage.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 ukplatform-test.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 ukplatform-uat.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 ukplatform.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
-uksouth-d2c-aks-client-register-av-stage.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-uksouth-d2c-aks-client-register-bb-stage.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-uksouth-d2c-aks-client-register-bu-stage.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-uksouth-d2c-aks-client-register-cl-stage.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-uksouth-d2c-aks-client-register-cm-stage.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-uksouth-d2c-aks-client-register-el-stage.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-uksouth-d2c-aks-client-register-fm-stage.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-uksouth-d2c-aks-client-register-jm-stage.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-uksouth-d2c-aks-client-register-kl-stage.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-uksouth-d2c-aks-client-register-ll-stage.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-uksouth-d2c-aks-client-register-mb-stage.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-uksouth-d2c-aks-client-register-mc-stage.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-uksouth-d2c-aks-client-register-or-stage.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-uksouth-d2c-aks-client-register-sx-stage.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-uksouth-d2c-aks-client-register-tf-stage.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-uksouth-d2c-aks-client-register-to-stage.elcompanies.co.uk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-uksouth-d2c-register-aks-middleware-stage.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-uksouth-d2c-register-aks-middleware.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 ul-admin-qa-test.fiserv.io	non-paying	Fiserv	https://hackerone.com/fiserv
 ul-admin-qa.fiserv.io	non-paying	Fiserv	https://hackerone.com/fiserv
 ul-dev-test.fiserv.io	non-paying	Fiserv	https://hackerone.com/fiserv
@@ -41313,8 +40920,6 @@ unquotenordicpeawards.com	non-paying	ION Group	https://hackerone.com/ion
 unquoteprivateequitysummit.com	non-paying	ION Group	https://hackerone.com/ion
 unreal-agents.8x8pilot.com	non-paying	8x8	https://hackerone.com/8x8-bounty
 unrealfest.unrealengine.com	out-of-scope	Epic Games	https://hackerone.com/epicgames
-unsubscribe-elc.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-unsubscribe.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 unterweisung.services.wirtgen-group.com	non-paying	John Deere	https://hackerone.com/john-deere
 unterweisung.wirtgen.de	non-paying	John Deere	https://hackerone.com/john-deere
 unycloud.com	non-paying	Clarivate	https://hackerone.com/clarivate
@@ -41555,7 +41160,6 @@ vahlyonsefcu-admin.originate.fiservapps.com	non-paying	Fiserv	https://hackerone.
 vahlyonsefcu-dc.cert.fec-dc.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
 vahlyonsefcu-dn.financial-net.com	non-paying	Fiserv	https://hackerone.com/fiserv
 vahlyonsefcu.originate.fiservapps.com	non-paying	Fiserv	https://hackerone.com/fiserv
-val-ms-api.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 valebtpdepopgtm-c01.northropgrumman.com	non-paying	DIB-VDP	https://hackerone.com/dib-vdp
 valentines.aegeanair.com	non-paying	Aegean Airlines Vulnerability Disclosure	https://hackerone.com/aegean_airlines_vdp
 valero.wgiftcard.com	non-paying	Fiserv	https://hackerone.com/fiserv
@@ -41744,9 +41348,6 @@ vedaxml.com.au	non-paying	Equifax-vdp	https://hackerone.com/equifax
 vedligehold.intego.dk	non-paying	CBRE	https://hackerone.com/cbre
 veer.fr	non-paying	Clarivate	https://hackerone.com/clarivate
 veerstockphoto.fr	non-paying	Clarivate	https://hackerone.com/clarivate
-veevaclaims-dev-azfunc.am.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-veevaclaims-prod-azfunc.am.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-veevaclaims-qa-azfunc.am.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 veleon.com	non-paying	Clarivate	https://hackerone.com/clarivate
 velion.com	non-paying	Clarivate	https://hackerone.com/clarivate
 vendormaintenance.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -42030,25 +41631,6 @@ vtexplugins-cat.fiservapp.com	non-paying	Fiserv	https://hackerone.com/fiserv
 vtexplugins.fiservapp.com	non-paying	Fiserv	https://hackerone.com/fiserv
 vth.nba.com	paying	NBA Public Bug Bounty	https://hackerone.com/nba-public
 vtlseurope.com	non-paying	Clarivate	https://hackerone.com/clarivate
-vto-bac.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-vto-bac.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-vto-bobbi-brown.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-vto-by-kilian.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-vto-clinique-tr.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-vto-clinique.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-vto-demo.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-vto-estee-lauder.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-vto-estee-lauder.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-vto-files.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-vto-files.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-vto-kilian-paris.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-vto-kilian-paris.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-vto-la-mer.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-vto-la-mer.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-vto-mac.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-vto-tom-ford.elcompanies.cn	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-vto-tom-ford.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-vto.clinique.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 vtt.deere.com	non-paying	John Deere	https://hackerone.com/john-deere
 vttp.nba.com	paying	NBA Public Bug Bounty	https://hackerone.com/nba-public
 vudu.wgiftcard.com	non-paying	Fiserv	https://hackerone.com/fiserv
@@ -43172,7 +42754,6 @@ www.appgt-dev.cbre.fr	non-paying	CBRE	https://hackerone.com/cbre
 www.appgt.cbre.fr	non-paying	CBRE	https://hackerone.com/cbre
 www.applevacations.com	paying	Hyatt Hotels	https://hackerone.com/hyatt
 www.apps.norlandmanagedservices.com	non-paying	CBRE	https://hackerone.com/cbre
-www.aramis.dcp.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 www.arcgiscenter.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 www.arguswebgi-test.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 www.arguswebgi.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -43214,8 +42795,6 @@ www.automobile.it	non-paying	Adevinta	https://hackerone.com/adevinta_vdp
 www.ava-dev.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 www.ava-uat.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 www.ava.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
-www.aveda.dcp.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-www.aveda.dcpm.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 www.avm.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 www.avm.cbre.es	non-paying	CBRE	https://hackerone.com/cbre
 www.awards.cbre.at	non-paying	CBRE	https://hackerone.com/cbre
@@ -43235,7 +42814,6 @@ www.bankunited.com	non-paying	BankUnited	https://hackerone.com/bankunited
 www.bathandbodyworks.ro	non-paying	Alshaya	https://hackerone.com/alshaya
 www.beachbound.com	paying	Hyatt Hotels	https://hackerone.com/hyatt
 www.bearflagrobotics.com	non-paying	John Deere	https://hackerone.com/john-deere
-www.beautyqr.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 www.bebabelkuwait.com	non-paying	Alshaya	https://hackerone.com/alshaya
 www.benninghoven.co.uk	non-paying	John Deere	https://hackerone.com/john-deere
 www.benninghoven.com	non-paying	John Deere	https://hackerone.com/john-deere
@@ -43259,8 +42837,6 @@ www.bluerivertech.com	non-paying	John Deere	https://hackerone.com/john-deere
 www.bluerivertechnology.com	non-paying	John Deere	https://hackerone.com/john-deere
 www.bluesky.cl	out-of-scope	JetBlue	https://hackerone.com/jetblue
 www.blueskytours.com	paying	Hyatt Hotels	https://hackerone.com/hyatt
-www.bobbibrown.dcp.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-www.bobbibrown.dcpm.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 www.bodegasindustrialescbre.com	non-paying	CBRE	https://hackerone.com/cbre
 www.bolsasymercados.es	paying	SIX Group	https://hackerone.com/six-group
 www.booking.com/bbmanage/*	out-of-scope	Booking.com	https://hackerone.com/bookingcom
@@ -43301,8 +42877,6 @@ www.bushmasterchainguns.com	non-paying	DIB-VDP	https://hackerone.com/dib-vdp
 www.businesscreditfacts.com	out-of-scope	Experian	https://hackerone.com/experian
 www.buut.com	non-paying	ABN AMRO Bank VDP	https://hackerone.com/abn_amro_vdp
 www.buzz.industriousoffice.com	non-paying	CBRE	https://hackerone.com/cbre
-www.bykilian.dcp.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-www.bykilian.dcpm.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 www.c-hunter.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 www.c-huntertest.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 www.cacre.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -43505,8 +43079,6 @@ www.client-uat.cbreim.com	non-paying	CBRE	https://hackerone.com/cbre
 www.clienteitau.co	non-paying	Itaú Unibanco	https://hackerone.com/itau_unibanco
 www.clifbar.ca	non-paying	Mondelēz International	https://hackerone.com/mondelez
 www.clifbar.com.au	non-paying	Mondelēz International	https://hackerone.com/mondelez
-www.clinique.dcp.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-www.clinique.dcpm.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 www.close-to-our-customers.com	non-paying	John Deere	https://hackerone.com/john-deere
 www.cloud.com	out-of-scope	Cloud Software Group	https://hackerone.com/csg-public
 www.cloud.sequentra.net	non-paying	CBRE	https://hackerone.com/cbre
@@ -43604,8 +43176,6 @@ www.cyprus.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 www.cyprus.dev.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 www.cyprus.uat.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 www.daimler-ag.sh	non-paying	Daimler Truck	https://hackerone.com/daimler_truck
-www.darphin.dcp.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-www.darphin.dcpm.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 www.dashboard.gatekeepers.co.in	non-paying	Toyota	https://hackerone.com/toyota
 www.data-center.cbre.es	non-paying	CBRE	https://hackerone.com/cbre
 www.datamgmt.greenqa.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -43653,11 +43223,9 @@ www.design-uat.project.cbre.fr	non-paying	CBRE	https://hackerone.com/cbre
 www.design.project.cbre.fr	non-paying	CBRE	https://hackerone.com/cbre
 www.designsystems.com	out-of-scope	Figma	https://hackerone.com/figma
 www.dev-api-tops2-analytics.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
-www.dev-eform.ap.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 www.dev-lightbox.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 www.dev-mriasia.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 www.dev-mripacific.cbre.com.au	non-paying	CBRE	https://hackerone.com/cbre
-www.dev-registration.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 www.dev.alshaya.com	non-paying	Alshaya	https://hackerone.com/alshaya
 www.dev.authapi.cbre.com.au	non-paying	CBRE	https://hackerone.com/cbre
 www.dev.cbre.com.kh	non-paying	CBRE	https://hackerone.com/cbre
@@ -43707,7 +43275,6 @@ www.dr.mainstreamsasp.com	non-paying	CBRE	https://hackerone.com/cbre
 www.drcsg.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 www.dremeainsightreporting.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 www.dres-fvi.cbreglobalinvestors.com	non-paying	CBRE	https://hackerone.com/cbre
-www.drjart.dcpm.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 www.drumgrange.com	non-paying	MOD Supply Chain VDP	https://hackerone.com/mod_supply_chain_vdp
 www.drw.mainstreamsasp.com	non-paying	CBRE	https://hackerone.com/cbre
 www.dtbsa.co.za	non-paying	Daimler Truck	https://hackerone.com/daimler_truck
@@ -43772,13 +43339,9 @@ www.edp-prod-jenkins.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 www.efficy.cbre.be	non-paying	CBRE	https://hackerone.com/cbre
 www.efficy.cbre.ch	non-paying	CBRE	https://hackerone.com/cbre
 www.efficynew.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
-www.eform.ap.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 www.eftbam.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 www.efttest.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 www.egypt.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
-www.elccaresfund.org	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-www.elcgoodworks.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-www.elchackathon.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 www.elearnresources.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 www.elite-powerbi.trammellcrow.com	non-paying	CBRE	https://hackerone.com/cbre
 www.elite-powerbidev.trammellcrow.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -43806,8 +43369,6 @@ www.erixsmgapi.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 www.esmdrnacn1.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 www.esmdrnacn2.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 www.ess.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
-www.esteelauder.dcp.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-www.esteelauder.dcpm.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 www.estimator-uat.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 www.estimator.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 www.events.cbre.com.au	non-paying	CBRE	https://hackerone.com/cbre
@@ -43858,14 +43419,11 @@ www.fmpilot.org	non-paying	CBRE	https://hackerone.com/cbre
 www.fmpilot2.com	non-paying	CBRE	https://hackerone.com/cbre
 www.fmpilot2.net	non-paying	CBRE	https://hackerone.com/cbre
 www.forescout.com	paying	ForeScout Technologies	https://hackerone.com/forescout_technologies
-www.form.digitalcapture.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 www.formassembly.com	non-paying	FormAssembly	https://hackerone.com/formassembly
 www.forumanalytics.com	non-paying	CBRE	https://hackerone.com/cbre
 www.fountainbridgesouth.com	non-paying	CBRE	https://hackerone.com/cbre
 www.fountainbridgesouth.net	non-paying	CBRE	https://hackerone.com/cbre
 www.fountainbridgesouth.org	non-paying	CBRE	https://hackerone.com/cbre
-www.fredericmalle.dcp.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-www.fredericmalle.dcpm.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 www.freshworks.com	out-of-scope	Freshworks	https://hackerone.com/freshworks
 www.fshlocking.com.au	non-paying	Allegion	https://hackerone.com/allegion
 www.fskkradvisor.com	non-paying	KKR-VDP	https://hackerone.com/kkr_vdp
@@ -44118,8 +43676,6 @@ www.joico.com.br/	non-paying	Henkel	https://hackerone.com/henkel_vdp
 www.joico.com/	non-paying	Henkel	https://hackerone.com/henkel_vdp
 www.joico.eu/	non-paying	Henkel	https://hackerone.com/henkel_vdp
 www.joico.lat/	non-paying	Henkel	https://hackerone.com/henkel_vdp
-www.jomalone.dcp.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-www.jomalone.dcpm.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 www.jordan.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 www.jpworkflowuat.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 www.jsonar.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -44151,13 +43707,10 @@ www.kronor.io	out-of-scope	Boozt Fashion AB	https://hackerone.com/boozt
 www.krytonitelock.com	non-paying	Allegion	https://hackerone.com/allegion
 www.kuwait.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 www.l3driver.com	non-paying	MOD Supply Chain VDP	https://hackerone.com/mod_supply_chain_vdp
-www.labseries.dcpm.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 www.lad-dev.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 www.lad-qa.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 www.lad-uat.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 www.lad.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
-www.lamer.dcp.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-www.lamer.dcpm.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 www.landaulettings.com	non-paying	CBRE	https://hackerone.com/cbre
 www.laoficinadelfuturo.cbre.es	non-paying	CBRE	https://hackerone.com/cbre
 www.latam.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -44168,8 +43721,6 @@ www.lcs.ds.northropgrumman.com	non-paying	DIB-VDP	https://hackerone.com/dib-vdp
 www.ldsv2.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 www.leaseabstractor.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 www.leaseaccountingtool.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
-www.lelabo.dcp.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-www.lelabo.dcpm.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 www.lemcal.com	out-of-scope	lemlist	https://hackerone.com/lemlist
 www.lemlist.com	out-of-scope	lemlist	https://hackerone.com/lemlist
 www.leo-leiden.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -44218,8 +43769,6 @@ www.lusingingpacks.be	non-paying	Mondelēz International	https://hackerone.com/m
 www.lyon.cbre.fr	non-paying	CBRE	https://hackerone.com/cbre
 www.m.cbre.fr	non-paying	CBRE	https://hackerone.com/cbre
 www.ma.cbre.se	non-paying	CBRE	https://hackerone.com/cbre
-www.mac.dcp.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-www.maccosmetics.dcpm.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 www.magicalphotos.cn	non-paying	The Walt Disney Company	https://hackerone.com/disney
 www.magr01.mydevices.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 www.mail.cbre.com.br	non-paying	CBRE	https://hackerone.com/cbre
@@ -44281,7 +43830,6 @@ www.mercedes-benz-bus.gr	non-paying	Daimler Truck	https://hackerone.com/daimler_
 www.mercedes-benz-bus.hu	non-paying	Daimler Truck	https://hackerone.com/daimler_truck
 www.mfa.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 www.michaelhorwitz.com	non-paying	CBRE	https://hackerone.com/cbre
-www.microsite.digitalcapture.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 www.miitauviajes.co	non-paying	Itaú Unibanco	https://hackerone.com/itau_unibanco
 www.milanuncios.com	non-paying	Adevinta	https://hackerone.com/adevinta_vdp
 www.milka-sakisveiks.lv	non-paying	Mondelēz International	https://hackerone.com/mondelez
@@ -44459,8 +44007,6 @@ www.openmage.org	out-of-scope	OpenMage	https://hackerone.com/openmage
 www.optimizer.greenqa.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 www.oreo.com	non-paying	Mondelēz International	https://hackerone.com/mondelez
 www.oreofun.se	non-paying	Mondelēz International	https://hackerone.com/mondelez
-www.origins.dcp.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-www.origins.dcpm.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 www.outpost.co	out-of-scope	Palo Alto Software	https://hackerone.com/palo_alto_software
 www.oxygenz.com	non-paying	CBRE	https://hackerone.com/cbre
 www.p2pmri-dev.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -44639,7 +44185,6 @@ www.redislabs.com	non-paying	Redis VDP	https://hackerone.com/redis-vdp
 www.redoxengine.com	paying	Redox	https://hackerone.com/redox_bbp
 www.register.telfordhomes.london	non-paying	CBRE	https://hackerone.com/cbre
 www.registration.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
-www.registration.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 www.remediation.telfordhomes.london	non-paying	CBRE	https://hackerone.com/cbre
 www.remote.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 www.remvar-dev.cbre.fr	non-paying	CBRE	https://hackerone.com/cbre
@@ -44880,13 +44425,7 @@ www.thebayamersfoort.com	non-paying	CBRE	https://hackerone.com/cbre
 www.thebevenden.com	non-paying	CBRE	https://hackerone.com/cbre
 www.thebevendenlettings.com	non-paying	CBRE	https://hackerone.com/cbre
 www.thecoalition.com	out-of-scope	Coalition, Inc.	https://hackerone.com/coalition
-www.thecompanystore.com.hk	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 www.thecoolins.com	non-paying	CBRE	https://hackerone.com/cbre
-www.thecosmeticscompanystore.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-www.thecosmeticscompanystore.dcpm.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-www.thecosmeticscompanystore.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-www.theordinary.dcp.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-www.theordinary.dcpm.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 www.thevirtualsuperintendent.com	non-paying	John Deere	https://hackerone.com/john-deere
 www.thewatergarden-la.com	non-paying	CBRE	https://hackerone.com/cbre
 www.thinkesi.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -44900,9 +44439,6 @@ www.tink.com	paying	Visa	https://hackerone.com/visa
 www.tnconductor01.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 www.toimitilat.cbre.fi	non-paying	CBRE	https://hackerone.com/cbre
 www.tom.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
-www.tomford.dcp.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-www.tomford.dcpm.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-www.toofacedcosmetic.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 www.topdesk.cbre.eu	non-paying	CBRE	https://hackerone.com/cbre
 www.topechelon.com	non-paying	Top Echelon Software	https://hackerone.com/top_echelon_software
 www.tops2-lb-prod.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
@@ -45457,11 +44993,6 @@ xperience.cbre.com	non-paying	CBRE	https://hackerone.com/cbre
 xpi.com.br	non-paying	XP Inc Vulnerability Disclosure	https://hackerone.com/xp_inc_vdp
 xposeprogram.ca	non-paying	Clarivate	https://hackerone.com/clarivate
 xpresstemplate.cbre.es	non-paying	CBRE	https://hackerone.com/cbre
-xstore-ru-prod.eu.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-xstore-ru-sit.eu.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-xstr-ru-inventory-dev.eu.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-xstr-ru-inventory-prod.eu.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
-xstr-ru-inventory-uat.eu.elcompanies.com	non-paying	Esteé Lauder	https://hackerone.com/estee-lauder
 xtractasia.com	non-paying	ION Group	https://hackerone.com/ion
 xtractasia.net	non-paying	ION Group	https://hackerone.com/ion
 xtracteurope.com	non-paying	ION Group	https://hackerone.com/ion

@@ -87,7 +87,6 @@ api-dev.cbre.com
 api-dev.cbre.fr
 api-dev.cbrehost.com
 api-dev.daimlertruck.com
-api-dev.elc.academy
 api-dev.gallileo-frankfurt.com
 api-dev.na.ciam.daimlertruck.com
 api-dev.smartfm.cbre.com
@@ -140,7 +139,6 @@ api-met-kg-genai.tal.deere.com
 api-meubanco.deere.com
 api-mtls-itg-vip.it.hpe.com
 api-mtls-itg.it.hpe.com
-api-nalx.elcompanies.com
 api-next.flatmates.com.au
 api-ngbp-btat2.fiservapps.com
 api-nonp.cbrehost.com
@@ -173,7 +171,6 @@ api-prx-stg-sgw.it.hpe.com
 api-prx-stg-sgw.itcs.hpe.com
 api-qa-payeezy-use4.ns1.fiservapis.com
 api-qa.cbrehost.com
-api-qa.elc.academy
 api-qa.na.ciam.daimlertruck.com
 api-qa.smartfm.cbre.com
 api-qual-casemanagement-financeconnect.deere.com
@@ -206,13 +203,11 @@ api-tops2.cbre.com
 api-trade-mgmt.supplymgmt-tariffs-devl-vpn.use1.e15.c01.johndeerecloud.com
 api-u.spaziodati.eu
 api-uat-bugbounty.nonprod.syfe.com
-api-uat-nalx.elcompanies.com
 api-uat.cardconnect.com
 api-uat.cardpointe.com
 api-uat.cbre.com
 api-uat.cbre.fr
 api-uat.cbrehost.com
-api-uat.elc.academy
 api-uat.smartfm.cbre.com
 api-uat.spacespot.com
 api-ukdataplatform.cbre.com
@@ -396,7 +391,6 @@ api.dysoncanada.ca
 api.e-valuation.cbre.com
 api.ea.login.cbre.com
 api.editeur.preprod.monespacesante.fr
-api.elcacademy.com
 api.enc.kape.com
 api.epicgames.dev
 api.essity.com
@@ -473,6 +467,7 @@ api.kroger.com
 api.kruidvat.be
 api.kruidvat.nl
 api.land.com
+api.lansweeper.com
 api.larksuite.com
 api.leather.io
 api.letsexchange.io
@@ -546,8 +541,6 @@ api.pcrs.kape.com
 api.pdst.fm
 api.performanceiq.cbre.com
 api.permissionsmanagement.cbre.com
-api.personio-dev.com
-api.personio.com
 api.picsart.com
 api.picsart.io
 api.pinterest.com
@@ -667,7 +660,6 @@ api.streak.com
 api.stripe.com
 api.stytch.com
 api.supabase.com
-api.super-id.net
 api.superdrug.com
 api.support.hpe.com
 api.swapcard.com
@@ -761,7 +753,6 @@ apps.rokt.com
 apps.yeswehack.com
 apps1.seagate.com
 arlo.com
-assessment-api.datacamp.com
 asset-api.cbre.com.au
 assistants.twilio.com
 atlantis-ext.myopenpass.com
@@ -801,6 +792,7 @@ auth.seek.com
 auth.webflow.com
 autogen-api.ae-machine-learning-operations-prod-vpn.us.e18.c01.johndeerecloud.com
 autoupdate.geo.opera.com
+autoupdateapi.lansweeper.com
 avaapi.cbre.com
 averp-posnet-cert.fiservapis.com
 averp-posnet.fiservapis.com
@@ -863,11 +855,6 @@ bluetooth-events.onecloud.harman.com
 bna-c2.configure-digital-cert.fiservapis.com
 bna.configure-digital-cert.fiservapis.com
 boarding-api.natwest-tyl.com
-br-api-dev.estee.com
-br-api-qa.estee.com
-br-api-stage.estee.com
-br-api-uat.estee.com
-br-api.estee.com
 braintree-api.com
 browser-notifications.opera.com
 bsc-billerpayapi.fiservapps.com
@@ -951,7 +938,6 @@ cert.api.checkfreepay.com
 chat-api.swapcard.com
 chat.openai.com
 checkout.shoppingapp.decathlon.com
-chinaapi.elcompanies.cn
 ci-erix-api.cbre.eu
 cie-api.paybill.com
 cie-ebillapi.fiservapps.com
@@ -962,7 +948,6 @@ classdojo.co.uk
 classdojo.com
 client-api.arkoselabs.com
 clientapi.gyft.com
-cmdfunctionapp-devapi.am.elcompanies.com
 commercehub-dev-xc.ns1.fiservapis.com
 commercehub-ebay-cert-usc1.ns1.fiservapis.com
 commercehub-ebay-cert-use4.ns1.fiservapis.com
@@ -1072,7 +1057,6 @@ dev-api.marketplace.fiserv.com
 dev-east-api.businesstrack.com
 dev-gsg-api.gift.solutions
 dev-malware-scanner-harbour-api.cbreapps.com
-dev-ms-api.elcompanies.com
 dev-serviceapi.fmpilot2.com
 dev-view-api.cbre.com
 dev-west-api.businesstrack.com
@@ -1149,7 +1133,6 @@ edp-api-training.cbre.com
 edp-api.cbre.com
 education-api-prod.cbre.com
 eim.eu-west-2.outscale.com
-elc-cep-api-am-qa.elcompanies.com
 elephant.ai.sunrun.com
 emfi-bankinghub-cert-xc.ns1.fiservapis.com
 emfi-bankinghub-cert.fiservapis.com
@@ -1669,7 +1652,6 @@ moogsoft.fiservapis.com
 movieapi.kinepolis.megatix.be
 mriwebapi.cbre.com
 mriwebapi.glb.cbre.com
-ms-api.elcompanies.com
 myapi.arlo.com
 myfinancial-api-devl.deere.com
 na-fimu-x-usc1.ns1.fiservapis.com
@@ -1814,7 +1796,6 @@ production.maf.auth0.com
 productregistration-api.deere.com
 produktion.api.praxispad.de
 profile.segment.com
-profiles-api.datacamp.com
 prospectivesupplier-api.deere.com
 proxy-production.lime.bike
 proxy.momoapi.mtn.com
@@ -1838,7 +1819,6 @@ qa-gp-api-fiservapps-sae1.ns1.fiservapis.com
 qa-gp-api-fiservapps-usc1.ns1.fiservapis.com
 qa-gp-api-fiservapps-use4.ns1.fiservapis.com
 qa-gp-api-fiservapps.ns1.fiservapis.com
-qa-ms-api.elcompanies.com
 qa-searchapi.cbre.com
 qa-west-api.businesstrack.com
 qa.api.brokerdashboard.cbre.com
@@ -2024,7 +2004,6 @@ testamlapi.cbre.com
 testapi.redoxengine.com
 testmriapi.cbre.com
 testmriwebapi.cbre.com
-thefoundation-clinique-api.elcompanies.com
 tms.onecloud.harman.com
 tmvapi.com
 tn-cert.api.fiservapps.com
@@ -2199,7 +2178,6 @@ ucom-x-use4.ns1.fiservapis.com
 ucom.fiservapis.com
 ukplatform-dev-api.cbre.com
 updates.arlo.com
-val-ms-api.elcompanies.com
 valuetrack-api-uat.cbre.com
 valuetrack-api.cbre.com
 vas-plat-apis-green.cbre.com
