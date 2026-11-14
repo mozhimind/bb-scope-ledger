@@ -733,7 +733,6 @@ authentication.clearme.com
 authentication.wolt.com
 authn.usaa.com
 autocomplete.booking.com
-autodiscover.uzleuven.be
 autoupdate.geo.opera.com
 autoupdateapi.lansweeper.com
 av.indrive.com
@@ -934,8 +933,6 @@ capitanes.gleague.nba.com
 captcha-prod.grindr.com
 cardpayments.remitly.io
 cards.remitly.io
-cardsonline.azdiest.be
-cardsonlinetst.azdiest.be
 careers.booking.com
 careers.etsy.com
 careers.indrive.com
@@ -1509,7 +1506,6 @@ ecommerce.hostinger.com
 econnect-preprod.mtn.co.za
 ecosystem.berachain.com
 ecoupon.maf.ae
-ecrf.uzleuven.be
 edge.blablacar.be
 edge.blablacar.co.uk
 edge.blablacar.com
@@ -1628,10 +1624,8 @@ exs-dtu-gw-scf.sa.apse1.aws.indriverapp.com
 external-api.lime.bike
 external.indrive.dev
 externalconnect.usaa.com
-extranet-asa.uzleuven.be
 extranet.marionnaud.ch
 extranet.s-pankki.fi
-extranet.uzleuven.be
 extras-acc.landmarkcinemas.com
 extras.landmarkcinemas.com
 falcon-bug-bounty-flag-pgsql-dev-sandbox.e.aivencloud.com
@@ -2118,8 +2112,6 @@ links.geneva-staging.chat
 links.geneva-staging.com
 links.portswigger.net
 liquidfiles.nexuzhealth.com
-liquidfiles.uzleuven.be
-liquidfilestest.uzleuven.be
 lirportal.ripe.net
 live-backstage.tiktok.com
 live-service.whatnot.com
@@ -2449,8 +2441,6 @@ mta-sts.wearehackerone.com
 mtngroup.atlassian.net
 multi.somese.lv
 mus1.badoo.com
-mx1.uzleuven.be
-mx2.uzleuven.be
 my-accpt.portofantwerp.com
 my-accpt.portofantwerpbruges.com
 my.account.posti.fi
@@ -2770,7 +2760,6 @@ pb.deribit.com
 pc-gw-scf.sa.apse1.aws.indriverapp.com
 pci.kindredgroup.com
 pci.shopifyinc.com
-pcrstudioruzb.uzleuven.be
 pdfroster-dev.nba.com
 pdfroster-qa.nba.com
 pdfroster.nba.com
@@ -2868,7 +2857,6 @@ prd.mobilevikings.be
 prd.platform.simplisafe.com
 prd.services.simplisafe.com
 prd.webapps.simplisafe.com
-prddsplunkhf.uzleuven.be
 prebiz.momo.africa
 premium.pixiv.net
 preprod.api.monespacesante.fr
@@ -2986,7 +2974,6 @@ ra-cf.euce1.indriverapp.com
 ra-gw-cf.euce1.indriverapp.com
 ra-gw-scf.euce1.indriverapp.com
 ra.roblox.com
-random.uzleuven.be
 raptors905-dev.gleague.nba.com
 raptors905-qa.gleague.nba.com
 raptors905.gleague.nba.com
@@ -3418,7 +3405,6 @@ streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 sts.delen.be
-sts.uzleuven.be
 student.classdojo.com
 studentplacements.monash.edu
 studio-api.swapcard.com
@@ -3525,7 +3511,6 @@ testnet.bitmex.com
 testnet.bybit.com
 testnet.bybit.eu
 testnet.nado.xyz
-teststs.uzleuven.be
 texas-dev.gleague.nba.com
 texas-qa.gleague.nba.com
 texas.gleague.nba.com
@@ -3725,7 +3710,6 @@ vtxapp9p.underarmour.com
 vtxapp9q.underarmour.com
 vtxappd.underarmour.com
 vwcm.visa.com
-w1.uzleuven.be
 wallet.blofin.com
 wallet.cex.io
 wallet.oasis.io
@@ -3821,7 +3805,6 @@ work.8x8.com
 world.hey.com
 world.hyatt.com
 world.planethoster.net
-wp5-truststroke.uzleuven.be
 wps-cps.cv.dmp.gouv.fr
 wps-cps.dmp.gouv.fr
 wps-cps.dmp.monespacesante.fr
@@ -4587,7 +4570,6 @@ www.usaa.com
 www.usaainsurance.com
 www.usenexus.org
 www.user.quintoandar.com.br
-www.uzleuven.be
 www.valmo.in
 www.valvesoftware.com
 www.variational.io

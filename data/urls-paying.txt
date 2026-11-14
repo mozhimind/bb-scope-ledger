@@ -644,7 +644,6 @@ https://prime.sweedpos.com/l
 https://privateinternetaccess.com/api/client/v5
 https://production.maf.auth0.com/api/v2
 https://profiles.wordpress.org/automattic
-https://random.uzleuven.be/random
 https://razorpay.com/docs
 https://razorpay.com/docs/payments/dashboard/test-live-modes
 https://razorpay.com/docs/payments/payments/test-card-upi-details

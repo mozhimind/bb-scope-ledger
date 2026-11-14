@@ -2261,7 +2261,6 @@ Confluence app back-end	paying	Requirement Yogi (Bug bounty)	https://bugcrowd.co
 Connect for ADO.NET	non-paying	Progress Software - DataDirect	https://bugcrowd.com/engagements/datadirect-vdp
 Connect for JDBC	non-paying	Progress Software - DataDirect	https://bugcrowd.com/engagements/datadirect-vdp
 Connect for ODBC	non-paying	Progress Software - DataDirect	https://bugcrowd.com/engagements/datadirect-vdp
-Connectors for Jira (Atlassian Marketplace App) - https://marketplace.atlassian.com/apps/1233908/connectors-for-jira-free?hosting=cloud	paying	Okapya	https://bugcrowd.com/engagements/okapya
 Consensus 2026 Sandbox Site	paying	Consensus by CoinDesk	https://bugcrowd.com/engagements/consensus-mbb-og
 Consensus HK Site	out-of-scope	CoinDesk Data - Data API	https://bugcrowd.com/engagements/CCData-mbb-og
 Consensus HK Site	out-of-scope	CoinDesk.com	https://bugcrowd.com/engagements/coindesk-mbb-og
@@ -2946,6 +2945,7 @@ Reference above out of scope targets	out-of-scope	FIS	https://bugcrowd.com/engag
 Release Management & Roadmap -Jira Cloud - https://marketplace.atlassian.com/apps/1221946/release-management-roadmap-jira-cloud?hosting=cloud&tab=overview	paying	Release Management (by Y2 ENGR)	https://bugcrowd.com/engagements/releasemanagement
 Reliable Hosting	non-paying	Ziff Davis Vulnerability Disclosure Program	https://bugcrowd.com/engagements/ziffdavis-vdp-pro
 Renew Eclipse	out-of-scope	Origin Energy	https://bugcrowd.com/engagements/originenergy-og1
+Requira - Requirements & Traceability for Jira - https://marketplace.atlassian.com/apps/2831389750/requira-requirements-traceability-for-jira?tab=overview	paying	Deviniti	https://bugcrowd.com/engagements/deviniti
 Requirement Yogi for Confluence Cloud - https://marketplace.atlassian.com/apps/1212523/requirements-yogi?hosting=cloud	paying	Requirement Yogi (Bug bounty)	https://bugcrowd.com/engagements/requirement-yogi
 Requirement Yogi for Jira Cloud - https://marketplace.atlassian.com/apps/1214094/requirement-yogi-for-jira?hosting=cloud	paying	Requirement Yogi (Bug bounty)	https://bugcrowd.com/engagements/requirement-yogi
 Requirements & Test Management for Jira (Cloud) - https://marketplace.atlassian.com/apps/1220294/requirements-test-management-for-jira?hosting=cloud&tab=overview	paying	Deviniti	https://bugcrowd.com/engagements/deviniti
@@ -7262,7 +7262,6 @@ https://marketplace.atlassian.com/apps/1233591/kantega-user-management-license-o
 https://marketplace.atlassian.com/apps/1233642/workflow-building-blocks-for-jira?hosting=cloud&tab=overview	paying	Deviniti	https://bugcrowd.com/engagements/deviniti
 https://marketplace.atlassian.com/apps/1233681/smart-ai-release-notes-for-jira?tab=overview&hosting=cloud	paying	Railsware	https://bugcrowd.com/engagements/railsware
 https://marketplace.atlassian.com/apps/1233769/content-retention-manager-for-confluence?hosting=cloud	paying	Opus Guard Marketplace Managed Bug Bounty Engagement	https://bugcrowd.com/engagements/opus-guard-market
-https://marketplace.atlassian.com/apps/1233908/connectors-for-jira-free?hosting=cloud	paying	Okapya	https://bugcrowd.com/engagements/okapya
 https://marketplace.atlassian.com/apps/1233931/snyk-for-compass?tab=overview&hosting=cloud	paying	Atlassian-Built Apps	https://bugcrowd.com/engagements/atlassianapps
 https://marketplace.atlassian.com/apps/1233942/pagerduty-for-compass?tab=overview&hosting=cloud	paying	Atlassian-Built Apps	https://bugcrowd.com/engagements/atlassianapps
 https://marketplace.atlassian.com/apps/1233977/sentry-for-compass?tab=overview&hosting=cloud	paying	Atlassian-Built Apps	https://bugcrowd.com/engagements/atlassianapps
@@ -7349,6 +7348,7 @@ https://marketplace.atlassian.com/apps/2576221793/easy-markdown-exporter-for-con
 https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=cloud	paying	Stiltsoft	https://bugcrowd.com/engagements/stiltsoft
 https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=datacenter	paying	Stiltsoft	https://bugcrowd.com/engagements/stiltsoft
 https://marketplace.atlassian.com/apps/2785074762/cumulative-flow-diagrams-cfd-for-jira-agile-charts-gadgets?hosting=cloud&tab=overview	paying	Broken Build Bug Bounty	https://bugcrowd.com/engagements/brokenbuild
+https://marketplace.atlassian.com/apps/2831389750/requira-requirements-traceability-for-jira	paying	Deviniti	https://bugcrowd.com/engagements/deviniti
 https://marketplace.atlassian.com/apps/2836020067/created-vs-resolved-charts-for-jira-agile-gadgets-reports?hosting=cloud&tab=overview	paying	Broken Build Bug Bounty	https://bugcrowd.com/engagements/brokenbuild
 https://marketplace.atlassian.com/apps/2903137599/sprintretro-pro-retrospective-metrics-suite?hosting=cloud&tab=overview	paying	AgilePulse Marketplace Bug Bounty Program	https://bugcrowd.com/engagements/agile-pulse
 https://marketplace.atlassian.com/apps/29496/jira-workflow-toolbox?hosting=cloud&tab=overview	paying	Decadis AG	https://bugcrowd.com/engagements/decadisag
@@ -9917,3 +9917,4 @@ zoom-recordings.appsplus.co	out-of-scope	AI | Apps+ Marketplace Bug Bounty Progr
 ████████████████████████████████████████████████████████████████████████████████████████████████████████	out-of-scope	Directly	https://bugcrowd.com/engagements/directly
 ██████████████████████████████████████████████████████████████████████████████████████████████████████████████	paying	Nextup.ai	https://bugcrowd.com/engagements/nextupai
 ████████████████████████████████████████████████████████████████████████████████████████████████████████████████	paying	Nextup.ai	https://bugcrowd.com/engagements/nextupai
+███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████	paying	Okapya	https://bugcrowd.com/engagements/okapya

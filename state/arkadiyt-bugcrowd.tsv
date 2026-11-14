@@ -2629,7 +2629,6 @@ https://marketplace.atlassian.com/apps/1233591/kantega-user-management-license-o
 https://marketplace.atlassian.com/apps/1233642/workflow-building-blocks-for-jira?hosting=cloud&tab=overview	paying	Deviniti	https://bugcrowd.com/engagements/deviniti
 https://marketplace.atlassian.com/apps/1233681/smart-ai-release-notes-for-jira?tab=overview&hosting=cloud	paying	Railsware	https://bugcrowd.com/engagements/railsware
 https://marketplace.atlassian.com/apps/1233769/content-retention-manager-for-confluence?hosting=cloud	paying	Opus Guard Marketplace Managed Bug Bounty Engagement	https://bugcrowd.com/engagements/opus-guard-market
-https://marketplace.atlassian.com/apps/1233908/connectors-for-jira-free?hosting=cloud	paying	Okapya	https://bugcrowd.com/engagements/okapya
 https://marketplace.atlassian.com/apps/1233931/snyk-for-compass?tab=overview&hosting=cloud	paying	Atlassian-Built Apps	https://bugcrowd.com/engagements/atlassianapps
 https://marketplace.atlassian.com/apps/1233942/pagerduty-for-compass?tab=overview&hosting=cloud	paying	Atlassian-Built Apps	https://bugcrowd.com/engagements/atlassianapps
 https://marketplace.atlassian.com/apps/1233977/sentry-for-compass?tab=overview&hosting=cloud	paying	Atlassian-Built Apps	https://bugcrowd.com/engagements/atlassianapps
@@ -2716,6 +2715,7 @@ https://marketplace.atlassian.com/apps/2576221793/easy-markdown-exporter-for-con
 https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=cloud	paying	Stiltsoft	https://bugcrowd.com/engagements/stiltsoft
 https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=datacenter	paying	Stiltsoft	https://bugcrowd.com/engagements/stiltsoft
 https://marketplace.atlassian.com/apps/2785074762/cumulative-flow-diagrams-cfd-for-jira-agile-charts-gadgets?hosting=cloud&tab=overview	paying	Broken Build Bug Bounty	https://bugcrowd.com/engagements/brokenbuild
+https://marketplace.atlassian.com/apps/2831389750/requira-requirements-traceability-for-jira	paying	Deviniti	https://bugcrowd.com/engagements/deviniti
 https://marketplace.atlassian.com/apps/2836020067/created-vs-resolved-charts-for-jira-agile-gadgets-reports?hosting=cloud&tab=overview	paying	Broken Build Bug Bounty	https://bugcrowd.com/engagements/brokenbuild
 https://marketplace.atlassian.com/apps/2903137599/sprintretro-pro-retrospective-metrics-suite?hosting=cloud&tab=overview	paying	AgilePulse Marketplace Bug Bounty Program	https://bugcrowd.com/engagements/agile-pulse
 https://marketplace.atlassian.com/apps/29496/jira-workflow-toolbox?hosting=cloud&tab=overview	paying	Decadis AG	https://bugcrowd.com/engagements/decadisag
@@ -4004,3 +4004,4 @@ zendesk*.mortgagechoice.com.au	out-of-scope	REA Group | realestate.com.au, realc
 ████████████████████████████████████████████████████████████████████████████████████████████████████████	out-of-scope	Directly	https://bugcrowd.com/engagements/directly
 ██████████████████████████████████████████████████████████████████████████████████████████████████████████████	paying	Nextup.ai	https://bugcrowd.com/engagements/nextupai
 ████████████████████████████████████████████████████████████████████████████████████████████████████████████████	paying	Nextup.ai	https://bugcrowd.com/engagements/nextupai
+███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████	paying	Okapya	https://bugcrowd.com/engagements/okapya

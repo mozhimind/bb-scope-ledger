@@ -1,0 +1,7 @@
+*.*dev.uzleuven.be
+*.*idp*.uzleuven.be
+*.*stag*.uzleuven.be
+*.uzleuven.*
+*dev.uzleuven.be
+*idp*.uzleuven.be
+*stag*.uzleuven.be

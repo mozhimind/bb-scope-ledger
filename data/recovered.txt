@@ -16,8 +16,6 @@ alternatives	arkadiyt-hackerone	*.olaplex.{cl,fi,nl,cz,sk,co.jp}	wildcards	olapl
 alternatives	arkadiyt-hackerone	*.olaplex.{cl,fi,nl,cz,sk,co.jp}	wildcards	olaplex.sk
 alternatives	arkadiyt-hackerone	*.wc-frisch.{de,ch}	wildcards	wc-frisch.ch
 alternatives	arkadiyt-hackerone	*.wc-frisch.{de,ch}	wildcards	wc-frisch.de
-alternatives	arkadiyt-intigriti	*.contactallerg(y|ie).uzleuven.be	wildcards	contactallergie.uzleuven.be
-alternatives	arkadiyt-intigriti	*.contactallerg(y|ie).uzleuven.be	wildcards	contactallergy.uzleuven.be
 alternatives	arkadiyt-yeswehack	(se|fi|uk).bingo.com	subdomains	fi.bingo.com
 alternatives	arkadiyt-yeswehack	(se|fi|uk).bingo.com	subdomains	se.bingo.com
 alternatives	arkadiyt-yeswehack	(se|fi|uk).bingo.com	subdomains	uk.bingo.com
@@ -194,8 +192,6 @@ alternatives	hackerone-direct	*.olaplex.{cl,fi,nl,cz,sk,co.jp}	wildcards	olaplex
 alternatives	hackerone-direct	*.olaplex.{cl,fi,nl,cz,sk,co.jp}	wildcards	olaplex.sk
 alternatives	hackerone-direct	*.wc-frisch.{de,ch}	wildcards	wc-frisch.ch
 alternatives	hackerone-direct	*.wc-frisch.{de,ch}	wildcards	wc-frisch.de
-alternatives	intigriti-direct	*.contactallerg(y|ie).uzleuven.be	wildcards	contactallergie.uzleuven.be
-alternatives	intigriti-direct	*.contactallerg(y|ie).uzleuven.be	wildcards	contactallergy.uzleuven.be
 alternatives	yeswehack-direct	(se|fi|uk).bingo.com	subdomains	fi.bingo.com
 alternatives	yeswehack-direct	(se|fi|uk).bingo.com	subdomains	se.bingo.com
 alternatives	yeswehack-direct	(se|fi|uk).bingo.com	subdomains	uk.bingo.com
@@ -554,8 +550,6 @@ multi-entry	arkadiyt-hackerone	*.trainpal.com,*.mytrainpal.com	wildcards	trainpa
 multi-entry	arkadiyt-hackerone	codex.wordpress.org,codex.bbpress.org,codex.buddypress.org	subdomains	codex.bbpress.org
 multi-entry	arkadiyt-hackerone	codex.wordpress.org,codex.bbpress.org,codex.buddypress.org	subdomains	codex.buddypress.org
 multi-entry	arkadiyt-hackerone	codex.wordpress.org,codex.bbpress.org,codex.buddypress.org	subdomains	codex.wordpress.org
-multi-entry	arkadiyt-hackerone	https://github.com/brave/*, https://github.com/brave-intl/*	github	https://github.com/brave
-multi-entry	arkadiyt-hackerone	https://github.com/brave/*, https://github.com/brave-intl/*	github	https://github.com/brave-intl
 multi-entry	arkadiyt-hackerone	magisto.com,www.magisto.com	apex	magisto.com
 multi-entry	arkadiyt-hackerone	magisto.com,www.magisto.com	subdomains	www.magisto.com
 multi-entry	arkadiyt-intigriti	18.184.198.198, 18.185.214.59, 18.194.109.179, 3.121.117.72, 3.121.138.10, 3.121.138.128, 3.121.138.134, 3.121.138.170, 3.121.138.33, 3.121.138.43, 3.124.248.208, 35.156.137.39	ips	18.184.198.198
@@ -572,13 +566,6 @@ multi-entry	arkadiyt-intigriti	18.184.198.198, 18.185.214.59, 18.194.109.179, 3.
 multi-entry	arkadiyt-intigriti	18.184.198.198, 18.185.214.59, 18.194.109.179, 3.121.117.72, 3.121.138.10, 3.121.138.128, 3.121.138.134, 3.121.138.170, 3.121.138.33, 3.121.138.43, 3.124.248.208, 35.156.137.39	ips	35.156.137.39
 multi-entry	arkadiyt-intigriti	193.0.0.0/19 and 2001:67c:2e8::/48	ips	193.0.0.0/19
 multi-entry	arkadiyt-intigriti	193.0.0.0/19 and 2001:67c:2e8::/48	ips	2001:67c:2e8::/48
-multi-entry	arkadiyt-intigriti	193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111	ips	193.58.149.101
-multi-entry	arkadiyt-intigriti	193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111	ips	193.58.149.107
-multi-entry	arkadiyt-intigriti	193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111	ips	193.58.149.108
-multi-entry	arkadiyt-intigriti	193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111	ips	193.58.149.111
-multi-entry	arkadiyt-intigriti	193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111	ips	193.58.149.121
-multi-entry	arkadiyt-intigriti	193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111	ips	193.58.149.82
-multi-entry	arkadiyt-intigriti	193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111	ips	193.58.149.98
 multi-entry	arkadiyt-yeswehack	(*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17	ips	194.41.128.0/17
 multi-entry	bugcrowd-direct	*.intercomassets.com / *.intercomcdn.com	wildcards	intercomassets.com
 multi-entry	bugcrowd-direct	*.intercomassets.com / *.intercomcdn.com	wildcards	intercomcdn.com
@@ -619,8 +606,6 @@ multi-entry	hackerone-direct	*.trainpal.com,*.mytrainpal.com	wildcards	trainpal.
 multi-entry	hackerone-direct	codex.wordpress.org,codex.bbpress.org,codex.buddypress.org	subdomains	codex.bbpress.org
 multi-entry	hackerone-direct	codex.wordpress.org,codex.bbpress.org,codex.buddypress.org	subdomains	codex.buddypress.org
 multi-entry	hackerone-direct	codex.wordpress.org,codex.bbpress.org,codex.buddypress.org	subdomains	codex.wordpress.org
-multi-entry	hackerone-direct	https://github.com/brave/*, https://github.com/brave-intl/*	github	https://github.com/brave
-multi-entry	hackerone-direct	https://github.com/brave/*, https://github.com/brave-intl/*	github	https://github.com/brave-intl
 multi-entry	hackerone-direct	magisto.com,www.magisto.com	apex	magisto.com
 multi-entry	hackerone-direct	magisto.com,www.magisto.com	subdomains	www.magisto.com
 multi-entry	intigriti-direct	18.184.198.198, 18.185.214.59, 18.194.109.179, 3.121.117.72, 3.121.138.10, 3.121.138.128, 3.121.138.134, 3.121.138.170, 3.121.138.33, 3.121.138.43, 3.124.248.208, 35.156.137.39	ips	18.184.198.198
@@ -637,13 +622,6 @@ multi-entry	intigriti-direct	18.184.198.198, 18.185.214.59, 18.194.109.179, 3.12
 multi-entry	intigriti-direct	18.184.198.198, 18.185.214.59, 18.194.109.179, 3.121.117.72, 3.121.138.10, 3.121.138.128, 3.121.138.134, 3.121.138.170, 3.121.138.33, 3.121.138.43, 3.124.248.208, 35.156.137.39	ips	35.156.137.39
 multi-entry	intigriti-direct	193.0.0.0/19 and 2001:67c:2e8::/48	ips	193.0.0.0/19
 multi-entry	intigriti-direct	193.0.0.0/19 and 2001:67c:2e8::/48	ips	2001:67c:2e8::/48
-multi-entry	intigriti-direct	193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111	ips	193.58.149.101
-multi-entry	intigriti-direct	193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111	ips	193.58.149.107
-multi-entry	intigriti-direct	193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111	ips	193.58.149.108
-multi-entry	intigriti-direct	193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111	ips	193.58.149.111
-multi-entry	intigriti-direct	193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111	ips	193.58.149.121
-multi-entry	intigriti-direct	193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111	ips	193.58.149.82
-multi-entry	intigriti-direct	193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111	ips	193.58.149.98
 multi-entry	yeswehack-direct	(*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17	ips	194.41.128.0/17
 multi-entry;punctuation	arkadiyt-yeswehack	(*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17	wildcards	post.ch
 multi-entry;punctuation	yeswehack-direct	(*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17	wildcards	post.ch
@@ -915,14 +893,10 @@ pattern	arkadiyt-intigriti	*.randstad.*	patterns	*.randstad.*
 pattern	arkadiyt-intigriti	*.randstadrisesmart.*	patterns	*.randstadrisesmart.*
 pattern	arkadiyt-intigriti	*.risesmart.*	patterns	*.risesmart.*
 pattern	arkadiyt-intigriti	*.tempo-team.*	patterns	*.tempo-team.*
-pattern	arkadiyt-intigriti	*.uzleuven.*	patterns	*.uzleuven.*
-pattern	arkadiyt-intigriti	*dev.uzleuven.be	patterns	*dev.uzleuven.be
 pattern	arkadiyt-intigriti	*elvetino.ch	patterns	*elvetino.ch
 pattern	arkadiyt-intigriti	*ensemble*.yahoo.com	patterns	*ensemble*.yahoo.com
-pattern	arkadiyt-intigriti	*idp*.uzleuven.be	patterns	*idp*.uzleuven.be
 pattern	arkadiyt-intigriti	*omega*.yahoo.com	patterns	*omega*.yahoo.com
 pattern	arkadiyt-intigriti	*sbbcargo.com	patterns	*sbbcargo.com
-pattern	arkadiyt-intigriti	*stag*.uzleuven.be	patterns	*stag*.uzleuven.be
 pattern	arkadiyt-intigriti	*transsicura.ch	patterns	*transsicura.ch
 pattern	arkadiyt-intigriti	*werkenbij.intergamma.nl	patterns	*werkenbij.intergamma.nl
 pattern	arkadiyt-intigriti	aqora.naiad.*	patterns	aqora.naiad.*
@@ -948,7 +922,6 @@ pattern	arkadiyt-wildcard	*.*cedars-sinai.org	patterns	*.*cedars-sinai.org
 pattern	arkadiyt-wildcard	*.*cpqcorp.*	patterns	*.*cpqcorp.*
 pattern	arkadiyt-wildcard	*.*csmc.edu	patterns	*.*csmc.edu
 pattern	arkadiyt-wildcard	*.*dev*.arlo.com	patterns	*.*dev*.arlo.com
-pattern	arkadiyt-wildcard	*.*dev.uzleuven.be	patterns	*.*dev.uzleuven.be
 pattern	arkadiyt-wildcard	*.*developer.cloud.com	patterns	*.*developer.cloud.com
 pattern	arkadiyt-wildcard	*.*elvetino.ch	patterns	*.*elvetino.ch
 pattern	arkadiyt-wildcard	*.*ensemble*.yahoo.com	patterns	*.*ensemble*.yahoo.com
@@ -985,7 +958,6 @@ pattern	arkadiyt-wildcard	*.*huntingtonhospital.net	patterns	*.*huntingtonhospit
 pattern	arkadiyt-wildcard	*.*huntingtonhospital.org	patterns	*.*huntingtonhospital.org
 pattern	arkadiyt-wildcard	*.*huntingtonrx.com	patterns	*.*huntingtonrx.com
 pattern	arkadiyt-wildcard	*.*huntingtonrx.net	patterns	*.*huntingtonrx.net
-pattern	arkadiyt-wildcard	*.*idp*.uzleuven.be	patterns	*.*idp*.uzleuven.be
 pattern	arkadiyt-wildcard	*.*inf.fndlsb.net	patterns	*.*inf.fndlsb.net
 pattern	arkadiyt-wildcard	*.*kerlanjobe.org	patterns	*.*kerlanjobe.org
 pattern	arkadiyt-wildcard	*.*learn.semtech.com	patterns	*.*learn.semtech.com
@@ -1012,7 +984,6 @@ pattern	arkadiyt-wildcard	*.*sierrawireless-com.go-vip.net	patterns	*.*sierrawir
 pattern	arkadiyt-wildcard	*.*silver-peak.com*	patterns	*.*silver-peak.com*
 pattern	arkadiyt-wildcard	*.*simplivity.*	patterns	*.*simplivity.*
 pattern	arkadiyt-wildcard	*.*spx-load.zebra.engineering	patterns	*.*spx-load.zebra.engineering
-pattern	arkadiyt-wildcard	*.*stag*.uzleuven.be	patterns	*.*stag*.uzleuven.be
 pattern	arkadiyt-wildcard	*.*test*.bykea.net	patterns	*.*test*.bykea.net
 pattern	arkadiyt-wildcard	*.*theworknumber.com	patterns	*.*theworknumber.com
 pattern	arkadiyt-wildcard	*.*transsicura.ch	patterns	*.*transsicura.ch
@@ -1094,7 +1065,6 @@ pattern	arkadiyt-wildcard	*.technomelt.*	patterns	*.technomelt.*
 pattern	arkadiyt-wildcard	*.tempo-team.*	patterns	*.tempo-team.*
 pattern	arkadiyt-wildcard	*.teroson.*	patterns	*.teroson.*
 pattern	arkadiyt-wildcard	*.test*.redoxengine.com	patterns	*.test*.redoxengine.com
-pattern	arkadiyt-wildcard	*.uzleuven.*	patterns	*.uzleuven.*
 pattern	arkadiyt-wildcard	*.vcc-*.8x8.com	patterns	*.vcc-*.8x8.com
 pattern	arkadiyt-wildcard	*.www.aeromexico.com*	patterns	*.www.aeromexico.com*
 pattern	arkadiyt-wildcard	*.www.amazon.*	patterns	*.www.amazon.*
@@ -1394,14 +1364,10 @@ pattern	intigriti-direct	*.randstad.*	patterns	*.randstad.*
 pattern	intigriti-direct	*.randstadrisesmart.*	patterns	*.randstadrisesmart.*
 pattern	intigriti-direct	*.risesmart.*	patterns	*.risesmart.*
 pattern	intigriti-direct	*.tempo-team.*	patterns	*.tempo-team.*
-pattern	intigriti-direct	*.uzleuven.*	patterns	*.uzleuven.*
-pattern	intigriti-direct	*dev.uzleuven.be	patterns	*dev.uzleuven.be
 pattern	intigriti-direct	*elvetino.ch	patterns	*elvetino.ch
 pattern	intigriti-direct	*ensemble*.yahoo.com	patterns	*ensemble*.yahoo.com
-pattern	intigriti-direct	*idp*.uzleuven.be	patterns	*idp*.uzleuven.be
 pattern	intigriti-direct	*omega*.yahoo.com	patterns	*omega*.yahoo.com
 pattern	intigriti-direct	*sbbcargo.com	patterns	*sbbcargo.com
-pattern	intigriti-direct	*stag*.uzleuven.be	patterns	*stag*.uzleuven.be
 pattern	intigriti-direct	*transsicura.ch	patterns	*transsicura.ch
 pattern	intigriti-direct	*werkenbij.intergamma.nl	patterns	*werkenbij.intergamma.nl
 pattern	intigriti-direct	aqora.naiad.*	patterns	aqora.naiad.*
@@ -1472,11 +1438,8 @@ pattern-tail	arkadiyt-hackerone	static*.twilio.com	apex	twilio.com
 pattern-tail	arkadiyt-hackerone	support*.earlywarning.com	apex	earlywarning.com
 pattern-tail	arkadiyt-hackerone	test*.redoxengine.com	apex	redoxengine.com
 pattern-tail	arkadiyt-hackerone	vcc-*.8x8.com	apex	8x8.com
-pattern-tail	arkadiyt-intigriti	*dev.uzleuven.be	apex	uzleuven.be
 pattern-tail	arkadiyt-intigriti	*ensemble*.yahoo.com	apex	yahoo.com
-pattern-tail	arkadiyt-intigriti	*idp*.uzleuven.be	apex	uzleuven.be
 pattern-tail	arkadiyt-intigriti	*omega*.yahoo.com	apex	yahoo.com
-pattern-tail	arkadiyt-intigriti	*stag*.uzleuven.be	apex	uzleuven.be
 pattern-tail	arkadiyt-intigriti	*werkenbij.intergamma.nl	apex	intergamma.nl
 pattern-tail	arkadiyt-intigriti	https://sks-*.exo.io	apex	exo.io
 pattern-tail	arkadiyt-intigriti	https://sos-*.exo.io	apex	exo.io
@@ -1489,12 +1452,10 @@ pattern-tail	arkadiyt-wildcard	*.*app.simple-reports.com	apex	simple-reports.com
 pattern-tail	arkadiyt-wildcard	*.*appofchoice.huntingtonhospital.com	apex	huntingtonhospital.com
 pattern-tail	arkadiyt-wildcard	*.*apps.huntingtonhospital.com	apex	huntingtonhospital.com
 pattern-tail	arkadiyt-wildcard	*.*dev*.arlo.com	apex	arlo.com
-pattern-tail	arkadiyt-wildcard	*.*dev.uzleuven.be	apex	uzleuven.be
 pattern-tail	arkadiyt-wildcard	*.*developer.cloud.com	apex	cloud.com
 pattern-tail	arkadiyt-wildcard	*.*ensemble*.yahoo.com	apex	yahoo.com
 pattern-tail	arkadiyt-wildcard	*.*essmartpackd.zebra.engineering	apex	zebra.engineering
 pattern-tail	arkadiyt-wildcard	*.*gateway-apc.marriott.com	apex	marriott.com
-pattern-tail	arkadiyt-wildcard	*.*idp*.uzleuven.be	apex	uzleuven.be
 pattern-tail	arkadiyt-wildcard	*.*inf.fndlsb.net	apex	fndlsb.net
 pattern-tail	arkadiyt-wildcard	*.*learn.semtech.com	apex	semtech.com
 pattern-tail	arkadiyt-wildcard	*.*legacy.huntingtonhospital.org	apex	huntingtonhospital.org
@@ -1505,7 +1466,6 @@ pattern-tail	arkadiyt-wildcard	*.*qa*.arlo.com	apex	arlo.com
 pattern-tail	arkadiyt-wildcard	*.*sd.invio.dev	apex	invio.dev
 pattern-tail	arkadiyt-wildcard	*.*sierrawireless-com.go-vip.net	apex	go-vip.net
 pattern-tail	arkadiyt-wildcard	*.*spx-load.zebra.engineering	apex	zebra.engineering
-pattern-tail	arkadiyt-wildcard	*.*stag*.uzleuven.be	apex	uzleuven.be
 pattern-tail	arkadiyt-wildcard	*.*test*.bykea.net	apex	bykea.net
 pattern-tail	arkadiyt-wildcard	*.*uat.marriott.com	apex	marriott.com
 pattern-tail	arkadiyt-wildcard	*.*vc.logitech.com	apex	logitech.com
@@ -1613,11 +1573,8 @@ pattern-tail	hackerone-direct	static*.twilio.com	apex	twilio.com
 pattern-tail	hackerone-direct	support*.earlywarning.com	apex	earlywarning.com
 pattern-tail	hackerone-direct	test*.redoxengine.com	apex	redoxengine.com
 pattern-tail	hackerone-direct	vcc-*.8x8.com	apex	8x8.com
-pattern-tail	intigriti-direct	*dev.uzleuven.be	apex	uzleuven.be
 pattern-tail	intigriti-direct	*ensemble*.yahoo.com	apex	yahoo.com
-pattern-tail	intigriti-direct	*idp*.uzleuven.be	apex	uzleuven.be
 pattern-tail	intigriti-direct	*omega*.yahoo.com	apex	yahoo.com
-pattern-tail	intigriti-direct	*stag*.uzleuven.be	apex	uzleuven.be
 pattern-tail	intigriti-direct	*werkenbij.intergamma.nl	apex	intergamma.nl
 pattern-tail	intigriti-direct	https://sks-*.exo.io	apex	exo.io
 pattern-tail	intigriti-direct	https://sos-*.exo.io	apex	exo.io
@@ -1854,7 +1811,6 @@ text-extract	bugcrowd-direct	Confluence Cloud for Slack (Official) - Cloud - htt
 text-extract	bugcrowd-direct	Confluence Server for Slack (Official) - DataCenter - https://marketplace.atlassian.com/apps/1220186/confluence-server-for-slack-official?hosting=datacenter	apps	https://marketplace.atlassian.com/apps/1220186/confluence-server-for-slack-official
 text-extract	bugcrowd-direct	Confluence Widget for Figma (Beta) - Cloud - https://marketplace.atlassian.com/apps/1235488/confluence-widget-for-figma-beta?hosting=cloud	apps	https://marketplace.atlassian.com/apps/1235488/confluence-widget-for-figma-beta
 text-extract	bugcrowd-direct	Connect for ADO.NET	maybe	ado.net
-text-extract	bugcrowd-direct	Connectors for Jira (Atlassian Marketplace App) - https://marketplace.atlassian.com/apps/1233908/connectors-for-jira-free?hosting=cloud	apps	https://marketplace.atlassian.com/apps/1233908/connectors-for-jira-free
 text-extract	bugcrowd-direct	Content Exporter (Word, PDF, HTML) - https://marketplace.atlassian.com/apps/4909/content-exporter-word-pdf-html?tab=overview&hosting=cloud	apps	https://marketplace.atlassian.com/apps/4909/content-exporter-word-pdf-html
 text-extract	bugcrowd-direct	Core Priceless.com - demo.priceless.com	maybe	demo.priceless.com
 text-extract	bugcrowd-direct	Core Priceless.com - demo.priceless.com	maybe	priceless.com
@@ -2071,6 +2027,7 @@ text-extract	bugcrowd-direct	Queues for Jira Service Management - Cloud - https:
 text-extract	bugcrowd-direct	Raley Email Notifications for Jira / JSM - https://marketplace.atlassian.com/apps/1214045/raley-email-notifications-for-jira-jsm?hosting=cloud&tab=overview	apps	https://marketplace.atlassian.com/apps/1214045/raley-email-notifications-for-jira-jsm
 text-extract	bugcrowd-direct	Read Me - https://trello.com/power-ups/5a2de0c41ae4a1537bb0055d/read-me	maybe	https://trello.com/power-ups/5a2de0c41ae4a1537bb0055d/read-me
 text-extract	bugcrowd-direct	Release Management & Roadmap -Jira Cloud - https://marketplace.atlassian.com/apps/1221946/release-management-roadmap-jira-cloud?hosting=cloud&tab=overview	apps	https://marketplace.atlassian.com/apps/1221946/release-management-roadmap-jira-cloud
+text-extract	bugcrowd-direct	Requira - Requirements & Traceability for Jira - https://marketplace.atlassian.com/apps/2831389750/requira-requirements-traceability-for-jira?tab=overview	apps	https://marketplace.atlassian.com/apps/2831389750/requira-requirements-traceability-for-jira
 text-extract	bugcrowd-direct	Requirement Yogi for Confluence Cloud - https://marketplace.atlassian.com/apps/1212523/requirements-yogi?hosting=cloud	apps	https://marketplace.atlassian.com/apps/1212523/requirements-yogi
 text-extract	bugcrowd-direct	Requirement Yogi for Jira Cloud - https://marketplace.atlassian.com/apps/1214094/requirement-yogi-for-jira?hosting=cloud	apps	https://marketplace.atlassian.com/apps/1214094/requirement-yogi-for-jira
 text-extract	bugcrowd-direct	Requirements & Test Management for Jira (Cloud) - https://marketplace.atlassian.com/apps/1220294/requirements-test-management-for-jira?hosting=cloud&tab=overview	apps	https://marketplace.atlassian.com/apps/1220294/requirements-test-management-for-jira

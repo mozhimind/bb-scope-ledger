@@ -1321,7 +1321,7 @@ apex	ayoba.me	2026-11-10		non-paying	MTN Group
 apex	ayudavodafone.es	2026-11-10		non-paying	Vodafone
 apex	ayyildiz.de	2026-11-10		non-paying	Telefónica Germany
 apex	azcpggpc.ca	2026-11-10		non-paying	Canada Post - Responsible Disclosure Program
-apex	azdiest.be	2026-11-10		paying	UZ Leuven
+apex	azdiest.be	2026-11-10	2026-11-15	paying	UZ Leuven
 apex	azimo.com	2026-11-10		paying	Azimo
 apex	azopt.ca	2026-11-10		non-paying	Clarivate
 apex	azulzinhadacaixa.com.br	2026-11-10		non-paying	Fiserv
@@ -9661,7 +9661,7 @@ apex	kusama.network	2026-11-10		non-paying	Kusama
 apex	kustomer.com	2026-11-10		non-paying	Kustomer
 apex	kwaliteitsafsprakenmbo.nl	2026-11-10		non-paying	Government of Netherlands
 apex	kwiksetunite.com	2026-11-10		non-paying	Assa Abloy America's; Assa Abloy Americas
-apex	kwsdose.be	2026-11-10		paying	UZ Leuven
+apex	kwsdose.be	2026-11-10	2026-11-15	paying	UZ Leuven
 apex	kyc6.com	2026-11-10		non-paying	ION Group
 apex	kylaconnect.com	2026-11-10		non-paying	Aztech
 apex	kymriah.ca	2026-11-10		non-paying	Clarivate
@@ -13495,7 +13495,7 @@ apex	playstation.net	2026-11-10		paying	PlayStation
 apex	playtech.com	2026-11-10		non-paying	Playtech
 apex	playticorp.com	2026-11-10		paying	Playtika
 apex	playtika.com	2026-11-10		paying	Playtika
-apex	playuzleuven.be	2026-11-10		paying	UZ Leuven
+apex	playuzleuven.be	2026-11-10	2026-11-15	paying	UZ Leuven
 apex	playwonderbox.com	2026-11-10		paying	Epic Games
 apex	playwonderbox.com.br	2026-11-10		paying	Epic Games
 apex	playwsop.com	2026-11-10		paying	Playtika
@@ -17874,7 +17874,7 @@ apex	uwbeslagvrijevoet.nl	2026-11-10		non-paying	Government of Netherlands
 apex	uwlast.nl	2026-11-10		non-paying	Government of Netherlands
 apex	uxcam.com	2026-11-10		paying	UXCam
 apex	uziregister.nl	2026-11-10		non-paying	Government of Netherlands
-apex	uzleuven.be	2026-11-10		paying	UZ Leuven
+apex	uzleuven.be	2026-11-10	2026-11-15	paying	UZ Leuven
 apex	v0.app	2026-11-10		paying	Vercel
 apex	v0.dev	2026-11-10		paying	Vercel
 apex	va.gov	2026-11-10		non-paying	Department of Veterans Affairs
@@ -19419,7 +19419,7 @@ apex	zhuanlidashi.com.cn	2026-11-10		non-paying	Clarivate
 apex	zhuanlidashi.net	2026-11-10		non-paying	Clarivate
 apex	zibs.nl	2026-11-10		non-paying	Government of Netherlands
 apex	zichtopiederkind.nl	2026-11-10		non-paying	Government of Netherlands
-apex	ziekenhuisschool.be	2026-11-10		non-paying	UZ Leuven
+apex	ziekenhuisschool.be	2026-11-10	2026-11-15	non-paying	UZ Leuven
 apex	ziffdavis.com	2026-11-10		non-paying	Ziff Davis Vulnerability Disclosure Program
 apex	zijnjullieeraluit.nl	2026-11-10		non-paying	Government of Netherlands
 apex	zikoni.com	2026-11-10		non-paying	Clarivate
@@ -19934,8 +19934,8 @@ apps	com.boozt	2026-11-10		paying	Boozt Fashion AB
 apps	com.boozt.app	2026-11-10		paying	Boozt Fashion AB
 apps	com.boozt.booztlet	2026-11-10		paying	Boozt Fashion AB
 apps	com.booztlet	2026-11-10		paying	Boozt Fashion AB
-apps	com.brave.browser	2026-11-10		paying	Brave Software
-apps	com.brave.ios.browser	2026-11-10		paying	Brave Software
+apps	com.brave.browser	2026-11-10	2026-11-15	paying	Brave Software
+apps	com.brave.ios.browser	2026-11-10	2026-11-15	paying	Brave Software
 apps	com.britishairways.BAFlights	2026-11-10		non-paying	British Airways VDP
 apps	com.bumble.app	2026-11-10		paying	Bumble
 apps	com.bumblebff.app	2026-11-10		paying	Bumble
@@ -21489,7 +21489,7 @@ apps	https://marketplace.atlassian.com/apps/1233591/kantega-user-management-lice
 apps	https://marketplace.atlassian.com/apps/1233642/workflow-building-blocks-for-jira	2026-11-10		paying	Deviniti
 apps	https://marketplace.atlassian.com/apps/1233681/smart-ai-release-notes-for-jira	2026-11-10		paying	Railsware
 apps	https://marketplace.atlassian.com/apps/1233769/content-retention-manager-for-confluence	2026-11-10		paying	Opus Guard Marketplace Managed Bug Bounty Engagement
-apps	https://marketplace.atlassian.com/apps/1233908/connectors-for-jira-free	2026-11-10		paying	Okapya
+apps	https://marketplace.atlassian.com/apps/1233908/connectors-for-jira-free	2026-11-10	2026-11-15	paying	Okapya
 apps	https://marketplace.atlassian.com/apps/1233931/snyk-for-compass	2026-11-10		paying	Atlassian-Built Apps
 apps	https://marketplace.atlassian.com/apps/1233942/pagerduty-for-compass	2026-11-10		paying	Atlassian-Built Apps
 apps	https://marketplace.atlassian.com/apps/1233977/sentry-for-compass	2026-11-10		paying	Atlassian-Built Apps
@@ -21571,6 +21571,7 @@ apps	https://marketplace.atlassian.com/apps/256/balsamiq-wireframes-for-confluen
 apps	https://marketplace.atlassian.com/apps/2576221793/easy-markdown-exporter-for-confluence	2026-11-10		paying	AppLiger
 apps	https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence	2026-11-10		paying	Stiltsoft
 apps	https://marketplace.atlassian.com/apps/2785074762/cumulative-flow-diagrams-cfd-for-jira-agile-charts-gadgets	2026-11-10		paying	Broken Build Bug Bounty
+apps	https://marketplace.atlassian.com/apps/2831389750/requira-requirements-traceability-for-jira	2026-11-15		paying	Deviniti
 apps	https://marketplace.atlassian.com/apps/2836020067/created-vs-resolved-charts-for-jira-agile-gadgets-reports	2026-11-10		paying	Broken Build Bug Bounty
 apps	https://marketplace.atlassian.com/apps/2903137599/sprintretro-pro-retrospective-metrics-suite	2026-11-10		paying	AgilePulse Marketplace Bug Bounty Program
 apps	https://marketplace.atlassian.com/apps/29496/jira-workflow-toolbox	2026-11-10		paying	Decadis AG
@@ -22400,8 +22401,8 @@ github	https://github.com/bitwarden/clients	2026-11-10		non-paying	Bitwarden
 github	https://github.com/bitwarden/ios	2026-11-10		non-paying	Bitwarden
 github	https://github.com/bitwarden/sdk-internal	2026-11-10		non-paying	Bitwarden
 github	https://github.com/bitwarden/server	2026-11-10		non-paying	Bitwarden
-github	https://github.com/brave	2026-11-10		paying	Brave Software
-github	https://github.com/brave-intl	2026-11-10		paying	Brave Software
+github	https://github.com/brave	2026-11-10	2026-11-15	paying	Brave Software
+github	https://github.com/brave-intl	2026-11-10	2026-11-15	paying	Brave Software
 github	https://github.com/buildonspark/spark	2026-11-11		paying	Lightspark Public Bug Bounty
 github	https://github.com/bwillis/versioncake	2026-11-10		non-paying	Version Cake
 github	https://github.com/byteball/city-aa	2026-11-10		paying	Obyte
@@ -23602,13 +23603,13 @@ ips	193.30.36.0/24	2026-11-10		non-paying	ADAC Vulnerability Disclosure Program
 ips	193.30.37.0/24	2026-11-10		non-paying	ADAC Vulnerability Disclosure Program
 ips	193.30.38.0/24	2026-11-10		non-paying	ADAC Vulnerability Disclosure Program
 ips	193.5.66.0/23	2026-11-10		paying	SIX Group
-ips	193.58.149.101	2026-11-10		paying	UZ Leuven
-ips	193.58.149.107	2026-11-10		paying	UZ Leuven
-ips	193.58.149.108	2026-11-10		paying	UZ Leuven
-ips	193.58.149.111	2026-11-10		paying	UZ Leuven
-ips	193.58.149.121	2026-11-10		paying	UZ Leuven
-ips	193.58.149.82	2026-11-10		paying	UZ Leuven
-ips	193.58.149.98	2026-11-10		paying	UZ Leuven
+ips	193.58.149.101	2026-11-10	2026-11-15	paying	UZ Leuven
+ips	193.58.149.107	2026-11-10	2026-11-15	paying	UZ Leuven
+ips	193.58.149.108	2026-11-10	2026-11-15	paying	UZ Leuven
+ips	193.58.149.111	2026-11-10	2026-11-15	paying	UZ Leuven
+ips	193.58.149.121	2026-11-10	2026-11-15	paying	UZ Leuven
+ips	193.58.149.82	2026-11-10	2026-11-15	paying	UZ Leuven
+ips	193.58.149.98	2026-11-10	2026-11-15	paying	UZ Leuven
 ips	193.8.251.0/24	2026-11-10		paying	SIX Group
 ips	194.209.121.0/24	2026-11-10		paying	SIX Group
 ips	194.35.0.0/21	2026-11-10		non-paying	CBRE
@@ -24874,7 +24875,7 @@ maybe	urbanclap.com	2026-11-10		paying	Urban Company
 maybe	usercontent.apps.nextcloud.com	2026-11-10		non-paying	Nextcloud
 maybe	usgprofessionals.be	2026-11-10		non-paying	RGF BE - VDP
 maybe	usps.com	2026-11-10		non-paying	USPS - United States Postal Service
-maybe	uzleuven.be	2026-11-10		paying	UZ Leuven
+maybe	uzleuven.be	2026-11-10	2026-11-15	paying	UZ Leuven
 maybe	vcc-na30.8x8.com	2026-11-10		paying	8x8
 maybe	vcp-external.logitech.com	2026-11-10		non-paying	Logitech
 maybe	vfsevisa.id	2026-11-10		paying	VFS Global Bug Bounty Program
@@ -25018,7 +25019,7 @@ patterns	*.*cedars-sinai.org	2026-11-10		unknown
 patterns	*.*cpqcorp.*	2026-11-10		unknown	
 patterns	*.*csmc.edu	2026-11-10		unknown	
 patterns	*.*dev*.arlo.com	2026-11-10		unknown	
-patterns	*.*dev.uzleuven.be	2026-11-10		unknown	
+patterns	*.*dev.uzleuven.be	2026-11-10	2026-11-15	unknown	
 patterns	*.*developer.cloud.com	2026-11-10		unknown	
 patterns	*.*elvetino.ch	2026-11-10		unknown	
 patterns	*.*ensemble*.yahoo.com	2026-11-10		unknown	
@@ -25055,7 +25056,7 @@ patterns	*.*huntingtonhospital.net	2026-11-10		unknown
 patterns	*.*huntingtonhospital.org	2026-11-10		unknown	
 patterns	*.*huntingtonrx.com	2026-11-10		unknown	
 patterns	*.*huntingtonrx.net	2026-11-10		unknown	
-patterns	*.*idp*.uzleuven.be	2026-11-10		unknown	
+patterns	*.*idp*.uzleuven.be	2026-11-10	2026-11-15	unknown	
 patterns	*.*inf.fndlsb.net	2026-11-10		unknown	
 patterns	*.*kerlanjobe.org	2026-11-10		unknown	
 patterns	*.*learn.semtech.com	2026-11-10		unknown	
@@ -25082,7 +25083,7 @@ patterns	*.*sierrawireless-com.go-vip.net	2026-11-10		unknown
 patterns	*.*silver-peak.com*	2026-11-10		unknown	
 patterns	*.*simplivity.*	2026-11-10		unknown	
 patterns	*.*spx-load.zebra.engineering	2026-11-10		unknown	
-patterns	*.*stag*.uzleuven.be	2026-11-10		unknown	
+patterns	*.*stag*.uzleuven.be	2026-11-10	2026-11-15	unknown	
 patterns	*.*test*.bykea.net	2026-11-10		unknown	
 patterns	*.*theworknumber.com	2026-11-10		unknown	
 patterns	*.*transsicura.ch	2026-11-10		unknown	
@@ -25169,7 +25170,7 @@ patterns	*.teroson.*	2026-11-10		non-paying	Henkel
 patterns	*.test*.redoxengine.com	2026-11-10		unknown	
 patterns	*.test.*.lfscnp.com	2026-11-10		paying	Latitude Financial Services Bug Bounty
 patterns	*.trip.com	2026-11-10		paying	Trip.com
-patterns	*.uzleuven.*	2026-11-10		paying	UZ Leuven
+patterns	*.uzleuven.*	2026-11-10	2026-11-15	paying	UZ Leuven
 patterns	*.vcc-*.8x8.com	2026-11-10		unknown	
 patterns	*.www.aeromexico.com*	2026-11-10		unknown	
 patterns	*.www.amazon.*	2026-11-10		unknown	
@@ -25208,7 +25209,7 @@ patterns	*cray.com*	2026-11-10		non-paying	HPE VDP
 patterns	*csmc.edu	2026-11-10		non-paying	Cedars-Sinai
 patterns	*detroitconnect.com	2026-11-10		non-paying	Daimler Truck
 patterns	*dev*.arlo.com	2026-11-10		paying	Arlo Cash Rewards
-patterns	*dev.uzleuven.be	2026-11-10		non-paying	UZ Leuven
+patterns	*dev.uzleuven.be	2026-11-10	2026-11-15	non-paying	UZ Leuven
 patterns	*developer.cloud.com	2026-11-10		non-paying	Cloud Software Group
 patterns	*directoasucuenta.gov	2026-11-10		non-paying	Department of the Treasury: Vulnerability Disclosure Program
 patterns	*eaglecash.gov	2026-11-10		non-paying	Department of the Treasury: Vulnerability Disclosure Program
@@ -25287,7 +25288,7 @@ patterns	*huntingtonhospital.org	2026-11-10		non-paying	Cedars-Sinai
 patterns	*huntingtonrx.com	2026-11-10		non-paying	Cedars-Sinai
 patterns	*huntingtonrx.net	2026-11-10		non-paying	Cedars-Sinai
 patterns	*iaf.gov	2026-11-10		non-paying	Inter-American Foundation - Vulnerability Disclosure Program
-patterns	*idp*.uzleuven.be	2026-11-10		non-paying	UZ Leuven
+patterns	*idp*.uzleuven.be	2026-11-10	2026-11-15	non-paying	UZ Leuven
 patterns	*inf.fndlsb.net	2026-11-10		paying	FanDuel
 patterns	*ipac.gov	2026-11-10		non-paying	Department of the Treasury: Vulnerability Disclosure Program
 patterns	*ipp.gov	2026-11-10		non-paying	Department of the Treasury: Vulnerability Disclosure Program
@@ -25353,7 +25354,7 @@ patterns	*silver-peak.com*	2026-11-10		non-paying	HPE VDP
 patterns	*simplivity.*	2026-11-10		non-paying	HPE VDP
 patterns	*slgs.gov	2026-11-10		non-paying	Department of the Treasury: Vulnerability Disclosure Program
 patterns	*spx-load.zebra.engineering	2026-11-10		non-paying	Zebra VDP
-patterns	*stag*.uzleuven.be	2026-11-10		non-paying	UZ Leuven
+patterns	*stag*.uzleuven.be	2026-11-10	2026-11-15	non-paying	UZ Leuven
 patterns	*statefarm.com	2026-11-10		non-paying	State Farm VDP
 patterns	*taaps.gov	2026-11-10		non-paying	Department of the Treasury: Vulnerability Disclosure Program
 patterns	*tax.gov	2026-11-10		non-paying	Department of the Treasury: Vulnerability Disclosure Program
@@ -28450,7 +28451,7 @@ subdomains	autodiscover.trammellcrow.com	2026-11-10		non-paying	CBRE
 subdomains	autodiscover.ucr.com	2026-11-10		non-paying	CBRE
 subdomains	autodiscover.unimil.com.br	2026-11-10		non-paying	John Deere
 subdomains	autodiscover.uniongaming.com	2026-11-10		non-paying	CBRE
-subdomains	autodiscover.uzleuven.be	2026-11-10		paying	UZ Leuven
+subdomains	autodiscover.uzleuven.be	2026-11-10	2026-11-15	paying	UZ Leuven
 subdomains	autodiscover.voegele.info	2026-11-10		non-paying	John Deere
 subdomains	autodiscover.wirtgen-external.com	2026-11-10		non-paying	John Deere
 subdomains	autodiscover.wirtgen-group.com	2026-11-10		non-paying	John Deere
@@ -30108,8 +30109,8 @@ subdomains	cards.remitly.io	2026-11-10		paying	Remitly
 subdomains	cardservicenet-p.businesstrack.com	2026-11-10		non-paying	Fiserv
 subdomains	cardservicenet.businesstrack.com	2026-11-10		non-paying	Fiserv
 subdomains	cardservices.fdecs.com	2026-11-10		non-paying	Fiserv
-subdomains	cardsonline.azdiest.be	2026-11-10		paying	UZ Leuven
-subdomains	cardsonlinetst.azdiest.be	2026-11-10		paying	UZ Leuven
+subdomains	cardsonline.azdiest.be	2026-11-10	2026-11-15	paying	UZ Leuven
+subdomains	cardsonlinetst.azdiest.be	2026-11-10	2026-11-15	paying	UZ Leuven
 subdomains	career.bpost.be	2026-11-10		non-paying	Bpost
 subdomains	career.cbre.pl	2026-11-10		non-paying	CBRE
 subdomains	careers.bluerivertechnology.com	2026-11-10		non-paying	John Deere
@@ -32016,8 +32017,8 @@ subdomains	contact-dev.nba.com	2026-11-10		paying	NBA Public Bug Bounty
 subdomains	contact-qa.nba.com	2026-11-10		paying	NBA Public Bug Bounty
 subdomains	contact.bluerivertechnology.com	2026-11-10		non-paying	John Deere
 subdomains	contact.nba.com	2026-11-10		paying	NBA Public Bug Bounty
-subdomains	contactallergie.uzleuven.be	2026-11-10		non-paying	UZ Leuven
-subdomains	contactallergy.uzleuven.be	2026-11-10		non-paying	UZ Leuven
+subdomains	contactallergie.uzleuven.be	2026-11-10	2026-11-15	non-paying	UZ Leuven
+subdomains	contactallergy.uzleuven.be	2026-11-10	2026-11-15	non-paying	UZ Leuven
 subdomains	contacto.itau.co	2026-11-10		non-paying	Itaú Unibanco
 subdomains	contactpoint.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	contacts.infomaniak.com	2026-11-10		paying	Infomaniak Bug Bounty program
@@ -34444,7 +34445,7 @@ subdomains	econnect-preprod.mtn.co.za	2026-11-10		unknown
 subdomains	ecosystem-experience.super-id.net	2026-11-10	2026-11-14	paying	Superbank - Public Bug Bounty Program
 subdomains	ecosystem.berachain.com	2026-11-10		paying	Berachain (Web/Apps)
 subdomains	ecoupon.maf.ae	2026-11-10		paying	Majid Al Futtaim Properties
-subdomains	ecrf.uzleuven.be	2026-11-10		paying	UZ Leuven
+subdomains	ecrf.uzleuven.be	2026-11-10	2026-11-15	paying	UZ Leuven
 subdomains	ecs-admin-dev.sentera.com	2026-11-10		non-paying	John Deere
 subdomains	ecs-staging.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	ecs.cbre.com	2026-11-10		non-paying	CBRE
@@ -35431,7 +35432,7 @@ subdomains	extrafees-api.cbre.fr	2026-11-10		non-paying	CBRE
 subdomains	extrafees-dev.cbre.fr	2026-11-10		non-paying	CBRE
 subdomains	extrafees-uat.cbre.fr	2026-11-10		non-paying	CBRE
 subdomains	extrafees.cbre.fr	2026-11-10		non-paying	CBRE
-subdomains	extranet-asa.uzleuven.be	2026-11-10		paying	UZ Leuven
+subdomains	extranet-asa.uzleuven.be	2026-11-10	2026-11-15	paying	UZ Leuven
 subdomains	extranet-dna-cert.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	extranet-dna.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	extranet-uat.fiservapp.com	2026-11-10		non-paying	Fiserv
@@ -35445,7 +35446,7 @@ subdomains	extranet.gallileo-frankfurt.com	2026-11-10		non-paying	CBRE
 subdomains	extranet.hms.essity.co.za	2026-11-10		non-paying	Essity
 subdomains	extranet.marionnaud.ch	2026-11-10		paying	Marionnaud
 subdomains	extranet.s-pankki.fi	2026-11-10		paying	S-Pankki
-subdomains	extranet.uzleuven.be	2026-11-10		paying	UZ Leuven
+subdomains	extranet.uzleuven.be	2026-11-10	2026-11-15	paying	UZ Leuven
 subdomains	extranetdev.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	extraparts.deere.com	2026-11-10		non-paying	John Deere
 subdomains	extras-acc.landmarkcinemas.com	2026-11-10		paying	Kinepolis Group
@@ -35866,7 +35867,7 @@ subdomains	files.gallileo-frankfurt.com	2026-11-10		non-paying	CBRE
 subdomains	files.harvestprofit.com	2026-11-10		non-paying	John Deere
 subdomains	files.services.wirtgen-group.com	2026-11-10		non-paying	John Deere
 subdomains	files.stripe.com	2026-11-10		paying	Stripe
-subdomains	files.uzleuven.be	2026-11-10		non-paying	UZ Leuven
+subdomains	files.uzleuven.be	2026-11-10	2026-11-15	non-paying	UZ Leuven
 subdomains	files.wl-livedrive.com	2026-11-10		non-paying	Ziff Davis Vulnerability Disclosure Program
 subdomains	files001-web.ebankhost.net	2026-11-10		non-paying	Fiserv
 subdomains	files001.ebankhost.net	2026-11-10		non-paying	Fiserv
@@ -39517,7 +39518,7 @@ subdomains	kuefcu-admin.originate.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	kuefcu-dc.cert.fec-dc.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	kuefcu-dn.financial-net.com	2026-11-10		non-paying	Fiserv
 subdomains	kuefcu.originate.fiservapps.com	2026-11-10		non-paying	Fiserv
-subdomains	kumulus.uzleuven.be	2026-11-10		non-paying	UZ Leuven
+subdomains	kumulus.uzleuven.be	2026-11-10	2026-11-15	non-paying	UZ Leuven
 subdomains	kurt-prod.caci.com	2026-11-10		non-paying	DIB-VDP
 subdomains	kuwait-qa.nonprod.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	kuwait-tm.nonprod.cbre.com	2026-11-10		non-paying	CBRE
@@ -39919,8 +39920,8 @@ subdomains	lionsharecu-dc.cert.fec-dc.fiservapps.com	2026-11-10		non-paying	Fise
 subdomains	lionsharecu-dn.financial-net.com	2026-11-10		non-paying	Fiserv
 subdomains	lionsharecu.originate.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	liquidfiles.nexuzhealth.com	2026-11-10		paying	Nexuzhealth
-subdomains	liquidfiles.uzleuven.be	2026-11-10		paying	UZ Leuven
-subdomains	liquidfilestest.uzleuven.be	2026-11-10		paying	UZ Leuven
+subdomains	liquidfiles.uzleuven.be	2026-11-10	2026-11-15	paying	UZ Leuven
+subdomains	liquidfilestest.uzleuven.be	2026-11-10	2026-11-15	paying	UZ Leuven
 subdomains	lirportal.ripe.net	2026-11-10		paying	RIPE NCC
 subdomains	listingmanager.costar.com	2026-11-10		non-paying	CoStar Vulnerability Disclosure Engagement
 subdomains	listings.cbre.com	2026-11-10		non-paying	CBRE
@@ -41574,7 +41575,7 @@ subdomains	migration.fleetboard.com	2026-11-10		non-paying	Daimler Truck
 subdomains	mijn.gamma.be	2026-11-10		paying	Intergamma
 subdomains	mijn.gamma.nl	2026-11-10		paying	Intergamma
 subdomains	mijn.karwei.nl	2026-11-10		paying	Intergamma
-subdomains	mijnacc.uzleuven.be	2026-11-10		non-paying	UZ Leuven
+subdomains	mijnacc.uzleuven.be	2026-11-10	2026-11-15	non-paying	UZ Leuven
 subdomains	milbnk-p2.onlinebank.com	2026-11-10		non-paying	Fiserv
 subdomains	milbnk.onlinebank.com	2026-11-10		non-paying	Fiserv
 subdomains	militaryvotes.ohio.gov	2026-11-10		non-paying	Ohio Secretary of State
@@ -41618,11 +41619,11 @@ subdomains	minutemanfcu-dc.cert.fec-dc.fiservapps.com	2026-11-10		non-paying	Fis
 subdomains	minutemanfcu-dn.financial-net.com	2026-11-10		non-paying	Fiserv
 subdomains	minutemanfcu.originate.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	miq.cbre.com	2026-11-10		non-paying	CBRE
-subdomains	mir.uzleuven.be	2026-11-10		non-paying	UZ Leuven
+subdomains	mir.uzleuven.be	2026-11-10	2026-11-15	non-paying	UZ Leuven
 subdomains	mirabilandia.orosaiwa.it	2026-11-10		non-paying	Mondelēz International
 subdomains	mirastarfcu.architect-cert.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	mirastarfcu.onlinebank.com	2026-11-10		non-paying	Fiserv
-subdomains	mirc.uzleuven.be	2026-11-10		non-paying	UZ Leuven
+subdomains	mirc.uzleuven.be	2026-11-10	2026-11-15	non-paying	UZ Leuven
 subdomains	missionbankaz.onlinebank.com	2026-11-10		non-paying	Fiserv
 subdomains	missionvalleybank.caaweb.com	2026-11-10		non-paying	Fiserv
 subdomains	missionvalleybank.onlinebank.com	2026-11-10		non-paying	Fiserv
@@ -42086,10 +42087,10 @@ subdomains	mx01.wirtgen-group.com	2026-11-10		non-paying	John Deere
 subdomains	mx02.wirtgen-group.com	2026-11-10		non-paying	John Deere
 subdomains	mx1.gallileo-frankfurt.com	2026-11-10		non-paying	CBRE
 subdomains	mx1.thorntontomasetti.com	2026-11-10		non-paying	MOD Supply Chain VDP
-subdomains	mx1.uzleuven.be	2026-11-10		paying	UZ Leuven
+subdomains	mx1.uzleuven.be	2026-11-10	2026-11-15	paying	UZ Leuven
 subdomains	mx2.gallileo-frankfurt.com	2026-11-10		non-paying	CBRE
 subdomains	mx2.thorntontomasetti.com	2026-11-10		non-paying	MOD Supply Chain VDP
-subdomains	mx2.uzleuven.be	2026-11-10		paying	UZ Leuven
+subdomains	mx2.uzleuven.be	2026-11-10	2026-11-15	paying	UZ Leuven
 subdomains	mxbpconfig.mendixcloud.com	2026-11-10		non-paying	Mendix
 subdomains	mxpeople.mendixcloud.com	2026-11-10		non-paying	Mendix
 subdomains	my-accpt.portofantwerp.com	2026-11-10		paying	Port of Antwerp-Bruges
@@ -44550,7 +44551,7 @@ subdomains	pcissoclient.fta.cashedge.com	2026-11-10		non-paying	Fiserv
 subdomains	pcmcu-dc.cert.fec-dc.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	pcmcu-dn.financial-net.com	2026-11-10		non-paying	Fiserv
 subdomains	pcpostage.uspspostalone.com	2026-11-10		non-paying	USPS - United States Postal Service
-subdomains	pcrstudioruzb.uzleuven.be	2026-11-10		paying	UZ Leuven
+subdomains	pcrstudioruzb.uzleuven.be	2026-11-10	2026-11-15	paying	UZ Leuven
 subdomains	pcsbbank.olbanking.com	2026-11-10		non-paying	Fiserv
 subdomains	pctfcu-admin.originate.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	pctfcu-dc.cert.fec-dc.fiservapps.com	2026-11-10		non-paying	Fiserv
@@ -45356,8 +45357,8 @@ subdomains	prd.platform.simplisafe.com	2026-11-10		paying	SimpliSafe Managed Bug
 subdomains	prd.services.simplisafe.com	2026-11-10		paying	SimpliSafe Managed Bug Bounty Engagement
 subdomains	prd.webapps.simplisafe.com	2026-11-10		paying	SimpliSafe Managed Bug Bounty Engagement
 subdomains	prdcbre-spain.cbre.eu	2026-11-10		non-paying	CBRE
-subdomains	prddnighting01.uzleuven.be	2026-11-10		non-paying	UZ Leuven
-subdomains	prddsplunkhf.uzleuven.be	2026-11-10		paying	UZ Leuven
+subdomains	prddnighting01.uzleuven.be	2026-11-10	2026-11-15	non-paying	UZ Leuven
+subdomains	prddsplunkhf.uzleuven.be	2026-11-10	2026-11-15	paying	UZ Leuven
 subdomains	prdfwclep01.mainstreamsasp.com	2026-11-10		non-paying	CBRE
 subdomains	pre-notes.dealiq.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	pre-prod-cardnet-provider.technologi.co.uk	2026-11-10		non-paying	Fiserv
@@ -46461,7 +46462,7 @@ subdomains	ramu8.omnipaytest.com	2026-11-10		non-paying	Fiserv
 subdomains	ramu9.omnipaytest.com	2026-11-10		non-paying	Fiserv
 subdomains	rancher.cbreesi.com	2026-11-10		non-paying	CBRE
 subdomains	rancher.electrificationtools.abb.com	2026-11-10		non-paying	ABB Information Systems Ltd
-subdomains	random.uzleuven.be	2026-11-10		unknown	
+subdomains	random.uzleuven.be	2026-11-10	2026-11-15	unknown	
 subdomains	range.hackthebox.ai	2026-11-10		non-paying	Hack The Box
 subdomains	rap-build-uat.cbre.eu	2026-11-10		non-paying	CBRE
 subdomains	rap-intego.cbre.eu	2026-11-10		non-paying	CBRE
@@ -49374,7 +49375,7 @@ subdomains	sts.delen.be	2026-11-10		paying	Delen Private Bank
 subdomains	sts.eeoc.gov	2026-11-10		non-paying	Equal Employment Opportunity Commission: Vulnerability Disclosure Program
 subdomains	sts.nebius.com	2026-11-10		non-paying	Nebius AI Vulnerability Disclosure
 subdomains	sts.thorntontomasetti.us	2026-11-10		non-paying	MOD Supply Chain VDP
-subdomains	sts.uzleuven.be	2026-11-10		paying	UZ Leuven
+subdomains	sts.uzleuven.be	2026-11-10	2026-11-15	paying	UZ Leuven
 subdomains	stthomascreditunion-admin.originate.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	stthomascreditunion.originate.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	stthomascu-admin.originate.fiservapps.com	2026-11-10		non-paying	Fiserv
@@ -50230,7 +50231,7 @@ subdomains	testpromoplatform2024.ferreropromo.it	2026-11-10		non-paying	Ferrero
 subdomains	testprovider.revaluemycard.com	2026-11-10		non-paying	Global Payments
 subdomains	testsecure.todaysebiz.com	2026-11-10		non-paying	Fiserv
 subdomains	testsgts.firstdata.com	2026-11-10		non-paying	Fiserv
-subdomains	teststs.uzleuven.be	2026-11-10		paying	UZ Leuven
+subdomains	teststs.uzleuven.be	2026-11-10	2026-11-15	paying	UZ Leuven
 subdomains	testtest.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	testtest3.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	testv1-groupoffice.aegeanair.com	2026-11-10		non-paying	Aegean Airlines Vulnerability Disclosure
@@ -52374,7 +52375,7 @@ subdomains	vwcm.visa.com	2026-11-10		paying	Visa
 subdomains	vwebcsneitg-dmz-itg.it.hpe.com	2026-11-10		non-paying	HPE VDP
 subdomains	vwfs.securepinset.firstdata.com	2026-11-10		non-paying	Fiserv
 subdomains	vwfs.uat-securepinset.firstdata.com	2026-11-10		non-paying	Fiserv
-subdomains	w1.uzleuven.be	2026-11-10		paying	UZ Leuven
+subdomains	w1.uzleuven.be	2026-11-10	2026-11-15	paying	UZ Leuven
 subdomains	waasales.caaweb.com	2026-11-10		non-paying	Fiserv
 subdomains	wacam.oreobts.com	2026-11-10		non-paying	Mondelēz International
 subdomains	wacweb.caci.com	2026-11-10		non-paying	DIB-VDP
@@ -53063,7 +53064,7 @@ subdomains	woz-test.cbreim.com	2026-11-10		non-paying	CBRE
 subdomains	woz.cbreim.com	2026-11-10		non-paying	CBRE
 subdomains	woz.cbreinvestors.com	2026-11-10		non-paying	CBRE
 subdomains	wp.gallileo-frankfurt.com	2026-11-10		non-paying	CBRE
-subdomains	wp5-truststroke.uzleuven.be	2026-11-10		paying	UZ Leuven
+subdomains	wp5-truststroke.uzleuven.be	2026-11-10	2026-11-15	paying	UZ Leuven
 subdomains	wpdcu-dc.cert.fec-dc.fiservapps.com	2026-11-10		non-paying	Fiserv
 subdomains	wpdcu-dn.financial-net.com	2026-11-10		non-paying	Fiserv
 subdomains	wps-cps.cv.dmp.gouv.fr	2026-11-10		paying	Dossier Medical Partagé Bug Bounty Program
@@ -56221,7 +56222,7 @@ subdomains	www.usmrae02.cbre.com	2026-11-10		non-paying	CBRE
 subdomains	www.usps.com	2026-11-10		non-paying	USPS - United States Postal Service
 subdomains	www.usps.gov	2026-11-10		non-paying	USPS - United States Postal Service
 subdomains	www.utility.gac.toyota.com	2026-11-10		non-paying	Toyota
-subdomains	www.uzleuven.be	2026-11-10		paying	UZ Leuven
+subdomains	www.uzleuven.be	2026-11-10	2026-11-15	paying	UZ Leuven
 subdomains	www.valmo.in	2026-11-10		paying	Meesho
 subdomains	www.valuedinsights.cbre.co.uk	2026-11-10		non-paying	CBRE
 subdomains	www.valuereport.ai.sunrun.com	2026-11-10		non-paying	Sunrun Vulnerability Disclosure Pro Engagement
@@ -57895,7 +57896,7 @@ urls	https://quality.prod.nutella.com/it/it/xp/nutellatagliere2025	2026-11-10		n
 urls	https://quay.io/repository/sdmrepo/relay	2026-11-10		non-paying	StrongDM Vulnerability Disclosure Engagement
 urls	https://raffaello.com/ro/ro/xp/mai-presus-de-cuvinte	2026-11-10		non-paying	Ferrero
 urls	https://raffaello.lv/loterija_tmp	2026-11-10		non-paying	Ferrero
-urls	https://random.uzleuven.be/random	2026-11-10		paying	UZ Leuven
+urls	https://random.uzleuven.be/random	2026-11-10	2026-11-15	paying	UZ Leuven
 urls	https://razorpay.com/docs	2026-11-10		paying	Razorpay
 urls	https://razorpay.com/docs/payments/dashboard/test-live-modes	2026-11-10		paying	Razorpay
 urls	https://razorpay.com/docs/payments/payments/test-card-upi-details	2026-11-10		paying	Razorpay
@@ -58112,7 +58113,7 @@ urls	https://vtmgo.be/inloggen	2026-11-10		paying	VTM GO
 urls	https://vtmgo.be/login	2026-11-10		paying	VTM GO
 urls	https://vtmgo.be/registreren	2026-11-10		paying	VTM GO
 urls	https://vtmgo.be/service	2026-11-10		paying	VTM GO
-urls	https://w1.uzleuven.be/random	2026-11-10		non-paying	UZ Leuven
+urls	https://w1.uzleuven.be/random	2026-11-10	2026-11-15	non-paying	UZ Leuven
 urls	https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/status-lists	2026-11-10		paying	d-you App & German EUDI Wallet Ecosystem
 urls	https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/mdvm	2026-11-10		paying	d-you App & German EUDI Wallet Ecosystem
 urls	https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/pns	2026-11-10		paying	d-you App & German EUDI Wallet Ecosystem
@@ -59699,8 +59700,8 @@ wildcards	consumer.worldcoin.org	2026-11-10		paying	Tools for Humanity
 wildcards	consumersentinel.gov	2026-11-10		non-paying	Federal Trade Commission: Vulnerability Disclosure Program
 wildcards	consumidor.gov	2026-11-10		non-paying	Federal Trade Commission: Vulnerability Disclosure Program
 wildcards	consumoresponsable.com.mx	2026-11-10		non-paying	AB InBev Vulnerability Disclosure Program
-wildcards	contactallergie.uzleuven.be	2026-11-10		non-paying	UZ Leuven
-wildcards	contactallergy.uzleuven.be	2026-11-10		non-paying	UZ Leuven
+wildcards	contactallergie.uzleuven.be	2026-11-10	2026-11-15	non-paying	UZ Leuven
+wildcards	contactallergy.uzleuven.be	2026-11-10	2026-11-15	non-paying	UZ Leuven
 wildcards	content.seleritycorp.com	2026-11-10		non-paying	ION Group
 wildcards	context-api.seleritycorp.com	2026-11-10		non-paying	ION Group
 wildcards	context-data-service.seleritycorp.com	2026-11-10		non-paying	ION Group
@@ -60977,7 +60978,7 @@ wildcards	kruidvat.nl	2026-11-10		paying	Kruidvat
 wildcards	kruidvatkids.nl	2026-11-10		paying	Kruidvat
 wildcards	kucoin.com	2026-11-10		paying	KuCoin Managed Bug Bounty Program; kucoin
 wildcards	kwiksetunite.com	2026-11-10		non-paying	Assa Abloy America's
-wildcards	kwsdose.be	2026-11-10		paying	UZ Leuven
+wildcards	kwsdose.be	2026-11-10	2026-11-15	paying	UZ Leuven
 wildcards	kyc6.com	2026-11-10		non-paying	ION Group
 wildcards	kyribacash.com	2026-11-10		non-paying	ION Group
 wildcards	kyribanow.com	2026-11-10		non-paying	ION Group
@@ -61370,7 +61371,7 @@ wildcards	miot-spec.org	2026-11-10		paying	Xiaomi
 wildcards	mipay.com	2026-11-10		paying	Xiaomi
 wildcards	mipay.net	2026-11-10		paying	Xiaomi
 wildcards	miproximopaso.org	2026-11-10		non-paying	Department of Labor
-wildcards	mir.uzleuven.be	2026-11-10		non-paying	UZ Leuven
+wildcards	mir.uzleuven.be	2026-11-10	2026-11-15	non-paying	UZ Leuven
 wildcards	miroyalcanin.cl	2026-11-10		non-paying	Mars
 wildcards	miroyalcanin.com.ar	2026-11-10		non-paying	Mars
 wildcards	miscervezas.mx	2026-11-10		non-paying	AB InBev Vulnerability Disclosure Program
@@ -62006,7 +62007,7 @@ wildcards	playstation.com	2026-11-10		non-paying	PlayStation
 wildcards	playstation.net	2026-11-10		paying	PlayStation
 wildcards	playticorp.com	2026-11-10		paying	Playtika
 wildcards	playtika.com	2026-11-10		paying	Playtika
-wildcards	playuzleuven.be	2026-11-10		paying	UZ Leuven
+wildcards	playuzleuven.be	2026-11-10	2026-11-15	paying	UZ Leuven
 wildcards	playwsop.com	2026-11-10		paying	Playtika
 wildcards	plusgrade.com	2026-11-10		non-paying	Plusgrade Vulnerability Disclosure Program
 wildcards	pmecollection.com.au	2026-11-10		non-paying	Cengage VDP

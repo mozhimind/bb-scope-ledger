@@ -1,3 +1,0 @@
-https://app.lansweeper.com/trial
-https://developer.lansweeper.com/docs/data-api/get-started/welcome
-https://www.lansweeper.com/product/features/integrate/flow-builder

@@ -1,0 +1,2 @@
+bounty	assets	host	sources	programs	program_urls	raw_entries
+paying	apps	https://marketplace.atlassian.com/apps/2831389750/requira-requirements-traceability-for-jira	arkadiyt-bugcrowd,bugcrowd-direct	Deviniti	https://bugcrowd.com/engagements/deviniti	Requira - Requirements & Traceability for Jira - https://marketplace.atlassian.com/apps/2831389750/requira-requirements-

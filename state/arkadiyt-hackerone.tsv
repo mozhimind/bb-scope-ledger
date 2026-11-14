@@ -4642,7 +4642,6 @@ Box Drive	paying	Box BB	https://hackerone.com/box_private
 Box Tools	paying	Box BB	https://hackerone.com/box_private
 Braintree SDK	paying	PayPal	https://hackerone.com/paypal
 Brainware	non-paying	Hyland Software	https://hackerone.com/hyland_software
-Brave websites	paying	Brave Software	https://hackerone.com/brave
 Brilliant Services	non-paying	Cognizant	https://hackerone.com/cognizant
 Browser Isolation	paying	Cloudflare Public Bug Bounty	https://hackerone.com/cloudflare
 BuddyPress Core	paying	WordPress	https://hackerone.com/wordpress
@@ -7279,7 +7278,6 @@ app:Beats - Osquerybeat	out-of-scope	Elastic	https://hackerone.com/elastic
 app:Beats - Packetbeat	out-of-scope	Elastic	https://hackerone.com/elastic
 app:Beats - Winlogbeat	out-of-scope	Elastic	https://hackerone.com/elastic
 app:Boots Middle East_MENA_IOS_1537064114	non-paying	Alshaya	https://hackerone.com/alshaya
-app:Brave Browser Desktop	paying	Brave Software	https://hackerone.com/brave
 app:Burp Collaborator	paying	PortSwigger Web Security	https://hackerone.com/portswigger
 app:Burp Suite Extension (BApps)	out-of-scope	PortSwigger Web Security	https://hackerone.com/portswigger
 app:Burp Suite Pro/Community	paying	PortSwigger Web Security	https://hackerone.com/portswigger
@@ -7601,8 +7599,6 @@ app:com.boozt	paying	Boozt Fashion AB	https://hackerone.com/boozt
 app:com.boozt.app	paying	Boozt Fashion AB	https://hackerone.com/boozt
 app:com.boozt.booztlet	paying	Boozt Fashion AB	https://hackerone.com/boozt
 app:com.booztlet	paying	Boozt Fashion AB	https://hackerone.com/boozt
-app:com.brave.browser	paying	Brave Software	https://hackerone.com/brave
-app:com.brave.ios.browser	paying	Brave Software	https://hackerone.com/brave
 app:com.britishairways.BAFlights	non-paying	British Airways VDP	https://hackerone.com/british_airways_vdp
 app:com.bumble.app	paying	Bumble	https://hackerone.com/bumble
 app:com.bumblebff.app	paying	Bumble	https://hackerone.com/bumble
@@ -25391,7 +25387,6 @@ https://github.com/bitwarden/phishing-test-page	out-of-scope	Bitwarden	https://h
 https://github.com/bitwarden/rotation-daemon	out-of-scope	Bitwarden	https://hackerone.com/bitwarden
 https://github.com/bitwarden/sdk-internal	non-paying	Bitwarden	https://hackerone.com/bitwarden
 https://github.com/bitwarden/server	non-paying	Bitwarden	https://hackerone.com/bitwarden
-https://github.com/brave/*, https://github.com/brave-intl/*	paying	Brave Software	https://hackerone.com/brave
 https://github.com/bwillis/versioncake	non-paying	Version Cake	https://hackerone.com/versioncake
 https://github.com/circlefin/aptos-cctp	paying	Circle	https://hackerone.com/circle-bbp
 https://github.com/circlefin/arc-node	paying	Arc	https://hackerone.com/arc-bbp

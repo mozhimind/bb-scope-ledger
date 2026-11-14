@@ -984,7 +984,6 @@ https://quality.prod.nutella.com/it/it/xp/nutellatagliere2025
 https://quay.io/repository/sdmrepo/relay
 https://raffaello.com/ro/ro/xp/mai-presus-de-cuvinte
 https://raffaello.lv/loterija_tmp
-https://random.uzleuven.be/random
 https://razorpay.com/docs
 https://razorpay.com/docs/payments/dashboard/test-live-modes
 https://razorpay.com/docs/payments/payments/test-card-upi-details
@@ -1199,7 +1198,6 @@ https://vtmgo.be/inloggen
 https://vtmgo.be/login
 https://vtmgo.be/registreren
 https://vtmgo.be/service
-https://w1.uzleuven.be/random
 https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/status-lists
 https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/mdvm
 https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/pns

@@ -21,7 +21,6 @@
 *.*cpqcorp.*
 *.*csmc.edu
 *.*dev*.arlo.com
-*.*dev.uzleuven.be
 *.*developer.cloud.com
 *.*elvetino.ch
 *.*ensemble*.yahoo.com
@@ -58,7 +57,6 @@
 *.*huntingtonhospital.org
 *.*huntingtonrx.com
 *.*huntingtonrx.net
-*.*idp*.uzleuven.be
 *.*inf.fndlsb.net
 *.*kerlanjobe.org
 *.*learn.semtech.com
@@ -85,7 +83,6 @@
 *.*silver-peak.com*
 *.*simplivity.*
 *.*spx-load.zebra.engineering
-*.*stag*.uzleuven.be
 *.*test*.bykea.net
 *.*theworknumber.com
 *.*transsicura.ch
@@ -172,7 +169,6 @@
 *.test*.redoxengine.com
 *.test.*.lfscnp.com
 *.trip.com
-*.uzleuven.*
 *.vcc-*.8x8.com
 *.www.aeromexico.com*
 *.www.amazon.*
@@ -211,7 +207,6 @@
 *csmc.edu
 *detroitconnect.com
 *dev*.arlo.com
-*dev.uzleuven.be
 *developer.cloud.com
 *directoasucuenta.gov
 *eaglecash.gov
@@ -290,7 +285,6 @@
 *huntingtonrx.com
 *huntingtonrx.net
 *iaf.gov
-*idp*.uzleuven.be
 *inf.fndlsb.net
 *ipac.gov
 *ipp.gov
@@ -356,7 +350,6 @@
 *simplivity.*
 *slgs.gov
 *spx-load.zebra.engineering
-*stag*.uzleuven.be
 *statefarm.com
 *taaps.gov
 *tax.gov

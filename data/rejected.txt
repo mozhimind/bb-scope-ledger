@@ -9,6 +9,7 @@ arkadiyt-bugcrowd	bad-idn	██████████████████
 arkadiyt-bugcrowd	bad-idn	██████████████████████████████████████████████████████████████████████████████████████████████████████
 arkadiyt-bugcrowd	bad-idn	██████████████████████████████████████████████████████████████████████████████████████████████████████████████
 arkadiyt-bugcrowd	bad-idn	████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+arkadiyt-bugcrowd	bad-idn	███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 arkadiyt-bugcrowd	free-text	3.0 API
 arkadiyt-bugcrowd	free-text	3rd Party Integrations (Hytale-side issues only)
 arkadiyt-bugcrowd	free-text	3rd-Party Provider Vulnerability
@@ -805,7 +806,6 @@ arkadiyt-hackerone	free-text	Bot Management
 arkadiyt-hackerone	free-text	Box Drive
 arkadiyt-hackerone	free-text	Box Tools
 arkadiyt-hackerone	free-text	Braintree SDK
-arkadiyt-hackerone	free-text	Brave websites
 arkadiyt-hackerone	free-text	Brilliant Services
 arkadiyt-hackerone	free-text	Browser Isolation
 arkadiyt-hackerone	free-text	BuddyPress Core
@@ -1220,7 +1220,6 @@ arkadiyt-hackerone	free-text	app:Any LoRa Software product
 arkadiyt-hackerone	free-text	app:Aura MENA - Rewarding Loyalty_MENA_ANDRIOD_com.alshaya.aura
 arkadiyt-hackerone	free-text	app:Aura MENA - Rewarding Loyalty_MENA_IOS_1532694353
 arkadiyt-hackerone	free-text	app:Boots Middle East_MENA_IOS_1537064114
-arkadiyt-hackerone	free-text	app:Brave Browser Desktop
 arkadiyt-hackerone	free-text	app:Burp Collaborator
 arkadiyt-hackerone	free-text	app:Burp Suite Pro/Community
 arkadiyt-hackerone	free-text	app:Citrix Secure Access client for Android
@@ -1581,6 +1580,7 @@ arkadiyt-intigriti	free-text	Dashlane Browser Extensions
 arkadiyt-intigriti	free-text	Dashlane Business and Enterprise Features
 arkadiyt-intigriti	free-text	Dashlane Mobile Applications
 arkadiyt-intigriti	free-text	Dropbox Desktop Application
+arkadiyt-intigriti	free-text	FPGA Solution Development Tools and Utilities
 arkadiyt-intigriti	free-text	Fing desktop
 arkadiyt-intigriti	free-text	Firmware: Mali Command Stream Frontend (CSF) Firmware
 arkadiyt-intigriti	free-text	First-party Ubisoft Web, Desktop and Mobile applications
@@ -1600,6 +1600,7 @@ arkadiyt-intigriti	free-text	Mobile apps owned by DHL Group companies
 arkadiyt-intigriti	free-text	NVIDIA Nsight Developer Tools
 arkadiyt-intigriti	free-text	NVRTC library
 arkadiyt-intigriti	free-text	NitroPack Plugins
+arkadiyt-intigriti	free-text	Non Altera Products
 arkadiyt-intigriti	free-text	Non-Core Grafana Plugins
 arkadiyt-intigriti	free-text	Nsight Systems
 arkadiyt-intigriti	free-text	Official Oura Ring Accessories
@@ -1802,6 +1803,7 @@ bugcrowd-direct	bad-idn	██████████████████�
 bugcrowd-direct	bad-idn	██████████████████████████████████████████████████████████████████████████████████████████████████████
 bugcrowd-direct	bad-idn	██████████████████████████████████████████████████████████████████████████████████████████████████████████████
 bugcrowd-direct	bad-idn	████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+bugcrowd-direct	bad-idn	███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 bugcrowd-direct	free-text	3rd Party Integrations (Hytale-side issues only)
 bugcrowd-direct	free-text	3rd-Party Provider Vulnerability
 bugcrowd-direct	free-text	AM:PM Hotels
@@ -3937,7 +3939,6 @@ hackerone-direct	free-text	Bot Management
 hackerone-direct	free-text	Box Drive
 hackerone-direct	free-text	Box Tools
 hackerone-direct	free-text	Braintree SDK
-hackerone-direct	free-text	Brave websites
 hackerone-direct	free-text	Brilliant Services
 hackerone-direct	free-text	Browser Isolation
 hackerone-direct	free-text	BuddyPress Core
@@ -4354,7 +4355,6 @@ hackerone-direct	free-text	app:Any LoRa Software product
 hackerone-direct	free-text	app:Aura MENA - Rewarding Loyalty_MENA_ANDRIOD_com.alshaya.aura
 hackerone-direct	free-text	app:Aura MENA - Rewarding Loyalty_MENA_IOS_1532694353
 hackerone-direct	free-text	app:Boots Middle East_MENA_IOS_1537064114
-hackerone-direct	free-text	app:Brave Browser Desktop
 hackerone-direct	free-text	app:Burp Collaborator
 hackerone-direct	free-text	app:Burp Suite Pro/Community
 hackerone-direct	free-text	app:Citrix Secure Access client for Android
@@ -4734,6 +4734,7 @@ intigriti-direct	free-text	Dropbox Desktop Application
 intigriti-direct	free-text	Electric Torque Management Controllers
 intigriti-direct	free-text	Electric Variable Cam Timing Controllers
 intigriti-direct	free-text	Engine/Transmission Controller
+intigriti-direct	free-text	FPGA Solution Development Tools and Utilities
 intigriti-direct	free-text	Fing desktop
 intigriti-direct	free-text	Firmware: Mali Command Stream Frontend (CSF) Firmware
 intigriti-direct	free-text	First-party Ubisoft Web, Desktop and Mobile applications
@@ -4757,6 +4758,7 @@ intigriti-direct	free-text	Mobile apps owned by DHL Group companies
 intigriti-direct	free-text	NVIDIA Nsight Developer Tools
 intigriti-direct	free-text	NVRTC library
 intigriti-direct	free-text	NitroPack Plugins
+intigriti-direct	free-text	Non Altera Products
 intigriti-direct	free-text	Non-Core Grafana Plugins
 intigriti-direct	free-text	Nsight Systems
 intigriti-direct	free-text	Official Oura Ring Accessories

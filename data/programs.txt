@@ -1582,7 +1582,7 @@ platform	paying	BookBeat	https://yeswehack.com/programs/bookbeat	7	arkadiyt-yesw
 platform	paying	Booking.com	https://hackerone.com/bookingcom	48	arkadiyt-hackerone,hackerone-direct		b323ecf5f8
 platform	paying	Boozt Fashion AB	https://hackerone.com/boozt	10	arkadiyt-hackerone,hackerone-direct,projectdiscovery		3e9495c1df
 platform	paying	Box BB	https://hackerone.com/box_private	14	arkadiyt-hackerone,hackerone-direct		21d9b25407
-platform	paying	Brave Software	https://hackerone.com/brave	6	arkadiyt-hackerone,hackerone-direct,projectdiscovery		3660448f84
+platform	paying	Brave Software	https://hackerone.com/brave	2	projectdiscovery		3660448f84
 platform	paying	Braze, Inc.	https://hackerone.com/braze_inc	6	arkadiyt-hackerone,hackerone-direct		13766ea5f8
 platform	paying	BrizoIT	https://bugcrowd.com/engagements/brizoit	4	arkadiyt-bugcrowd,bugcrowd-direct		c6849ed729
 platform	paying	Broken Build Bug Bounty	https://bugcrowd.com/engagements/brokenbuild	10	arkadiyt-bugcrowd,bugcrowd-direct		6c7873f378
@@ -1707,7 +1707,7 @@ platform	paying	Deribit	https://hackerone.com/deribit	6	arkadiyt-hackerone,hacke
 platform	paying	Deriv.com	https://hackerone.com/deriv	17	arkadiyt-hackerone,hackerone-direct		dcd8eb06cb
 platform	paying	DevAcrobats	https://bugcrowd.com/engagements/devacrobats-market	2	arkadiyt-bugcrowd,bugcrowd-direct		fd07391c47
 platform	paying	Deview Studios Marketplace Managed Bug Bounty Engagement	https://bugcrowd.com/engagements/deviewstudios-market	1	arkadiyt-bugcrowd,bugcrowd-direct		e46569d7ad
-platform	paying	Deviniti	https://bugcrowd.com/engagements/deviniti	17	arkadiyt-bugcrowd,bugcrowd-direct		b2262ea762
+platform	paying	Deviniti	https://bugcrowd.com/engagements/deviniti	18	arkadiyt-bugcrowd,bugcrowd-direct		b2262ea762
 platform	paying	DevSamurai	https://bugcrowd.com/engagements/devsamurai	16	arkadiyt-bugcrowd,bugcrowd-direct		267a77719a
 platform	paying	Dex-Trade	https://hackenproof.com/dex-trade/dex-trade	1	projectdiscovery		50cacf3235
 platform	paying	Dexalot	https://hackenproof.com/dexalot	1	projectdiscovery		40ad893f40
@@ -2048,7 +2048,6 @@ platform	paying	Oasis Protocol Foundation	https://hackerone.com/oasisprotocol	15
 platform	paying	Octopus	https://bugcrowd.com/engagements/octopus-og	2	arkadiyt-bugcrowd,bugcrowd-direct		0e36f4b40e
 platform	paying	Octopus Deploy	https://bugcrowd.com/engagements/octopus-deploy	1	arkadiyt-bugcrowd,bugcrowd-direct		b4aec1a954
 platform	paying	ofza-web	https://hackenproof.com/programs/ofza-web	1	hackenproof-direct		247756b6ff
-platform	paying	Okapya	https://bugcrowd.com/engagements/okapya	1	arkadiyt-bugcrowd,bugcrowd-direct		64d5ba9bd7
 platform	paying	Okcoin	https://hackenproof.com/okcoin/okcoin	1	projectdiscovery		cacbd4c9a2
 platform	paying	OKG	https://hackerone.com/okg	9	arkadiyt-hackerone,hackerone-direct		a8777fd0a1
 platform	paying	Okta	https://bugcrowd.com/engagements/okta	12	arkadiyt-bugcrowd,bugcrowd-direct,projectdiscovery		02869fa06d
@@ -2332,8 +2331,6 @@ platform	paying	Upserve	https://hackerone.com/upserve	6	projectdiscovery		1814f3
 platform	paying	Upwork	https://bugcrowd.com/engagements/upwork	4	arkadiyt-bugcrowd,bugcrowd-direct,projectdiscovery		aec64429df
 platform	paying	Urban Company	https://hackerone.com/urbancompany	9	arkadiyt-hackerone,hackerone-direct,projectdiscovery		b181fcde30
 platform	paying	USAA	https://bugcrowd.com/engagements/usaa	53	arkadiyt-bugcrowd,bugcrowd-direct,projectdiscovery		590cb37ed1
-platform	paying	UZ Leuven	https://app.intigriti.com/programs/uz leuven/uzleuven/detail	43	intigriti-direct		f6c0cf2526
-platform	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail	43	arkadiyt-intigriti		cf44c5b65b
 platform	paying	Valve	https://hackerone.com/valve	24	arkadiyt-hackerone,hackerone-direct,projectdiscovery		1165ecacda
 platform	paying	Vanilla	https://hackerone.com/vanilla	5	projectdiscovery		6315628c29
 platform	paying	Varonis	https://hackerone.com/varonis	6	arkadiyt-hackerone,hackerone-direct,projectdiscovery		f0b43a01b4

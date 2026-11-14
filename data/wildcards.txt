@@ -1026,8 +1026,6 @@ consumer.worldcoin.org
 consumersentinel.gov
 consumidor.gov
 consumoresponsable.com.mx
-contactallergie.uzleuven.be
-contactallergy.uzleuven.be
 content.seleritycorp.com
 context-api.seleritycorp.com
 context-data-service.seleritycorp.com
@@ -2303,7 +2301,6 @@ kruidvat.nl
 kruidvatkids.nl
 kucoin.com
 kwiksetunite.com
-kwsdose.be
 kyc6.com
 kyribacash.com
 kyribanow.com
@@ -2696,7 +2693,6 @@ miot-spec.org
 mipay.com
 mipay.net
 miproximopaso.org
-mir.uzleuven.be
 miroyalcanin.cl
 miroyalcanin.com.ar
 miscervezas.mx
@@ -3327,7 +3323,6 @@ playstation.com
 playstation.net
 playticorp.com
 playtika.com
-playuzleuven.be
 playwsop.com
 plusgrade.com
 pmecollection.com.au

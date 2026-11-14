@@ -2963,7 +2963,6 @@ autodiscover.trammellcrow.com
 autodiscover.ucr.com
 autodiscover.unimil.com.br
 autodiscover.uniongaming.com
-autodiscover.uzleuven.be
 autodiscover.voegele.info
 autodiscover.wirtgen-external.com
 autodiscover.wirtgen-group.com
@@ -4608,8 +4607,6 @@ cards.remitly.io
 cardservicenet-p.businesstrack.com
 cardservicenet.businesstrack.com
 cardservices.fdecs.com
-cardsonline.azdiest.be
-cardsonlinetst.azdiest.be
 career.bpost.be
 career.cbre.pl
 careers.bluerivertechnology.com
@@ -6470,8 +6467,6 @@ contact-dev.nba.com
 contact-qa.nba.com
 contact.bluerivertechnology.com
 contact.nba.com
-contactallergie.uzleuven.be
-contactallergy.uzleuven.be
 contacto.itau.co
 contactpoint.fiservapps.com
 contacts.infomaniak.com
@@ -8816,7 +8811,6 @@ econfigure.xe.abb.com
 econnect-preprod.mtn.co.za
 ecosystem.berachain.com
 ecoupon.maf.ae
-ecrf.uzleuven.be
 ecs-admin-dev.sentera.com
 ecs-staging.cbre.com
 ecs.cbre.com
@@ -9783,7 +9777,6 @@ extrafees-api.cbre.fr
 extrafees-dev.cbre.fr
 extrafees-uat.cbre.fr
 extrafees.cbre.fr
-extranet-asa.uzleuven.be
 extranet-dna-cert.fiservapps.com
 extranet-dna.fiservapps.com
 extranet-uat.fiservapp.com
@@ -9796,7 +9789,6 @@ extranet.gallileo-frankfurt.com
 extranet.hms.essity.co.za
 extranet.marionnaud.ch
 extranet.s-pankki.fi
-extranet.uzleuven.be
 extranetdev.fiservapps.com
 extraparts.deere.com
 extras-acc.landmarkcinemas.com
@@ -10212,7 +10204,6 @@ files.gallileo-frankfurt.com
 files.harvestprofit.com
 files.services.wirtgen-group.com
 files.stripe.com
-files.uzleuven.be
 files.wl-livedrive.com
 files001-web.ebankhost.net
 files001.ebankhost.net
@@ -13826,7 +13817,6 @@ kuefcu-admin.originate.fiservapps.com
 kuefcu-dc.cert.fec-dc.fiservapps.com
 kuefcu-dn.financial-net.com
 kuefcu.originate.fiservapps.com
-kumulus.uzleuven.be
 kurt-prod.caci.com
 kuwait-qa.nonprod.cbre.com
 kuwait-tm.nonprod.cbre.com
@@ -14225,8 +14215,6 @@ lionsharecu-dc.cert.fec-dc.fiservapps.com
 lionsharecu-dn.financial-net.com
 lionsharecu.originate.fiservapps.com
 liquidfiles.nexuzhealth.com
-liquidfiles.uzleuven.be
-liquidfilestest.uzleuven.be
 lirportal.ripe.net
 listingmanager.costar.com
 listings.cbre.com
@@ -15873,7 +15861,6 @@ migration.fleetboard.com
 mijn.gamma.be
 mijn.gamma.nl
 mijn.karwei.nl
-mijnacc.uzleuven.be
 milbnk-p2.onlinebank.com
 milbnk.onlinebank.com
 militaryvotes.ohio.gov
@@ -15917,11 +15904,9 @@ minutemanfcu-dc.cert.fec-dc.fiservapps.com
 minutemanfcu-dn.financial-net.com
 minutemanfcu.originate.fiservapps.com
 miq.cbre.com
-mir.uzleuven.be
 mirabilandia.orosaiwa.it
 mirastarfcu.architect-cert.fiservapps.com
 mirastarfcu.onlinebank.com
-mirc.uzleuven.be
 missionbankaz.onlinebank.com
 missionvalleybank.caaweb.com
 missionvalleybank.onlinebank.com
@@ -16380,10 +16365,8 @@ mx01.wirtgen-group.com
 mx02.wirtgen-group.com
 mx1.gallileo-frankfurt.com
 mx1.thorntontomasetti.com
-mx1.uzleuven.be
 mx2.gallileo-frankfurt.com
 mx2.thorntontomasetti.com
-mx2.uzleuven.be
 mxbpconfig.mendixcloud.com
 mxpeople.mendixcloud.com
 my-accpt.portofantwerp.com
@@ -18817,7 +18800,6 @@ pcissoclient.fta.cashedge.com
 pcmcu-dc.cert.fec-dc.fiservapps.com
 pcmcu-dn.financial-net.com
 pcpostage.uspspostalone.com
-pcrstudioruzb.uzleuven.be
 pcsbbank.olbanking.com
 pctfcu-admin.originate.fiservapps.com
 pctfcu-dc.cert.fec-dc.fiservapps.com
@@ -19612,8 +19594,6 @@ prd.platform.simplisafe.com
 prd.services.simplisafe.com
 prd.webapps.simplisafe.com
 prdcbre-spain.cbre.eu
-prddnighting01.uzleuven.be
-prddsplunkhf.uzleuven.be
 prdfwclep01.mainstreamsasp.com
 pre-notes.dealiq.cbre.com
 pre-prod-cardnet-provider.technologi.co.uk
@@ -20693,7 +20673,6 @@ ramu8.omnipaytest.com
 ramu9.omnipaytest.com
 rancher.cbreesi.com
 rancher.electrificationtools.abb.com
-random.uzleuven.be
 range.hackthebox.ai
 rap-build-uat.cbre.eu
 rap-intego.cbre.eu
@@ -23554,7 +23533,6 @@ sts.delen.be
 sts.eeoc.gov
 sts.nebius.com
 sts.thorntontomasetti.us
-sts.uzleuven.be
 stthomascreditunion-admin.originate.fiservapps.com
 stthomascreditunion.originate.fiservapps.com
 stthomascu-admin.originate.fiservapps.com
@@ -24401,7 +24379,6 @@ testpromoplatform2024.ferreropromo.it
 testprovider.revaluemycard.com
 testsecure.todaysebiz.com
 testsgts.firstdata.com
-teststs.uzleuven.be
 testtest.cbre.com
 testtest3.cbre.com
 testv1-groupoffice.aegeanair.com
@@ -26486,7 +26463,6 @@ vwcm.visa.com
 vwebcsneitg-dmz-itg.it.hpe.com
 vwfs.securepinset.firstdata.com
 vwfs.uat-securepinset.firstdata.com
-w1.uzleuven.be
 waasales.caaweb.com
 wacam.oreobts.com
 wacweb.caci.com
@@ -27174,7 +27150,6 @@ woz-test.cbreim.com
 woz.cbreim.com
 woz.cbreinvestors.com
 wp.gallileo-frankfurt.com
-wp5-truststroke.uzleuven.be
 wpdcu-dc.cert.fec-dc.fiservapps.com
 wpdcu-dn.financial-net.com
 wps-cps.cv.dmp.gouv.fr
@@ -30278,7 +30253,6 @@ www.usmrae02.cbre.com
 www.usps.com
 www.usps.gov
 www.utility.gac.toyota.com
-www.uzleuven.be
 www.valmo.in
 www.valuedinsights.cbre.co.uk
 www.valuereport.ai.sunrun.com

@@ -1,2 +1,1 @@
-https://github.com/Infomaniak/android-infomaniak-meet
-https://github.com/Infomaniak/ios-infomaniak-meet
+https://marketplace.atlassian.com/apps/2831389750/requira-requirements-traceability-for-jira

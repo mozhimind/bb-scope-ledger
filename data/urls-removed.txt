@@ -1,7 +1,2 @@
-https://app.datacamp.com/certification
-https://app.datacamp.com/groups
-https://app.datacamp.com/learn
-https://www.datacamp.com/datalab
-https://www.mintscan.io/noble/assets/native/YXVzZHk=
-https://www.personio.com/free-trial
-https://www.personio.de/kostenlos-testen
+https://random.uzleuven.be/random
+https://w1.uzleuven.be/random

@@ -93,8 +93,6 @@ https://github.com/bgd-labs/solidity-utils
 https://github.com/bgd-labs/stake-token
 https://github.com/binary-com
 https://github.com/bitrue/bitrue-official-api-docs
-https://github.com/brave
-https://github.com/brave-intl
 https://github.com/buildonspark/spark
 https://github.com/byteball/city-aa
 https://github.com/byteball/coop-aa

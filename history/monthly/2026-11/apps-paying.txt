@@ -1636,6 +1636,7 @@ https://marketplace.atlassian.com/apps/256/balsamiq-wireframes-for-confluence
 https://marketplace.atlassian.com/apps/2576221793/easy-markdown-exporter-for-confluence
 https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence
 https://marketplace.atlassian.com/apps/2785074762/cumulative-flow-diagrams-cfd-for-jira-agile-charts-gadgets
+https://marketplace.atlassian.com/apps/2831389750/requira-requirements-traceability-for-jira
 https://marketplace.atlassian.com/apps/2836020067/created-vs-resolved-charts-for-jira-agile-gadgets-reports
 https://marketplace.atlassian.com/apps/2903137599/sprintretro-pro-retrospective-metrics-suite
 https://marketplace.atlassian.com/apps/29496/jira-workflow-toolbox

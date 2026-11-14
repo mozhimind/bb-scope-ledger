@@ -1,3 +1,0 @@
-app.lansweeper.com
-edge.lansweeper.com
-https://www.lansweeper.com/download

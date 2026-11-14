@@ -21,7 +21,6 @@
 *.*cpqcorp.*
 *.*csmc.edu
 *.*dev*.arlo.com
-*.*dev.uzleuven.be
 *.*developer.cloud.com
 *.*elvetino.ch
 *.*ensemble*.yahoo.com
@@ -58,7 +57,6 @@
 *.*huntingtonhospital.org
 *.*huntingtonrx.com
 *.*huntingtonrx.net
-*.*idp*.uzleuven.be
 *.*inf.fndlsb.net
 *.*kerlanjobe.org
 *.*learn.semtech.com
@@ -85,7 +83,6 @@
 *.*silver-peak.com*
 *.*simplivity.*
 *.*spx-load.zebra.engineering
-*.*stag*.uzleuven.be
 *.*test*.bykea.net
 *.*theworknumber.com
 *.*transsicura.ch
@@ -172,7 +169,6 @@
 *.test*.redoxengine.com
 *.test.*.lfscnp.com
 *.trip.com
-*.uzleuven.*
 *.vcc-*.8x8.com
 *.www.aeromexico.com*
 *.www.amazon.*
@@ -211,7 +207,6 @@
 *csmc.edu
 *detroitconnect.com
 *dev*.arlo.com
-*dev.uzleuven.be
 *developer.cloud.com
 *directoasucuenta.gov
 *eaglecash.gov
@@ -290,7 +285,6 @@
 *huntingtonrx.com
 *huntingtonrx.net
 *iaf.gov
-*idp*.uzleuven.be
 *inf.fndlsb.net
 *ipac.gov
 *ipp.gov
@@ -356,7 +350,6 @@
 *simplivity.*
 *slgs.gov
 *spx-load.zebra.engineering
-*stag*.uzleuven.be
 *statefarm.com
 *taaps.gov
 *tax.gov
@@ -900,13 +893,6 @@
 193.30.37.0/24
 193.30.38.0/24
 193.5.66.0/23
-193.58.149.101
-193.58.149.107
-193.58.149.108
-193.58.149.111
-193.58.149.121
-193.58.149.82
-193.58.149.98
 193.8.251.0/24
 194.209.121.0/24
 194.35.0.0/21
@@ -5896,7 +5882,6 @@ autodiscover.trammellcrow.com
 autodiscover.ucr.com
 autodiscover.unimil.com.br
 autodiscover.uniongaming.com
-autodiscover.uzleuven.be
 autodiscover.voegele.info
 autodiscover.wirtgen-external.com
 autodiscover.wirtgen-group.com
@@ -6110,7 +6095,6 @@ azcopperfcu-dc.cert.fec-dc.fiservapps.com
 azcopperfcu-dn.financial-net.com
 azcpggpc.ca
 azdevperfsmt-qa.fiserv.io
-azdiest.be
 azgm.genix.abb.com
 azimo.com
 azkaban3.spaziodati.eu
@@ -8821,8 +8805,6 @@ cardservicenet-p.businesstrack.com
 cardservicenet.businesstrack.com
 cardservices.bank
 cardservices.fdecs.com
-cardsonline.azdiest.be
-cardsonlinetst.azdiest.be
 careanyware.com
 carecredit.com.au
 career.be
@@ -11776,8 +11758,6 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
-com.brave.browser
-com.brave.ios.browser
 com.britishairways.BAFlights
 com.bumble.app
 com.bumblebff.app
@@ -12659,8 +12639,6 @@ contact-dev.nba.com
 contact-qa.nba.com
 contact.bluerivertechnology.com
 contact.nba.com
-contactallergie.uzleuven.be
-contactallergy.uzleuven.be
 contacto.itau.co
 contactpoint.fiservapps.com
 contactpuntbouwproducten.nl
@@ -16947,7 +16925,6 @@ ecoupon.maf.ae
 ecpic.gov
 ecr.gov
 ecredential.com.au
-ecrf.uzleuven.be
 ecs-admin-dev.sentera.com
 ecs-staging.cbre.com
 ecs.cbre.com
@@ -18536,7 +18513,6 @@ extrafees-dev.cbre.fr
 extrafees-uat.cbre.fr
 extrafees.cbre.fr
 extragum.com
-extranet-asa.uzleuven.be
 extranet-dna-cert.fiservapps.com
 extranet-dna.fiservapps.com
 extranet-uat.fiservapp.com
@@ -18549,7 +18525,6 @@ extranet.gallileo-frankfurt.com
 extranet.hms.essity.co.za
 extranet.marionnaud.ch
 extranet.s-pankki.fi
-extranet.uzleuven.be
 extranetdev.fiservapps.com
 extraordinariesonthemic.com
 extraparts.deere.com
@@ -19191,7 +19166,6 @@ files.gallileo-frankfurt.com
 files.harvestprofit.com
 files.services.wirtgen-group.com
 files.stripe.com
-files.uzleuven.be
 files.wl-livedrive.com
 files001-web.ebankhost.net
 files001.ebankhost.net
@@ -24303,8 +24277,6 @@ https://github.com/bitwarden/clients
 https://github.com/bitwarden/ios
 https://github.com/bitwarden/sdk-internal
 https://github.com/bitwarden/server
-https://github.com/brave
-https://github.com/brave-intl
 https://github.com/buildonspark/spark
 https://github.com/bwillis/versioncake
 https://github.com/byteball/city-aa
@@ -25834,7 +25806,6 @@ https://marketplace.atlassian.com/apps/1233591/kantega-user-management-license-o
 https://marketplace.atlassian.com/apps/1233642/workflow-building-blocks-for-jira
 https://marketplace.atlassian.com/apps/1233681/smart-ai-release-notes-for-jira
 https://marketplace.atlassian.com/apps/1233769/content-retention-manager-for-confluence
-https://marketplace.atlassian.com/apps/1233908/connectors-for-jira-free
 https://marketplace.atlassian.com/apps/1233931/snyk-for-compass
 https://marketplace.atlassian.com/apps/1233942/pagerduty-for-compass
 https://marketplace.atlassian.com/apps/1233977/sentry-for-compass
@@ -25916,6 +25887,7 @@ https://marketplace.atlassian.com/apps/256/balsamiq-wireframes-for-confluence
 https://marketplace.atlassian.com/apps/2576221793/easy-markdown-exporter-for-confluence
 https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence
 https://marketplace.atlassian.com/apps/2785074762/cumulative-flow-diagrams-cfd-for-jira-agile-charts-gadgets
+https://marketplace.atlassian.com/apps/2831389750/requira-requirements-traceability-for-jira
 https://marketplace.atlassian.com/apps/2836020067/created-vs-resolved-charts-for-jira-agile-gadgets-reports
 https://marketplace.atlassian.com/apps/2903137599/sprintretro-pro-retrospective-metrics-suite
 https://marketplace.atlassian.com/apps/29496/jira-workflow-toolbox
@@ -26671,7 +26643,6 @@ https://quality.prod.nutella.com/it/it/xp/nutellatagliere2025
 https://quay.io/repository/sdmrepo/relay
 https://raffaello.com/ro/ro/xp/mai-presus-de-cuvinte
 https://raffaello.lv/loterija_tmp
-https://random.uzleuven.be/random
 https://razorpay.com/docs
 https://razorpay.com/docs/payments/dashboard/test-live-modes
 https://razorpay.com/docs/payments/payments/test-card-upi-details
@@ -26920,7 +26891,6 @@ https://vtmgo.be/inloggen
 https://vtmgo.be/login
 https://vtmgo.be/registreren
 https://vtmgo.be/service
-https://w1.uzleuven.be/random
 https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/status-lists
 https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/mdvm
 https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/pns
@@ -30576,7 +30546,6 @@ kuefcu-dc.cert.fec-dc.fiservapps.com
 kuefcu-dn.financial-net.com
 kuefcu.originate.fiservapps.com
 kuleuven.be
-kumulus.uzleuven.be
 kuna.io
 kungfupanda3-lefilm.fr
 kurt-prod.caci.com
@@ -30598,7 +30567,6 @@ kw.shopjustice.me
 kwaliteitsafsprakenmbo.nl
 kwiksetunite.com
 kws-companion/id1342124012
-kwsdose.be
 kyc-bounty.amlbot.com
 kyc-onboarding.booking.com
 kyc.a.exodus.io
@@ -31347,8 +31315,6 @@ lionsharecu.originate.fiservapps.com
 lipid.care
 liptonicedtea.com
 liquidfiles.nexuzhealth.com
-liquidfiles.uzleuven.be
-liquidfilestest.uzleuven.be
 liquiditycenter.com
 liquidpoint.com
 liquidweb.com
@@ -33981,7 +33947,6 @@ mijiayoupin.com
 mijn.gamma.be
 mijn.gamma.nl
 mijn.karwei.nl
-mijnacc.uzleuven.be
 mijnbouwvergunningen.nl
 mijncoronaprotocol.nl
 mijneindexamen.nl
@@ -34105,7 +34070,6 @@ mipay.com
 mipay.net
 miproximopaso.org
 miq.cbre.com
-mir.uzleuven.be
 mirabeau.com
 mirabeau.nl
 mirabilandia.orosaiwa.it
@@ -34113,7 +34077,6 @@ miracelwhip.de
 mirafunds.com
 mirastarfcu.architect-cert.fiservapps.com
 mirastarfcu.onlinebank.com
-mirc.uzleuven.be
 mirkmonitor.com
 miroyalcanin.cl
 miroyalcanin.com.ar
@@ -35135,10 +35098,8 @@ mx01.wirtgen-group.com
 mx02.wirtgen-group.com
 mx1.gallileo-frankfurt.com
 mx1.thorntontomasetti.com
-mx1.uzleuven.be
 mx2.gallileo-frankfurt.com
 mx2.thorntontomasetti.com
-mx2.uzleuven.be
 mxbpconfig.mendixcloud.com
 mxpeople.mendixcloud.com
 my-accpt.portofantwerp.com
@@ -39187,7 +39148,6 @@ pcosclinicaltrial.com
 pcosstudy.com
 pcostrial.com
 pcpostage.uspspostalone.com
-pcrstudioruzb.uzleuven.be
 pcsbanking.net
 pcsbbank.olbanking.com
 pctfcu-admin.originate.fiservapps.com
@@ -39850,7 +39810,6 @@ playstation.net
 playtech.com
 playticorp.com
 playtika.com
-playuzleuven.be
 playwonderbox.com
 playwonderbox.com.br
 playwsop.com
@@ -40452,8 +40411,6 @@ prd.platform.simplisafe.com
 prd.services.simplisafe.com
 prd.webapps.simplisafe.com
 prdcbre-spain.cbre.eu
-prddnighting01.uzleuven.be
-prddsplunkhf.uzleuven.be
 prdfwclep01.mainstreamsasp.com
 pre-gbtspain.com
 pre-notes.dealiq.cbre.com
@@ -42111,7 +42068,6 @@ ramu8.omnipaytest.com
 ramu9.omnipaytest.com
 rancher.cbreesi.com
 rancher.electrificationtools.abb.com
-random.uzleuven.be
 randstad380kv-noordring.nl
 randstad380kv-zuidring.nl
 randypeerson.com
@@ -46930,7 +46886,6 @@ sts.delen.be
 sts.eeoc.gov
 sts.nebius.com
 sts.thorntontomasetti.us
-sts.uzleuven.be
 stthomascreditunion-admin.originate.fiservapps.com
 stthomascreditunion.originate.fiservapps.com
 stthomascu-admin.originate.fiservapps.com
@@ -48257,7 +48212,6 @@ testprovide.com
 testprovider.revaluemycard.com
 testsecure.todaysebiz.com
 testsgts.firstdata.com
-teststs.uzleuven.be
 testtest.cbre.com
 testtest3.cbre.com
 testuitvoeringarbeidsvoorwaardenwetgeving.nl
@@ -51056,7 +51010,6 @@ uxcam.com
 uy.jbl.com
 uy.oreobts.com
 uziregister.nl
-uzleuven.be
 v.gallileo-frankfurt.com
 v.utv.usaa.com
 v0.app
@@ -52102,7 +52055,6 @@ vymada.ca
 vyond.com
 vystarcu.org
 vznkul.be
-w1.uzleuven.be
 w2case.com
 waardenennormendebat.nl
 waarderingskamer.nl
@@ -53430,7 +53382,6 @@ woz.cbreinvestors.com
 wozep.nl
 wp.cloud
 wp.gallileo-frankfurt.com
-wp5-truststroke.uzleuven.be
 wpdcu-dc.cert.fec-dc.fiservapps.com
 wpdcu-dn.financial-net.com
 wpengine.com
@@ -56633,7 +56584,6 @@ www.usmrae02.cbre.com
 www.usps.com
 www.usps.gov
 www.utility.gac.toyota.com
-www.uzleuven.be
 www.valmo.in
 www.valuedinsights.cbre.co.uk
 www.valuereport.ai.sunrun.com
@@ -57604,7 +57554,6 @@ zhuanlidashi.com.cn
 zhuanlidashi.net
 zibs.nl
 zichtopiederkind.nl
-ziekenhuisschool.be
 ziffdavis.com
 zijnjullieeraluit.nl
 zikoni.com

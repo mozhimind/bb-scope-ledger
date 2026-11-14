@@ -1,7 +1,5 @@
-app.personio-dev.com
-app.personio.com
-datacamp.com
-personio-internal.de
-personio.de
-personio.tools
-personiowhistleblowing.com
+contactallergie.uzleuven.be
+contactallergy.uzleuven.be
+kwsdose.be
+mir.uzleuven.be
+playuzleuven.be

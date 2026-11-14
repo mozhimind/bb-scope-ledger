@@ -104,7 +104,6 @@
 *.connectingsenses.com	non-paying	Citymesh Responsible Vulnerability Disclosure Program	https://www.intigriti.com/programs/citymesh/responsiblevulnerabilitydisclosureprogram/detail
 *.connectow.be	non-paying	Citymesh Responsible Vulnerability Disclosure Program	https://www.intigriti.com/programs/citymesh/responsiblevulnerabilitydisclosureprogram/detail
 *.connectow.eu	non-paying	Citymesh Responsible Vulnerability Disclosure Program	https://www.intigriti.com/programs/citymesh/responsiblevulnerabilitydisclosureprogram/detail
-*.contactallerg(y|ie).uzleuven.be	non-paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 *.cpa.iqoption.com	out-of-scope	QC VDP	https://www.intigriti.com/programs/quadcode/qcvdp/detail
 *.crewconnect.coca-cola.com	out-of-scope	The Coca-Cola Company Vulnerability Disclosure Program	https://www.intigriti.com/programs/tccc/coca-cola/detail
 *.ctmsh.co	non-paying	Citymesh Responsible Vulnerability Disclosure Program	https://www.intigriti.com/programs/citymesh/responsiblevulnerabilitydisclosureprogram/detail
@@ -244,7 +243,6 @@
 *.kruidvat.be	paying	Kruidvat	https://www.intigriti.com/programs/aswatson/kruidvat/detail
 *.kruidvat.nl	paying	Kruidvat	https://www.intigriti.com/programs/aswatson/kruidvat/detail
 *.kruidvatkids.nl	paying	Kruidvat	https://www.intigriti.com/programs/aswatson/kruidvat/detail
-*.kwsdose.be	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 *.landmarkcinemas.com	paying	Kinepolis Group	https://www.intigriti.com/programs/kinepolis/website/detail
 *.landmarkglobal-group.com	non-paying	Bpost	https://www.intigriti.com/programs/bpost/dummy/detail
 *.lansweeper.com	non-paying	Lansweeper Bug Bounty Program	https://www.intigriti.com/programs/lansweeper/lansweeper1/detail
@@ -271,7 +269,6 @@
 *.metropolder.com	non-paying	Orbia Responsible Disclosure	https://www.intigriti.com/programs/orbia/orbiavdp/detail
 *.mexichem.com	non-paying	Orbia Responsible Disclosure	https://www.intigriti.com/programs/orbia/orbiavdp/detail
 *.mijnwater-link.be	paying	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
-*.mir.uzleuven.be	non-paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 *.mjrtheatres.com	paying	Kinepolis Group	https://www.intigriti.com/programs/kinepolis/website/detail
 *.mobilevikings.be	paying	Mobile Vikings	https://www.intigriti.com/programs/mv/mobilevikings/detail
 *.moneyback.com.hk	paying	Watsons	https://www.intigriti.com/programs/aswatson/watsons/detail
@@ -317,7 +314,6 @@
 *.phrasingpro3.com	non-paying	Toast VDP	https://www.intigriti.com/programs/toast/toastvdp/detail
 *.pk-buhler.ch	non-paying	Bühler Group VDP	https://www.intigriti.com/programs/buhlergroup/buhlergroupvdp/detail
 *.plastigama.com	non-paying	Orbia Responsible Disclosure	https://www.intigriti.com/programs/orbia/orbiavdp/detail
-*.playuzleuven.be	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 *.pns.hk	paying	Watsons	https://www.intigriti.com/programs/aswatson/watsons/detail
 *.polderroof.com	non-paying	Orbia Responsible Disclosure	https://www.intigriti.com/programs/orbia/orbiavdp/detail
 *.poly-control.com	non-paying	Salto Vulnerability Disclosure	https://www.intigriti.com/programs/saltosystems/saltovulnerabilitydisclosure/detail
@@ -467,7 +463,6 @@
 *.unispital.ch	non-paying	Universitätsspital Zürich VDP	https://www.intigriti.com/programs/universitatsspitalzurich/usz-vdp/detail
 *.usgprofessionals.be	out-of-scope	RGF BE - VDP	https://www.intigriti.com/programs/rgfstaffing/rgfbe-vdp/detail
 *.usz.ch	non-paying	Universitätsspital Zürich VDP	https://www.intigriti.com/programs/universitatsspitalzurich/usz-vdp/detail
-*.uzleuven.*	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 *.vectus.in	out-of-scope	Orbia Responsible Disclosure	https://www.intigriti.com/programs/orbia/orbiavdp/detail
 *.veriff.com	paying	Veriff Bug Bounty	https://www.intigriti.com/programs/veriff/veriffbugbounty/detail
 *.vestolit.com	non-paying	Orbia Responsible Disclosure	https://www.intigriti.com/programs/orbia/orbiavdp/detail
@@ -527,16 +522,13 @@
 */p2p/*	out-of-scope	Monzo Public Bug Bounty Program	https://www.intigriti.com/programs/monzobank/monzopublicbugbountyprogram/detail
 *affiliates.backend-capital.com	out-of-scope	Capital.com	https://www.intigriti.com/programs/capitalcom/capitalcom/detail
 *aso.ripe.net	out-of-scope	RIPE NCC	https://www.intigriti.com/programs/ripencc/ripencc/detail
-*dev.uzleuven.be	non-paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 *eduapp.backend-capital.com	out-of-scope	Capital.com	https://www.intigriti.com/programs/capitalcom/capitalcom/detail
 *education.backend-capital.com	out-of-scope	Capital.com	https://www.intigriti.com/programs/capitalcom/capitalcom/detail
 *elvetino.ch	paying	SBB - Swiss Federal Railways	https://www.intigriti.com/programs/sbb/sbbglobal/detail
 *ensemble*.yahoo.com	paying	Yahoo Bug Bounty	https://www.intigriti.com/programs/yahoo/yahoobugbounty/detail
-*idp*.uzleuven.be	non-paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 *nro.ripe.net	out-of-scope	RIPE NCC	https://www.intigriti.com/programs/ripencc/ripencc/detail
 *omega*.yahoo.com	paying	Yahoo Bug Bounty	https://www.intigriti.com/programs/yahoo/yahoobugbounty/detail
 *sbbcargo.com	paying	SBB - Swiss Federal Railways	https://www.intigriti.com/programs/sbb/sbbglobal/detail
-*stag*.uzleuven.be	non-paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 *transsicura.ch	paying	SBB - Swiss Federal Railways	https://www.intigriti.com/programs/sbb/sbbglobal/detail
 *werkenbij.intergamma.nl	paying	Intergamma	https://www.intigriti.com/programs/intergamma/intergamma/detail
 1126623662	out-of-scope	Dropbox Bug Bounty	https://www.intigriti.com/programs/dropbox/dropbox/detail
@@ -552,7 +544,6 @@
 193.30.36.0/24	non-paying	ADAC Vulnerability Disclosure Program	https://www.intigriti.com/programs/adac/adacvulnerabilitydisclosureprogram/detail
 193.30.37.0/24	non-paying	ADAC Vulnerability Disclosure Program	https://www.intigriti.com/programs/adac/adacvulnerabilitydisclosureprogram/detail
 193.30.38.0/24	non-paying	ADAC Vulnerability Disclosure Program	https://www.intigriti.com/programs/adac/adacvulnerabilitydisclosureprogram/detail
-193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 194.9.120.0 - 194.9.123.255	non-paying	Bühler Group VDP	https://www.intigriti.com/programs/buhlergroup/buhlergroupvdp/detail
 195.94.213.80 - 195.94.213.95	out-of-scope	Zabka Group Vulnerability Disclosure Program	https://www.intigriti.com/programs/zabkapolska/zabkagroup-vdp/detail
 2001:67c:2e8:3::/64	out-of-scope	RIPE NCC	https://www.intigriti.com/programs/ripencc/ripencc/detail
@@ -653,6 +644,7 @@ Dropbox Passwords	out-of-scope	Dropbox Bug Bounty	https://www.intigriti.com/prog
 Dropbox.com	paying	Dropbox Bug Bounty	https://www.intigriti.com/programs/dropbox/dropbox/detail
 Elvenar	paying	InnoGames	https://www.intigriti.com/programs/innogames/innogames/detail
 Everything related to configurators, both on primary as other domains	out-of-scope	Intergamma	https://www.intigriti.com/programs/intergamma/intergamma/detail
+FPGA Solution Development Tools and Utilities	non-paying	Altera	https://www.intigriti.com/programs/altera/altera/detail
 Fing desktop	paying	Fing Bug Bounty Program	https://www.intigriti.com/programs/lansweeper/fing/detail
 Firmware	non-paying	Intel® Vulnerability Disclosure Program	https://www.intigriti.com/programs/intel/intelvulnerabilitydisclosureprogram/detail
 Firmware: Mali Command Stream Frontend (CSF) Firmware	paying	Arm	https://www.intigriti.com/programs/arm/arm/detail
@@ -690,6 +682,7 @@ NVCC	paying	NVIDIA Public Bug Bounty	https://www.intigriti.com/programs/nvidia/n
 NVIDIA Nsight Developer Tools	paying	NVIDIA Public Bug Bounty	https://www.intigriti.com/programs/nvidia/nvidiapublicbugbounty/detail
 NVRTC library	paying	NVIDIA Public Bug Bounty	https://www.intigriti.com/programs/nvidia/nvidiapublicbugbounty/detail
 NitroPack Plugins	non-paying	WP Engine VDP	https://www.intigriti.com/programs/wpengine/wpengine/detail
+Non Altera Products	non-paying	Altera	https://www.intigriti.com/programs/altera/altera/detail
 Non-Core Grafana Plugins	non-paying	Grafana Labs - Vulnerability Disclosure Program (VDP)	https://www.intigriti.com/programs/grafanalabs/grafanalabsvdp/detail
 Nsight Systems	paying	NVIDIA Public Bug Bounty	https://www.intigriti.com/programs/nvidia/nvidiapublicbugbounty/detail
 Official Oura Ring Accessories	non-paying	OURA Vulnerability Disclosure Program	https://www.intigriti.com/programs/ourahealthoy/ouravulnerabilitydisclosureprogram/detail
@@ -712,6 +705,7 @@ SimScale Platform	paying	SimScale	https://www.intigriti.com/programs/simscale/si
 SimScale Website	non-paying	SimScale	https://www.intigriti.com/programs/simscale/simscale/detail
 Social Media Accounts	paying	Yahoo Bug Bounty	https://www.intigriti.com/programs/yahoo/yahoobugbounty/detail
 Sockets	paying	VRT	https://www.intigriti.com/programs/vrtnv/vrtnv/detail
+Software	non-paying	Altera	https://www.intigriti.com/programs/altera/altera/detail
 Software	non-paying	Intel® Vulnerability Disclosure Program	https://www.intigriti.com/programs/intel/intelvulnerabilitydisclosureprogram/detail
 Software: Mali GPU Kernel Driver	paying	Arm	https://www.intigriti.com/programs/arm/arm/detail
 TW Media: Front Page	paying	Yahoo Bug Bounty	https://www.intigriti.com/programs/yahoo/yahoobugbounty/detail
@@ -1022,7 +1016,6 @@ auth.digital.delen.be	paying	Delen Private Bank	https://www.intigriti.com/progra
 auth.digital.delen.lu	paying	Delen Private Bank	https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail
 autodiscover.innogames.de	out-of-scope	InnoGames	https://www.intigriti.com/programs/innogames/innogames/detail
 autodiscover.intigriti.com	out-of-scope	intigriti	https://www.intigriti.com/programs/intigriti/intigriti/detail
-autodiscover.uzleuven.be	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 autoupdateapi.lansweeper.com	paying	Lansweeper Bug Bounty Program	https://www.intigriti.com/programs/lansweeper/lansweeper1/detail
 avamposto42.esa.int	non-paying	European Space Agency (ESA) VDP	https://www.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail
 award.cybersecuritycoalition.be	non-paying	Cyber Security Coalition	https://www.intigriti.com/programs/cybersecuritycoalition/cybersecuritycoalition/detail
@@ -1041,8 +1034,6 @@ blog.watsons.com.tr	paying	Watsons	https://www.intigriti.com/programs/aswatson/w
 blogdechollos.es	non-paying	Atolls Vulnerability Disclosure Program (VDP)	https://www.intigriti.com/programs/atolls/atollsvdp/detail
 blogs.esa.int	non-paying	European Space Agency (ESA) VDP	https://www.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail
 bluedocs.esa.int	non-paying	European Space Agency (ESA) VDP	https://www.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail
-boekentoy.firebaseio.com	out-of-scope	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
-boekentoy.uzleuven.be	out-of-scope	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 bookdiscoveresalive-acc.esa.int	non-paying	European Space Agency (ESA) VDP	https://www.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail
 bookdiscoveresalive.esa.int	non-paying	European Space Agency (ESA) VDP	https://www.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail
 booking.mjrtheatres.com	paying	Kinepolis Group	https://www.intigriti.com/programs/kinepolis/website/detail
@@ -1080,8 +1071,6 @@ campaign.watsons.com.tr	paying	Watsons	https://www.intigriti.com/programs/aswats
 campaigns.theperfumeshop.com	paying	The Perfume Shop	https://www.intigriti.com/programs/aswatson/theperfumeshop/detail
 cancellation.prod.ps.welt.de	paying	Axel Springer National Media & Tech	https://www.intigriti.com/programs/axelspringerse/nmt/detail
 capital.com/*	paying	Capital.com	https://www.intigriti.com/programs/capitalcom/capitalcom/detail
-cardsonline.azdiest.be	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
-cardsonlinetst.azdiest.be	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 career.bpost.be	non-paying	Bpost	https://www.intigriti.com/programs/bpost/dummy/detail
 careers.capital.com	non-paying	Capital.com	https://www.intigriti.com/programs/capitalcom/capitalcom/detail
 careers.esa.int	non-paying	European Space Agency (ESA) VDP	https://www.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail
@@ -1211,7 +1200,6 @@ ecom-data.theperfumeshop.com	paying	The Perfume Shop	https://www.intigriti.com/p
 ecom-data.trekpleister.nl	paying	Kruidvat	https://www.intigriti.com/programs/aswatson/kruidvat/detail
 ecom-static.kruidvat.be	paying	Kruidvat	https://www.intigriti.com/programs/aswatson/kruidvat/detail
 ecom-static.kruidvat.nl	paying	Kruidvat	https://www.intigriti.com/programs/aswatson/kruidvat/detail
-ecrf.uzleuven.be	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 edge.lansweeper.com	paying	Lansweeper Bug Bounty Program	https://www.intigriti.com/programs/lansweeper/lansweeper1/detail
 edition.iciparisxl.nl	paying	ICI PARIS XL	https://www.intigriti.com/programs/aswatson/iciparisxl/detail
 editorial.one	paying	Axel Springer National Media & Tech	https://www.intigriti.com/programs/axelspringerse/nmt/detail
@@ -1236,9 +1224,7 @@ estracknow.esa.int	non-paying	European Space Agency (ESA) VDP	https://www.intigr
 event-gateway.qplanning.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
 events.digitalocean.com	out-of-scope	DigitalOcean	https://www.intigriti.com/programs/digitalocean/digitalocean/detail
 exchange.innogames.de	out-of-scope	InnoGames	https://www.intigriti.com/programs/innogames/innogames/detail
-extranet-asa.uzleuven.be	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 extranet.marionnaud.ch	paying	Marionnaud	https://www.intigriti.com/programs/aswatson/marionnaud/detail
-extranet.uzleuven.be	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 extras-acc.landmarkcinemas.com	paying	Kinepolis Group	https://www.intigriti.com/programs/kinepolis/website/detail
 extras.landmarkcinemas.com	paying	Kinepolis Group	https://www.intigriti.com/programs/kinepolis/website/detail
 f29baf0e-81df-4090-a5a5-f33cb9566b0d.storebrand.no	out-of-scope	Storebrand Responsible Disclosure	https://www.intigriti.com/programs/spp-storebrand/storebrand-rd/detail
@@ -1247,7 +1233,6 @@ fe-maprics.tools.svc.cluster.local	non-paying	Mateco VDP	https://www.intigriti.c
 feedback.rivian.com	out-of-scope	Rivian Bug Bounty	https://www.intigriti.com/programs/rivian/rivianbugbounty/detail
 feedback.rivian.com	out-of-scope	Rivian Vulnerability Disclosure Program	https://www.intigriti.com/programs/rivian/rivianvdp/detail
 feedback.water-link.be	out-of-scope	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
-files.uzleuven.be	non-paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 financereports.esa.int	non-paying	European Space Agency (ESA) VDP	https://www.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail
 folder.iciparisxl.nl	paying	ICI PARIS XL	https://www.intigriti.com/programs/aswatson/iciparisxl/detail
 folder.kruidvat.be	paying	Kruidvat	https://www.intigriti.com/programs/aswatson/kruidvat/detail
@@ -1563,7 +1548,6 @@ jimmobile.be	paying	Mobile Vikings	https://www.intigriti.com/programs/mv/mobilev
 jobs.kinepolis.com	out-of-scope	Kinepolis Group	https://www.intigriti.com/programs/kinepolis/website/detail
 jobs.portofantwerp.com	out-of-scope	Port of Antwerp-Bruges	https://www.intigriti.com/programs/portofantwerp/portofantwerp/detail
 jobs.portofantwerpbruges.com	out-of-scope	Port of Antwerp-Bruges	https://www.intigriti.com/programs/portofantwerp/portofantwerp/detail
-jobs.uzleuven.be	out-of-scope	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 jobs.water-link.be	out-of-scope	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
 karwei-2018.hetmooistegordijn.nl	out-of-scope	Intergamma	https://www.intigriti.com/programs/intergamma/intergamma/detail
 karwei-promotiepunt.nl	non-paying	Intergamma	https://www.intigriti.com/programs/intergamma/intergamma/detail
@@ -1577,11 +1561,9 @@ kinepolis.megatix.be	paying	Kinepolis Group	https://www.intigriti.com/programs/k
 konfigurator.bmw-motorrad.de	paying	BMW Group	https://www.intigriti.com/programs/bmw/bmwgroup/detail
 kortingscode.nl	non-paying	Atolls Vulnerability Disclosure Program (VDP)	https://www.intigriti.com/programs/atolls/atollsvdp/detail
 kroki.devops.buhlergroup.com	out-of-scope	Bühler Group VDP	https://www.intigriti.com/programs/buhlergroup/buhlergroupvdp/detail
-kumulus.uzleuven.be	non-paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 kvadrat.no	out-of-scope	Storebrand Responsible Disclosure	https://www.intigriti.com/programs/spp-storebrand/storebrand-rd/detail
 l.kinepolis.com	out-of-scope	Kinepolis Group	https://www.intigriti.com/programs/kinepolis/website/detail
 labelq.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
-laboboeken.uzleuven.be	out-of-scope	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 learn.liferay.com	non-paying	Liferay VDP	https://www.intigriti.com/programs/liferay/liferay-vdp/detail
 libNVVM API	paying	NVIDIA Public Bug Bounty	https://www.intigriti.com/programs/nvidia/nvidiapublicbugbounty/detail
 libelle.nl/inloggen	out-of-scope	Libelle	https://www.intigriti.com/programs/dpgm/libelle/detail
@@ -1593,8 +1575,6 @@ lightsparkdev/lightspark-crypto-uniffi	non-paying	Lightspark Public Bug Bounty	h
 lightsparkdev/swift-wallet-sdk	non-paying	Lightspark Public Bug Bounty	https://www.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail
 limonsoda.cl	out-of-scope	The Coca-Cola Company Vulnerability Disclosure Program	https://www.intigriti.com/programs/tccc/coca-cola/detail
 liquidfiles.nexuzhealth.com	paying	Nexuzhealth	https://www.intigriti.com/programs/nexuzhealth/nexuzhealth/detail
-liquidfiles.uzleuven.be	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
-liquidfilestest.uzleuven.be	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 lirportal.ripe.net	paying	RIPE NCC	https://www.intigriti.com/programs/ripencc/ripencc/detail
 login-accpt.portofantwerpbruges.com	paying	Port of Antwerp-Bruges	https://www.intigriti.com/programs/portofantwerp/portofantwerp/detail
 login-test.portofantwerpbruges.com/	paying	Port of Antwerp-Bruges	https://www.intigriti.com/programs/portofantwerp/portofantwerp/detail
@@ -1681,8 +1661,6 @@ mgm.mobilevikings.be	paying	Mobile Vikings	https://www.intigriti.com/programs/mv
 mijn.gamma.be/*	paying	Intergamma	https://www.intigriti.com/programs/intergamma/intergamma/detail
 mijn.gamma.nl/*	paying	Intergamma	https://www.intigriti.com/programs/intergamma/intergamma/detail
 mijn.karwei.nl/*	paying	Intergamma	https://www.intigriti.com/programs/intergamma/intergamma/detail
-mijnacc.uzleuven.be	non-paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
-mirc.uzleuven.be	non-paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 mirrors.digitalocean.com	out-of-scope	DigitalOcean	https://www.intigriti.com/programs/digitalocean/digitalocean/detail
 mobilevikings.be	paying	Mobile Vikings	https://www.intigriti.com/programs/mv/mobilevikings/detail
 model-version-management.masq.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
@@ -1693,8 +1671,6 @@ movieapi.kinepolis.megatix.be	paying	Kinepolis Group	https://www.intigriti.com/p
 ms-calculator.rental-pricing.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
 ms-drive.qplanning.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
 multimedia-delivery.esa.int	non-paying	European Space Agency (ESA) VDP	https://www.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail
-mx1.uzleuven.be	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
-mx2.uzleuven.be	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 my-accpt.portofantwerp.com	paying	Port of Antwerp-Bruges	https://www.intigriti.com/programs/portofantwerp/portofantwerp/detail
 my-accpt.portofantwerpbruges.com	paying	Port of Antwerp-Bruges	https://www.intigriti.com/programs/portofantwerp/portofantwerp/detail
 my.bpost.be	non-paying	Bpost	https://www.intigriti.com/programs/bpost/dummy/detail
@@ -1757,7 +1733,6 @@ parool.nl/service	out-of-scope	Het Parool	https://www.intigriti.com/programs/dpg
 part-management.service.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
 partnerselfservice.posti.fi	paying	Posti Bug Bounty	https://www.intigriti.com/programs/posti/postibugbounty/detail
 payment.backend-capital.com	paying	Capital.com	https://www.intigriti.com/programs/capitalcom/capitalcom/detail
-pcrstudioruzb.uzleuven.be	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 pepper.com	non-paying	Atolls Vulnerability Disclosure Program (VDP)	https://www.intigriti.com/programs/atolls/atollsvdp/detail
 pepper.it	non-paying	Atolls Vulnerability Disclosure Program (VDP)	https://www.intigriti.com/programs/atolls/atollsvdp/detail
 pepper.pl	non-paying	Atolls Vulnerability Disclosure Program (VDP)	https://www.intigriti.com/programs/atolls/atollsvdp/detail
@@ -1785,8 +1760,6 @@ posthog.intigriti.com	out-of-scope	intigriti	https://www.intigriti.com/programs/
 posti.com	paying	Posti Bug Bounty	https://www.intigriti.com/programs/posti/postibugbounty/detail
 postikuori.posti.fi	paying	Posti Bug Bounty	https://www.intigriti.com/programs/posti/postibugbounty/detail
 powerbi-streamer.masq.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
-prddnighting01.uzleuven.be	non-paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
-prddsplunkhf.uzleuven.be	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 preisjaeger.at	non-paying	Atolls Vulnerability Disclosure Program (VDP)	https://www.intigriti.com/programs/atolls/atollsvdp/detail
 pro.nexuzhealth.hn	out-of-scope	Nexuzhealth	https://www.intigriti.com/programs/nexuzhealth/nexuzhealth/detail
 procuration.bpost.be	non-paying	Bpost	https://www.intigriti.com/programs/bpost/dummy/detail
@@ -1809,7 +1782,6 @@ quickstamp-gb.bpost.be	non-paying	Bpost	https://www.intigriti.com/programs/bpost
 qusersettings.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
 quva.com	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
 radins.com	non-paying	Atolls Vulnerability Disclosure Program (VDP)	https://www.intigriti.com/programs/atolls/atollsvdp/detail
-random.uzleuven.be/random/	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 rebel.houseofhr.com	out-of-scope	House of HR Vulnerability Disclosure Program	https://www.intigriti.com/programs/houseofhr/houseofhrvulnerabilitydisclosureprogram/detail
 register-accpt.portofantwerp.com	paying	Port of Antwerp-Bruges	https://www.intigriti.com/programs/portofantwerp/portofantwerp/detail
 register-accpt.portofantwerpbruges.com	paying	Port of Antwerp-Bruges	https://www.intigriti.com/programs/portofantwerp/portofantwerp/detail
@@ -1897,7 +1869,6 @@ stories.rivian.com	out-of-scope	Rivian Bug Bounty	https://www.intigriti.com/prog
 stories.rivian.com	out-of-scope	Rivian Vulnerability Disclosure Program	https://www.intigriti.com/programs/rivian/rivianvdp/detail
 storingvideo-t.water-link.be	out-of-scope	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
 sts.delen.be	paying	Delen Private Bank	https://www.intigriti.com/programs/delenprivatebank/privatebankdelen/detail
-sts.uzleuven.be	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 studiopress.blog	non-paying	WP Engine VDP	https://www.intigriti.com/programs/wpengine/wpengine/detail
 suppliers-ivalua.ubisoft.com	out-of-scope	Ubisoft Responsible Disclosure Program	https://www.intigriti.com/programs/ubisoft/ubisoftvdp/detail
 support.liferay.com	non-paying	Liferay VDP	https://www.intigriti.com/programs/liferay/liferay-vdp/detail
@@ -1907,7 +1878,6 @@ swish-playground.zimpler.com	non-paying	TrueLayer VDP	https://www.intigriti.com/
 tables.dsa.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
 technik.autobild.de	paying	Axel Springer National Media & Tech	https://www.intigriti.com/programs/axelspringerse/nmt/detail
 technik.beta.autobild.de	paying	Axel Springer National Media & Tech	https://www.intigriti.com/programs/axelspringerse/nmt/detail
-teststs.uzleuven.be	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 texis.itcapital.io	out-of-scope	Capital.com	https://www.intigriti.com/programs/capitalcom/capitalcom/detail
 tickets.kinepolis.be	paying	Kinepolis Group	https://www.intigriti.com/programs/kinepolis/website/detail
 tickets.kinepolis.ch	paying	Kinepolis Group	https://www.intigriti.com/programs/kinepolis/website/detail
@@ -1941,12 +1911,8 @@ usermgmt.rental-pricing.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigri
 userprofile-acc.landmarkcinemas.com	paying	Kinepolis Group	https://www.intigriti.com/programs/kinepolis/website/detail
 userprofile-ui.landmarkcinemas.com	paying	Kinepolis Group	https://www.intigriti.com/programs/kinepolis/website/detail
 uwa.mobilevikings.be	paying	Mobile Vikings	https://www.intigriti.com/programs/mv/mobilevikings/detail
-uz-laboboeken.firebaseio.com	out-of-scope	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
-uz-laboboeken.web.app	out-of-scope	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
-uzleuven.atlassian.net	out-of-scope	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 v1.qrent.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
 v2.qrent.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
-vacatures.uzleuven.be	out-of-scope	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 validationlist.bpost.be	non-paying	Bpost	https://www.intigriti.com/programs/bpost/dummy/detail
 viavika.no	out-of-scope	Storebrand Responsible Disclosure	https://www.intigriti.com/programs/spp-storebrand/storebrand-rd/detail
 videogp-api.superdrug.com	paying	Superdrug	https://www.intigriti.com/programs/aswatson/superdrug/detail
@@ -1968,8 +1934,6 @@ vtmgo.be/inloggen	out-of-scope	VTM GO	https://www.intigriti.com/programs/dpgm/vt
 vtmgo.be/login	out-of-scope	VTM GO	https://www.intigriti.com/programs/dpgm/vtmgo/detail
 vtmgo.be/registreren	out-of-scope	VTM GO	https://www.intigriti.com/programs/dpgm/vtmgo/detail
 vtmgo.be/service	out-of-scope	VTM GO	https://www.intigriti.com/programs/dpgm/vtmgo/detail
-w1.uzleuven.be	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
-w1.uzleuven.be/random	non-paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 wallet.venly.io	paying	Venly	https://www.intigriti.com/programs/arkane/arkanenetwork/detail
 wasapi.watsons.com.tr	paying	Watsons	https://www.intigriti.com/programs/aswatson/watsons/detail
 watch-acc.esa.int	non-paying	European Space Agency (ESA) VDP	https://www.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail
@@ -2006,7 +1970,6 @@ wl_acc.water-link.be	out-of-scope	Water-Link	https://www.intigriti.com/programs/
 wl_dev.water-link.be	out-of-scope	Water-Link	https://www.intigriti.com/programs/waterlink/water-link/detail
 workorder.service.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
 workplace.randstad.in	out-of-scope	Randstad	https://www.intigriti.com/programs/randstad/randstad/detail
-wp5-truststroke.uzleuven.be	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 wpengine.com	non-paying	WP Engine VDP	https://www.intigriti.com/programs/wpengine/wpengine/detail
 wss://ws.bitvavo.com/v2 *	non-paying	Bitvavo VDP	https://www.intigriti.com/programs/bitvavo/bitvavovdp/detail
 www-a.fluvius.be	non-paying	Fluvius	https://www.intigriti.com/programs/fluvius/fluvius/detail
@@ -2142,7 +2105,6 @@ www.trouw.nl/abonnementen	paying	Trouw	https://www.intigriti.com/programs/dpgm/t
 www.tvh-used-equipment.com	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
 www.used-equipment-portal.com	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
 www.usedequipmentportal.com	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
-www.uzleuven.be	paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 www.veriff.com	paying	Veriff Bug Bounty	https://www.intigriti.com/programs/veriff/veriffbugbounty/detail
 www.volkskrant.nl	paying	De Volkskrant	https://www.intigriti.com/programs/dpgm/devolkskrant/detail
 www.volkskrant.nl/abonnementen	paying	De Volkskrant	https://www.intigriti.com/programs/dpgm/devolkskrant/detail
@@ -2175,6 +2137,5 @@ yimg.com	paying	Yahoo Bug Bounty	https://www.intigriti.com/programs/yahoo/yahoob
 yritysmuutto.posti.fi	paying	Posti Bug Bounty	https://www.intigriti.com/programs/posti/postibugbounty/detail
 zabka-snrs.zabka.pl	out-of-scope	Zabka Group Vulnerability Disclosure Program	https://www.intigriti.com/programs/zabkapolska/zabkagroup-vdp/detail
 zenith-storybook.qone.mateco.eu	non-paying	Mateco VDP	https://www.intigriti.com/programs/mateco/matecovdp/detail
-ziekenhuisschool.be	non-paying	UZ Leuven	https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail
 zimpler-merchant.zimpler.com	non-paying	TrueLayer VDP	https://www.intigriti.com/programs/truelayer/truelayervdp/detail
 Żabka Nano stores	out-of-scope	Zabka Group Vulnerability Disclosure Program	https://www.intigriti.com/programs/zabkapolska/zabkagroup-vdp/detail
